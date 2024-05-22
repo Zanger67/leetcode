@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/count-pairs-in-two-arrays/?envType=weekly-question&envId=2024-05-01
+# https://leetcode.com/problems/count-pairs-in-two-arrays/
 
 class Solution:
     ''' Idea:
