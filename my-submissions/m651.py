@@ -1,0 +1,37 @@
+# https://leetcode.com/problems/4-keys-keyboard/description/
+
+
+
+''' Planning
+    Takes 2 wasted moves to start "pasting" CtrlA-CtrlC-CtrlV
+
+    n   output  reasoning
+    1   1       A
+    2   2       A A
+    3   3       A A A
+    4   4       A A A A
+    5   5       A A A A A
+    6   6       A A A A A A  OR A A CtrlA CtrlC CtrlV-2 CtrlV-2 --> f(n-4) * 3 vs f(n-1) + previousAdder
+    7   9       A A A CtrlA CtrlC CtrlV-3 CtrlV-3  --> f(n-4) * 3
+    8       
+    9   
+    10  
+'''
+
+class Solution:
+    def maxA(self, n: int) -> int:
+        arr = [1, 2, 3, 4]
+        arr_pair = [1] * 4
+
+        while len(arr) < n :
+            newVal = max(arr[len(arr) - 1] + arr_pair[len(arr) - 1],
+                         3 * arr[len(arr) - 4])
+
+            if newVal == 3 * arr[len(arr) - 4] :
+                arr_pair.append(arr[len(arr) - 4])
+            else :
+                arr_pair.append(arr_pair[len(arr) - 1])
+
+            arr.append(newVal)
+
+        return arr[n - 1]
