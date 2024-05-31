@@ -1,0 +1,61 @@
+# https://leetcode.com/problems/single-number-iii/?envType=daily-question&envId=2024-05-31
+
+''' NOTE TO self
+    mask = xor & -xor
+    due to 2's complement characteristics
+'''
+
+''' Thought process
+    Since we're finding the cases where they only appear once,
+    XORing the whole thing would work IF it was just 1 value but
+    we have two hmm
+
+    The XOR of all the values except those two should be ZERO but checking
+    pairs isn't linear
+
+    XOR of all the items would be O(n) but would result in (output1 XOR output2)
+    How can we separate the values
+
+    Convert the thing into a set and linearly check if the XOR of a value with the above
+    output is in the set? The set conversion would be O(n) with NONCONSTANT space then
+
+    if xorVal bit == 0 then the original can be 1 ^ 1 or 0 ^ 0
+    if xorVal bit == 1 then the original can be 1 ^ 0 or 0 ^ 1
+
+    Let xorVal[0] be the first bit i.e. the 1's bit
+
+    If we XOR all the values where xorVal[0] == 0 and XOR all the values where xorVal[0] == 1 
+    then we should get the respective numbers right? cause otherwise they wouldn't XOR to 0
+
+    Issue arises if both the output values are even or both are odd. We need to find a differentiating bit.
+
+    Any bit in the xorVal will be a bit that's different between the two output values.
+'''
+
+# CONSTANT Extra Space
+# Must be O(n)
+
+class Solution:
+    def singleNumber(self, nums: List[int]) -> List[int]:
+        xorVal = 0
+        for i in nums :
+            xorVal ^= i
+
+        refVal = xorVal
+        divBy = 1 
+        while refVal % 2 == 0 :
+            refVal = refVal // 2
+            divBy *= 2
+        refVal = (refVal % 2) * divBy
+
+        val1, val2 = 0, 0        
+        for i in nums :
+            if refVal & i :
+                val1 ^= i
+            else :
+                val2 ^= i
+            
+                
+        return [val1, val2]
+
+        
