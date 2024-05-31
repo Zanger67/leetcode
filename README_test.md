@@ -1,8 +1,11 @@
 # LeetCode
 
 Easy completed:	32
+<br>
 Medium completed:	16
+<br>
 Hard completed:	0
+<br>
 
 ## Easy
 | Level   |   Number | Title   | Python                                   | Java                                | MySQL                             | Other                                      |
