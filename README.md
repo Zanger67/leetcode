@@ -6,14 +6,14 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 |            | **Java**   | **Py**   | **Sql**   | **Total**   |
 |:-----------|:-----------|:---------|:----------|:------------|
-| **Easy**   | 10         | 18       | 13        | *41*        |
-| **Medium** | 5          | 15       | 2         | *22*        |
+| **Easy**   | 15         | 23       | 13        | *51*        |
+| **Medium** | 5          | 17       | 2         | *24*        |
 | **Hard**   | 0          | 0        | 0         | *0*         |
-| **Total**  | *15*       | *33*     | *15*      | **63**      |
+| **Total**  | *20*       | *40*     | *15*      | **75**      |
 
-Questions done in multiple languages:	11
+Questions done in multiple languages:	12
 <br>
-Unique questions done:		**52**
+Unique questions done:		**63**
 
 
 ## Easy
@@ -28,7 +28,7 @@ Unique questions done:		**52**
 | Easy    |       28 |         | [py](<my-submissions/e28.py>)                                                     |                                                                                  |                                   |         |
 | Easy    |       70 |         | [py](<my-submissions/e70 - bottomup.py>), [py](<my-submissions/e70 - topdown.py>) |                                                                                  |                                   |         |
 | Easy    |      118 |         | [py](<my-submissions/e118.py>)                                                    |                                                                                  |                                   |         |
-| Easy    |      175 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e175.sql>)  |         |
+| Easy    |      175 |         | [py](<my-submissions/e175.py>)                                                    |                                                                                  | [sql](<my-submissions/e175.sql>)  |         |
 | Easy    |      181 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e181.sql>)  |         |
 | Easy    |      182 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e182.sql>)  |         |
 | Easy    |      183 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e183.sql>)  |         |
@@ -43,9 +43,13 @@ Unique questions done:		**52**
 | Easy    |      596 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e596.sql>)  |         |
 | Easy    |      607 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e607.sql>)  |         |
 | Easy    |      619 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e619.sql>)  |         |
+| Easy    |      645 |         | [py](<my-submissions/e645.py>)                                                    |                                                                                  |                                   |         |
 | Easy    |      744 |         | [py](<my-submissions/e744.py>)                                                    | [java](<my-submissions/e744.java>)                                               |                                   |         |
 | Easy    |     1068 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e1068.sql>) |         |
 | Easy    |     1184 |         | [py](<my-submissions/e1184.py>)                                                   |                                                                                  |                                   |         |
+| Easy    |     1351 |         | [py](<my-submissions/e1351.py>)                                                   |                                                                                  |                                   |         |
+| Easy    |     1436 |         |                                                                                   | [java](<my-submissions/e1436.java>)                                              |                                   |         |
+| Easy    |     1455 |         | [py](<my-submissions/e1455.py>)                                                   |                                                                                  |                                   |         |
 | Easy    |     2248 |         | [py](<my-submissions/e2248.py>)                                                   |                                                                                  |                                   |         |
 | Easy    |     2389 |         | [py](<my-submissions/e2389.py>)                                                   |                                                                                  |                                   |         |
 | Easy    |     2395 |         | [py](<my-submissions/e2395.py>)                                                   |                                                                                  |                                   |         |
@@ -54,6 +58,11 @@ Unique questions done:		**52**
 | Easy    |     2894 |         | [py](<my-submissions/e2894.py>)                                                   |                                                                                  |                                   |         |
 | Easy    |     3074 |         | [py](<my-submissions/e3074.py>)                                                   |                                                                                  |                                   |         |
 | Easy    |     3110 |         | [py](<my-submissions/e3110.py>)                                                   | [java](<my-submissions/e3110.java>)                                              |                                   |         |
+| Easy    |     6451 |         |                                                                                   | [java](<my-submissions/e645 v1 moderate runtime.java>)                           |                                   |         |
+| Easy    |     6452 |         |                                                                                   | [java](<my-submissions/e645 v2 even slower.java>)                                |                                   |         |
+| Easy    |    13511 |         |                                                                                   | [java](<my-submissions/e1351 v1 inefficient.java>)                               |                                   |         |
+| Easy    |    13512 |         |                                                                                   | [java](<my-submissions/e1351 v2 optimized.java>)                                 |                                   |         |
+| Easy    |    14552 |         | [py](<my-submissions/e1455 v2 less efficient.py>)                                 |                                                                                  |                                   |         |
 
 ## Medium
 | Level   |   Number | Title   | Python                                                                                                                                                                                                   | Java                                                                                       | MySQL                            | Other   |
@@ -75,6 +84,8 @@ Unique questions done:		**52**
 | Medium  |     1940 |         | [py](<my-submissions/m1940 Iterative Removed TryExcept.py>), [py](<my-submissions/m1940 Iterative TryExcept.py>), [py](<my-submissions/m1940 counter.py>), [py](<my-submissions/m1940 subset method.py>) | [java](<my-submissions/m1940 Iterative.java>), [java](<my-submissions/m1940 counter.java>) |                                  |         |
 | Medium  |     2433 |         | [py](<my-submissions/m2433.py>)                                                                                                                                                                          |                                                                                            |                                  |         |
 | Medium  |     2679 |         |                                                                                                                                                                                                          | [java](<my-submissions/m2679.java>)                                                        |                                  |         |
+| Medium  |    15251 |         | [py](<my-submissions/m1525 v1.py>)                                                                                                                                                                       |                                                                                            |                                  |         |
+| Medium  |    15252 |         | [py](<my-submissions/m1525 v2.py>)                                                                                                                                                                       |                                                                                            |                                  |         |
 
 ## Hard
 | Level   | Number   | Title   | Python   | Java   | MySQL   | Other   |
