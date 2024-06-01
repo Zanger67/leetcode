@@ -6,14 +6,14 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 |            | **java**   | **py**   | **sql**   | **Total**   |
 |:-----------|:-----------|:---------|:----------|:------------|
-| **Easy**   | 8          | 16       | 13        | *37*        |
+| **Easy**   | 9          | 17       | 13        | *39*        |
 | **Medium** | 3          | 11       | 2         | *16*        |
 | **Hard**   | 0          | 0        | 0         | *0*         |
-| **Total**  | *11*       | *27*     | *15*      | **53**      |
+| **Total**  | *12*       | *28*     | *15*      | **55**      |
 
-Questions done in multiple languages:	4
+Questions done in multiple languages:	5
 <br>
-Unique questions done:		**49**
+Unique questions done:		**50**
 
 
 ## Easy
@@ -52,6 +52,7 @@ Unique questions done:		**49**
 | Easy    |     2886 |         | [py](<my-submissions/e2886.py>)          |                                                |                                   |                                            |
 | Easy    |     2894 |         | [py](<my-submissions/e2894.py>)          |                                                |                                   |                                            |
 | Easy    |     3074 |         | [py](<my-submissions/e3074.py>)          |                                                |                                   |                                            |
+| Easy    |     3110 |         | [py](<my-submissions/e3110.py>)          | [java](<my-submissions/e3110.java>)            |                                   |                                            |
 
 ## Medium
 | Level   |   Number | Title   | Python                          | Java                                | MySQL                            | Other   |
