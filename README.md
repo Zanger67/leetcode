@@ -6,14 +6,14 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 |            | **Java**   | **Py**   | **Sql**   | **Total**   |
 |:-----------|:-----------|:---------|:----------|:------------|
-| **Easy**   | 9          | 17       | 13        | *39*        |
+| **Easy**   | 10         | 18       | 13        | *41*        |
 | **Medium** | 5          | 15       | 2         | *22*        |
 | **Hard**   | 0          | 0        | 0         | *0*         |
-| **Total**  | *14*       | *32*     | *15*      | **61**      |
+| **Total**  | *15*       | *33*     | *15*      | **63**      |
 
-Questions done in multiple languages:	10
+Questions done in multiple languages:	11
 <br>
-Unique questions done:		**51**
+Unique questions done:		**52**
 
 
 ## Easy
@@ -43,6 +43,7 @@ Unique questions done:		**51**
 | Easy    |      596 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e596.sql>)  |         |
 | Easy    |      607 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e607.sql>)  |         |
 | Easy    |      619 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e619.sql>)  |         |
+| Easy    |      744 |         | [py](<my-submissions/e744.py>)                                                    | [java](<my-submissions/e744.java>)                                               |                                   |         |
 | Easy    |     1068 |         |                                                                                   |                                                                                  | [sql](<my-submissions/e1068.sql>) |         |
 | Easy    |     1184 |         | [py](<my-submissions/e1184.py>)                                                   |                                                                                  |                                   |         |
 | Easy    |     2248 |         | [py](<my-submissions/e2248.py>)                                                   |                                                                                  |                                   |         |
