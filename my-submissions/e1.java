@@ -1,15 +1,23 @@
-// https://leetcode.com/problems/two-sum/description/
+// https://leetcode.com/problems/two-sum/
+
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        for (int i = 0; i < nums.length - 1; i++) {
-            for (int j = i+1; j < nums.length; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return new int[]{i, j};
-                }
-            }
+        if (nums.length == 2) {
+            return new int[]{0, 1};
         }
 
-        return new int[]{};
+        HashMap<Integer, Integer> ref = new HashMap<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            if (ref.containsKey(nums[i])) {
+                return new int[]{ref.get(nums[i]), i};
+            }
+
+            ref.put((target - nums[i]), i);
+        }
+
+        // No solution (shouldn't occur given parameters provided)
+        return new int[]{0, 0};
     }
 }
