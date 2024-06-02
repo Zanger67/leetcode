@@ -6,14 +6,14 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 |            | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:-----------|:---------|:----------|:------------|:-------------------|
-| **Easy**   | 22         | 32       | 13        | *67*        | *46*               |
+| **Easy**   | 23         | 33       | 13        | *69*        | *47*               |
 | **Medium** | 10         | 25       | 2         | *37*        | *24*               |
 | **Hard**   | 0          | 0        | 0         | *0*         | *0*                |
-| **Total**  | *32*       | *57*     | *15*      | **104**     | **70**             |
+| **Total**  | *33*       | *58*     | *15*      | **106**     | **71**             |
 
-Questions done in multiple languages:	34
+Questions done in multiple languages:	35
 <br>
-Unique questions done:		**70**
+Unique questions done:		**71**
 
 
 ## Easy
@@ -37,6 +37,7 @@ Unique questions done:		**70**
 | Easy    |      292 |         | [py](<my-submissions/e292.py>)                                                     |                                                                                                                                         |                                   |         |
 | Easy    |      344 |         | [py](<my-submissions/e344.py>)                                                     | [java](<my-submissions/e344.java>)                                                                                                      |                                   |         |
 | Easy    |      345 |         | [py](<my-submissions/e345.py>)                                                     |                                                                                                                                         |                                   |         |
+| Easy    |      374 |         | [py](<my-submissions/e374.py>)                                                     | [java](<my-submissions/e374.java>)                                                                                                      |                                   |         |
 | Easy    |      408 |         | [py](<my-submissions/e408.py>)                                                     |                                                                                                                                         |                                   |         |
 | Easy    |      412 |         | [py](<my-submissions/e412 oneliner.py>), [py](<my-submissions/e412.py>)            | [java](<my-submissions/e412 hashmaps.java>), [java](<my-submissions/e412.java>)                                                         |                                   |         |
 | Easy    |      414 |         | [py](<my-submissions/e414 - sorting.py>), [py](<my-submissions/e414.py>)           |                                                                                                                                         |                                   |         |
