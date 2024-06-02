@@ -4,16 +4,16 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 > *Note: if there are multiple files, it's likely a case of me having multiple solutions.*## Stats by Language and Level
 
-|            | **Java**   | **Py**   | **Sql**   | **Total**   |
-|:-----------|:-----------|:---------|:----------|:------------|
-| **Easy**   | 15         | 23       | 13        | *51*        |
-| **Medium** | 5          | 17       | 2         | *24*        |
-| **Hard**   | 0          | 0        | 0         | *0*         |
-| **Total**  | *20*       | *40*     | *15*      | **75**      |
+|            | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
+|:-----------|:-----------|:---------|:----------|:------------|:-------------------|
+| **Easy**   | 15         | 24       | 13        | *52*        | *40*               |
+| **Medium** | 5          | 18       | 2         | *25*        | *19*               |
+| **Hard**   | 0          | 0        | 0         | *0*         | *0*                |
+| **Total**  | *20*       | *42*     | *15*      | **77**      | **59**             |
 
 Questions done in multiple languages:	18
 <br>
-Unique questions done:		**57**
+Unique questions done:		**41**
 
 
 ## Easy
@@ -58,6 +58,7 @@ Unique questions done:		**57**
 | Easy    |     2894 |         | [py](<my-submissions/e2894.py>)                                                    |                                                                                                           |                                   |         |
 | Easy    |     3074 |         | [py](<my-submissions/e3074.py>)                                                    |                                                                                                           |                                   |         |
 | Easy    |     3110 |         | [py](<my-submissions/e3110.py>)                                                    | [java](<my-submissions/e3110.java>)                                                                       |                                   |         |
+| Easy    |     3168 |         | [py](<my-submissions/e3168 Weekly Contest 400.py>)                                 |                                                                                                           |                                   |         |
 
 ## Medium
 | Level   |   Number | Title   | Python                                                                                                                                                                                                   | Java                                                                                       | MySQL                            | Other   |
@@ -80,6 +81,7 @@ Unique questions done:		**57**
 | Medium  |     1940 |         | [py](<my-submissions/m1940 Iterative Removed TryExcept.py>), [py](<my-submissions/m1940 Iterative TryExcept.py>), [py](<my-submissions/m1940 counter.py>), [py](<my-submissions/m1940 subset method.py>) | [java](<my-submissions/m1940 Iterative.java>), [java](<my-submissions/m1940 counter.java>) |                                  |         |
 | Medium  |     2433 |         | [py](<my-submissions/m2433.py>)                                                                                                                                                                          |                                                                                            |                                  |         |
 | Medium  |     2679 |         |                                                                                                                                                                                                          | [java](<my-submissions/m2679.java>)                                                        |                                  |         |
+| Medium  |     3169 |         | [py](<my-submissions/m3169 Weekly Contest 400.py>)                                                                                                                                                       |                                                                                            |                                  |         |
 
 ## Hard
 | Level   | Number   | Title   | Python   | Java   | MySQL   | Other   |
