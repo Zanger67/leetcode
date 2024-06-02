@@ -6,14 +6,14 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 |            | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:-----------|:---------|:----------|:------------|:-------------------|
-| **Easy**   | 17         | 28       | 13        | *58*        | *43*               |
-| **Medium** | 10         | 22       | 2         | *34*        | *22*               |
+| **Easy**   | 19         | 31       | 13        | *63*        | *45*               |
+| **Medium** | 10         | 25       | 2         | *37*        | *24*               |
 | **Hard**   | 0          | 0        | 0         | *0*         | *0*                |
-| **Total**  | *27*       | *50*     | *15*      | **92**      | **65**             |
+| **Total**  | *29*       | *56*     | *15*      | **100**     | **69**             |
 
-Questions done in multiple languages:	27
+Questions done in multiple languages:	31
 <br>
-Unique questions done:		**65**
+Unique questions done:		**69**
 
 
 ## Easy
@@ -37,6 +37,8 @@ Unique questions done:		**65**
 | Easy    |      292 |         | [py](<my-submissions/e292.py>)                                                     |                                                                                                           |                                   |         |
 | Easy    |      344 |         | [py](<my-submissions/e344.py>)                                                     | [java](<my-submissions/e344.java>)                                                                        |                                   |         |
 | Easy    |      345 |         | [py](<my-submissions/e345.py>)                                                     |                                                                                                           |                                   |         |
+| Easy    |      408 |         | [py](<my-submissions/e408.py>)                                                     |                                                                                                           |                                   |         |
+| Easy    |      412 |         | [py](<my-submissions/e412 oneliner.py>), [py](<my-submissions/e412.py>)            | [java](<my-submissions/e412 hashmaps.java>), [java](<my-submissions/e412.java>)                           |                                   |         |
 | Easy    |      414 |         | [py](<my-submissions/e414 - sorting.py>), [py](<my-submissions/e414.py>)           |                                                                                                           |                                   |         |
 | Easy    |      577 |         |                                                                                    |                                                                                                           | [sql](<my-submissions/e577.sql>)  |         |
 | Easy    |      584 |         |                                                                                    |                                                                                                           | [sql](<my-submissions/e584.sql>)  |         |
@@ -69,9 +71,11 @@ Unique questions done:		**65**
 | Medium  |        2 |         |                                                                                                                                                                                                          | [java](<my-submissions/m2.java>)                                                                                                                      |                                  |         |
 | Medium  |        3 |         |                                                                                                                                                                                                          | [java](<my-submissions/m3.java>)                                                                                                                      |                                  |         |
 | Medium  |        7 |         | [py](<my-submissions/m7.py>)                                                                                                                                                                             |                                                                                                                                                       |                                  |         |
+| Medium  |       78 |         | [py](<my-submissions/m78 Minimized Extra Space.py>), [py](<my-submissions/m78.py>)                                                                                                                       |                                                                                                                                                       |                                  |         |
 | Medium  |      166 |         | [py](<my-submissions/m166.py>)                                                                                                                                                                           |                                                                                                                                                       |                                  |         |
 | Medium  |      176 |         |                                                                                                                                                                                                          |                                                                                                                                                       | [sql](<my-submissions/m176.sql>) |         |
 | Medium  |      177 |         |                                                                                                                                                                                                          |                                                                                                                                                       | [sql](<my-submissions/m177.sql>) |         |
+| Medium  |      189 |         | [py](<my-submissions/m189.py>)                                                                                                                                                                           |                                                                                                                                                       |                                  |         |
 | Medium  |      251 |         | [py](<my-submissions/m251.py>)                                                                                                                                                                           |                                                                                                                                                       |                                  |         |
 | Medium  |      260 |         | [py](<my-submissions/m260.py>)                                                                                                                                                                           |                                                                                                                                                       |                                  |         |
 | Medium  |      611 |         | [py](<my-submissions/m611.py>)                                                                                                                                                                           |                                                                                                                                                       |                                  |         |
