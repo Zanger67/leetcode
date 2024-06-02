@@ -13,7 +13,7 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 Questions done in multiple languages:	18
 <br>
-Unique questions done:		**41**
+Unique questions done:		**59**
 
 
 ## Easy
