@@ -8,12 +8,12 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 |:-----------|:--------|:-----------|:---------|:----------|:------------|:-------------------|
 | **Easy**   | 10      | 26         | 37       | 13        | *86*        | *55*               |
 | **Medium** | 1       | 11         | 27       | 2         | *41*        | *25*               |
-| **Hard**   | 0       | 0          | 0        | 0         | *0*         | *0*                |
-| **Total**  | *11*    | *37*       | *64*     | *15*      | **128**     | **80**             |
+| **Hard**   | 0       | 0          | 2        | 0         | *2*         | *1*                |
+| **Total**  | *11*    | *37*       | *66*     | *15*      | **130**     | **81**             |
 
-Questions done in multiple languages:	47
+Questions done in multiple languages:	48
 <br>
-Unique questions done:		**81**
+Unique questions done:		**82**
 
 
 ## Easy
@@ -105,5 +105,6 @@ Unique questions done:		**81**
 | Medium  |     3169 |         | [py](<my-submissions/m3169 Weekly Contest 400.py>)                                                                                                                                                       |                                                                                                                                                       |                                  |                                  |         |
 
 ## Hard
-| Level   | Number   | Title   | Python   | Java   | MySQL   | C   | Other   |
-|---------|----------|---------|----------|--------|---------|-----|---------|
+| Level   |   Number | Title   | Python                                                               | Java   | MySQL   | C   | Other   |
+|:--------|---------:|:--------|:---------------------------------------------------------------------|:-------|:--------|:----|:--------|
+| Hard    |      239 |         | [py](<my-submissions/h239 v1.py>), [py](<my-submissions/h239 v2.py>) |        |         |     |         |
