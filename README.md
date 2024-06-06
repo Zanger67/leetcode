@@ -6,14 +6,14 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 |            | **C**   | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:--------|:-----------|:---------|:----------|:------------|:-------------------|
-| **Easy**   | 19      | 26         | 44       | 13        | *102*       | *66*               |
+| **Easy**   | 22      | 26         | 45       | 13        | *106*       | *69*               |
 | **Medium** | 1       | 11         | 29       | 2         | *43*        | *26*               |
 | **Hard**   | 0       | 0          | 2        | 0         | *2*         | *1*                |
-| **Total**  | *20*    | *37*       | *75*     | *15*      | **147**     | **93**             |
+| **Total**  | *23*    | *37*       | *76*     | *15*      | **151**     | **96**             |
 
-Questions done in multiple languages:	54
+Questions done in multiple languages:	55
 <br>
-Unique questions done:		**93**
+Unique questions done:		**96**
 
 
 ## Easy
@@ -70,8 +70,11 @@ Unique questions done:		**93**
 | Easy    |     1460 |         |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e1460.c>)                                                                    |         |
 | Easy    |     1470 |         |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e1470 v2.c>), [c](<my-submissions/e1470.c>)                                  |         |
 | Easy    |     1502 |         | [py](<my-submissions/e1502.py>)                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e1502.c>)                                                                    |         |
+| Easy    |     1684 |         | [py](<my-submissions/e1684.py>)                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e1684.c>)                                                                    |         |
 | Easy    |     1700 |         | [py](<my-submissions/e1700 v1.py>), [py](<my-submissions/e1700 v2.py>)             |                                                                                                                                         |                                   |                                                                                                  |         |
 | Easy    |     1736 |         |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e1736.c>)                                                                    |         |
+| Easy    |     1748 |         |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e1748.c>)                                                                    |         |
+| Easy    |     1822 |         |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e1822.c>)                                                                    |         |
 | Easy    |     1929 |         | [py](<my-submissions/e1929.py>)                                                    | [java](<my-submissions/e1929.java>)                                                                                                     |                                   | [c](<my-submissions/e1929.c>)                                                                    |         |
 | Easy    |     2011 |         |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e2011.c>)                                                                    |         |
 | Easy    |     2037 |         |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e2037 v1 preserving data.c>), [c](<my-submissions/e2037 v2 nonpreserving.c>) |         |
