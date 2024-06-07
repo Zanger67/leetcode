@@ -7,13 +7,13 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 |            | **C**   | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:--------|:-----------|:---------|:----------|:------------|:-------------------|
 | **Easy**   | 22      | 26         | 45       | 13        | *106*       | *69*               |
-| **Medium** | 4       | 12         | 36       | 2         | *54*        | *29*               |
+| **Medium** | 4       | 13         | 38       | 2         | *57*        | *30*               |
 | **Hard**   | 0       | 0          | 2        | 0         | *2*         | *1*                |
-| **Total**  | *26*    | *38*       | *83*     | *15*      | **162**     | **99**             |
+| **Total**  | *26*    | *39*       | *85*     | *15*      | **165**     | **100**            |
 
-Questions done in multiple languages:	63
+Questions done in multiple languages:	65
 <br>
-Unique questions done:		**99**
+Unique questions done:		**100**
 
 
 ## Easy
@@ -103,6 +103,7 @@ Unique questions done:		**99**
 | Medium  |      251 |         | [py](<my-submissions/m251.py>)                                                                                                                                                                           |                                                                                                                                                       |                                  |                                  |         |
 | Medium  |      260 |         | [py](<my-submissions/m260.py>)                                                                                                                                                                           |                                                                                                                                                       |                                  |                                  |         |
 | Medium  |      611 |         | [py](<my-submissions/m611.py>)                                                                                                                                                                           |                                                                                                                                                       |                                  |                                  |         |
+| Medium  |      648 |         | [py](<my-submissions/m648 v2 TRIE.py>), [py](<my-submissions/m648.py>)                                                                                                                                   | [java](<my-submissions/m648 v2 TRIE.java>)                                                                                                            |                                  |                                  |         |
 | Medium  |      651 |         | [py](<my-submissions/m651.py>)                                                                                                                                                                           |                                                                                                                                                       |                                  |                                  |         |
 | Medium  |      846 |         | [py](<my-submissions/m846 v2 A LOT SLOWER LMAO.py>), [py](<my-submissions/m846.py>)                                                                                                                      |                                                                                                                                                       |                                  |                                  |         |
 | Medium  |     1218 |         | [py](<my-submissions/m1218.py>)                                                                                                                                                                          |                                                                                                                                                       |                                  |                                  |         |
