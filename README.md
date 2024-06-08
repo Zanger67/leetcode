@@ -8,14 +8,14 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 |            | **C**   | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:--------|:-----------|:---------|:----------|:------------|:-------------------|
-| **Easy**   | 25      | 27         | 49       | 14        | *115*       | *75*               |
+| **Easy**   | 27      | 27         | 50       | 14        | *118*       | *76*               |
 | **Medium** | 11      | 15         | 58       | 4         | *88*        | *48*               |
 | **Hard**   | 1       | 0          | 2        | 0         | *3*         | *2*                |
-| **Total**  | *37*    | *42*       | *109*    | *18*      | **206**     | **125**            |
+| **Total**  | *39*    | *42*       | *110*    | *18*      | **209**     | **126**            |
 
-Questions done in multiple languages:	81
+Questions done in multiple languages:	83
 <br>
-Unique questions done:		**125**
+Unique questions done:		**126**
 
 
 ## Easy
@@ -85,6 +85,7 @@ Unique questions done:		**125**
 | Easy    |     1929 |                     |            | [py](<my-submissions/e1929.py>)                                                    | [java](<my-submissions/e1929.java>)                                                                                                     |                                   | [c](<my-submissions/e1929.c>)                                                                    |         |
 | Easy    |     2011 |                     |            |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e2011.c>)                                                                    |         |
 | Easy    |     2037 |                     |            |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e2037 v1 preserving data.c>), [c](<my-submissions/e2037 v2 nonpreserving.c>) |         |
+| Easy    |     2206 |                     |            | [py](<my-submissions/e2206.py>)                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e2206 v2 without double mallocing.c>), [c](<my-submissions/e2206.c>)         |         |
 | Easy    |     2248 |                     |            | [py](<my-submissions/e2248.py>)                                                    |                                                                                                                                         |                                   |                                                                                                  |         |
 | Easy    |     2389 |                     |            | [py](<my-submissions/e2389.py>)                                                    |                                                                                                                                         |                                   |                                                                                                  |         |
 | Easy    |     2395 |                     |            | [py](<my-submissions/e2395.py>)                                                    |                                                                                                                                         |                                   |                                                                                                  |         |
