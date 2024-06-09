@@ -9,13 +9,13 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 |            | **C**   | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:--------|:-----------|:---------|:----------|:------------|:-------------------|
 | **Easy**   | 27      | 27         | 51       | 14        | *119*       | *77*               |
-| **Medium** | 12      | 15         | 61       | 4         | *92*        | *51*               |
+| **Medium** | 12      | 16         | 63       | 4         | *95*        | *52*               |
 | **Hard**   | 1       | 0          | 4        | 0         | *5*         | *3*                |
-| **Total**  | *40*    | *42*       | *116*    | *18*      | **216**     | **131**            |
+| **Total**  | *40*    | *43*       | *118*    | *18*      | **219**     | **132**            |
 
-Questions done in multiple languages:	85
+Questions done in multiple languages:	87
 <br>
-Unique questions done:		**131**
+Unique questions done:		**132**
 
 
 ## Easy
@@ -126,6 +126,7 @@ Unique questions done:		**131**
 | Medium  |      651 |                     |                | [py](<my-submissions/m651.py>)                                                                                                                                                                                          |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |      692 |                     |                | [py](<my-submissions/m692.py>)                                                                                                                                                                                          |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |      846 |                     | Daily          | [py](<my-submissions/m846 Daily.py>), [py](<my-submissions/m846 v2 A LOT SLOWER LMAO.py>)                                                                                                                               |                                                                                                                                                       |                                   |                                                                                              |         |
+| Medium  |      974 |                     | Daily          | [py](<my-submissions/m974 Daily v1.py>), [py](<my-submissions/m974 Daily v2 Math REVISIT.py>)                                                                                                                           | [java](<my-submissions/m974 Daily v2.java>)                                                                                                           |                                   |                                                                                              |         |
 | Medium  |     1218 |                     |                | [py](<my-submissions/m1218.py>)                                                                                                                                                                                         |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |     1265 |                     |                | [py](<my-submissions/m1265 v1 recursive stack.py>)                                                                                                                                                                      |                                                                                                                                                       |                                   | [c](<my-submissions/m1265 v1.c>)                                                             |         |
 | Medium  |     1302 |                     |                | [py](<my-submissions/m1302.py>)                                                                                                                                                                                         |                                                                                                                                                       |                                   | [c](<my-submissions/m1302 v2 2 pass traversal much faster.c>), [c](<my-submissions/m1302.c>) |         |
