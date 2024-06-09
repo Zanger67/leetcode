@@ -9,13 +9,13 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 |            | **C**   | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:--------|:-----------|:---------|:----------|:------------|:-------------------|
 | **Easy**   | 27      | 27         | 50       | 14        | *118*       | *76*               |
-| **Medium** | 11      | 15         | 58       | 4         | *88*        | *48*               |
-| **Hard**   | 1       | 0          | 2        | 0         | *3*         | *2*                |
-| **Total**  | *39*    | *42*       | *110*    | *18*      | **209**     | **126**            |
+| **Medium** | 11      | 15         | 59       | 4         | *89*        | *49*               |
+| **Hard**   | 1       | 0          | 4        | 0         | *5*         | *3*                |
+| **Total**  | *39*    | *42*       | *113*    | *18*      | **212**     | **128**            |
 
-Questions done in multiple languages:	83
+Questions done in multiple languages:	84
 <br>
-Unique questions done:		**126**
+Unique questions done:		**128**
 
 
 ## Easy
@@ -123,6 +123,7 @@ Unique questions done:		**126**
 | Medium  |      611 |                     |                | [py](<my-submissions/m611.py>)                                                                                                                                                                                          |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |      648 |                     | Daily          | [py](<my-submissions/m648  Daily.py>), [py](<my-submissions/m648 v2 TRIE.py>)                                                                                                                                           | [java](<my-submissions/m648 v2 TRIE.java>)                                                                                                            |                                   |                                                                                              |         |
 | Medium  |      651 |                     |                | [py](<my-submissions/m651.py>)                                                                                                                                                                                          |                                                                                                                                                       |                                   |                                                                                              |         |
+| Medium  |      692 |                     |                | [py](<my-submissions/m692.py>)                                                                                                                                                                                          |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |      846 |                     | Daily          | [py](<my-submissions/m846 Daily.py>), [py](<my-submissions/m846 v2 A LOT SLOWER LMAO.py>)                                                                                                                               |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |     1218 |                     |                | [py](<my-submissions/m1218.py>)                                                                                                                                                                                         |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |     1265 |                     |                | [py](<my-submissions/m1265 v1 recursive stack.py>)                                                                                                                                                                      |                                                                                                                                                       |                                   | [c](<my-submissions/m1265 v1.c>)                                                             |         |
@@ -151,7 +152,8 @@ Unique questions done:		**126**
 | Medium  |     3175 | bw contest 132 - q2 | Contest        | [py](<my-submissions/bw contest 132/m3175 q2.py>)                                                                                                                                                                       |                                                                                                                                                       |                                   |                                                                                              |         |
 
 ## Hard
-| Level   |   Number | Title   | Category   | Python                                                               | Java   | MySQL   | C                           | Other   |
-|:--------|---------:|:--------|:-----------|:---------------------------------------------------------------------|:-------|:--------|:----------------------------|:--------|
-| Hard    |       25 |         |            |                                                                      |        |         | [c](<my-submissions/h25.c>) |         |
-| Hard    |      239 |         |            | [py](<my-submissions/h239 v1.py>), [py](<my-submissions/h239 v2.py>) |        |         |                             |         |
+| Level   |   Number | Title   | Category   | Python                                                                                  | Java   | MySQL   | C                           | Other   |
+|:--------|---------:|:--------|:-----------|:----------------------------------------------------------------------------------------|:-------|:--------|:----------------------------|:--------|
+| Hard    |       25 |         |            |                                                                                         |        |         | [c](<my-submissions/h25.c>) |         |
+| Hard    |      239 |         |            | [py](<my-submissions/h239 v1.py>), [py](<my-submissions/h239 v2.py>)                    |        |         |                             |         |
+| Hard    |     1284 |         |            | [py](<my-submissions/h1284 converted for booleans.py>), [py](<my-submissions/h1284.py>) |        |         |                             |         |
