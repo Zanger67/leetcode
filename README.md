@@ -8,14 +8,14 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 |            | **C**   | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:--------|:-----------|:---------|:----------|:------------|:-------------------|
-| **Easy**   | 27      | 27         | 50       | 14        | *118*       | *76*               |
-| **Medium** | 11      | 15         | 59       | 4         | *89*        | *49*               |
+| **Easy**   | 27      | 27         | 51       | 14        | *119*       | *77*               |
+| **Medium** | 12      | 15         | 60       | 4         | *91*        | *51*               |
 | **Hard**   | 1       | 0          | 4        | 0         | *5*         | *3*                |
-| **Total**  | *39*    | *42*       | *113*    | *18*      | **212**     | **128**            |
+| **Total**  | *40*    | *42*       | *115*    | *18*      | **215**     | **131**            |
 
 Questions done in multiple languages:	84
 <br>
-Unique questions done:		**128**
+Unique questions done:		**131**
 
 
 ## Easy
@@ -97,6 +97,7 @@ Unique questions done:		**128**
 | Easy    |     3110 |                     | Daily      | [py](<my-submissions/e3110.py>)                                                    | [java](<my-submissions/e3110 Daily.java>)                                                                                               |                                   |                                                                                                  |         |
 | Easy    |     3168 | w contest 400 - q1  | Contest    | [py](<my-submissions/w contest 400/e3168 Weekly Contest 400 q1.py>)                |                                                                                                                                         |                                   |                                                                                                  |         |
 | Easy    |     3174 | bw contest 132 - q1 | Contest    | [py](<my-submissions/bw contest 132/e3174 q1.py>)                                  |                                                                                                                                         |                                   |                                                                                                  |         |
+| Easy    |     3178 | w contest 401 - q1  | Contest    | [py](<my-submissions/w contest 401/e3178 q1.py>)                                   |                                                                                                                                         |                                   |                                                                                                  |         |
 
 ## Medium
 | Level   |   Number | Title               | Category       | Python                                                                                                                                                                                                                  | Java                                                                                                                                                  | MySQL                             | C                                                                                            | Other   |
@@ -150,6 +151,8 @@ Unique questions done:		**128**
 | Medium  |     3064 |                     |                | [py](<my-submissions/m3064 v1.py>), [py](<my-submissions/m3064 v2 alt.py>), [py](<my-submissions/m3064 v2.py>)                                                                                                          |                                                                                                                                                       |                                   | [c](<my-submissions/m3064 v1.c>)                                                             |         |
 | Medium  |     3169 | w contest 400 - q2  | Contest        | [py](<my-submissions/w contest 400/m3169 Weekly Contest 400 q2.py>)                                                                                                                                                     |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |     3175 | bw contest 132 - q2 | Contest        | [py](<my-submissions/bw contest 132/m3175 q2.py>)                                                                                                                                                                       |                                                                                                                                                       |                                   |                                                                                              |         |
+| Medium  |     3179 | w contest 401 - q2  | Contest        | [py](<my-submissions/w contest 401/m3179 q2 brute force but worked.py>)                                                                                                                                                 |                                                                                                                                                       |                                   |                                                                                              |         |
+| Medium  |     3180 | w contest 401 - q3  | Contest        |                                                                                                                                                                                                                         |                                                                                                                                                       |                                   | [c](<my-submissions/w contest 401/m3180 q3.c>)                                               |         |
 
 ## Hard
 | Level   |   Number | Title   | Category   | Python                                                                                  | Java   | MySQL   | C                           | Other   |
