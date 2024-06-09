@@ -9,11 +9,11 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 |            | **C**   | **Java**   | **Py**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:--------|:-----------|:---------|:----------|:------------|:-------------------|
 | **Easy**   | 27      | 27         | 51       | 14        | *119*       | *77*               |
-| **Medium** | 12      | 15         | 60       | 4         | *91*        | *51*               |
+| **Medium** | 12      | 15         | 61       | 4         | *92*        | *51*               |
 | **Hard**   | 1       | 0          | 4        | 0         | *5*         | *3*                |
-| **Total**  | *40*    | *42*       | *115*    | *18*      | **215**     | **131**            |
+| **Total**  | *40*    | *42*       | *116*    | *18*      | **216**     | **131**            |
 
-Questions done in multiple languages:	84
+Questions done in multiple languages:	85
 <br>
 Unique questions done:		**131**
 
@@ -152,7 +152,7 @@ Unique questions done:		**131**
 | Medium  |     3169 | w contest 400 - q2  | Contest        | [py](<my-submissions/w contest 400/m3169 Weekly Contest 400 q2.py>)                                                                                                                                                     |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |     3175 | bw contest 132 - q2 | Contest        | [py](<my-submissions/bw contest 132/m3175 q2.py>)                                                                                                                                                                       |                                                                                                                                                       |                                   |                                                                                              |         |
 | Medium  |     3179 | w contest 401 - q2  | Contest        | [py](<my-submissions/w contest 401/m3179 q2 brute force but worked.py>)                                                                                                                                                 |                                                                                                                                                       |                                   |                                                                                              |         |
-| Medium  |     3180 | w contest 401 - q3  | Contest        |                                                                                                                                                                                                                         |                                                                                                                                                       |                                   | [c](<my-submissions/w contest 401/m3180 q3.c>)                                               |         |
+| Medium  |     3180 | w contest 401 - q3  | Contest        | [py](<my-submissions/w contest 401/m3180 q3 converted.py>)                                                                                                                                                              |                                                                                                                                                       |                                   | [c](<my-submissions/w contest 401/m3180 q3.c>)                                               |         |
 
 ## Hard
 | Level   |   Number | Title   | Category   | Python                                                                                  | Java   | MySQL   | C                           | Other   |
