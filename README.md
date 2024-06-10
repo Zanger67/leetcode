@@ -8,14 +8,14 @@ Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 |            | **C**   | **Cpp**   | **Java**   | **Js**   | **Kt**   | **Py**   | **Rb**   | **Rs**   | **Sql**   | **Total**   | **Total Unique**   |
 |:-----------|:--------|:----------|:-----------|:---------|:---------|:---------|:---------|:---------|:----------|:------------|:-------------------|
-| **Easy**   | 28      | 0         | 27         | 0        | 0        | 52       | 0        | 0        | 14        | *121*       | *78*               |
+| **Easy**   | 30      | 0         | 27         | 0        | 0        | 52       | 0        | 0        | 14        | *123*       | *79*               |
 | **Medium** | 17      | 1         | 17         | 1        | 1        | 74       | 1        | 1        | 4         | *117*       | *59*               |
 | **Hard**   | 1       | 0         | 0          | 0        | 0        | 5        | 0        | 0        | 0         | *6*         | *4*                |
-| **Total**  | *46*    | *1*       | *44*       | *1*      | *1*      | *131*    | *1*      | *1*      | *18*      | **244**     | **141**            |
+| **Total**  | *48*    | *1*       | *44*       | *1*      | *1*      | *131*    | *1*      | *1*      | *18*      | **246**     | **142**            |
 
-Questions done in multiple languages:	103
+Questions done in multiple languages:	104
 <br>
-Unique questions done:		**141**
+Unique questions done:		**142**
 
 
 ## Easy
@@ -90,6 +90,7 @@ Unique questions done:		**141**
 | Easy    |     2248 |                     |            | [py](<my-submissions/e2248.py>)                                                    |                                                                                                                                         |                                   |                                                                                                  |         |
 | Easy    |     2389 |                     |            | [py](<my-submissions/e2389.py>)                                                    |                                                                                                                                         |                                   |                                                                                                  |         |
 | Easy    |     2395 |                     |            | [py](<my-submissions/e2395.py>)                                                    |                                                                                                                                         |                                   |                                                                                                  |         |
+| Easy    |     2570 |                     |            |                                                                                    |                                                                                                                                         |                                   | [c](<my-submissions/e2570 v1.c>), [c](<my-submissions/e2570 v2 less mallocing.c>)                |         |
 | Easy    |     2678 |                     |            |                                                                                    | [java](<my-submissions/e2678.java>)                                                                                                     |                                   |                                                                                                  |         |
 | Easy    |     2886 |                     |            | [py](<my-submissions/e2886.py>)                                                    |                                                                                                                                         |                                   |                                                                                                  |         |
 | Easy    |     2894 |                     |            | [py](<my-submissions/e2894.py>)                                                    |                                                                                                                                         |                                   |                                                                                                  |         |
