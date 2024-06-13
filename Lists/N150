@@ -1,934 +1,450 @@
 1. Two Sum
 
 Easy
-Array
-Hash Table
 2. Add Two Numbers
 
 Med.
-Linked List
-Math
-Recursion
 3. Longest Substring Without Repeating Characters
 
 Med.
-Hash Table
-String
-Sliding Window
 4. Median of Two Sorted Arrays
 
 Hard
-Array
-Binary Search
-Divide and Conquer
 5. Longest Palindromic Substring
 
 Med.
-Two Pointers
-String
-Dynamic Programming
 518. Coin Change II
 
 Med.
-Array
-Dynamic Programming
 7. Reverse Integer
 
 Med.
-Math
 1448. Count Good Nodes in Binary Tree
 
 Med.
-Tree
-Depth-First Search
-Breadth-First Search
-Binary Tree
 10. Regular Expression Matching
 
 Hard
-String
-Dynamic Programming
-Recursion
 11. Container With Most Water
 
 Med.
-Array
-Two Pointers
-Greedy
 994. Rotting Oranges
 
 Med.
-Array
-Breadth-First Search
-Matrix
 15. 3Sum
 
 Med.
-Array
-Two Pointers
-Sorting
 17. Letter Combinations of a Phone Number
 
 Med.
-Hash Table
-String
-Backtracking
 19. Remove Nth Node From End of List
 
 Med.
-Linked List
-Two Pointers
 20. Valid Parentheses
 
 Easy
-String
-Stack
 21. Merge Two Sorted Lists
 
 Easy
-Linked List
-Recursion
 22. Generate Parentheses
 
 Med.
-String
-Dynamic Programming
-Backtracking
 23. Merge k Sorted Lists
 
 Hard
-Linked List
-Divide and Conquer
-Heap (Priority Queue)
-Merge Sort
 25. Reverse Nodes in k-Group
 
 Hard
-Linked List
-Recursion
 543. Diameter of Binary Tree
 
 Easy
-Tree
-Depth-First Search
-Binary Tree
 33. Search in Rotated Sorted Array
 
 Med.
-Array
-Binary Search
 36. Valid Sudoku
 
 Med.
-Array
-Hash Table
-Matrix
 39. Combination Sum
 
 Med.
-Array
-Backtracking
 40. Combination Sum II
 
 Med.
-Array
-Backtracking
 42. Trapping Rain Water
 
 Hard
-Array
-Two Pointers
-Dynamic Programming
-Stack
-1+
 43. Multiply Strings
 
 Med.
-Math
-String
-Simulation
 45. Jump Game II
 
 Med.
-Array
-Dynamic Programming
-Greedy
 46. Permutations
 
 Med.
-Array
-Backtracking
 48. Rotate Image
 
 Med.
-Array
-Math
-Matrix
 49. Group Anagrams
 
 Med.
-Array
-Hash Table
-String
-Sorting
 50. Pow(x, n)
 
 Med.
-Math
-Recursion
 51. N-Queens
 
 Hard
-Array
-Backtracking
 53. Maximum Subarray
 
 Med.
-Array
-Divide and Conquer
-Dynamic Programming
 54. Spiral Matrix
 
 Med.
-Array
-Matrix
-Simulation
 55. Jump Game
 
 Med.
-Array
-Dynamic Programming
-Greedy
 56. Merge Intervals
 
 Med.
-Array
-Sorting
 57. Insert Interval
 
 Med.
-Array
 567. Permutation in String
 
 Med.
-Hash Table
-Two Pointers
-String
-Sliding Window
 572. Subtree of Another Tree
 
 Easy
-Tree
-Depth-First Search
-String Matching
-Binary Tree
-1+
 62. Unique Paths
 
 Med.
-Math
-Dynamic Programming
-Combinatorics
 66. Plus One
 
 Easy
-Array
-Math
 70. Climbing Stairs
 
 Easy
-Math
-Dynamic Programming
-Memoization
 72. Edit Distance
 
 Med.
-String
-Dynamic Programming
 73. Set Matrix Zeroes
 
 Med.
-Array
-Hash Table
-Matrix
 74. Search a 2D Matrix
 
 Med.
-Array
-Binary Search
-Matrix
 76. Minimum Window Substring
 
 Hard
-Hash Table
-String
-Sliding Window
 78. Subsets
 
 Med.
-Array
-Backtracking
-Bit Manipulation
 79. Word Search
 
 Med.
-Array
-String
-Backtracking
-Matrix
 84. Largest Rectangle in Histogram
 
 Hard
-Array
-Stack
-Monotonic Stack
 90. Subsets II
 
 Med.
-Array
-Backtracking
-Bit Manipulation
 91. Decode Ways
 
 Med.
-String
-Dynamic Programming
 2013. Detect Squares
 
 Med.
-Array
-Hash Table
-Design
-Counting
 97. Interleaving String
 
 Med.
-String
-Dynamic Programming
 98. Validate Binary Search Tree
 
 Med.
-Tree
-Depth-First Search
-Binary Search Tree
-Binary Tree
 100. Same Tree
 
 Easy
-Tree
-Depth-First Search
-Breadth-First Search
-Binary Tree
 102. Binary Tree Level Order Traversal
 
 Med.
-Tree
-Breadth-First Search
-Binary Tree
 1046. Last Stone Weight
 
 Easy
-Array
-Heap (Priority Queue)
 104. Maximum Depth of Binary Tree
 
 Easy
-Tree
-Depth-First Search
-Breadth-First Search
-Binary Tree
 105. Construct Binary Tree from Preorder and Inorder Traversal
 
 Med.
-Array
-Hash Table
-Divide and Conquer
-Tree
-1+
 621. Task Scheduler
 
 Med.
-Array
-Hash Table
-Greedy
-Sorting
-2+
 110. Balanced Binary Tree
 
 Easy
-Tree
-Depth-First Search
-Binary Tree
 115. Distinct Subsequences
 
 Hard
-String
-Dynamic Programming
 121. Best Time to Buy and Sell Stock
 
 Easy
-Array
-Dynamic Programming
 124. Binary Tree Maximum Path Sum
 
 Hard
-Dynamic Programming
-Tree
-Depth-First Search
-Binary Tree
 125. Valid Palindrome
 
 Easy
-Two Pointers
-String
 127. Word Ladder
 
 Hard
-Hash Table
-String
-Breadth-First Search
 128. Longest Consecutive Sequence
 
 Med.
-Array
-Hash Table
-Union Find
 130. Surrounded Regions
 
 Med.
-Array
-Depth-First Search
-Breadth-First Search
-Union Find
-1+
 131. Palindrome Partitioning
 
 Med.
-String
-Dynamic Programming
-Backtracking
 133. Clone Graph
 
 Med.
-Hash Table
-Depth-First Search
-Breadth-First Search
-Graph
 134. Gas Station
 
 Med.
-Array
-Greedy
 647. Palindromic Substrings
 
 Med.
-Two Pointers
-String
-Dynamic Programming
 136. Single Number
 
 Easy
-Array
-Bit Manipulation
 138. Copy List with Random Pointer
 
 Med.
-Hash Table
-Linked List
 139. Word Break
 
 Med.
-Array
-Hash Table
-String
-Dynamic Programming
-2+
 141. Linked List Cycle
 
 Easy
-Hash Table
-Linked List
-Two Pointers
 143. Reorder List
 
 Med.
-Linked List
-Two Pointers
-Stack
-Recursion
 146. LRU Cache
 
 Med.
-Hash Table
-Linked List
-Design
-Doubly-Linked List
 150. Evaluate Reverse Polish Notation
 
 Med.
-Array
-Math
-Stack
 152. Maximum Product Subarray
 
 Med.
-Array
-Dynamic Programming
 153. Find Minimum in Rotated Sorted Array
 
 Med.
-Array
-Binary Search
 155. Min Stack
 
 Med.
-Stack
-Design
 678. Valid Parenthesis String
 
 Med.
-String
-Dynamic Programming
-Stack
-Greedy
 167. Two Sum II - Input Array Is Sorted
 
 Med.
-Array
-Two Pointers
-Binary Search
 1584. Min Cost to Connect All Points
 
 Med.
-Array
-Union Find
-Graph
-Minimum Spanning Tree
 684. Redundant Connection
 
 Med.
-Depth-First Search
-Breadth-First Search
-Union Find
-Graph
 695. Max Area of Island
 
 Med.
-Array
-Depth-First Search
-Breadth-First Search
-Union Find
-1+
 190. Reverse Bits
 
 Easy
-Divide and Conquer
-Bit Manipulation
 191. Number of 1 Bits
 
 Easy
-Divide and Conquer
-Bit Manipulation
 198. House Robber
 
 Med.
-Array
-Dynamic Programming
 199. Binary Tree Right Side View
 
 Med.
-Tree
-Depth-First Search
-Breadth-First Search
-Binary Tree
 200. Number of Islands
 
 Med.
-Array
-Depth-First Search
-Breadth-First Search
-Union Find
-1+
 202. Happy Number
 
 Easy
-Hash Table
-Math
-Two Pointers
 206. Reverse Linked List
 
 Easy
-Linked List
-Recursion
 207. Course Schedule
 
 Med.
-Depth-First Search
-Breadth-First Search
-Graph
-Topological Sort
 208. Implement Trie (Prefix Tree)
 
 Med.
-Hash Table
-String
-Design
-Trie
 210. Course Schedule II
 
 Med.
-Depth-First Search
-Breadth-First Search
-Graph
-Topological Sort
 211. Design Add and Search Words Data Structure
 
 Med.
-String
-Depth-First Search
-Design
-Trie
 212. Word Search II
 
 Hard
-Array
-String
-Backtracking
-Trie
-1+
 213. House Robber II
 
 Med.
-Array
-Dynamic Programming
 215. Kth Largest Element in an Array
 
 Med.
-Array
-Divide and Conquer
-Sorting
-Heap (Priority Queue)
-1+
 217. Contains Duplicate
 
 Easy
-Array
-Hash Table
-Sorting
 226. Invert Binary Tree
 
 Easy
-Tree
-Depth-First Search
-Breadth-First Search
-Binary Tree
 739. Daily Temperatures
 
 Med.
-Array
-Stack
-Monotonic Stack
 1143. Longest Common Subsequence
 
 Med.
-String
-Dynamic Programming
 230. Kth Smallest Element in a BST
 
 Med.
-Tree
-Depth-First Search
-Binary Search Tree
-Binary Tree
 743. Network Delay Time
 
 Med.
-Depth-First Search
-Breadth-First Search
-Graph
-Heap (Priority Queue)
-1+
 235. Lowest Common Ancestor of a Binary Search Tree
 
 Med.
-Tree
-Depth-First Search
-Binary Search Tree
-Binary Tree
 746. Min Cost Climbing Stairs
 
 Easy
-Array
-Dynamic Programming
 238. Product of Array Except Self
 
 Med.
-Array
-Prefix Sum
 239. Sliding Window Maximum
 
 Hard
-Array
-Queue
-Sliding Window
-Heap (Priority Queue)
-1+
 242. Valid Anagram
 
 Easy
-Hash Table
-String
-Sorting
 252. Meeting Rooms
 
 Easy
-Array
-Sorting
 253. Meeting Rooms II
 
 Med.
-Array
-Two Pointers
-Greedy
-Sorting
-2+
 763. Partition Labels
 
 Med.
-Hash Table
-Two Pointers
-String
-Greedy
 261. Graph Valid Tree
 
 Med.
-Depth-First Search
-Breadth-First Search
-Union Find
-Graph
 268. Missing Number
 
 Easy
-Array
-Hash Table
-Math
-Binary Search
-2+
 269. Alien Dictionary
 
 Hard
-Array
-String
-Depth-First Search
-Breadth-First Search
-2+
 271. Encode and Decode Strings
 
 Med.
-Array
-String
-Design
 703. Kth Largest Element in a Stream
 
 Easy
-Tree
-Design
-Binary Search Tree
-Heap (Priority Queue)
-2+
 704. Binary Search
 
 Easy
-Array
-Binary Search
 778. Swim in Rising Water
 
 Hard
-Array
-Binary Search
-Depth-First Search
-Breadth-First Search
-3+
 286. Walls and Gates
 
 Med.
-Array
-Breadth-First Search
-Matrix
 287. Find the Duplicate Number
 
 Med.
-Array
-Two Pointers
-Binary Search
-Bit Manipulation
 787. Cheapest Flights Within K Stops
 
 Med.
-Dynamic Programming
-Depth-First Search
-Breadth-First Search
-Graph
-2+
 295. Find Median from Data Stream
 
 Hard
-Two Pointers
-Design
-Sorting
-Heap (Priority Queue)
-1+
 297. Serialize and Deserialize Binary Tree
 
 Hard
-String
-Tree
-Depth-First Search
-Breadth-First Search
-2+
 300. Longest Increasing Subsequence
 
 Med.
-Array
-Binary Search
-Dynamic Programming
 309. Best Time to Buy and Sell Stock with Cooldown
 
 Med.
-Array
-Dynamic Programming
 312. Burst Balloons
 
 Hard
-Array
-Dynamic Programming
 322. Coin Change
 
 Med.
-Array
-Dynamic Programming
-Breadth-First Search
 323. Number of Connected Components in an Undirected Graph
 
 Med.
-Depth-First Search
-Breadth-First Search
-Union Find
-Graph
 329. Longest Increasing Path in a Matrix
 
 Hard
-Array
-Dynamic Programming
-Depth-First Search
-Breadth-First Search
-4+
 332. Reconstruct Itinerary
 
 Hard
-Depth-First Search
-Graph
-Eulerian Circuit
 338. Counting Bits
 
 Easy
-Dynamic Programming
-Bit Manipulation
 347. Top K Frequent Elements
 
 Med.
-Array
-Hash Table
-Divide and Conquer
-Sorting
-4+
 355. Design Twitter
 
 Med.
-Hash Table
-Linked List
-Design
-Heap (Priority Queue)
 846. Hand of Straights
 
 Med.
-Array
-Hash Table
-Greedy
-Sorting
 371. Sum of Two Integers
 
 Med.
-Math
-Bit Manipulation
 853. Car Fleet
 
 Med.
-Array
-Stack
-Sorting
-Monotonic Stack
 875. Koko Eating Bananas
 
 Med.
-Array
-Binary Search
 416. Partition Equal Subset Sum
 
 Med.
-Array
-Dynamic Programming
 417. Pacific Atlantic Water Flow
 
 Med.
-Array
-Depth-First Search
-Breadth-First Search
-Matrix
 424. Longest Repeating Character Replacement
 
 Med.
-Hash Table
-String
-Sliding Window
 435. Non-overlapping Intervals
 
 Med.
-Array
-Dynamic Programming
-Greedy
-Sorting
 1851. Minimum Interval to Include Each Query
 
 Hard
-Array
-Binary Search
-Line Sweep
-Sorting
-1+
 1899. Merge Triplets to Form Target Triplet
 
 Med.
-Array
-Greedy
 494. Target Sum
 
 Med.
-Array
-Dynamic Programming
-Backtracking
 973. K Closest Points to Origin
 
 Med.
-Array
-Math
-Divide and Conquer
-Geometry
-3+
 981. Time Based Key-Value Store
 
 Med.
-Hash Table
-String
-Binary Search
-Design
