@@ -3,7 +3,6 @@
 class Solution:
     def minIncrementForUnique(self, nums: List[int]) -> int:
         nums.sort()
-        print(nums)
 
         prevVals = set()
         maxVal = -inf
