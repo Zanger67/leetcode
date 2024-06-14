@@ -1,1 +1,0 @@
-# Leetcode Progress Updater
