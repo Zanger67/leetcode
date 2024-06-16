@@ -2,6 +2,36 @@
 
 Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
+NOTE: found a weird sitch where leetcode website was showing 199 solved, showing three less mediums
+after the recent contest, the easy count updated correctly so i realized it wasnt an issue with the counter or it
+not being updated for the new contest questions so idk
+
+ran a comparison and found that 4 questions on my end that i had files for weren't in the leetcode record
+
+```terminal
+PS C:\Users\antho\Documents\cs\projects\leetcode> & "C:/Program Files (x86)/pypy3.10-v7.3.15-win64/python.exe" c:/Users/antho/Documents/cs/projects/leetcode/temp.py
+mine:
+{1, 52, 2, 43, 3, 34, 7, 28, 8, 17, 9, 56, 14, 19, 45, 20, 40, 21, 64, 22, 74, 24, 25, 59, 26, 27, 57, 42, 36, 46, 78, 48, 49, 68, 66, 69, 38, 70, 71, 50, 75, 63, 77, 84, 44, 111, 114, 65, 118, 125, 47, 128, 129, 141, 143, 150, 51, 155, 54, 166, 167, 61, 175, 76, 176, 177, 37, 181, 182, 183, 184, 189, 196, 62, 197, 217, 224, 227, 238, 239, 242, 251, 260, 271, 273, 30, 286, 292, 314, 330, 344, 345, 53, 347, 366, 80, 374, 394, 408, 35, 409, 55, 412, 72, 414, 475, 502, 523, 535, 86, 543, 60, 572, 577, 584, 586, 595, 596, 607, 611, 619, 645, 648, 651, 654, 85, 665, 692, 58, 739, 744, 771, 88, 784, 846, 853, 861, 867, 909, 921, 945, 946, 950, 82, 974, 987, 994, 1002, 1006, 1030, 1046, 1051, 1068, 1087, 1122, 1171, 1184, 1218, 1249, 1252, 1255, 1265, 94, 1284, 1302, 1315, 1317, 1351, 1404, 1426, 1436, 79, 1442, 1455, 1460, 1470, 1474, 73, 1481, 1502, 1525, 1
+
+leetcode:
+{1, 9, 14, 20, 21, 26, 27, 28, 66, 69, 70, 111, 118, 125, 141, 175, 181, 182, 183, 196, 197, 217, 242, 292, 344, 345, 374, 408, 409, 412, 414, 543, 572, 577, 584, 586, 595, 596, 607, 619, 645, 744, 771, 867, 1002, 1030, 1046, 1051, 1068, 1122, 1184, 1252, 1317, 1351, 1426, 1436, 1455, 1460, 1470, 1474, 1502, 1684, 1700, 1736, 1748, 1822, 1929, 2011, 2037, 2206, 2248, 2389, 2395, 2570, 2678, 2886, 2894, 2942, 3074, 3110, 3168, 3174, 3178, 3184, 2, 3, 7, 8, 19, 22, 24, 36, 46, 48, 49, 71, 74, 75, 77, 78, 114, 115, 128, 129, 143, 150, 166, 167, 176, 177, 184, 189, 227, 238, 251, 260, 271, 286, 314, 347, 366, 394, 426, 475, 523, 535, 611, 648, 
+651, 654, 665, 692, 739, 784, 846, 853, 861, 909, 921, 945, 946, 950, 974, 994, 1006, 1087, 1171, 1218, 1249, 1265, 1302, 1315, 1404, 1442, 1481, 1490, 1525, 1535, 1551, 1564, 1570, 1580, 1650, 1698, 1721, 1759, 1762, 1783, 1885, 1940, 2083, 2095, 2149, 2265, 2390, 2396, 2433, 2482, 2486, 2487, 2610, 2679, 2807, 2997, 3064, 3169, 3175, 3179, 3180, 3185, 3186, 25, 84, 224, 239, 273, 330, 502, 987, 1255, 1284, 2258}
+
+
+diff:
+{115, 426, 1490, 1650}
+
+```
+
+115 was a naming issue and was supposed to be 155 and i corrected that
+426, 1490, and 1650 on the other hand were correct, but when i clicked the link for the website via readme, i got 404 errors for each of them
+
+Found that this was the case no matter how i tried accessing, including if i used a priv browser or new session.
+
+not sure why this is the case
+
+other questions were working just fine.
+
 > *Note: if there are multiple files, it's likely a case of me having multiple solutions.*
 
 ## Stats by Language and Level
