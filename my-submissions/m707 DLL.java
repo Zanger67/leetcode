@@ -1,0 +1,173 @@
+class MyLinkedList {
+    private class Node {
+        public int val;
+        public Node next;
+        public Node prev;
+
+        public Node(int val, Node next, Node prev) {
+            this.val = val;
+            this.next = next;
+            this.prev = prev;
+        }
+        public Node(int val, Node prev) {
+            this(val, null, prev);
+        }
+        public Node(int val) {
+            this(val, null);
+        }
+    }
+    
+    public Node head;
+    public Node tail;
+    public int size;
+
+    public MyLinkedList() {
+        this.size = 0;
+    }
+    
+    public int get(int index) {
+        if (head == null || index >= size || index < 0) {
+            return -1;
+        }
+
+        Node current;
+        if (index > size / 2) {
+            current = tail;
+            for (int i = size - 1; i > index; i--) {
+                current = current.prev;
+            }
+        } else {
+            current = head;
+            for (int i = 0; i < index; i++) {
+                current = current.next;
+            }
+        }
+
+        return current.val;
+    }
+    
+    public void addAtHead(int val) {
+        if (head == null) {
+            head = new Node(val);
+            tail = head;
+        } else {
+            Node newHead = new Node(val);
+            newHead.next = head;
+            head.prev = newHead;
+            head = newHead;
+        }
+        size++;
+    }
+    
+    public void addAtTail(int val) {
+        if (tail == null) {
+            head = new Node(val);
+            tail = head;
+        } else {
+            Node newTail = new Node(val);
+            newTail.prev = tail;
+            tail.next = newTail;
+            tail = newTail;
+        }
+        size++;
+    }
+    
+    public void addAtIndex(int index, int val) {
+        if (index > size || index < 0) {
+            return;
+        }
+
+        if (index == 0) {
+            addAtHead(val);
+            return;
+        }
+
+        if (index == size) {
+            addAtTail(val);
+            return;
+        }
+
+        Node current;
+        if (index > size / 2) {
+            current = tail;
+
+            for (int i = size - 1; i > index - 1; i--) {
+                current = current.prev;
+            }
+        } else {
+            current = head;
+
+            for (int i = 0; i < index - 1; i++) {
+                current = current.next;
+            }
+        }
+
+        Node newNode = new Node(val, current.next, current);
+        current.next.prev = newNode;
+        current.next = newNode;
+
+        size++;
+    }
+    
+    public void deleteAtIndex(int index) {
+        if (index >= size || index < 0) {
+            return;
+        }
+
+        if (index == 0) {
+            if (size == 1) {
+                head = null;
+                tail = null;
+                size--;
+                return;
+            }
+
+            head = head.next;
+            head.prev = null;
+            size--;
+            return;
+        }
+
+        if (index == size - 1) {
+            tail = tail.prev;
+            tail.next = null;
+            size--;
+            return;
+        }
+
+        Node current;
+        if (index > size / 2) {
+            current = tail;
+
+            for (int i = size - 1; i > index - 1; i--) {
+                current = current.prev;
+            }
+
+            current.next = current.next.next;
+            if (current.next != null) {
+                current.next.prev = current;
+            }
+        } else {
+            current = head;
+
+            for (int i = 0; i < index - 1; i++) {
+                current = current.next;
+            }
+
+            current.next = current.next.next;
+            current.next.prev = current;
+        }
+
+        size--;
+    }
+}
+
+/**
+ * Your MyLinkedList object will be instantiated and called as such:
+ * MyLinkedList obj = new MyLinkedList();
+ * int param_1 = obj.get(index);
+ * obj.addAtHead(val);
+ * obj.addAtTail(val);
+ * obj.addAtIndex(index,val);
+ * obj.deleteAtIndex(index);
+ */
