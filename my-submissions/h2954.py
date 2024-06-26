@@ -1,0 +1,91 @@
+# NOTE: Literally on the edge of runtimes lol
+# Passes runtime ~50% of the time, other half it barely fails
+
+
+''' Notes
+
+if you have X _ _ _ X where X=sick and _=not sick, how many ways?
+
+We can count the gaps then multiple the number of ways each gap can do it
+
+1 person --> 1
+2 ppl --> 2
+3 ppl --> 4
+X__ XX_ XXX
+X__ X_X XXX
+__X _XX XXX
+__X X_X XXX
+
+X____ XX__ XXX_ XXXX
+X____ XX__ XX_X XXXX
+X____ XX__ X_XX XXXX
+X____ X__X X_XX XXXX
+X____ X__X XX_X XXXX
+...
+
+2*2*2*1?
+
+Cause we have left and right as a choice each time till the last where they merge
+
+Let n=size of gap
+
+# Ways = 2^(n-1)
+
+
+The leftmost group and rightmost group only have 1 way since they're
+against a wall figuratively speaking
+
+Edge cases (literally):
+X _ _ _ _   only 1 way
+_ X _       2 ways
+_ _ X       1 way
+_ X _ _     3 ways
+
+_ _ X _ _   6 ways
+Right-Left side is 4 choose 2?
+
+m+n choose m? it's a binary string method
+
+This also becomes a multimodal where we have all the groups and we 
+have to figure out how to order our choices
+
+
+FINAL FORMULA: 
+Product of:
+2^(g - 1) for each group surrounded by 2 sick individuals
+(L + R) choose (L) where L and R are the number of not sick people on the edges
+(n!)(a!b!c!...z!) where n=the total number of not sick indivudals 
+                    and a,b,c...= the size of each not sick group
+'''
+
+
+class Solution:
+    def numberOfSequence(self, n: int, sick: List[int]) -> int:
+        minn, maxx = sick[0], sick[-1]
+
+        totalToInfect = 0
+        groupSizes = [(0, 0)]
+        output = 1
+
+        if minn > 0 :
+            totalToInfect += minn
+            groupSizes.append((minn, minn))
+        if n - maxx - 1 > 0 :
+            count = n - maxx - 1
+            totalToInfect += count
+            groupSizes.append((count, count + groupSizes[-1][1]))
+
+        for i in range(1, len(sick)) :
+            numPeople = sick[i] - sick[i - 1] - 1
+            if numPeople > 0 :
+                totalToInfect += numPeople
+                groupSizes.append((numPeople, numPeople + groupSizes[-1][1]))
+                output *= 2 ** (numPeople - 1)
+
+        def multinomial(groups: List[Tuple[int, int]]):
+            modd = 10 ** 9 + 7
+            return math.prod(math.comb(x[1], x[0]) % (modd) for x in groups)
+
+        return (output * multinomial(groupSizes[1:])) % (10 ** 9 + 7)
+
+
