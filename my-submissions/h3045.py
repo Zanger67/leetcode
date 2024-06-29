@@ -1,0 +1,57 @@
+class Solution:
+    def countPrefixSuffixPairs(self, words: List[str]) -> int:
+        # Bidirectional as in from both sides of the string
+        # key = (x, y) --> x = ith char from front
+        #              --> y = ith char from end
+        # Goes full length of string so the chars cross
+        bidirectionalTrie = {}
+        for i, word in enumerate(words) :
+            curr = bidirectionalTrie
+            for j in range(len(word)) :
+                key = (word[j], word[len(word) - j - 1])
+                if key not in curr :
+                    curr[key] = {}
+                curr = curr[key]
+
+            if False not in curr :
+                curr[False] = []
+            curr[False].append(i)
+
+
+        # Finding if the current word works as a prefix/suffix
+        # of any word
+        counter = 0
+        for i, word in enumerate(words) :
+            curr = bidirectionalTrie
+
+            for j in range(len(word)) :
+                key = (word[j], word[len(word) - j - 1])
+                if key not in curr :
+                    continue
+                curr = curr[key]
+
+            counter += self.validWords(curr, i)
+
+        return counter
+
+
+    def validWords(self, trie: dict, lowerBoundIndx: int) -> int :
+        if not trie :
+            return 0
+
+        # lowerBoundIndx + 1 cause we don't want to match a
+        # word with itself. Plus, if it was equal, bisect_left/right
+        # would give us the leftmost or rightmost of its own value if
+        # it exists. We want the indx of the first greater than it
+        # so +1 bisect left will make it the next bigger no matter what
+        output = 0
+        if False in trie :
+            indxSplit = bisect_left(trie[False], lowerBoundIndx + 1)
+            if indxSplit < len(trie[False]) :
+                output += len(trie[False]) - indxSplit
+
+        for k, v in trie.items() :
+            if k :
+                output += self.validWords(v, lowerBoundIndx)
+
+        return output
