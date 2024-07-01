@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/counting-elements/description/
-
 // Oddly stated question
 /* Wasnt sure if they wanted the repeat values to be like n*m, min(n,m), or whatnot
  * In the end tinkering found that what the test cases search for is just n as in n

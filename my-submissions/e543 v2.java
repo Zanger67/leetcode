@@ -1,8 +1,4 @@
-// https://leetcode.com/problems/diameter-of-binary-tree/submissions/1276753436/?envType=problem-list-v2&envId=r9zp3ka3
-
 // Beats 100% 
-
-
 
 /**
  * Definition for a binary tree node.

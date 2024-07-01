@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/
-
 class Solution:
     def answerQueries(self, nums: List[int], queries: List[int]) -> List[int]:
         nums = sorted(nums) 

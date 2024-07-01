@@ -1,8 +1,4 @@
-// https://leetcode.com/problems/count-the-number-of-consistent-strings/
-
 // Pure brute force
-
-
 int countConsistentStrings(char * allowed, char ** words, int wordsSize){
     int output = 0;
 

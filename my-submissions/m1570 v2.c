@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
-
-
 typedef struct {
     int* nums;
     int numsSize;

@@ -1,7 +1,3 @@
-# https://leetcode.com/problems/reverse-integer/description/
-
-
-
 class Solution:
     ''' Thought Process
         32-bit integer stored in 2s-comp

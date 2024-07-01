@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/count-number-of-homogenous-substrings/description/
-
 long helper(long orig, long substrLen) {
     return (orig + (substrLen + 1) * substrLen / 2) % (1000000000 + 7);
 }

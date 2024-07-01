@@ -1,8 +1,4 @@
-# https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
-
-
 # O(1) SPACE ATTEMPT
-
 """
 # Definition for a Node.
 class Node:

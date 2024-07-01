@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/department-highest-salary/description/
-
 # Write your MySQL query statement below
 SELECT d.name as 'Department',
         e.name as 'Employee',

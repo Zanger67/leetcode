@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/string-to-integer-atoi/description/
-
 class Solution:
     def myAtoi(self, s: str) -> int:
         if len(s.replace(' ', '')) == 0 :

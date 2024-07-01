@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
-
-
 class SparseVector {
     
     private HashMap<Integer, Integer> vals = new HashMap<>();

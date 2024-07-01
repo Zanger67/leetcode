@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/combinations/description/
-
 # Most straight forwards method given python avalibility :v
 # Also by farrrrrr the most efficient since it's a built-in function
 # and shows as such in the runtime percentages

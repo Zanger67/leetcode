@@ -1,5 +1,3 @@
--- https://leetcode.com/problems/find-customer-referee/
-
 SELECT
     c.name
 FROM

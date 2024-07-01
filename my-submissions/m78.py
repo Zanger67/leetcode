@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/subsets/description/
-
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         output = []

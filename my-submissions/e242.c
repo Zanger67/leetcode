@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/valid-anagram/description/
-
 bool isAnagram(char* s, char* t) {
     int letters[26] = {0};
 

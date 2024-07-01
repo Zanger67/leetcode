@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/valid-triangle-number
-
-
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         self.output = []

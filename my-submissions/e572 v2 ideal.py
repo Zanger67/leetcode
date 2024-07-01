@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/subtree-of-another-tree/description/?envType=problem-list-v2&envId=r9zp3ka3
-
 # Very fast (98%+) damn
 # Stringification is niceeeeeee
 

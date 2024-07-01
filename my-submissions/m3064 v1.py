@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i/
-
 # Definition of commonSetBits API.
 # def commonSetBits(num: int) -> int:
 

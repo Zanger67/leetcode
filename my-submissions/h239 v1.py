@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/sliding-window-maximum/description/
-
 # Extremly low space efficiency but it passes soooo (5% margine consistently)
 # Runtime is similarly in the [0,25] region
 

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/largest-rectangle-in-histogram/description/
-
 # V2 that's *slightly* better but still not the greatest
 
 class Solution:

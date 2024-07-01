@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
-
-
 # Two pointer method
 
 # Definition for singly-linked list.

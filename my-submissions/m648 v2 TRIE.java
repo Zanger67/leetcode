@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/replace-words/description/?envType=daily-question&envId=2024-06-07
-
-
 // This could be better optimized by just having an array of 26 elements instead of a hashmap
 // HashMap creation results in major cost time-wise and complexity (space) wise
 // Since it's mapped to 26 lowercase chars, it's simpler that way since the spots will just be null

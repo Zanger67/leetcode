@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/strictly-palindromic-number/
-
 /**
  * @param {number} n
  * @return {boolean}

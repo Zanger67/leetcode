@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/permutations/
-
 # Since using itertools defeats the purpose of this quesiton lol
 
 class Solution:

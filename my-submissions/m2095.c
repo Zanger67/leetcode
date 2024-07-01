@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/
-
-
 // Took ~1.5 minutes --> did it right after the java vers
 
 /**

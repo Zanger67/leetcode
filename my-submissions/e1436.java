@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/destination-city/description/
-
 class Solution {
     public String destCity(List<List<String>> paths) {
         HashSet<String> srcs = new HashSet<>();

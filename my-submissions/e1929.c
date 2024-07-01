@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/concatenation-of-array/description/
-
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */

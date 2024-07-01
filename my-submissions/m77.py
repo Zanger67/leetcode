@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/combinations/description/
-
 # Manual version to demonstrate understanding
 
 class Solution:

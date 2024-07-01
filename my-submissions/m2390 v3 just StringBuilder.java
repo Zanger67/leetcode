@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/removing-stars-from-a-string/
-
 // 85-90% region!
 
 class Solution {

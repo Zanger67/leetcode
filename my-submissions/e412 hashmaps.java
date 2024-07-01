@@ -1,8 +1,5 @@
-// https://leetcode.com/problems/fizz-buzz/description/
-
 // CAUSE WHY NOT
 // It's slower though than the alternative unfortunately :l
-
 
 class Solution {
     public List<String> fizzBuzz(int n) {

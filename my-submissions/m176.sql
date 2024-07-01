@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/second-highest-salary/description/
-
-
 SELECT IFNULL(
     (SELECT DISTINCT salary
         FROM Employee e

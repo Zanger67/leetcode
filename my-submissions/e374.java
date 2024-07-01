@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/guess-number-higher-or-lower/description/
-
 // This is just bin search but with casting to long cause of int overflow lol
 
 /** 

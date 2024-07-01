@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/set-mismatch/
-
 // Not that good of a runtime
 
 class Solution {

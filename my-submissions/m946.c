@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/validate-stack-sequences/description/
-
-
 bool validateStackSequences(int* pushed, int pushedSize, int* popped, int poppedSize) {
     int stack[pushedSize];
     memset(stack, 0, sizeof(int) * pushedSize);

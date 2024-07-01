@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
-
 // Simpler O(1) solution with a lottttt less if statements lol
 
 /**

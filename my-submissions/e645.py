@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/set-mismatch/description/
-
-
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         correctSum = ((1 + len(nums)) * len(nums)) // 2

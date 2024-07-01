@@ -1,7 +1,4 @@
-# https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
 # 1 - Linear space and time complexity (due to recursive stack being linear)
-
-
 # Very easy question on just datastructure understanding /shrug
 
 # """

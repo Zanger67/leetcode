@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/
-
 // Same as v1 python just using Java
 
 class Solution {

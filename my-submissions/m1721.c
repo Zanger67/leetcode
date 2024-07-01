@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/
-
 /* Took 3:05 total -- first attempt was in C and was quick despite that hehe
  * 97.79% runtime
  * 95.59% memory :D

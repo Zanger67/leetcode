@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
-
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         vals = []

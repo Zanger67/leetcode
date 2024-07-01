@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/?envType=daily-question&envId=2024-06-03
-
-
 # 5% for both memory and runtime sob
 
 

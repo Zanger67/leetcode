@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/count-pairs-in-two-arrays/
-
 class Solution:
     ''' Idea:
         nums1[i] + nums1[j] > nums2[i] + nums2[j]

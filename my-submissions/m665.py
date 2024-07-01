@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/non-decreasing-array/description/
-
 ''' Idea
     Go through each adjacent pairing until you find an increasing pairing
     

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/description/?envType=weekly-question&envId=2024-06-08
-
 class Solution:
     def numberOfSubstrings(self, s: str) -> int:
         counter = Counter(s)

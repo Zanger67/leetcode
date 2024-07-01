@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/set-mismatch/
-
 // Consistently 5% percentile --> bad runtime but works
 
 class Solution {

@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/biggest-single-number/description/
-
-
 SELECT 
     MAX(num) AS 'num'
 FROM (

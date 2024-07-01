@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/snakes-and-ladders/description/
-
 # I hate this question so much sigh. The way it's worded is terrible.
 
 class Solution:

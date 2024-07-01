@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/distance-between-bus-stops/
-
 ''' Notes
     A bit bulky but did it for the theoretical runtime savings. Still O(n) but 
     can save on the additional calclations if one direction is significantly

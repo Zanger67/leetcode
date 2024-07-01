@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/last-stone-weight/description/
-
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
         stoneCount = len(stones)

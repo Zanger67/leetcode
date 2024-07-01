@@ -1,7 +1,4 @@
-# https://leetcode.com/problems/number-of-good-ways-to-split-a-string/description/
-
 # Literally middle of the pact consistently [50, 70%]
-
 
 class Solution:
     def numSplits(self, s: str) -> int:

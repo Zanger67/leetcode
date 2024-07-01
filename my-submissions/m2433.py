@@ -1,10 +1,6 @@
-# https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
-
 ''' notes
     output[i] = x where x ^ output[i-1] == pref[i]
 '''
-
-
 
 # removal of the append increases runtime dramatically --> pre-defined arr len instead
 class Solution:

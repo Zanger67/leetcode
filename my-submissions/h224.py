@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/basic-calculator/description/
-
 # Terrible runtime but it passed lol
 # Will redo with a stack later
 

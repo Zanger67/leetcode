@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i/
-
 # As is the nature of someone using python, one-liner = funny haha
 
 # Definition of commonSetBits API.

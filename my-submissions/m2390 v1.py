@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/removing-stars-from-a-string/description/
-
 # firmly in the 50% region with little variance
 # From the right side using deque to skip characters
 

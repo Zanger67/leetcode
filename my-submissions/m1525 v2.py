@@ -1,8 +1,4 @@
-# https://leetcode.com/problems/number-of-good-ways-to-split-a-string/description/
-
-
 # V2 is a bit faster fluctuating around the 75% mark
-
 
 class Solution:
     def numSplits(self, s: str) -> int:

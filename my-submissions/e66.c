@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/plus-one/?envType=problem-list-v2&envId=r9zp3ka3
-
 // Beats 100% but this notably might have free() issues with output if it has a carry on the last digit :l
 
 /**

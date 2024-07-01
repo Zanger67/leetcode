@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/heaters/description/
-
 # Only issue encountered was I assumed that the arrays were sorted :l
 
 class Solution:

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
-
 # V2 was still using heapq which was now redundant since we sort either way at nlogn
 # Though it seems it may ever so slighly be slower? Need to run side-by-side tests to confirm
 

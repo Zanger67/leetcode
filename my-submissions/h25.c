@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/reverse-nodes-in-k-group/description/
-
 /* LET'S GOOOOOO 19 minutes using C hehe
  * Algo is O(n) runtime and O(n) space complexity
  * 

@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/
-
 int compareHelper(const void* one, const void* two) {
     if (*((int *) one) == *((int *) two)) {
         return 0;

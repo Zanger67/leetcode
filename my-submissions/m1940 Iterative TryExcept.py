@@ -1,4 +1,3 @@
-# https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/?envType=weekly-question&envId=2024-06-01
 # weekly premium question
 
 # Rank: 3

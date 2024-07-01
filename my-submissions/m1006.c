@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/clumsy-factorial/description/
-
 int clumsy(int n) {
     switch (n) {
         case 4 :

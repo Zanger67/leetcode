@@ -1,10 +1,5 @@
-# https://leetcode.com/problems/valid-word-abbreviation/description/
-
-
 # This is NOT an easy question lmao
 # It's not hard, it just has wayyyyy too many edge cases that can only be found via submitting sigh
-
-
 
 class Solution:
     def validWordAbbreviation(self, word: str, abbr: str) -> bool:

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/top-k-frequent-elements/description/
-
 # Prompt follow up: Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
 
 class Solution:

@@ -1,7 +1,3 @@
-# https://leetcode.com/problems/4-keys-keyboard/description/
-
-
-
 ''' Planning
     Takes 2 wasted moves to start "pasting" CtrlA-CtrlC-CtrlV
 

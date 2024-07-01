@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/guess-number-higher-or-lower/description/
-
-
 # The guess API is already defined for you.
 # @param num, your guess
 # @return -1 if num is higher than the picked number

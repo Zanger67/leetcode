@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/description/
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {

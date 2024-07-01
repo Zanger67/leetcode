@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/encode-and-decode-strings/description/
-
 # This is designed to split the strings by delimiter with a number preceding in
 # order to track the string lengths
 

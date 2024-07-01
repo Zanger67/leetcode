@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
-
 // v1 is inefficient since I didn't see that it was sorted both vertically
 // and horizontally and that it was a static mxn matrix so I wouldn't
 // have to worry about bounds.

@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/removing-stars-from-a-string/description/
-
-
 # Much faster 95% region
 
 class Solution:

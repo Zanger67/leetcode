@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/continuous-subarray-sum/description/?envType=daily-question&envId=2024-06-08
-
 ''' Notes
     If we have a leftPointer and rightPointer, they can move along
     like a sliding window, adding the new items and subtracting the

@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/shuffle-the-array/description/
-
 // I presume this is much faster cause there's no multiplication anymore
 
 /**

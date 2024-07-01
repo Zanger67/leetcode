@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/
-
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
         brackets = []

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06
-
 # I suspect it may be easier/more efficient if I use a counter / dict and match keys but this does
 # consistently work at 80%+ on both runtime and space
 

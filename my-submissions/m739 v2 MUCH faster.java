@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/daily-temperatures/
-
 // Saw this solution and tried it myself and oh my is it elegant. Beautiful solution.
 
 class Solution {

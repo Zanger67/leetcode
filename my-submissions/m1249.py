@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/
-
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         output = list(s)

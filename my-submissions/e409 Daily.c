@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/longest-palindrome/
-
-
 int longestPalindrome(char* s) {
     int* reference = (int*) malloc(sizeof(int) * 52);
 

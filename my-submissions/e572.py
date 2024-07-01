@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/subtree-of-another-tree/description/?envType=problem-list-v2&envId=r9zp3ka3
-
 # A bit on the slower half of runtimes but workssss :l
 
 # Definition for a binary tree node.

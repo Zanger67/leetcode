@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/customers-who-never-order/description/
-
 
 SELECT
     name AS 'Customers'

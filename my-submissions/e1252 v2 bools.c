@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/
-
 // Swapped to using bools but for some reason it's slower than ints hm
 // Memory is also worse oddly
 

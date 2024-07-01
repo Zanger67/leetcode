@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/plus-one/?envType=problem-list-v2&envId=r9zp3ka3
-
 // Version that doesn't deal with the free() issue but uses some more memory in the process during shifting :v
 
 /**

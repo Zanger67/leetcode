@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/encode-and-decode-tinyurl/description/
-
 # Ain't no way this would work... right
 # LMAO it did
 

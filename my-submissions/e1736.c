@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/description/
-
 char* maximumTime(char* time) {
     // Hours
     if (time[0] == '?' && time[1] == '?') {

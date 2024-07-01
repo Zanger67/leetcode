@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/
-
 """
 # Definition for a Node.
 class Node:

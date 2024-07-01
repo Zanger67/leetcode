@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/
-
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */

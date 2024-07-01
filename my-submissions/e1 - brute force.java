@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/two-sum/description/
 // Slow and O(n^2)
 
 // See alternative OTHER for hashmap solution

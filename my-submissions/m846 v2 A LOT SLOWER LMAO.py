@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06
-
 # I WAS WRONG IT'S A LOTTTT SLOWER LMAO AS IN ~10% RUNTIME AND ~30% SPACE LOL
 # Still works tho 
 

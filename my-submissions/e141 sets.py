@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/linked-list-cycle/description/?envType=daily-question&envId=2024-06-04
-
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):

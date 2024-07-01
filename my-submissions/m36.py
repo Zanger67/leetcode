@@ -1,4 +1,3 @@
-# https://leetcode.com/problems/valid-sudoku/
 # O(3n)
 
 ''' Ideas

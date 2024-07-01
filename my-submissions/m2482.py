@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/
-
 class Solution:
     def onesMinusZeros(self, grid: List[List[int]]) -> List[List[int]]:
         rowCounts = [0] * len(grid)

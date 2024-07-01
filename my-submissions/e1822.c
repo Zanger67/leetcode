@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/sign-of-the-product-of-an-array/description/
-
-
 int arraySign(int* nums, int numsSize) {
     bool out = true;
     for (int i = 0; i < numsSize; i++) {

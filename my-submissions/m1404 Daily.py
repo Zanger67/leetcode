@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2024-05-29
-
-
 ''' Ideas
     We can just go right to left. 
     - If rightmost bit is 0, +1 step and shift position left 1

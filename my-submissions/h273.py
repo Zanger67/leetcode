@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/integer-to-english-words/description/
-
 class Solution:
     def numberToWords(self, num: int) -> str:
         expressions = ['', 

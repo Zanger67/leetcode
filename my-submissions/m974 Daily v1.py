@@ -1,7 +1,4 @@
-# https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=daily-question&envId=2024-06-09
-
 # Weirdly slow hm --> ~5% runtime consistely
-
 
 class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:

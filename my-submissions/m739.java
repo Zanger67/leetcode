@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/daily-temperatures/
-
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
         Stack<int[]> previousMaxes = new Stack<>();  // Schema (temp, indx)

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/
-
 # Inefficient brute force solution using high memory and sets but works
 
 class Solution:

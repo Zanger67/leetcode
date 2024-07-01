@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
-
 // O(1) space let's gooooo
 
 /**

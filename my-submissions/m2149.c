@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
-
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */

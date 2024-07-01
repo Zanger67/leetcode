@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/find-the-winner-of-an-array-game/
-
 # Did this one cause apparently it was very close tot he BW 132 contest q2 and it was lol
 class Solution:
     def getWinner(self, arr: List[int], k: int) -> int:

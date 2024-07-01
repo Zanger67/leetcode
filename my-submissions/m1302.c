@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/deepest-leaves-sum/description/
-
 // Not that efficient :l
 // probs cause of all the mallocing
 

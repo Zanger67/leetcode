@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/score-after-flipping-matrix/description/
-
-
 void flipCol(int** grid, int targetCol, int numRows) {
     for (int i = 0; i < numRows; i++) {
         grid[i][targetCol] = (grid[i][targetCol] == 1) ? 0 : 1;

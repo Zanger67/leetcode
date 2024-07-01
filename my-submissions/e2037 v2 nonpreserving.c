@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/
-
-
 // Faster version where you don't copy and free
 // "Destroys" the original data in the sense that it's reordered
 

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/nim-game/description/
-
 ''' Notes
     1 - true
     2 - true

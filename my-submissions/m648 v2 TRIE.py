@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/replace-words/description/?envType=daily-question&envId=2024-06-07
-
 # V2 using Trie method that consistently hits 98% runtime but hovers around 60% memory
 
 class Solution:

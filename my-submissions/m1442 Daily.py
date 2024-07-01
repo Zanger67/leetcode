@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/?envType=daily-question&envId=2024-05-30
-
 ''' Notes
     Negation of XOR is Biconditional 
     i.e. p <-> q

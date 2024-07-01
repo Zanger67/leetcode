@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/intersection-of-multiple-arrays/description/
-
-
 class Solution:
     def intersection(self, nums: List[List[int]]) -> List[int]:
         current = set(nums[0])

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/
-
 class Solution:
     def findMatrix(self, nums: List[int]) -> List[List[int]]:
         cnt = Counter(nums)

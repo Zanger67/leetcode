@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/top-k-frequent-words/description/
-
 # Sorting and heapifying are both nlogn so i thought it would be simpler
 # this way since it uses native functions vs us iterating
 # and flipping priorities to negative to create a max heap via

@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/longest-consecutive-sequence/description/
-
-
 # O(n) solution babyyyy
 
 class Solution:

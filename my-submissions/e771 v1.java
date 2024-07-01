@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/jewels-and-stones/
-
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
         Set<Character> jw = new HashSet<>();

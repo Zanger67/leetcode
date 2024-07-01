@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/
-
-
 # Solution is O(n) both space and time
 class Solution:
     def longestSubsequence(self, arr: List[int], difference: int) -> int:

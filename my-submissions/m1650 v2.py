@@ -1,7 +1,4 @@
-# https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
-
 # Optimized version to account for very large graphs since we don't know which one is lower
-
 """
 # Definition for a Node.
 class Node:

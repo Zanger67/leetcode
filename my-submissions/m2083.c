@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/description/?envType=weekly-question&envId=2024-06-08
-
-
 long long numberOfSubstrings(char* s) {
     long numChars[26] = {0};
 

@@ -1,8 +1,5 @@
-# https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
-
 # Notably more efficient amortized & better space efficiency if highly sparse
 # THIS IN EFFECT IS SIMILAR TO THE INDEX-PAIRS METHOD
-
 
 class SparseVector:
     def __init__(self, nums: List[int]):

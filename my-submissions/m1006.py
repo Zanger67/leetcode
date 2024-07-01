@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/clumsy-factorial/description/
-
-
 class Solution:
     def clumsy(self, n: int) -> int:
         match n :

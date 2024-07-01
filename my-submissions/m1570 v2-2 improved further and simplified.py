@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
-
 # Similar to the previous v2 version but optimized after recognizing the lack of need for
 # two independent sets
 

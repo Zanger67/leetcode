@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/longest-palindrome/description/?envType=daily-question&envId=2024-06-04
-
 class Solution:
     def longestPalindrome(self, s: str) -> int:
         cnt = Counter(s)

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/
-
 class Solution:
     def minOperations(self, n: int) -> int:
         # sum = (2 * n + 2) * n // 2

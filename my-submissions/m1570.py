@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
-
-
 class SparseVector:
     def __init__(self, nums: List[int]):
         self.nums = nums

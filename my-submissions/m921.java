@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/
-
 class Solution {
     public int minAddToMakeValid(String s) {
         Stack<Boolean> stk = new Stack<>();

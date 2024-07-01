@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/?envType=daily-question&envId=2024-06-03
-
-
 # V2
 # Consistently 95% memory since uses O(2) memory space lol
 # 30% region for runtime

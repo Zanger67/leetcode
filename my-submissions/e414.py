@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/third-maximum-number/description/
-
 # A bit needlessly complicated, but does it's job. Might be more efficient just to
 # use the max() and min() functions to initially set the 1st and 3rd maxes given the
 # added operations for large datasets, but eh.

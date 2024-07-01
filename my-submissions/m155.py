@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/min-stack/description/
-
 # Prompt: All operations must be O(1)
 
 class MinStack {

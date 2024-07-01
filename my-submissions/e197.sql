@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/rising-temperature/description/
-
 SELECT 
     w1.id
 FROM 

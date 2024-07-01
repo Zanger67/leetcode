@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=daily-question&envId=2024-06-09
-
-
 # I wanna redo this to understand the math
 
 class Solution:

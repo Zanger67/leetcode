@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
-
-
 # Mid to slow end runtime wise possibly due to the recursive stack BUT
 # is consistently 84%+ on space efficiency huh
 

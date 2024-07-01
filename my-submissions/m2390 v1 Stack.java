@@ -1,9 +1,5 @@
-// https://leetcode.com/problems/removing-stars-from-a-string/
-
-
 // Pretty good due to stringbuilder but the lack of a way to directly go to the result from stack
 // is kinda annoying lol
-
 
 class Solution {
     public String removeStars(String s) {

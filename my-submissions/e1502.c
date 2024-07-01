@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/
-
 int compareHelper(const void* one, const void* two) {
     return *((int *) one) - *((int *) two);
 }

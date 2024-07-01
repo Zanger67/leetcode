@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
-
 """
 # Definition for a Node.
 class Node:

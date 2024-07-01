@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/
-
-
 SELECT
     o.customer_number
 FROM 

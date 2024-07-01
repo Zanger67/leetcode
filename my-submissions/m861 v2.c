@@ -1,7 +1,4 @@
-// https://leetcode.com/problems/score-after-flipping-matrix/description/
-
 // Optimized to not have the final loop for calculating the sum
-
 
 void flipCol(int** grid, int targetCol, int numRows) {
     for (int i = 0; i < numRows; i++) {

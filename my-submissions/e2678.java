@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/number-of-senior-citizens/description/
-
 class Solution {
     public int countSeniors(String[] details) {
         int counter = 0;

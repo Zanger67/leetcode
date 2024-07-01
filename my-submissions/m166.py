@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/fraction-to-recurring-decimal/description/
-
-
 class Solution:
     def fractionToDecimal(self, numerator: int, denominator: int) -> str:
         pastDivs = dict()

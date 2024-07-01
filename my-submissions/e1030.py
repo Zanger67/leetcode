@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/matrix-cells-in-distance-order/
-
 # I'm sorry this is just funny to me lol
 
 class Solution:

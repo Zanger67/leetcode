@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
-
 /**
  * Definition for ImmutableListNode.
  * struct ImmutableListNode {

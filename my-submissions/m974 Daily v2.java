@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=daily-question&envId=2024-06-09
-
-
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
         HashMap<Integer, Integer> pastRemainders = new HashMap<>();

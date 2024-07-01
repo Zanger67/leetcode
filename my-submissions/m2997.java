@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/
-
 class Solution {
     public int minOperations(int[] nums, int k) {
         for (int num : nums) {

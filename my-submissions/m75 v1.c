@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2024-06-12
-
 void sortColors(int* nums, int numsSize) {
     int indx = 0;
     int currentRed = numsSize - 1;

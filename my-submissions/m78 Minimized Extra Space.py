@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/subsets/description/
-
 # Minimizes the number of array copies formed to consistently hit 97% space efficiency
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:

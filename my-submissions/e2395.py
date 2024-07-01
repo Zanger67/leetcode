@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/find-subarrays-with-equal-sum/description/
-
-
 class Solution:
     def findSubarrays(self, nums: List[int]) -> bool:
         sumsSet = set()

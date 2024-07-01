@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/count-number-of-homogenous-substrings/description/
-
 class Solution {
     public int countHomogenous(String s) {
         int leftIndx = 0;

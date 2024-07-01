@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/jewels-and-stones/
-
-
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
         HashMap<Character, Integer> cnt = new HashMap<>();

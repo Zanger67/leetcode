@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/valid-palindrome/description/
-
 bool isPalindrome(char* s) {
     int left = 0;
     int right = 0;

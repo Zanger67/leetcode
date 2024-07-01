@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/
-
-
 int compareHelper(const void* one, const void* two) {
     return *((int *) one) - *((int *) two);
 }

@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
-
 int finalValueAfterOperations(char** operations, int operationsSize) {
     int output = 0;
     

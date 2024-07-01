@@ -1,7 +1,4 @@
-# https://leetcode.com/problems/find-common-characters/description/?envType=daily-question&envId=2024-06-05
-
 # Daily
-
 # Doing this with bad wifi so I can barely submit so idc about efficiency lol
 
 

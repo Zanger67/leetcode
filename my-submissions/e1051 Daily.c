@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/height-checker/description/
-
-
 int compareHelper(const void* a, const void* b) {
     return *((int*) a) - *((int*) b);
 }

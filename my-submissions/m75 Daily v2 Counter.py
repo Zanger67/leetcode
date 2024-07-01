@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2024-06-12
-
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """

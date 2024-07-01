@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/fizz-buzz/description/
-
-
 class Solution {
     public List<String> fizzBuzz(int n) {
         ArrayList<String> output = new ArrayList<>();

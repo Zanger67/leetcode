@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/clone-n-ary-tree/
-
 """
 # Definition for a Node.
 class Node:

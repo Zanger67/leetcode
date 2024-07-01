@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/sum-of-unique-elements/description/
-
 // Brute forcey based on constraints but eh twas simpler
 // Plus consistently 100% runtime with typically good % memory
 

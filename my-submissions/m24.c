@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/swap-nodes-in-pairs/description/
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {

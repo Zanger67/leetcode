@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/largest-rectangle-in-histogram/description/
-
 # Primary issue is that with this method, if the histogram is increasing only, then
 # there are a LOT of checks and loops...
 # Could reverse but it's a matter of knowing whether it's primarily increasing or decreasing.

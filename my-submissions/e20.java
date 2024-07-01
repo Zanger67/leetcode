@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/valid-parentheses/description/
-
-
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> temp = new Stack<>();

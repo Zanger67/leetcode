@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/grand-slam-titles/description/
-
 # Write your MySQL query statement below
 SELECT player_id, 
         player_name, 

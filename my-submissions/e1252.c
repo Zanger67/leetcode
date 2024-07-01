@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/
-
-
 // Lot of loops but eh ill swap it around with bools
 
 

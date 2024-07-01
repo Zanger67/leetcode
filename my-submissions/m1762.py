@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/buildings-with-an-ocean-view/description/
-
-
 class Solution:
     def findBuildings(self, heights: List[int]) -> List[int]:
         output = []

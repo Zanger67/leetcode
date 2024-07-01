@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/fizz-buzz/description/
-
 # Cause funny hehe
 
 class Solution:

@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/big-countries/description/
-
-
 SELECT
     name, population, area
 FROM

@@ -1,7 +1,4 @@
-# https://leetcode.com/problems/product-of-array-except-self/
-
 # Question restriction: Must be O(n) and CANNOT use division
-
 # This is O(n) time, O(n) space
 
 class Solution:

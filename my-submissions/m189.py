@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/rotate-array/description/
-
 # Squarely in the range of [30%, 60%]
 
 class Solution:

@@ -1,5 +1,3 @@
--- https://leetcode.com/problems/sales-person/
-
 SELECT
     sp1.name
 FROM 

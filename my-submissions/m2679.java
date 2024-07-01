@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/sum-in-a-matrix/description/
-
 class Solution {
     public int matrixSum(int[][] nums) {
         int sum = 0;

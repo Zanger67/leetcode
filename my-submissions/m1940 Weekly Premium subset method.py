@@ -1,6 +1,4 @@
-# https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/?envType=weekly-question&envId=2024-06-01
 # weekly premium question
-
 # Rank: 1
 
 # Notably faster than the iterative approach, perhaps due to the O(1) set usage?

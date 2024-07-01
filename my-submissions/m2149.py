@@ -1,6 +1,3 @@
-# https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
-
-
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
         output = [0] * len(nums)

@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/non-decreasing-array/description/
-
 class Solution {
     public boolean checkPossibility(int[] nums) {
         for (int i = 1; i < nums.length; i++) {

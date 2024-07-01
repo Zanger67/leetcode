@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
-
 # Created this cause in theory for larger matrices it would be faster to use booleans instead of integers
 # But in this case it doesn't matter since we're restricted to 3x3s
 

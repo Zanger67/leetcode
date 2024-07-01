@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/climbing-stairs/description/
-
 class Solution:
     record = {}
     def climbStairs(self, n: int) -> int:
