@@ -1,34 +1,3 @@
-''' Concept idea:
-    In each Node, we have x children
-    In each TreeNode, we have 2 children
-
-    We can do a pseudo-level order pass of the Node tree
-    In each set of children, each child's right pointer points to the
-    child immediately to the right, etc. etc.
-
-    Each left pointer is reserved for the next level, i.e. one 
-    node deeper into the tree.
-
-    E.g.
-                   ___1____       -->       ___1
-                  /   |    \\     -->      /
-                 3    2     4     -->     3  --  2  --- 4
-               /  \\              -->   /
-              5    6              -->  5 --- 6
-
-    E.g. 2
-                   ___1______     -->       ___1                -->          1
-                  /   |      \\   -->      /                    -->         /
-                 3    2       4   -->     3 --------- 2 ---- 4  -->      __3__
-               /  \\   \\    /    -->   /            /      /   -->     /     \\
-              5    6     9  8     -->  5 -- 6       9      8    -->    5       2
-                                                                |-->    \\    / \\
-                                                                |-->     6   9   4
-                                                                |-->            /
-                                                                +-->           8
-'''
-
-
 """
 # Definition for a Node.
 class Node:
