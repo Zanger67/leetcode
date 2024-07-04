@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (167 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (168 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -92,6 +92,7 @@
 | 1046 | [Last Stone Weight](<https://leetcode.com/problems/last-stone-weight>)                                                                                                                   | Easy    | N150           | [solution](<../_1046. Last Stone Weight.md>)                                                          | py               | Jun 03, 2024    |
 | 1051 | [Height Checker](<https://leetcode.com/problems/height-checker>)                                                                                                                         | Easy    | Daily          | [solution](<../_1051. Height Checker.md>)                                                             | c, py            | Jun 09, 2024    |
 | 1052 | [Grumpy Bookstore Owner](<https://leetcode.com/problems/grumpy-bookstore-owner>)                                                                                                         | Medium  | Daily          | [solution](<../_1052. Grumpy Bookstore Owner.md>)                                                     | py               | Jun 20, 2024    |
+| 1101 | [The Earliest Moment When Everyone Become Friends](<https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends>)                                                     | Medium  | Weekly Premium | [solution](<../_1101. The Earliest Moment When Everyone Become Friends.md>)                           | py               | Jul 03, 2024    |
 | 1122 | [Relative Sort Array](<https://leetcode.com/problems/relative-sort-array>)                                                                                                               | Easy    | Daily          | [solution](<../_1122. Relative Sort Array.md>)                                                        | py, java         | Jun 10, 2024    |
 | 1184 | [Distance Between Bus Stops](<https://leetcode.com/problems/distance-between-bus-stops>)                                                                                                 | Easy    |                | [solution](<../_1184. Distance Between Bus Stops.md>)                                                 | py               | May 31, 2024    |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](<https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference>)                                                 | Medium  |                | [solution](<../_1218. Longest Arithmetic Subsequence of Given Difference.md>)                         | py               | May 31, 2024    |

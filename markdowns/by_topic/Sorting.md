@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (52 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (53 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -33,6 +33,7 @@
 |  987 | [Vertical Order Traversal of a Binary Tree](<https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>)                                                       | Hard    |                | [solution](<../_987. Vertical Order Traversal of a Binary Tree.md>)                             | py               | Jun 11, 2024    |
 | 1030 | [Matrix Cells in Distance Order](<https://leetcode.com/problems/matrix-cells-in-distance-order>)                                                                             | Easy    |                | [solution](<../_1030. Matrix Cells in Distance Order.md>)                                       | py               | Jun 03, 2024    |
 | 1051 | [Height Checker](<https://leetcode.com/problems/height-checker>)                                                                                                             | Easy    | Daily          | [solution](<../_1051. Height Checker.md>)                                                       | c, py            | Jun 09, 2024    |
+| 1101 | [The Earliest Moment When Everyone Become Friends](<https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends>)                                         | Medium  | Weekly Premium | [solution](<../_1101. The Earliest Moment When Everyone Become Friends.md>)                     | py               | Jul 03, 2024    |
 | 1122 | [Relative Sort Array](<https://leetcode.com/problems/relative-sort-array>)                                                                                                   | Easy    | Daily          | [solution](<../_1122. Relative Sort Array.md>)                                                  | py, java         | Jun 10, 2024    |
 | 1268 | [Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)                                                                                       | Medium  |                | [solution](<../_1268. Search Suggestions System.md>)                                            | py               | Jun 28, 2024    |
 | 1305 | [All Elements in Two Binary Search Trees](<https://leetcode.com/problems/all-elements-in-two-binary-search-trees>)                                                           | Medium  |                | [solution](<../_1305. All Elements in Two Binary Search Trees.md>)                              | java             | Jun 24, 2024    |
