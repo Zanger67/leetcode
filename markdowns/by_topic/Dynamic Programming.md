@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (15 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (16 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -10,6 +10,7 @@
 |   70 | [Climbing Stairs](<https://leetcode.com/problems/climbing-stairs>)                                                                         | Easy    | B75, N150 | [solution](<../_70. Climbing Stairs.md>)                                       | py           | May 22, 2024    |
 |  118 | [Pascal's Triangle](<https://leetcode.com/problems/pascals-triangle>)                                                                      | Easy    |           | [solution](<../_118. Pascal's Triangle.md>)                                    | py           | May 22, 2024    |
 |  121 | [Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>)                                         | Easy    | B75, N150 | [solution](<../_121. Best Time to Buy and Sell Stock.md>)                      | py           | Jul 03, 2024    |
+|  124 | [Binary Tree Maximum Path Sum](<https://leetcode.com/problems/binary-tree-maximum-path-sum>)                                               | Hard    | B75, N150 | [solution](<../_124. Binary Tree Maximum Path Sum.md>)                         | py           | Jul 04, 2024    |
 |  392 | [Is Subsequence](<https://leetcode.com/problems/is-subsequence>)                                                                           | Easy    |           | [solution](<../_392. Is Subsequence.md>)                                       | java         | Jun 21, 2024    |
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                                                       | Easy    |           | [solution](<../_509. Fibonacci Number.md>)                                     | c            | Jun 16, 2024    |
 |  542 | [01 Matrix](<https://leetcode.com/problems/01-matrix>)                                                                                     | Medium  |           | [solution](<../_542. 01 Matrix.md>)                                            | py           | Jun 26, 2024    |
