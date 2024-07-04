@@ -1,7 +1,6 @@
 # Daily
 # Doing this with bad wifi so I can barely submit so idc about efficiency lol
 
-
 class Solution:
     def commonChars(self, words: List[str]) -> List[str]:
         cnter = []

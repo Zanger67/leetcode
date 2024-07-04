@@ -1,11 +1,3 @@
-''' Notes
-    In essence, we have x positions and m balls, and we need to find AN ideal
-    way where we can place the m balls into m positions so that the min distance
-    between the balls is minimized
-
-    The ideal case will be (max(position) - min(position)) / (m - 1)
-'''
-
 class Solution:
     def maxDistance(self, position: List[int], m: int) -> int:
         position.sort()

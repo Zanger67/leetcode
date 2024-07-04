@@ -1,13 +1,3 @@
-''' Notes
-    If we have a leftPointer and rightPointer, they can move along
-    like a sliding window, adding the new items and subtracting the
-    leftmost items.
-
-    This would be at most O(n^2) since C(n, 2) would be
-    n!/(2!(n-2)!) aka n^2 (plus n cases where they are 
-    the same value but eh still n^2)
-'''
-
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
         if len(nums) <= 1 :

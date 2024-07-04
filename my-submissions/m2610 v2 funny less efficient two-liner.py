@@ -1,5 +1,3 @@
-# Cause funny python "1" (2) liner
-
 class Solution:
     def findMatrix(self, nums: List[int]) -> List[List[int]]:
         cnt = Counter(nums)

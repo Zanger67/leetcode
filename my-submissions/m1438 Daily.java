@@ -1,11 +1,3 @@
-/** Notes
-    We can store the max and min value going in each direction
-
-    Option 1: Brute force all options
-    Option 2: Sliding window
-        If we're above limit, we shift whichever pointer is leftmost += 1
- */
-
  class Solution {
     public int longestSubarray(int[] nums, int limit) {
         int output = 0;

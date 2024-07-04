@@ -1,10 +1,4 @@
-# 5% for both memory and runtime sob
-
-
-# I'm realizing in hindsight that a dictionary wasn't necessary since I could just
-# Iterate through using two pointers and it would still be O(m + n)
-
-# This is what I get for doing it the moment I wake up at 630am sob
+# bottom 5% for both memory and runtime damn
 
 class Solution:
     def appendCharacters(self, s: str, t: str) -> int:

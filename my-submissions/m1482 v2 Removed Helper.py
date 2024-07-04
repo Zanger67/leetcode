@@ -1,8 +1,3 @@
-''' Notes
-    This seems a lot like merge intervals where we need to find how many days till
-    sum(interval - remainder for interval in intervals) >= m * k
-'''
-
 class Solution:
     def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
 

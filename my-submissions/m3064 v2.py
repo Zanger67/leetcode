@@ -1,5 +1,3 @@
-# As is the nature of someone using python, one-liner = funny haha
-
 # Definition of commonSetBits API.
 # def commonSetBits(num: int) -> int:
 

@@ -1,9 +1,3 @@
-# If greater than root, root is part of output (indx 0) and we need to find first 
-# value greater than that for other node
-
-# If less than root, root is part of output (indx 1) and we have to find
-# smaller values go left
-
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):

@@ -1,16 +1,5 @@
 # Redo this at a later date
 
-
-''' Notes
-
-    If your target is [1, n] and you have [1, 6], then you can 
-    keep adding the next smallest value, extending your reach by 2x
-
-    The result is n - 6 = 2 ^ ? where ? is what you need to add,
-
-'''
-
-
 class Solution:
     def minPatches(self, nums: List[int], n: int) -> int:
         patches = 0

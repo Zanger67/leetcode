@@ -1,9 +1,3 @@
-''' Ideas
-    We can just go right to left. 
-    - If rightmost bit is 0, +1 step and shift position left 1
-    - If 1, +1 step and have a "carry" for the next 
-'''
-
 class Solution:
     def numSteps(self, s: str) -> int:
         counter = 0

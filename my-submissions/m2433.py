@@ -1,7 +1,3 @@
-''' notes
-    output[i] = x where x ^ output[i-1] == pref[i]
-'''
-
 # removal of the append increases runtime dramatically --> pre-defined arr len instead
 class Solution:
     def findArray(self, pref: List[int]) -> List[int]:

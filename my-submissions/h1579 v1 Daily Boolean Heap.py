@@ -1,8 +1,3 @@
-''' Instinct/Notes
-    In essence double prims where yuo always select the type 3s if present
-    and not redundant?
-'''
-
 class Solution:
     def maxNumEdgesToRemove(self, n: int, edges: List[List[int]]) -> int:
         totalEdges = len(edges)

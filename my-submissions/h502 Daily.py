@@ -1,11 +1,3 @@
-''' Notes
-    k   --> max number of projects
-    w   --> starting capital
-
-    profits     --> profit from project i
-    capital     --> investment needed for project i (NOT CONSUMED DURING MOVE)
-'''
-
 class Solution:
     def findMaximizedCapital(self, k: int, w: int, profits: List[int], capital: List[int]) -> int:
         usableVals = []

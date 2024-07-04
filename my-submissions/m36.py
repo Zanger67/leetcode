@@ -1,11 +1,5 @@
 # O(3n)
 
-''' Ideas
-    If we iterate through each row, col, and box, we can do it in O(3n)
-    We can have a map for each with the counter of how many of each value
-    If the sum of any square > 3 then we return false
-'''
-
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         rows = [defaultdict(int) for _ in range(9)]

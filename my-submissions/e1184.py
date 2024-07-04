@@ -1,9 +1,3 @@
-''' Notes
-    A bit bulky but did it for the theoretical runtime savings. Still O(n) but 
-    can save on the additional calclations if one direction is significantly
-    shorter than the other by not having to have the additional addition operations.
-'''
-
 class Solution:
     def distanceBetweenBusStops(self, distance: List[int], start: int, destination: int) -> int:
         counter, clockwise = start, start
