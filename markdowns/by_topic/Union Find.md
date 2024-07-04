@@ -1,0 +1,15 @@
+# [Union Find](<https://leetcode.com/tag/Union-Find/>) (7 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                                                                    | Level   | Cats      | Solution                                                                              | Languages   | Date Complete   |
+|-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:--------------------------------------------------------------------------------------|:------------|:----------------|
+|  128 | [Longest Consecutive Sequence](<https://leetcode.com/problems/longest-consecutive-sequence>)                                                             | Medium  | N150, B75 | [solution](<../_128. Longest Consecutive Sequence.md>)                                | java, py    | Jun 12, 2024    |
+|  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                                                   | Medium  | N150, B75 | [solution](<../_200. Number of Islands.md>)                                           | py          | Jun 16, 2024    |
+|  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                 | Medium  | N150      | [solution](<../_695. Max Area of Island.md>)                                          | c           | Jun 23, 2024    |
+| 1020 | [Number of Enclaves](<https://leetcode.com/problems/number-of-enclaves>)                                                                                 | Medium  |           | [solution](<../_1020. Number of Enclaves.md>)                                         | py          | Jun 26, 2024    |
+| 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                     | Medium  |           | [solution](<../_1254. Number of Closed Islands.md>)                                   | py          | Jun 26, 2024    |
+| 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](<https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable>) | Hard    | Daily     | [solution](<../_1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md>) | py          | Jun 30, 2024    |
+| 1905 | [Count Sub Islands](<https://leetcode.com/problems/count-sub-islands>)                                                                                   | Medium  |           | [solution](<../_1905. Count Sub Islands.md>)                                          | py          | Jun 24, 2024    |

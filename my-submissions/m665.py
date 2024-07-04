@@ -1,26 +1,3 @@
-''' Idea
-    Go through each adjacent pairing until you find an increasing pairing
-    
-    If found, check to see if it's the last value causing the decrease.
-        Return True if it is cause we can just change to be infinity or starmap
-        
-        Iterate through the values to the right of the issue section to see if
-        there's another issue. If there is, return False cause we're only alowed
-        to modify one value.
-
-        Return True if the problem value is the first pairing, since we can just
-        nums[0] = -inf to solve it
-
-        Return True if by deleting the value or by deleting the value before, the 
-        two halves connect and are non-decreasing.
-
-        It's an OR cause it could be smt like [1, 2, 5, 7, 3, 5, 6] where (7, 3) is
-        the flagged pair but (5, 3) by deleting 7 doesn't work and (7, 5) by deleting
-        3 also doesn't work
-
-    If no increasing pair found at all, return true
-'''
-
 class Solution:
     def checkPossibility(self, nums: List[int]) -> bool:
         for i in range(1, len(nums)) :
