@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (83 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (84 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -20,6 +20,7 @@
 |  242 | [Valid Anagram](<https://leetcode.com/problems/valid-anagram>)                                                                                                     | Easy    | N150, B75      | [solution](<../_242. Valid Anagram.md>)                                                    | c, py       | Jun 12, 2024    |
 |  314 | [Binary Tree Vertical Order Traversal](<https://leetcode.com/problems/binary-tree-vertical-order-traversal>)                                                       | Medium  |                | [solution](<../_314. Binary Tree Vertical Order Traversal.md>)                             | py          | Jun 11, 2024    |
 |  347 | [Top K Frequent Elements](<https://leetcode.com/problems/top-k-frequent-elements>)                                                                                 | Medium  | N150, B75      | [solution](<../_347. Top K Frequent Elements.md>)                                          | py          | Jun 12, 2024    |
+|  348 | [Design Tic-Tac-Toe](<https://leetcode.com/problems/design-tic-tac-toe>)                                                                                           | Medium  |                | [solution](<../_348. Design Tic-Tac-Toe.md>)                                               | py          | Jul 04, 2024    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                     | Easy    | Daily          | [solution](<../_350. Intersection of Two Arrays II.md>)                                    | java, py    | Jul 01, 2024    |
 |  353 | [Design Snake Game](<https://leetcode.com/problems/design-snake-game>)                                                                                             | Medium  |                | [solution](<../_353. Design Snake Game.md>)                                                | py          | Jun 28, 2024    |
 |  409 | [Longest Palindrome](<https://leetcode.com/problems/longest-palindrome>)                                                                                           | Easy    | Daily          | [solution](<../_409. Longest Palindrome.md>)                                               | c, py       | Jun 03, 2024    |

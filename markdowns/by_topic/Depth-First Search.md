@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (65 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (67 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -57,6 +57,7 @@
 | 1302 | [Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)                                                                           | Medium  |           | [solution](<../_1302. Deepest Leaves Sum.md>)                                     | c, py       | Jun 07, 2024    |
 | 1305 | [All Elements in Two Binary Search Trees](<https://leetcode.com/problems/all-elements-in-two-binary-search-trees>)                                 | Medium  |           | [solution](<../_1305. All Elements in Two Binary Search Trees.md>)                | java        | Jun 24, 2024    |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](<https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent>)                             | Medium  |           | [solution](<../_1315. Sum of Nodes with Even-Valued Grandparent.md>)              | py          | Jun 11, 2024    |
+| 1372 | [Longest ZigZag Path in a Binary Tree](<https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree>)                                       | Medium  |           | [solution](<../_1372. Longest ZigZag Path in a Binary Tree.md>)                   | py          | Jul 05, 2024    |
 | 1382 | [Balance a Binary Search Tree](<https://leetcode.com/problems/balance-a-binary-search-tree>)                                                       | Medium  | Daily     | [solution](<../_1382. Balance a Binary Search Tree.md>)                           | py          | Jun 25, 2024    |
 | 1448 | [Count Good Nodes in Binary Tree](<https://leetcode.com/problems/count-good-nodes-in-binary-tree>)                                                 | Medium  | N150      | [solution](<../_1448. Count Good Nodes in Binary Tree.md>)                        | java        | Jul 04, 2024    |
 | 1490 | [Clone N-ary Tree](<https://leetcode.com/problems/clone-n-ary-tree>)                                                                               | Medium  |           | [solution](<../_1490. Clone N-ary Tree.md>)                                       | java, py    | Jun 01, 2024    |
@@ -71,3 +72,4 @@
 | 2265 | [Count Nodes Equal to Average of Subtree](<https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree>)                                 | Medium  |           | [solution](<../_2265. Count Nodes Equal to Average of Subtree.md>)                | py          | Jun 07, 2024    |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](<https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected>)                     | Medium  |           | [solution](<../_2385. Amount of Time for Binary Tree to Be Infected.md>)          | py          | Jun 26, 2024    |
 | 2415 | [Reverse Odd Levels of Binary Tree](<https://leetcode.com/problems/reverse-odd-levels-of-binary-tree>)                                             | Medium  |           | [solution](<../_2415. Reverse Odd Levels of Binary Tree.md>)                      | py          | Jun 23, 2024    |
+| 3157 | [Find the Level of Tree with Minimum Sum](<https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum>)                                 | Medium  |           | [solution](<../_3157. Find the Level of Tree with Minimum Sum.md>)                | py          | Jul 05, 2024    |

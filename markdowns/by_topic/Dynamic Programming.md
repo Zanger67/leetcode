@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (19 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (20 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -20,6 +20,7 @@
 |  746 | [Min Cost Climbing Stairs](<https://leetcode.com/problems/min-cost-climbing-stairs>)                                                       | Easy    | N150      | [solution](<../_746. Min Cost Climbing Stairs.md>)                             | py           | Jul 04, 2024    |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](<https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference>)   | Medium  |           | [solution](<../_1218. Longest Arithmetic Subsequence of Given Difference.md>)  | py           | May 31, 2024    |
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                             | Hard    |           | [solution](<../_1255. Maximum Score Words Formed by Letters.md>)               | py           | Jun 15, 2024    |
+| 1372 | [Longest ZigZag Path in a Binary Tree](<https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree>)                               | Medium  |           | [solution](<../_1372. Longest ZigZag Path in a Binary Tree.md>)                | py           | Jul 05, 2024    |
 | 1525 | [Number of Good Ways to Split a String](<https://leetcode.com/problems/number-of-good-ways-to-split-a-string>)                             | Medium  |           | [solution](<../_1525. Number of Good Ways to Split a String.md>)               | py           | Jun 01, 2024    |
 | 1641 | [Count Sorted Vowel Strings](<https://leetcode.com/problems/count-sorted-vowel-strings>)                                                   | Medium  |           | [solution](<../_1641. Count Sorted Vowel Strings.md>)                          | c, java, cpp | Jun 24, 2024    |
 | 1696 | [Jump Game VI](<https://leetcode.com/problems/jump-game-vi>)                                                                               | Medium  |           | [solution](<../_1696. Jump Game VI.md>)                                        | java, py     | Jul 02, 2024    |

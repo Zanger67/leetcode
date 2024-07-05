@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (24 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (25 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -6,6 +6,7 @@
 
 |    # | Title                                                                                                                                      | Level   | Cats    | Solution                                                                       | Languages        | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------|:--------|:--------|:-------------------------------------------------------------------------------|:-----------------|:----------------|
+|  348 | [Design Tic-Tac-Toe](<https://leetcode.com/problems/design-tic-tac-toe>)                                                                   | Medium  |         | [solution](<../_348. Design Tic-Tac-Toe.md>)                                   | py               | Jul 04, 2024    |
 |  353 | [Design Snake Game](<https://leetcode.com/problems/design-snake-game>)                                                                     | Medium  |         | [solution](<../_353. Design Snake Game.md>)                                    | py               | Jun 28, 2024    |
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                     | Easy    |         | [solution](<../_412. Fizz Buzz.md>)                                            | java, py         | Jun 02, 2024    |
 |  867 | [Transpose Matrix](<https://leetcode.com/problems/transpose-matrix>)                                                                       | Easy    |         | [solution](<../_867. Transpose Matrix.md>)                                     | py               | Jun 14, 2024    |

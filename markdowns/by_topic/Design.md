@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (18 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (20 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,12 +13,14 @@
 |  251 | [Flatten 2D Vector](<https://leetcode.com/problems/flatten-2d-vector>)                                                   | Medium  |           | [solution](<../_251. Flatten 2D Vector.md>)                          | py          | May 22, 2024    |
 |  271 | [Encode and Decode Strings](<https://leetcode.com/problems/encode-and-decode-strings>)                                   | Medium  | N150, B75 | [solution](<../_271. Encode and Decode Strings.md>)                  | py          | Jun 12, 2024    |
 |  341 | [Flatten Nested List Iterator](<https://leetcode.com/problems/flatten-nested-list-iterator>)                             | Medium  |           | [solution](<../_341. Flatten Nested List Iterator.md>)               | java        | Jul 02, 2024    |
+|  348 | [Design Tic-Tac-Toe](<https://leetcode.com/problems/design-tic-tac-toe>)                                                 | Medium  |           | [solution](<../_348. Design Tic-Tac-Toe.md>)                         | py          | Jul 04, 2024    |
 |  353 | [Design Snake Game](<https://leetcode.com/problems/design-snake-game>)                                                   | Medium  |           | [solution](<../_353. Design Snake Game.md>)                          | py          | Jun 28, 2024    |
 |  431 | [Encode N-ary Tree to Binary Tree](<https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree>)                     | Hard    |           | [solution](<../_431. Encode N-ary Tree to Binary Tree.md>)           | java, py    | Jun 28, 2024    |
 |  535 | [Encode and Decode TinyURL](<https://leetcode.com/problems/encode-and-decode-tinyurl>)                                   | Medium  |           | [solution](<../_535. Encode and Decode TinyURL.md>)                  | py          | Jun 07, 2024    |
 |  676 | [Implement Magic Dictionary](<https://leetcode.com/problems/implement-magic-dictionary>)                                 | Medium  |           | [solution](<../_676. Implement Magic Dictionary.md>)                 | py          | Jun 27, 2024    |
 |  703 | [Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)                       | Easy    | N150      | [solution](<../_703. Kth Largest Element in a Stream.md>)            | py          | Jul 04, 2024    |
 |  707 | [Design Linked List](<https://leetcode.com/problems/design-linked-list>)                                                 | Medium  |           | [solution](<../_707. Design Linked List.md>)                         | java        | Jun 21, 2024    |
+|  919 | [Complete Binary Tree Inserter](<https://leetcode.com/problems/complete-binary-tree-inserter>)                           | Medium  |           | [solution](<../_919. Complete Binary Tree Inserter.md>)              | py          | Jul 05, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                 | Medium  |           | [solution](<../_1166. Design File System.md>)                        | py          | Jun 27, 2024    |
 | 1570 | [Dot Product of Two Sparse Vectors](<https://leetcode.com/problems/dot-product-of-two-sparse-vectors>)                   | Medium  |           | [solution](<../_1570. Dot Product of Two Sparse Vectors.md>)         | c, java, py | Jun 06, 2024    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                         | Medium  |           | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)           | py          | Jun 27, 2024    |
