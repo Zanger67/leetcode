@@ -1,4 +1,4 @@
-# [Heap (Priority Queue)](<https://leetcode.com/tag/Heap-(Priority-Queue)/>) (15 completed)
+# [Heap (Priority Queue)](<https://leetcode.com/tag/Heap-(Priority-Queue)/>) (16 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  451 | [Sort Characters By Frequency](<https://leetcode.com/problems/sort-characters-by-frequency>)                                                                                             | Medium  |           | [solution](<../_451. Sort Characters By Frequency.md>)                                                | py               | Jun 17, 2024    |
 |  502 | [IPO](<https://leetcode.com/problems/ipo>)                                                                                                                                               | Hard    | Daily     | [solution](<../_502. IPO.md>)                                                                         | py               | Jun 14, 2024    |
 |  692 | [Top K Frequent Words](<https://leetcode.com/problems/top-k-frequent-words>)                                                                                                             | Medium  |           | [solution](<../_692. Top K Frequent Words.md>)                                                        | py               | Jun 08, 2024    |
+|  703 | [Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)                                                                                       | Easy    | N150      | [solution](<../_703. Kth Largest Element in a Stream.md>)                                             | py               | Jul 04, 2024    |
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                                                                                 | Medium  | N150      | [solution](<../_973. K Closest Points to Origin.md>)                                                  | py               | Jun 29, 2024    |
 | 1046 | [Last Stone Weight](<https://leetcode.com/problems/last-stone-weight>)                                                                                                                   | Easy    | N150      | [solution](<../_1046. Last Stone Weight.md>)                                                          | py               | Jun 03, 2024    |
 | 1268 | [Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)                                                                                                   | Medium  |           | [solution](<../_1268. Search Suggestions System.md>)                                                  | py               | Jun 28, 2024    |

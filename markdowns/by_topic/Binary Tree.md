@@ -1,4 +1,4 @@
-# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (55 completed)
+# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (56 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -40,6 +40,7 @@
 |  663 | [Equal Tree Partition](<https://leetcode.com/problems/equal-tree-partition>)                                                                       | Medium  | Daily          | [solution](<../_663. Equal Tree Partition.md>)                                    | py           | Jun 16, 2024    |
 |  666 | [Path Sum IV](<https://leetcode.com/problems/path-sum-iv>)                                                                                         | Medium  |                | [solution](<../_666. Path Sum IV.md>)                                             | py           | Jul 03, 2024    |
 |  687 | [Longest Univalue Path](<https://leetcode.com/problems/longest-univalue-path>)                                                                     | Medium  |                | [solution](<../_687. Longest Univalue Path.md>)                                   | py           | Jul 03, 2024    |
+|  703 | [Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)                                                 | Easy    | N150           | [solution](<../_703. Kth Largest Element in a Stream.md>)                         | py           | Jul 04, 2024    |
 |  776 | [Split BST](<https://leetcode.com/problems/split-bst>)                                                                                             | Medium  | Weekly Premium | [solution](<../_776. Split BST.md>)                                               | py           | Jun 28, 2024    |
 |  863 | [All Nodes Distance K in Binary Tree](<https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree>)                                         | Medium  |                | [solution](<../_863. All Nodes Distance K in Binary Tree.md>)                     | py           | Jun 26, 2024    |
 |  987 | [Vertical Order Traversal of a Binary Tree](<https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>)                             | Hard    |                | [solution](<../_987. Vertical Order Traversal of a Binary Tree.md>)               | py           | Jun 11, 2024    |
