@@ -1,4 +1,4 @@
-# [Monotonic Stack](<https://leetcode.com/tag/Monotonic-Stack/>) (8 completed)
+# [Monotonic Stack](<https://leetcode.com/tag/Monotonic-Stack/>) (9 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -7,6 +7,7 @@
 |    # | Title                                                                                                                                        | Level   | Cats   | Solution                                                                        | Languages    | Date Complete   |
 |-----:|:---------------------------------------------------------------------------------------------------------------------------------------------|:--------|:-------|:--------------------------------------------------------------------------------|:-------------|:----------------|
 |   84 | [Largest Rectangle in Histogram](<https://leetcode.com/problems/largest-rectangle-in-histogram>)                                             | Hard    | N150   | [solution](<../_84. Largest Rectangle in Histogram.md>)                         | py           | Jun 10, 2024    |
+|  503 | [Next Greater Element II](<https://leetcode.com/problems/next-greater-element-ii>)                                                           | Medium  |        | [solution](<../_503. Next Greater Element II.md>)                               | py           | Jul 05, 2024    |
 |  654 | [Maximum Binary Tree](<https://leetcode.com/problems/maximum-binary-tree>)                                                                   | Medium  |        | [solution](<../_654. Maximum Binary Tree.md>)                                   | py           | Jun 11, 2024    |
 |  739 | [Daily Temperatures](<https://leetcode.com/problems/daily-temperatures>)                                                                     | Medium  | N150   | [solution](<../_739. Daily Temperatures.md>)                                    | c, java, py  | Jun 13, 2024    |
 |  853 | [Car Fleet](<https://leetcode.com/problems/car-fleet>)                                                                                       | Medium  | N150   | [solution](<../_853. Car Fleet.md>)                                             | py           | Jun 13, 2024    |

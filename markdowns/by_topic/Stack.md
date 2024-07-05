@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (34 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (35 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,6 +22,7 @@
 |  364 | [Nested List Weight Sum II](<https://leetcode.com/problems/nested-list-weight-sum-ii>)                                                             | Medium  |           | [solution](<../_364. Nested List Weight Sum II.md>)                               | java, py     | Jul 02, 2024    |
 |  394 | [Decode String](<https://leetcode.com/problems/decode-string>)                                                                                     | Medium  |           | [solution](<../_394. Decode String.md>)                                           | py           | Jun 14, 2024    |
 |  426 | [Convert Binary Search Tree to Sorted Doubly Linked List](<https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list>) | Medium  |           | [solution](<../_426. Convert Binary Search Tree to Sorted Doubly Linked List.md>) | py           | Jun 11, 2024    |
+|  503 | [Next Greater Element II](<https://leetcode.com/problems/next-greater-element-ii>)                                                                 | Medium  |           | [solution](<../_503. Next Greater Element II.md>)                                 | py           | Jul 05, 2024    |
 |  654 | [Maximum Binary Tree](<https://leetcode.com/problems/maximum-binary-tree>)                                                                         | Medium  |           | [solution](<../_654. Maximum Binary Tree.md>)                                     | py           | Jun 11, 2024    |
 |  739 | [Daily Temperatures](<https://leetcode.com/problems/daily-temperatures>)                                                                           | Medium  | N150      | [solution](<../_739. Daily Temperatures.md>)                                      | c, java, py  | Jun 13, 2024    |
 |  853 | [Car Fleet](<https://leetcode.com/problems/car-fleet>)                                                                                             | Medium  | N150      | [solution](<../_853. Car Fleet.md>)                                               | py           | Jun 13, 2024    |

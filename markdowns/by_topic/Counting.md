@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (13 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (14 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -18,4 +18,5 @@
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                           | Easy    |                | [solution](<../_2206. Divide Array Into Equal Pairs.md>)                      | c, py       | Jun 08, 2024    |
 | 2225 | [Find Players With Zero or One Losses](<https://leetcode.com/problems/find-players-with-zero-or-one-losses>)                             | Medium  |                | [solution](<../_2225. Find Players With Zero or One Losses.md>)               | java        | Jun 24, 2024    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                       | Easy    |                | [solution](<../_2248. Intersection of Multiple Arrays.md>)                    | py          | May 29, 2024    |
+| 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                             | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                       | py          | Jul 05, 2024    |
 | 2423 | [Remove Letter To Equalize Frequency](<https://leetcode.com/problems/remove-letter-to-equalize-frequency>)                               | Easy    |                | [solution](<../_2423. Remove Letter To Equalize Frequency.md>)                | py          | Jun 16, 2024    |

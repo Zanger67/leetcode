@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (84 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (85 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -77,6 +77,7 @@
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                     | Easy    |                | [solution](<../_2206. Divide Array Into Equal Pairs.md>)                                   | c, py       | Jun 08, 2024    |
 | 2225 | [Find Players With Zero or One Losses](<https://leetcode.com/problems/find-players-with-zero-or-one-losses>)                                                       | Medium  |                | [solution](<../_2225. Find Players With Zero or One Losses.md>)                            | java        | Jun 24, 2024    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                 | Easy    |                | [solution](<../_2248. Intersection of Multiple Arrays.md>)                                 | py          | May 29, 2024    |
+| 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                       | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                                    | py          | Jul 05, 2024    |
 | 2352 | [Equal Row and Column Pairs](<https://leetcode.com/problems/equal-row-and-column-pairs>)                                                                           | Medium  |                | [solution](<../_2352. Equal Row and Column Pairs.md>)                                      | py          | Jun 26, 2024    |
 | 2365 | [Task Scheduler II](<https://leetcode.com/problems/task-scheduler-ii>)                                                                                             | Medium  |                | [solution](<../_2365. Task Scheduler II.md>)                                               | py          | Jun 29, 2024    |
 | 2374 | [Node With Highest Edge Score](<https://leetcode.com/problems/node-with-highest-edge-score>)                                                                       | Medium  |                | [solution](<../_2374. Node With Highest Edge Score.md>)                                    | py          | Jun 17, 2024    |

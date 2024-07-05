@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (30 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (31 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -29,6 +29,7 @@
 | 1877 | [Minimize Maximum Pair Sum in Array](<https://leetcode.com/problems/minimize-maximum-pair-sum-in-array>)                                                                     | Medium  |                | [solution](<../_1877. Minimize Maximum Pair Sum in Array.md>)                                   | py               | Jun 23, 2024    |
 | 2037 | [Minimum Number of Moves to Seat Everyone](<https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone>)                                                         | Easy    | Daily          | [solution](<../_2037. Minimum Number of Moves to Seat Everyone.md>)                             | c, py            | Jun 03, 2024    |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](<https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters>)                                   | Medium  |                | [solution](<../_2086. Minimum Number of Food Buckets to Feed the Hamsters.md>)                  | java             | Jul 01, 2024    |
+| 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                                 | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                                         | py               | Jul 05, 2024    |
 | 2285 | [Maximum Total Importance of Roads](<https://leetcode.com/problems/maximum-total-importance-of-roads>)                                                                       | Medium  | Daily          | [solution](<../_2285. Maximum Total Importance of Roads.md>)                                    | c, java, py, cpp | Jun 27, 2024    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                                 | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                                 | py               | May 31, 2024    |
 | 2405 | [Optimal Partition of String](<https://leetcode.com/problems/optimal-partition-of-string>)                                                                                   | Medium  |                | [solution](<../_2405. Optimal Partition of String.md>)                                          | py               | Jun 23, 2024    |

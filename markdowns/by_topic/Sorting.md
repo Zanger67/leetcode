@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (54 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (55 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -54,6 +54,7 @@
 | 2165 | [Smallest Value of the Rearranged Number](<https://leetcode.com/problems/smallest-value-of-the-rearranged-number>)                                                           | Medium  |                | [solution](<../_2165. Smallest Value of the Rearranged Number.md>)                              | py               | Jun 30, 2024    |
 | 2225 | [Find Players With Zero or One Losses](<https://leetcode.com/problems/find-players-with-zero-or-one-losses>)                                                                 | Medium  |                | [solution](<../_2225. Find Players With Zero or One Losses.md>)                                 | java             | Jun 24, 2024    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                           | Easy    |                | [solution](<../_2248. Intersection of Multiple Arrays.md>)                                      | py               | May 29, 2024    |
+| 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                                 | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                                         | py               | Jul 05, 2024    |
 | 2285 | [Maximum Total Importance of Roads](<https://leetcode.com/problems/maximum-total-importance-of-roads>)                                                                       | Medium  | Daily          | [solution](<../_2285. Maximum Total Importance of Roads.md>)                                    | c, java, py, cpp | Jun 27, 2024    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                                 | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                                 | py               | May 31, 2024    |
 | 2545 | [Sort the Students by Their Kth Score](<https://leetcode.com/problems/sort-the-students-by-their-kth-score>)                                                                 | Medium  |                | [solution](<../_2545. Sort the Students by Their Kth Score.md>)                                 | java, py         | Jun 24, 2024    |

@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (46 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (47 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -40,6 +40,7 @@
 | 1302 | [Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)                                                                                           | Medium  |           | [solution](<../_1302. Deepest Leaves Sum.md>)                                              | c, py       | Jun 07, 2024    |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](<https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent>)                                             | Medium  |           | [solution](<../_1315. Sum of Nodes with Even-Valued Grandparent.md>)                       | py          | Jun 11, 2024    |
 | 1448 | [Count Good Nodes in Binary Tree](<https://leetcode.com/problems/count-good-nodes-in-binary-tree>)                                                                 | Medium  | N150      | [solution](<../_1448. Count Good Nodes in Binary Tree.md>)                                 | java        | Jul 04, 2024    |
+| 1457 | [Pseudo-Palindromic Paths in a Binary Tree](<https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree>)                                             | Medium  |           | [solution](<../_1457. Pseudo-Palindromic Paths in a Binary Tree.md>)                       | py          | Jul 05, 2024    |
 | 1490 | [Clone N-ary Tree](<https://leetcode.com/problems/clone-n-ary-tree>)                                                                                               | Medium  |           | [solution](<../_1490. Clone N-ary Tree.md>)                                                | java, py    | Jun 01, 2024    |
 | 1602 | [Find Nearest Right Node in Binary Tree](<https://leetcode.com/problems/find-nearest-right-node-in-binary-tree>)                                                   | Medium  |           | [solution](<../_1602. Find Nearest Right Node in Binary Tree.md>)                          | java, py    | Jul 02, 2024    |
 | 1609 | [Even Odd Tree](<https://leetcode.com/problems/even-odd-tree>)                                                                                                     | Medium  |           | [solution](<../_1609. Even Odd Tree.md>)                                                   | py          | Jul 05, 2024    |

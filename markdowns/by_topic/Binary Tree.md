@@ -1,4 +1,4 @@
-# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (60 completed)
+# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (61 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -56,6 +56,7 @@
 | 1372 | [Longest ZigZag Path in a Binary Tree](<https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree>)                                       | Medium  |                | [solution](<../_1372. Longest ZigZag Path in a Binary Tree.md>)                   | py           | Jul 05, 2024    |
 | 1382 | [Balance a Binary Search Tree](<https://leetcode.com/problems/balance-a-binary-search-tree>)                                                       | Medium  | Daily          | [solution](<../_1382. Balance a Binary Search Tree.md>)                           | py           | Jun 25, 2024    |
 | 1448 | [Count Good Nodes in Binary Tree](<https://leetcode.com/problems/count-good-nodes-in-binary-tree>)                                                 | Medium  | N150           | [solution](<../_1448. Count Good Nodes in Binary Tree.md>)                        | java         | Jul 04, 2024    |
+| 1457 | [Pseudo-Palindromic Paths in a Binary Tree](<https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree>)                             | Medium  |                | [solution](<../_1457. Pseudo-Palindromic Paths in a Binary Tree.md>)              | py           | Jul 05, 2024    |
 | 1602 | [Find Nearest Right Node in Binary Tree](<https://leetcode.com/problems/find-nearest-right-node-in-binary-tree>)                                   | Medium  |                | [solution](<../_1602. Find Nearest Right Node in Binary Tree.md>)                 | java, py     | Jul 02, 2024    |
 | 1609 | [Even Odd Tree](<https://leetcode.com/problems/even-odd-tree>)                                                                                     | Medium  |                | [solution](<../_1609. Even Odd Tree.md>)                                          | py           | Jul 05, 2024    |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii>)                         | Medium  |                | [solution](<../_1650. Lowest Common Ancestor of a Binary Tree III.md>)            | py           | Jun 09, 2024    |
