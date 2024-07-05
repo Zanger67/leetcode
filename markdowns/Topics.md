@@ -14,7 +14,7 @@
 - [Math](<by_topic/Math.md>) (46 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (43 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (43 completed)
-- [Linked List](<by_topic/Linked List.md>) (37 completed)
+- [Linked List](<by_topic/Linked List.md>) (38 completed)
 - [Stack](<by_topic/Stack.md>) (34 completed)
 - [Greedy](<by_topic/Greedy.md>) (30 completed)
 - [Matrix](<by_topic/Matrix.md>) (28 completed)
