@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (88 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (89 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -30,6 +30,7 @@
 |  451 | [Sort Characters By Frequency](<https://leetcode.com/problems/sort-characters-by-frequency>)                                                                       | Medium  |                | [solution](<../_451. Sort Characters By Frequency.md>)                                     | py          | Jun 17, 2024    |
 |  523 | [Continuous Subarray Sum](<https://leetcode.com/problems/continuous-subarray-sum>)                                                                                 | Medium  | Daily          | [solution](<../_523. Continuous Subarray Sum.md>)                                          | py          | Jun 08, 2024    |
 |  535 | [Encode and Decode TinyURL](<https://leetcode.com/problems/encode-and-decode-tinyurl>)                                                                             | Medium  |                | [solution](<../_535. Encode and Decode TinyURL.md>)                                        | py          | Jun 07, 2024    |
+|  567 | [Permutation in String](<https://leetcode.com/problems/permutation-in-string>)                                                                                     | Medium  | N150           | [solution](<../_567. Permutation in String.md>)                                            | py          | Jul 05, 2024    |
 |  616 | [Add Bold Tag in String](<https://leetcode.com/problems/add-bold-tag-in-string>)                                                                                   | Medium  |                | [solution](<../_616. Add Bold Tag in String.md>)                                           | py          | Jun 27, 2024    |
 |  645 | [Set Mismatch](<https://leetcode.com/problems/set-mismatch>)                                                                                                       | Easy    |                | [solution](<../_645. Set Mismatch.md>)                                                     | py, java    | Jun 01, 2024    |
 |  648 | [Replace Words](<https://leetcode.com/problems/replace-words>)                                                                                                     | Medium  | Daily          | [solution](<../_648. Replace Words.md>)                                                    | py, java    | Jun 06, 2024    |

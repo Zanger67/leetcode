@@ -1,4 +1,4 @@
-# [Queue](<https://leetcode.com/tag/Queue/>) (8 completed)
+# [Queue](<https://leetcode.com/tag/Queue/>) (9 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 |  239 | [Sliding Window Maximum](<https://leetcode.com/problems/sliding-window-maximum>)                                                                                                         | Hard    | N150   | [solution](<../_239. Sliding Window Maximum.md>)                                                      | py          | Jun 03, 2024    |
 |  341 | [Flatten Nested List Iterator](<https://leetcode.com/problems/flatten-nested-list-iterator>)                                                                                             | Medium  |        | [solution](<../_341. Flatten Nested List Iterator.md>)                                                | java        | Jul 02, 2024    |
 |  353 | [Design Snake Game](<https://leetcode.com/problems/design-snake-game>)                                                                                                                   | Medium  |        | [solution](<../_353. Design Snake Game.md>)                                                           | py          | Jun 28, 2024    |
+|  622 | [Design Circular Queue](<https://leetcode.com/problems/design-circular-queue>)                                                                                                           | Medium  |        | [solution](<../_622. Design Circular Queue.md>)                                                       | py          | Jul 05, 2024    |
 |  950 | [Reveal Cards In Increasing Order](<https://leetcode.com/problems/reveal-cards-in-increasing-order>)                                                                                     | Medium  |        | [solution](<../_950. Reveal Cards In Increasing Order.md>)                                            | py          | Jun 11, 2024    |
 |  995 | [Minimum Number of K Consecutive Bit Flips](<https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips>)                                                                   | Hard    | Daily  | [solution](<../_995. Minimum Number of K Consecutive Bit Flips.md>)                                   | py, c       | Jun 23, 2024    |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](<https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit>) | Medium  | Daily  | [solution](<../_1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md>) | java        | Jun 22, 2024    |

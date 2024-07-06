@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (35 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (37 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -35,6 +35,8 @@
 | 1209 | [Remove All Adjacent Duplicates in String II](<https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii>)                         | Medium  |           | [solution](<../_1209. Remove All Adjacent Duplicates in String II.md>)            | py           | Jun 17, 2024    |
 | 1249 | [Minimum Remove to Make Valid Parentheses](<https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses>)                               | Medium  |           | [solution](<../_1249. Minimum Remove to Make Valid Parentheses.md>)               | py           | Jun 10, 2024    |
 | 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>)                                   | Medium  |           | [solution](<../_1265. Print Immutable Linked List in Reverse.md>)                 | py, c        | Jun 06, 2024    |
+| 1381 | [Design a Stack With Increment Operation](<https://leetcode.com/problems/design-a-stack-with-increment-operation>)                                 | Medium  |           | [solution](<../_1381. Design a Stack With Increment Operation.md>)                | py           | Jul 05, 2024    |
+| 1472 | [Design Browser History](<https://leetcode.com/problems/design-browser-history>)                                                                   | Medium  |           | [solution](<../_1472. Design Browser History.md>)                                 | py           | Jul 05, 2024    |
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                   | Easy    |           | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)                 | py           | Jun 01, 2024    |
 | 1762 | [Buildings With an Ocean View](<https://leetcode.com/problems/buildings-with-an-ocean-view>)                                                       | Medium  |           | [solution](<../_1762. Buildings With an Ocean View.md>)                           | py           | Jun 10, 2024    |
 | 2130 | [Maximum Twin Sum of a Linked List](<https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list>)                                             | Medium  |           | [solution](<../_2130. Maximum Twin Sum of a Linked List.md>)                      | py           | Jun 20, 2024    |

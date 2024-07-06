@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (43 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (44 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -30,6 +30,7 @@
 |  392 | [Is Subsequence](<https://leetcode.com/problems/is-subsequence>)                                                                                             | Easy    |                | [solution](<../_392. Is Subsequence.md>)                                                | java                             | Jun 21, 2024    |
 |  408 | [Valid Word Abbreviation](<https://leetcode.com/problems/valid-word-abbreviation>)                                                                           | Easy    |                | [solution](<../_408. Valid Word Abbreviation.md>)                                       | py                               | Jun 02, 2024    |
 |  475 | [Heaters](<https://leetcode.com/problems/heaters>)                                                                                                           | Medium  |                | [solution](<../_475. Heaters.md>)                                                       | py                               | Jun 07, 2024    |
+|  567 | [Permutation in String](<https://leetcode.com/problems/permutation-in-string>)                                                                               | Medium  | N150           | [solution](<../_567. Permutation in String.md>)                                         | py                               | Jul 05, 2024    |
 |  611 | [Valid Triangle Number](<https://leetcode.com/problems/valid-triangle-number>)                                                                               | Medium  |                | [solution](<../_611. Valid Triangle Number.md>)                                         | py                               | May 22, 2024    |
 |  647 | [Palindromic Substrings](<https://leetcode.com/problems/palindromic-substrings>)                                                                             | Medium  | N150, B75      | [solution](<../_647. Palindromic Substrings.md>)                                        | py                               | Jul 04, 2024    |
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                                     | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                                    | py                               | Jun 17, 2024    |

@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (11 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (12 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 |    3 | [Longest Substring Without Repeating Characters](<https://leetcode.com/problems/longest-substring-without-repeating-characters>)                                                         | Medium  | N150, B75      | [solution](<../_3. Longest Substring Without Repeating Characters.md>)                                | java        | May 22, 2024    |
 |  239 | [Sliding Window Maximum](<https://leetcode.com/problems/sliding-window-maximum>)                                                                                                         | Hard    | N150           | [solution](<../_239. Sliding Window Maximum.md>)                                                      | py          | Jun 03, 2024    |
 |  424 | [Longest Repeating Character Replacement](<https://leetcode.com/problems/longest-repeating-character-replacement>)                                                                       | Medium  | N150, B75      | [solution](<../_424. Longest Repeating Character Replacement.md>)                                     | py          | Jul 05, 2024    |
+|  567 | [Permutation in String](<https://leetcode.com/problems/permutation-in-string>)                                                                                                           | Medium  | N150           | [solution](<../_567. Permutation in String.md>)                                                       | py          | Jul 05, 2024    |
 |  713 | [Subarray Product Less Than K](<https://leetcode.com/problems/subarray-product-less-than-k>)                                                                                             | Medium  |                | [solution](<../_713. Subarray Product Less Than K.md>)                                                | py          | Jul 01, 2024    |
 |  930 | [Binary Subarrays With Sum](<https://leetcode.com/problems/binary-subarrays-with-sum>)                                                                                                   | Medium  |                | [solution](<../_930. Binary Subarrays With Sum.md>)                                                   | py          | Jun 21, 2024    |
 |  995 | [Minimum Number of K Consecutive Bit Flips](<https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips>)                                                                   | Hard    | Daily          | [solution](<../_995. Minimum Number of K Consecutive Bit Flips.md>)                                   | py, c       | Jun 23, 2024    |

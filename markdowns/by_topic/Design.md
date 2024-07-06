@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (22 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (25 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -19,11 +19,14 @@
 |  381 | [Insert Delete GetRandom O(1) - Duplicates allowed](<https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed>) | Hard    |           | [solution](<../_381. Insert Delete GetRandom O(1) - Duplicates allowed.md>) | java        | Jul 05, 2024    |
 |  431 | [Encode N-ary Tree to Binary Tree](<https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree>)                               | Hard    |           | [solution](<../_431. Encode N-ary Tree to Binary Tree.md>)                  | py, java    | Jun 28, 2024    |
 |  535 | [Encode and Decode TinyURL](<https://leetcode.com/problems/encode-and-decode-tinyurl>)                                             | Medium  |           | [solution](<../_535. Encode and Decode TinyURL.md>)                         | py          | Jun 07, 2024    |
+|  622 | [Design Circular Queue](<https://leetcode.com/problems/design-circular-queue>)                                                     | Medium  |           | [solution](<../_622. Design Circular Queue.md>)                             | py          | Jul 05, 2024    |
 |  676 | [Implement Magic Dictionary](<https://leetcode.com/problems/implement-magic-dictionary>)                                           | Medium  |           | [solution](<../_676. Implement Magic Dictionary.md>)                        | py          | Jun 27, 2024    |
 |  703 | [Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)                                 | Easy    | N150      | [solution](<../_703. Kth Largest Element in a Stream.md>)                   | py          | Jul 04, 2024    |
 |  707 | [Design Linked List](<https://leetcode.com/problems/design-linked-list>)                                                           | Medium  |           | [solution](<../_707. Design Linked List.md>)                                | java        | Jun 21, 2024    |
 |  919 | [Complete Binary Tree Inserter](<https://leetcode.com/problems/complete-binary-tree-inserter>)                                     | Medium  |           | [solution](<../_919. Complete Binary Tree Inserter.md>)                     | py          | Jul 05, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                           | Medium  |           | [solution](<../_1166. Design File System.md>)                               | py          | Jun 27, 2024    |
+| 1381 | [Design a Stack With Increment Operation](<https://leetcode.com/problems/design-a-stack-with-increment-operation>)                 | Medium  |           | [solution](<../_1381. Design a Stack With Increment Operation.md>)          | py          | Jul 05, 2024    |
+| 1472 | [Design Browser History](<https://leetcode.com/problems/design-browser-history>)                                                   | Medium  |           | [solution](<../_1472. Design Browser History.md>)                           | py          | Jul 05, 2024    |
 | 1570 | [Dot Product of Two Sparse Vectors](<https://leetcode.com/problems/dot-product-of-two-sparse-vectors>)                             | Medium  |           | [solution](<../_1570. Dot Product of Two Sparse Vectors.md>)                | py, java, c | Jun 06, 2024    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                   | Medium  |           | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                  | py          | Jun 27, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                   | Medium  | N150      | [solution](<../_2013. Detect Squares.md>)                                   | py          | Jun 28, 2024    |
