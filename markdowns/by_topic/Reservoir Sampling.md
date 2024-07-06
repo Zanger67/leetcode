@@ -6,4 +6,4 @@
 
 |   # | Title                                                                              | Level   | Cats   | Solution                                          | Languages   | Date Complete   |
 |----:|:-----------------------------------------------------------------------------------|:--------|:-------|:--------------------------------------------------|:------------|:----------------|
-| 382 | [Linked List Random Node](<https://leetcode.com/problems/linked-list-random-node>) | Medium  |        | [solution](<../_382. Linked List Random Node.md>) | c, java, py | Jun 21, 2024    |
+| 382 | [Linked List Random Node](<https://leetcode.com/problems/linked-list-random-node>) | Medium  |        | [solution](<../_382. Linked List Random Node.md>) | py, java, c | Jun 21, 2024    |
