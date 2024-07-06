@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (47 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (49 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,6 +22,8 @@
 |  273 | [Integer to English Words](<https://leetcode.com/problems/integer-to-english-words>)                                                                   | Hard    |                | [solution](<../_273. Integer to English Words.md>)                                   | py                               | Jun 10, 2024    |
 |  292 | [Nim Game](<https://leetcode.com/problems/nim-game>)                                                                                                   | Easy    |                | [solution](<../_292. Nim Game.md>)                                                   | py                               | May 23, 2024    |
 |  369 | [Plus One Linked List](<https://leetcode.com/problems/plus-one-linked-list>)                                                                           | Medium  |                | [solution](<../_369. Plus One Linked List.md>)                                       | c                                | Jul 04, 2024    |
+|  380 | [Insert Delete GetRandom O(1)](<https://leetcode.com/problems/insert-delete-getrandom-o1>)                                                             | Medium  |                | [solution](<../_380. Insert Delete GetRandom O(1).md>)                               | java                             | Jul 05, 2024    |
+|  381 | [Insert Delete GetRandom O(1) - Duplicates allowed](<https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed>)                     | Hard    |                | [solution](<../_381. Insert Delete GetRandom O(1) - Duplicates allowed.md>)          | java                             | Jul 05, 2024    |
 |  382 | [Linked List Random Node](<https://leetcode.com/problems/linked-list-random-node>)                                                                     | Medium  |                | [solution](<../_382. Linked List Random Node.md>)                                    | py, java, c                      | Jun 21, 2024    |
 |  384 | [Shuffle an Array](<https://leetcode.com/problems/shuffle-an-array>)                                                                                   | Medium  |                | [solution](<../_384. Shuffle an Array.md>)                                           | py                               | Jun 28, 2024    |
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                                 | Easy    |                | [solution](<../_412. Fizz Buzz.md>)                                                  | py, java                         | Jun 02, 2024    |

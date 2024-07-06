@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (86 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (88 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -23,6 +23,8 @@
 |  348 | [Design Tic-Tac-Toe](<https://leetcode.com/problems/design-tic-tac-toe>)                                                                                           | Medium  |                | [solution](<../_348. Design Tic-Tac-Toe.md>)                                               | py          | Jul 04, 2024    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                     | Easy    | Daily          | [solution](<../_350. Intersection of Two Arrays II.md>)                                    | py, java    | Jul 01, 2024    |
 |  353 | [Design Snake Game](<https://leetcode.com/problems/design-snake-game>)                                                                                             | Medium  |                | [solution](<../_353. Design Snake Game.md>)                                                | py          | Jun 28, 2024    |
+|  380 | [Insert Delete GetRandom O(1)](<https://leetcode.com/problems/insert-delete-getrandom-o1>)                                                                         | Medium  |                | [solution](<../_380. Insert Delete GetRandom O(1).md>)                                     | java        | Jul 05, 2024    |
+|  381 | [Insert Delete GetRandom O(1) - Duplicates allowed](<https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed>)                                 | Hard    |                | [solution](<../_381. Insert Delete GetRandom O(1) - Duplicates allowed.md>)                | java        | Jul 05, 2024    |
 |  409 | [Longest Palindrome](<https://leetcode.com/problems/longest-palindrome>)                                                                                           | Easy    | Daily          | [solution](<../_409. Longest Palindrome.md>)                                               | py, c       | Jun 03, 2024    |
 |  424 | [Longest Repeating Character Replacement](<https://leetcode.com/problems/longest-repeating-character-replacement>)                                                 | Medium  | N150, B75      | [solution](<../_424. Longest Repeating Character Replacement.md>)                          | py          | Jul 05, 2024    |
 |  451 | [Sort Characters By Frequency](<https://leetcode.com/problems/sort-characters-by-frequency>)                                                                       | Medium  |                | [solution](<../_451. Sort Characters By Frequency.md>)                                     | py          | Jun 17, 2024    |
