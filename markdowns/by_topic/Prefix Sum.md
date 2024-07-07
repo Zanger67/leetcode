@@ -1,0 +1,18 @@
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (10 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                                                        | Level   | Cats           | Solution                                                                        | Languages   | Date Complete   |
+|-----:|:---------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:--------------------------------------------------------------------------------|:------------|:----------------|
+|  238 | [Product of Array Except Self](<https://leetcode.com/problems/product-of-array-except-self>)                                                 | Medium  | B75, N150      | [solution](<../_238. Product of Array Except Self.md>)                          | py          | Jun 12, 2024    |
+|  523 | [Continuous Subarray Sum](<https://leetcode.com/problems/continuous-subarray-sum>)                                                           | Medium  | Daily          | [solution](<../_523. Continuous Subarray Sum.md>)                               | py          | Jun 08, 2024    |
+|  848 | [Shifting Letters](<https://leetcode.com/problems/shifting-letters>)                                                                         | Medium  |                | [solution](<../_848. Shifting Letters.md>)                                      | py          | Jun 29, 2024    |
+|  930 | [Binary Subarrays With Sum](<https://leetcode.com/problems/binary-subarrays-with-sum>)                                                       | Medium  |                | [solution](<../_930. Binary Subarrays With Sum.md>)                             | py          | Jun 21, 2024    |
+|  974 | [Subarray Sums Divisible by K](<https://leetcode.com/problems/subarray-sums-divisible-by-k>)                                                 | Medium  | Daily          | [solution](<../_974. Subarray Sums Divisible by K.md>)                          | java, py    | Jun 09, 2024    |
+|  995 | [Minimum Number of K Consecutive Bit Flips](<https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips>)                       | Hard    | Daily          | [solution](<../_995. Minimum Number of K Consecutive Bit Flips.md>)             | c, py       | Jun 23, 2024    |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](<https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor>) | Medium  | Daily          | [solution](<../_1442. Count Triplets That Can Form Two Arrays of Equal XOR.md>) | py          | May 29, 2024    |
+| 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)     | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)   | c, py       | Jun 10, 2024    |
+| 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                 | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                 | py          | May 31, 2024    |
+| 3179 | [Find the N-th Value After K Seconds](<https://leetcode.com/problems/find-the-n-th-value-after-k-seconds>) - q2                              | Medium  | Contest        | [solution](<../_3179. Find the N-th Value After K Seconds.md>)                  | py          | Jun 08, 2024    |

@@ -1,0 +1,14 @@
+# [String Matching](<https://leetcode.com/tag/String-Matching/>) (6 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                                                                        | Level   | Cats      | Solution                                                                                | Languages   | Date Complete   |
+|-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:----------------------------------------------------------------------------------------|:------------|:----------------|
+|   28 | [Find the Index of the First Occurrence in a String](<https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string>)                     | Easy    |           | [solution](<../_28. Find the Index of the First Occurrence in a String.md>)             | py          | May 22, 2024    |
+|  572 | [Subtree of Another Tree](<https://leetcode.com/problems/subtree-of-another-tree>)                                                                           | Easy    | B75, N150 | [solution](<../_572. Subtree of Another Tree.md>)                                       | py          | Jun 03, 2024    |
+|  616 | [Add Bold Tag in String](<https://leetcode.com/problems/add-bold-tag-in-string>)                                                                             | Medium  |           | [solution](<../_616. Add Bold Tag in String.md>)                                        | py          | Jun 27, 2024    |
+|  758 | [Bold Words in String](<https://leetcode.com/problems/bold-words-in-string>)                                                                                 | Medium  |           | [solution](<../_758. Bold Words in String.md>)                                          | py          | Jun 27, 2024    |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](<https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence>) | Easy    |           | [solution](<../_1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md>) | py          | Jun 01, 2024    |
+| 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                                                         | Hard    |           | [solution](<../_3045. Count Prefix and Suffix Pairs II.md>)                             | py          | Jun 28, 2024    |
