@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (30 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (31 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -36,3 +36,4 @@
 | 2482 | [Difference Between Ones and Zeros in Row and Column](<https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column>)                         | Medium  |           | [solution](<../_2482. Difference Between Ones and Zeros in Row and Column.md>)             | py          | Jun 07, 2024    |
 | 2545 | [Sort the Students by Their Kth Score](<https://leetcode.com/problems/sort-the-students-by-their-kth-score>)                                                       | Medium  |           | [solution](<../_2545. Sort the Students by Their Kth Score.md>)                            | java, py    | Jun 24, 2024    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                 | Medium  |           | [solution](<../_2679. Sum in a Matrix.md>)                                                 | java        | May 22, 2024    |
+| 3195 | [Find the Minimum Area to Cover All Ones I](<https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i>) - q2                                        | Medium  | Contest   | [solution](<../_3195. Find the Minimum Area to Cover All Ones I.md>)                       | py          | Jun 22, 2024    |

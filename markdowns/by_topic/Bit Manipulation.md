@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (24 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (25 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -30,3 +30,4 @@
 | 2433 | [Find The Original Array of Prefix Xor](<https://leetcode.com/problems/find-the-original-array-of-prefix-xor>)                                                           | Medium  |           | [solution](<../_2433. Find The Original Array of Prefix Xor.md>)                              | py               | May 30, 2024    |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](<https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k>)                   | Medium  |           | [solution](<../_2997. Minimum Number of Operations to Make Array XOR Equal to K.md>)          | java, py         | Jun 11, 2024    |
 | 3064 | [Guess the Number Using Bitwise Questions I](<https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i>)                                                 | Medium  |           | [solution](<../_3064. Guess the Number Using Bitwise Questions I.md>)                         | c, py            | Jun 06, 2024    |
+| 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i>)       | Medium  |           | [solution](<../_3191. Minimum Operations to Make Binary Array Elements Equal to One I.md>)    | java             | Jun 22, 2024    |

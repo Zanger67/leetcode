@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (14 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (17 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -20,3 +20,6 @@
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                       | Easy    |                | [solution](<../_2248. Intersection of Multiple Arrays.md>)                    | py          | May 29, 2024    |
 | 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                             | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                       | py          | Jul 05, 2024    |
 | 2423 | [Remove Letter To Equalize Frequency](<https://leetcode.com/problems/remove-letter-to-equalize-frequency>)                               | Easy    |                | [solution](<../_2423. Remove Letter To Equalize Frequency.md>)                | py          | Jun 16, 2024    |
+| 3184 | [Count Pairs That Form a Complete Day I](<https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i>) - q1                    | Easy    | Contest        | [solution](<../_3184. Count Pairs That Form a Complete Day I.md>)             | py          | Jun 15, 2024    |
+| 3185 | [Count Pairs That Form a Complete Day II](<https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii>) - q2                  | Medium  | Contest        | [solution](<../_3185. Count Pairs That Form a Complete Day II.md>)            | py          | Jun 15, 2024    |
+| 3186 | [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>) - q3                  | Medium  | Contest        | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)            | py          | Jun 15, 2024    |

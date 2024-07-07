@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (55 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (57 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -61,3 +61,5 @@
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                           | Medium  |                | [solution](<../_2679. Sum in a Matrix.md>)                                                      | java             | May 22, 2024    |
 | 3074 | [Apple Redistribution into Boxes](<https://leetcode.com/problems/apple-redistribution-into-boxes>)                                                                           | Easy    |                | [solution](<../_3074. Apple Redistribution into Boxes.md>)                                      | py               | May 23, 2024    |
 | 3169 | [Count Days Without Meetings](<https://leetcode.com/problems/count-days-without-meetings>) - q2                                                                              | Medium  | Contest        | [solution](<../_3169. Count Days Without Meetings.md>)                                          | py               | Jun 01, 2024    |
+| 3186 | [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>) - q3                                                      | Medium  | Contest        | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)                              | py               | Jun 15, 2024    |
+| 3194 | [Minimum Average of Smallest and Largest Elements](<https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements>) - q1                                    | Easy    | Contest        | [solution](<../_3194. Minimum Average of Smallest and Largest Elements.md>)                     | py               | Jun 22, 2024    |

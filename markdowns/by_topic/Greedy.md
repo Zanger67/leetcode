@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (31 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (32 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -37,3 +37,4 @@
 | 2734 | [Lexicographically Smallest String After Substring Operation](<https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation>)                   | Medium  |                | [solution](<../_2734. Lexicographically Smallest String After Substring Operation.md>)          | py               | Jun 29, 2024    |
 | 3074 | [Apple Redistribution into Boxes](<https://leetcode.com/problems/apple-redistribution-into-boxes>)                                                                           | Easy    |                | [solution](<../_3074. Apple Redistribution into Boxes.md>)                                      | py               | May 23, 2024    |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](<https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint>)     | Medium  |                | [solution](<../_3106. Lexicographically Smallest String After Operations With Constraint.md>)   | py               | Jun 29, 2024    |
+| 3192 | [Minimum Operations to Make Binary Array Elements Equal to One II](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii>)         | Medium  |                | [solution](<../_3192. Minimum Operations to Make Binary Array Elements Equal to One II.md>)     | java             | Jun 22, 2024    |

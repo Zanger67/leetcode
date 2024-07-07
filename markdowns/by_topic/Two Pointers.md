@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (44 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (46 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -50,3 +50,5 @@
 | 2396 | [Strictly Palindromic Number](<https://leetcode.com/problems/strictly-palindromic-number>)                                                                   | Medium  |                | [solution](<../_2396. Strictly Palindromic Number.md>)                                  | c, cpp, java, js, kt, py, rb, rs | Jun 09, 2024    |
 | 2486 | [Append Characters to String to Make Subsequence](<https://leetcode.com/problems/append-characters-to-string-to-make-subsequence>)                           | Medium  | Daily          | [solution](<../_2486. Append Characters to String to Make Subsequence.md>)              | c, java, py                      | Jun 03, 2024    |
 | 2570 | [Merge Two 2D Arrays by Summing Values](<https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values>)                                               | Easy    |                | [solution](<../_2570. Merge Two 2D Arrays by Summing Values.md>)                        | c                                | Jun 10, 2024    |
+| 3186 | [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>) - q3                                      | Medium  | Contest        | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)                      | py                               | Jun 15, 2024    |
+| 3194 | [Minimum Average of Smallest and Largest Elements](<https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements>) - q1                    | Easy    | Contest        | [solution](<../_3194. Minimum Average of Smallest and Largest Elements.md>)             | py                               | Jun 22, 2024    |

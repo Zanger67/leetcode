@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (12 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (13 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -18,3 +18,4 @@
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](<https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit>) | Medium  | Daily          | [solution](<../_1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md>) | java        | Jun 22, 2024    |
 | 1852 | [Distinct Numbers in Each Subarray](<https://leetcode.com/problems/distinct-numbers-in-each-subarray>)                                                                                   | Medium  |                | [solution](<../_1852. Distinct Numbers in Each Subarray.md>)                                          | java        | Jun 26, 2024    |
 | 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)                                                             | Medium  | Weekly Premium | [solution](<../_2743. Count Substrings Without Repeating Character.md>)                               | java, py    | Jun 21, 2024    |
+| 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i>)                       | Medium  |                | [solution](<../_3191. Minimum Operations to Make Binary Array Elements Equal to One I.md>)            | java        | Jun 22, 2024    |
