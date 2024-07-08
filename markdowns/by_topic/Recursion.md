@@ -1,4 +1,4 @@
-# [Recursion](<https://leetcode.com/tag/Recursion/>) (14 completed)
+# [Recursion](<https://leetcode.com/tag/Recursion/>) (15 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -19,4 +19,5 @@
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                             | Easy    |                | [solution](<../_509. Fibonacci Number.md>)                        | c           | Jun 16, 2024    |
 |  776 | [Split BST](<https://leetcode.com/problems/split-bst>)                                                           | Medium  | Weekly Premium | [solution](<../_776. Split BST.md>)                               | py          | Jun 28, 2024    |
 | 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>) | Medium  |                | [solution](<../_1265. Print Immutable Linked List in Reverse.md>) | c, py       | Jun 06, 2024    |
+| 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)     | Medium  | Daily          | [solution](<../_1823. Find the Winner of the Circular Game.md>)   | py          | Jul 07, 2024    |
 | 2487 | [Remove Nodes From Linked List](<https://leetcode.com/problems/remove-nodes-from-linked-list>)                   | Medium  |                | [solution](<../_2487. Remove Nodes From Linked List.md>)          | py          | Jun 11, 2024    |

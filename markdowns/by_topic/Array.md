@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (190 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (191 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -143,6 +143,7 @@
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                                         | Easy    |                | [solution](<../_1748. Sum of Unique Elements.md>)                                                     | c                | Jun 06, 2024    |
 | 1762 | [Buildings With an Ocean View](<https://leetcode.com/problems/buildings-with-an-ocean-view>)                                                                                             | Medium  |                | [solution](<../_1762. Buildings With an Ocean View.md>)                                               | py               | Jun 10, 2024    |
 | 1822 | [Sign of the Product of an Array](<https://leetcode.com/problems/sign-of-the-product-of-an-array>)                                                                                       | Easy    |                | [solution](<../_1822. Sign of the Product of an Array.md>)                                            | c                | Jun 06, 2024    |
+| 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)                                                                             | Medium  | Daily          | [solution](<../_1823. Find the Winner of the Circular Game.md>)                                       | py               | Jul 07, 2024    |
 | 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                                                                                         | Medium  |                | [solution](<../_1833. Maximum Ice Cream Bars.md>)                                                     | c, java, py      | Jun 23, 2024    |
 | 1852 | [Distinct Numbers in Each Subarray](<https://leetcode.com/problems/distinct-numbers-in-each-subarray>)                                                                                   | Medium  |                | [solution](<../_1852. Distinct Numbers in Each Subarray.md>)                                          | java             | Jun 26, 2024    |
 | 1874 | [Minimize Product Sum of Two Arrays](<https://leetcode.com/problems/minimize-product-sum-of-two-arrays>)                                                                                 | Medium  |                | [solution](<../_1874. Minimize Product Sum of Two Arrays.md>)                                         | c, java          | Jun 22, 2024    |

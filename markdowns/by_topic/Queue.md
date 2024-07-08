@@ -1,4 +1,4 @@
-# [Queue](<https://leetcode.com/tag/Queue/>) (10 completed)
+# [Queue](<https://leetcode.com/tag/Queue/>) (11 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -15,4 +15,5 @@
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](<https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit>) | Medium  | Daily  | [solution](<../_1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md>) | java        | Jun 22, 2024    |
 | 1696 | [Jump Game VI](<https://leetcode.com/problems/jump-game-vi>)                                                                                                                             | Medium  |        | [solution](<../_1696. Jump Game VI.md>)                                                               | java, py    | Jul 02, 2024    |
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                                                         | Easy    |        | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)                                     | py          | Jun 01, 2024    |
+| 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)                                                                             | Medium  | Daily  | [solution](<../_1823. Find the Winner of the Circular Game.md>)                                       | py          | Jul 07, 2024    |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i>)                       | Medium  |        | [solution](<../_3191. Minimum Operations to Make Binary Array Elements Equal to One I.md>)            | java        | Jun 22, 2024    |
