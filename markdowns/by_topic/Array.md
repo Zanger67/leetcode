@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (191 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (192 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -138,6 +138,7 @@
 | 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                                         | Easy    |                | [solution](<../_1684. Count the Number of Consistent Strings.md>)                                     | c, py                | Jun 06, 2024    |
 | 1696 | [Jump Game VI](<https://leetcode.com/problems/jump-game-vi>)                                                                                                                             | Medium  |                | [solution](<../_1696. Jump Game VI.md>)                                                               | java, py             | Jul 02, 2024    |
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                                                         | Easy    |                | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)                                     | py                   | Jun 01, 2024    |
+| 1701 | [Average Waiting Time](<https://leetcode.com/problems/average-waiting-time>)                                                                                                             | Medium  | Daily          | [solution](<../_1701. Average Waiting Time.md>)                                                       | js, py               | Jul 08, 2024    |
 | 1730 | [Shortest Path to Get Food](<https://leetcode.com/problems/shortest-path-to-get-food>)                                                                                                   | Medium  |                | [solution](<../_1730. Shortest Path to Get Food.md>)                                                  | py                   | Jun 26, 2024    |
 | 1743 | [Restore the Array From Adjacent Pairs](<https://leetcode.com/problems/restore-the-array-from-adjacent-pairs>)                                                                           | Medium  |                | [solution](<../_1743. Restore the Array From Adjacent Pairs.md>)                                      | py                   | Jun 26, 2024    |
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                                         | Easy    |                | [solution](<../_1748. Sum of Unique Elements.md>)                                                     | c                    | Jun 06, 2024    |

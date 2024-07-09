@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (28 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (29 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -17,6 +17,7 @@
 | 1518 | [Water Bottles](<https://leetcode.com/problems/water-bottles>)                                                                             | Easy    | Daily   | [solution](<../_1518. Water Bottles.md>)                                       | c, cpp, cs, java, js, py, ts | Jul 06, 2024    |
 | 1535 | [Find the Winner of an Array Game](<https://leetcode.com/problems/find-the-winner-of-an-array-game>)                                       | Medium  |         | [solution](<../_1535. Find the Winner of an Array Game.md>)                    | py                           | Jun 08, 2024    |
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                           | Easy    |         | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)              | py                           | Jun 01, 2024    |
+| 1701 | [Average Waiting Time](<https://leetcode.com/problems/average-waiting-time>)                                                               | Medium  | Daily   | [solution](<../_1701. Average Waiting Time.md>)                                | js, py                       | Jul 08, 2024    |
 | 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)                               | Medium  | Daily   | [solution](<../_1823. Find the Winner of the Circular Game.md>)                | c, cpp, java, js, py         | Jul 07, 2024    |
 | 1929 | [Concatenation of Array](<https://leetcode.com/problems/concatenation-of-array>)                                                           | Easy    |         | [solution](<../_1929. Concatenation of Array.md>)                              | c, java, py                  | Jun 03, 2024    |
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>) | Easy    |         | [solution](<../_2011. Final Value of Variable After Performing Operations.md>) | c                            | Jun 03, 2024    |
