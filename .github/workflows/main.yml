@@ -35,8 +35,8 @@ jobs:
       - name: Execute the markdown generation python script
         # run: python '.Readme Updater/main.py -n'
         # On pause for now since I need to rest so let's use the one that doesn't properly date everything
-        # run: python '.Readme Updater/main.py' -n -g
-        run: python '.Readme Updater/main.py' -n
+        run: python '.Readme Updater/main.py' -n -g
+        # run: python '.Readme Updater/main.py' -n
 
       - name: Commit updated markdown files to repo
         run: |
