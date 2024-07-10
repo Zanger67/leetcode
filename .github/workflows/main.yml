@@ -33,7 +33,8 @@ jobs:
           pip install -r '.Readme Updater/requirements.txt'
 
       - name: execute py script
-        run: python '.Readme Updater/main.py -n'
+        # run: python '.Readme Updater/main.py -n'
+        run: python '.Readme Updater/main.py'
 
       - name: commit to repo
         run: |
