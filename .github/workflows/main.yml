@@ -2,7 +2,7 @@ name: py
 
 on:
   schedule:
-    - cron: "15 7 * * *"    #runs at 12am PST each day
+    - cron: "40 7 * * *"    #runs at 12am PST each day
 
 permissions:
   contents: write
@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           submodules: 'true'
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: setup python
         uses: actions/setup-python@v4
