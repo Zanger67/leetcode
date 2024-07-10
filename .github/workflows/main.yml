@@ -38,6 +38,8 @@ jobs:
 
       - name: commit to repo
         run: |
+          git config --global user.name "Zanger67/leetcode"
+          git config --global user.email "Zanger67[bot]@zanger67.github.io"
           git add .
-          git commit -m 'Update generated files'
+          git commit -m 'Updated markdown files'
           git push
