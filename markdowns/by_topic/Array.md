@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (192 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (193 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -135,6 +135,7 @@
 | 1564 | [Put Boxes Into the Warehouse I](<https://leetcode.com/problems/put-boxes-into-the-warehouse-i>)                                                                                         | Medium  |                | [solution](<../_1564. Put Boxes Into the Warehouse I.md>)                                             | py                   | Jun 14, 2024    |
 | 1570 | [Dot Product of Two Sparse Vectors](<https://leetcode.com/problems/dot-product-of-two-sparse-vectors>)                                                                                   | Medium  |                | [solution](<../_1570. Dot Product of Two Sparse Vectors.md>)                                          | c, java, py          | Jun 06, 2024    |
 | 1580 | [Put Boxes Into the Warehouse II](<https://leetcode.com/problems/put-boxes-into-the-warehouse-ii>)                                                                                       | Medium  | Weekly Premium | [solution](<../_1580. Put Boxes Into the Warehouse II.md>)                                            | py                   | Jun 14, 2024    |
+| 1598 | [Crawler Log Folder](<https://leetcode.com/problems/crawler-log-folder>)                                                                                                                 | Easy    | Daily          | [solution](<../_1598. Crawler Log Folder.md>)                                                         | js                   | Jul 09, 2024    |
 | 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                                         | Easy    |                | [solution](<../_1684. Count the Number of Consistent Strings.md>)                                     | c, py                | Jun 06, 2024    |
 | 1696 | [Jump Game VI](<https://leetcode.com/problems/jump-game-vi>)                                                                                                                             | Medium  |                | [solution](<../_1696. Jump Game VI.md>)                                                               | java, py             | Jul 02, 2024    |
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                                                         | Easy    |                | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)                                     | py                   | Jun 01, 2024    |
