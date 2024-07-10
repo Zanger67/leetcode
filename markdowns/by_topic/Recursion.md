@@ -1,0 +1,23 @@
+# [Recursion](<https://leetcode.com/tag/Recursion/>) (15 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                            | Level   | Cats           | Solution                                                          | Languages            | Date Complete   |
+|-----:|:-----------------------------------------------------------------------------------------------------------------|:--------|:---------------|:------------------------------------------------------------------|:---------------------|:----------------|
+|    2 | [Add Two Numbers](<https://leetcode.com/problems/add-two-numbers>)                                               | Medium  | N150           | [solution](<../_2. Add Two Numbers.md>)                           | java                 | Jul 10, 2024    |
+|   21 | [Merge Two Sorted Lists](<https://leetcode.com/problems/merge-two-sorted-lists>)                                 | Easy    | B75, N150      | [solution](<../_21. Merge Two Sorted Lists.md>)                   | java                 | Jul 10, 2024    |
+|   24 | [Swap Nodes in Pairs](<https://leetcode.com/problems/swap-nodes-in-pairs>)                                       | Medium  |                | [solution](<../_24. Swap Nodes in Pairs.md>)                      | c                    | Jul 10, 2024    |
+|   25 | [Reverse Nodes in k-Group](<https://leetcode.com/problems/reverse-nodes-in-k-group>)                             | Hard    | N150           | [solution](<../_25. Reverse Nodes in k-Group.md>)                 | c                    | Jul 10, 2024    |
+|   50 | [Pow(x, n)](<https://leetcode.com/problems/powx-n>)                                                              | Medium  | N150           | [solution](<../_50. Pow(x, n).md>)                                | c, java, py          | Jul 10, 2024    |
+|  143 | [Reorder List](<https://leetcode.com/problems/reorder-list>)                                                     | Medium  | B75, N150      | [solution](<../_143. Reorder List.md>)                            | java, py             | Jul 10, 2024    |
+|  206 | [Reverse Linked List](<https://leetcode.com/problems/reverse-linked-list>)                                       | Easy    | B75, N150      | [solution](<../_206. Reverse Linked List.md>)                     | java                 | Jul 10, 2024    |
+|  224 | [Basic Calculator](<https://leetcode.com/problems/basic-calculator>)                                             | Hard    |                | [solution](<../_224. Basic Calculator.md>)                        | py                   | Jul 10, 2024    |
+|  273 | [Integer to English Words](<https://leetcode.com/problems/integer-to-english-words>)                             | Hard    |                | [solution](<../_273. Integer to English Words.md>)                | py                   | Jul 10, 2024    |
+|  394 | [Decode String](<https://leetcode.com/problems/decode-string>)                                                   | Medium  |                | [solution](<../_394. Decode String.md>)                           | py                   | Jul 10, 2024    |
+|  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                             | Easy    |                | [solution](<../_509. Fibonacci Number.md>)                        | c                    | Jul 10, 2024    |
+|  776 | [Split BST](<https://leetcode.com/problems/split-bst>)                                                           | Medium  | Weekly Premium | [solution](<../_776. Split BST.md>)                               | py                   | Jul 10, 2024    |
+| 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>) | Medium  |                | [solution](<../_1265. Print Immutable Linked List in Reverse.md>) | c, py                | Jul 10, 2024    |
+| 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)     | Medium  | Daily          | [solution](<../_1823. Find the Winner of the Circular Game.md>)   | c, cpp, java, js, py | Jul 10, 2024    |
+| 2487 | [Remove Nodes From Linked List](<https://leetcode.com/problems/remove-nodes-from-linked-list>)                   | Medium  |                | [solution](<../_2487. Remove Nodes From Linked List.md>)          | py                   | Jul 10, 2024    |
