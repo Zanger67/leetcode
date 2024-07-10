@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 7 * * *"    #runs at 12am PST each day
 
+permissions:
+  contents: write
+
 jobs:
   build: 
     runs-on: ubuntu-latest
@@ -15,6 +18,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+          cache: 'pip'
 
       - name: install python packages
         run: |
@@ -23,3 +27,9 @@ jobs:
 
       - name: execute py script
         run: python '.Readme Updater/main.py'
+
+      - name: commit to repo
+        run: |
+          git add .
+          git commit -m 'Update generated files'
+          git push
