@@ -2,7 +2,7 @@ name: py
 
 on:
   schedule:
-    - cron: "0 7 * * *"    #runs at 12am PST each day
+    - cron: "15 7 * * *"    #runs at 12am PST each day
 
 permissions:
   contents: write
