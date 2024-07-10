@@ -1,9 +1,13 @@
 name: py
 
 on:
-  schedule:
-    - cron: "5 8 * * *"    #runs at 12am PST each day
-
+  # schedule:
+    # - cron: "25 8 * * *"    #runs at 12am PST each day
+  
+  push:
+    branches:
+      - main
+  
 permissions:
   contents: write
 
