@@ -10,7 +10,6 @@ class Solution {
             if (ref.containsKey(nums[i])) {
                 return new int[]{ref.get(nums[i]), i};
             }
-
             ref.put((target - nums[i]), i);
         }
 
