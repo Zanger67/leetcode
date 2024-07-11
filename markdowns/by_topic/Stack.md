@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (39 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (40 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -27,6 +27,7 @@
 |  739 | [Daily Temperatures](<https://leetcode.com/problems/daily-temperatures>)                                                                           | Medium  | N150      | [solution](<../_739. Daily Temperatures.md>)                                      | c, java, py  | Jun 13, 2024    |
 |  853 | [Car Fleet](<https://leetcode.com/problems/car-fleet>)                                                                                             | Medium  | N150      | [solution](<../_853. Car Fleet.md>)                                               | py           | Jun 14, 2024    |
 |  856 | [Score of Parentheses](<https://leetcode.com/problems/score-of-parentheses>)                                                                       | Medium  |           | [solution](<../_856. Score of Parentheses.md>)                                    | py           | Jun 19, 2024    |
+|  895 | [Maximum Frequency Stack](<https://leetcode.com/problems/maximum-frequency-stack>)                                                                 | Hard    |           | [solution](<../_895. Maximum Frequency Stack.md>)                                 | java, py     | Jul 11, 2024    |
 |  921 | [Minimum Add to Make Parentheses Valid](<https://leetcode.com/problems/minimum-add-to-make-parentheses-valid>)                                     | Medium  |           | [solution](<../_921. Minimum Add to Make Parentheses Valid.md>)                   | java, py     | Jun 12, 2024    |
 |  946 | [Validate Stack Sequences](<https://leetcode.com/problems/validate-stack-sequences>)                                                               | Medium  |           | [solution](<../_946. Validate Stack Sequences.md>)                                | c, py        | Jun 12, 2024    |
 | 1006 | [Clumsy Factorial](<https://leetcode.com/problems/clumsy-factorial>)                                                                               | Medium  |           | [solution](<../_1006. Clumsy Factorial.md>)                                       | c, py        | Jun 12, 2024    |
