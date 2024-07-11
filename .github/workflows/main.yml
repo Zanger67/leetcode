@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+    paths:
+    - 'my-submissions/**'
   
 permissions:
   contents: write
@@ -14,9 +16,10 @@ permissions:
 jobs:
   build:
     # Prevent's double-git action run on push bug 
-    concurrency:
-      group: ${{ github.head_ref }}-init
-      cancel-in-progress: true
+    # Did not work
+    # concurrency:
+    #   group: ${{ github.head_ref }}-init
+    #   cancel-in-progress: true
 
     runs-on: ubuntu-latest
     steps:
@@ -24,7 +27,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          show-progress: 'true'
+          # show-progress: 'true'
           submodules: 'true'
           token: ${{ secrets.PAT }}
 
