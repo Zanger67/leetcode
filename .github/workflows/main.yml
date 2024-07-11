@@ -5,13 +5,14 @@ on:
     # schedule:
     # - cron: "25 8 * * *"    #runs at 12am PST each day
 
-    # Runs on commit *if* there's been a new code file added
-    # paths used to prevent self looping where the markdown
-    # push is detected and triggers another git action
 
     # Allows for manual runs
     workflow_dispatch:
 
+
+      # Runs on commit *if* there's been a new code file added
+    # paths used to prevent self looping where the markdown
+    # push is detected and triggers another git action
     push:
         branches:
             - main
@@ -50,6 +51,9 @@ jobs:
               # -g: use github log history to determine creation and modification dates of files
               run: python '.Readme Updater/main.py' -n -g
 
+
+              # Note: exit 0 should be redundant since this action triggers on a modification meaning
+              #       at least one file edit, but might as well keep it in case of future changes
             - name: Commit updated markdown files to repo
               run: |
                   git config --global user.name "Zanger67/leetcode"
