@@ -14,7 +14,6 @@ class Solution {
             if (seenSet.contains(i)) {
                 repeat = i;
             }
-
             seenSet.add(i);
         }
 
