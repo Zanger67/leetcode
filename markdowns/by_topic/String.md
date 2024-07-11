@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (89 completed)
+# [String](<https://leetcode.com/tag/String/>) (90 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -56,6 +56,7 @@
 | 1028 | [Recover a Tree From Preorder Traversal](<https://leetcode.com/problems/recover-a-tree-from-preorder-traversal>)                                                         | Hard    |                | [solution](<../_1028. Recover a Tree From Preorder Traversal.md>)                             | py          | Jul 01, 2024    |
 | 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                                       | Medium  |                | [solution](<../_1087. Brace Expansion.md>)                                                    | py          | Jun 15, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                                                                 | Medium  |                | [solution](<../_1166. Design File System.md>)                                                 | py          | Jun 28, 2024    |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](<https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses>)                               | Medium  | Daily          | [solution](<../_1190. Reverse Substrings Between Each Pair of Parentheses.md>)                | py          | Jul 11, 2024    |
 | 1209 | [Remove All Adjacent Duplicates in String II](<https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii>)                                               | Medium  |                | [solution](<../_1209. Remove All Adjacent Duplicates in String II.md>)                        | py          | Jun 19, 2024    |
 | 1233 | [Remove Sub-Folders from the Filesystem](<https://leetcode.com/problems/remove-sub-folders-from-the-filesystem>)                                                         | Medium  |                | [solution](<../_1233. Remove Sub-Folders from the Filesystem.md>)                             | py          | Jun 28, 2024    |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>)         | Medium  |                | [solution](<../_1239. Maximum Length of a Concatenated String with Unique Characters.md>)     | py          | Jun 29, 2024    |
