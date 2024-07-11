@@ -1,57 +1,70 @@
-name: py
+name: Update markdown files
 
 on:
-  # schedule:
+    # If you want it to run max once a day
+    # schedule:
     # - cron: "25 8 * * *"    #runs at 12am PST each day
-  
-  push:
-    branches:
-      - main
-    paths:
-    - 'my-submissions/**'
-  
+
+    # Runs on commit *if* there's been a new code file added
+    # paths used to prevent self looping where the markdown
+    # push is detected and triggers another git action
+
+    # Allows for manual runs
+    workflow_dispatch:
+
+    push:
+        branches:
+            - main
+        paths:
+            - 'my-submissions/**'
+
 permissions:
-  contents: write
+    contents: write
 
 jobs:
-  build:
-    # Prevent's double-git action run on push bug 
-    # Did not work
-    # concurrency:
-    #   group: ${{ github.head_ref }}-init
-    #   cancel-in-progress: true
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            # Curious to see if this in particular works
+            - name: Check if commit has occured in the last 24 hours and exit if not
+              id: check_commit
+              run: |
+                  if [ $(git log --since="24 hours ago" | wc -l) -eq 0 ]; then
+                      echo "No commits in the last 24 hours. Exiting..."
+                      exit 1
+                  fi
 
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout current repository content for latest
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-          # show-progress: 'true'
-          submodules: 'true'
-          token: ${{ secrets.PAT }}
+                  echo "Commits found in the last 24 hours. Continuing..."
 
-      - name: Setup python 3.10
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-          cache: 'pip'
+            - name: Checkout current repository content for latest
+              uses: actions/checkout@v2
+              with:
+                  fetch-depth: 0
 
-      - name: Install python packages
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r '.Readme Updater/requirements.txt'
+                  # Markdown generator is found in submodule
+                  submodules: "true"
+                  token: ${{ secrets.PAT }}
 
-      - name: Execute the markdown generation python script
-        # run: python '.Readme Updater/main.py -n'
-        # On pause for now since I need to rest so let's use the one that doesn't properly date everything
-        run: python '.Readme Updater/main.py' -n -g
-        # run: python '.Readme Updater/main.py' -n
+            - name: Setup python 3.10
+              uses: actions/setup-python@v4
+              with:
+                  python-version: "3.10"
+                  cache: "pip"
 
-      - name: Commit updated markdown files to repo
-        run: |
-          git config --global user.name "Zanger67/leetcode"
-          git config --global user.email "Zanger67[bot]@zanger67.github.io"
-          git add .
-          git commit -m 'Updated markdown files'
-          git push
+            - name: Install python packages
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install -r '.Readme Updater/requirements.txt'
+
+            - name: Execute the markdown generation python script
+              # -n: ignores previous .pkl stores of the modified dates (regenerate all from scratch)
+              # -g: use github log history to determine creation and modification dates of files
+              run: python '.Readme Updater/main.py' -n -g
+
+            - name: Commit updated markdown files to repo
+              run: |
+                  git config --global user.name "Zanger67/leetcode"
+                  git config --global user.email "Zanger67[bot]@zanger67.github.io"
+                  git add .
+                  git commit -m 'Updated markdown files' || exit 0
+                  git push
