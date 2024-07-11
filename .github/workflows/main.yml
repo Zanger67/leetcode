@@ -12,7 +12,12 @@ permissions:
   contents: write
 
 jobs:
-  build: 
+  build:
+    # Prevent's double-git action run on push bug 
+    concurrency:
+      group: ${{ github.head_ref }}-init
+      cancel-in-progress: true
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout current repository content for latest
