@@ -6,5 +6,5 @@
 
 |    # | Title                                                                                                                  | Level   | Cats   | Solution                                                             | Languages   | Date Complete   |
 |-----:|:-----------------------------------------------------------------------------------------------------------------------|:--------|:-------|:---------------------------------------------------------------------|:------------|:----------------|
-| 1698 | [Number of Distinct Substrings in a String](<https://leetcode.com/problems/number-of-distinct-substrings-in-a-string>) | Medium  |        | [solution](<../_1698. Number of Distinct Substrings in a String.md>) | java, py    | Jul 10, 2024    |
-| 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                   | Hard    |        | [solution](<../_3045. Count Prefix and Suffix Pairs II.md>)          | py          | Jul 10, 2024    |
+| 1698 | [Number of Distinct Substrings in a String](<https://leetcode.com/problems/number-of-distinct-substrings-in-a-string>) | Medium  |        | [solution](<../_1698. Number of Distinct Substrings in a String.md>) | java, py    | Jul 11, 2024    |
+| 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                   | Hard    |        | [solution](<../_3045. Count Prefix and Suffix Pairs II.md>)          | py          | Jul 11, 2024    |
