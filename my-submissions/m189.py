@@ -12,4 +12,3 @@ class Solution:
         for i in range(n) :
             dequeeuueueueue.append(nums[i])
             nums[i] = dequeeuueueueue.popleft()
-        
