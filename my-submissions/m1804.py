@@ -50,7 +50,6 @@ class Trie:
         
         curr[False] = curr.get(False, 1) - 1
 
-
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
 # obj.insert(word)

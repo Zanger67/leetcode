@@ -23,7 +23,7 @@ class Solution:
         while dayIndx and flowersUsed < m * k :
             day, indx = dayIndx.pop()
             maxDay = day
-
+            
             starter = findStarter(indx)
 
             if indx == starter:    # is start of group
