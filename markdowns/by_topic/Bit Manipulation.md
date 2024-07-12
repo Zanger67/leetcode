@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (25 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (26 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -23,6 +23,7 @@
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one>) | Medium  | Daily     | [solution](<../_1404. Number of Steps to Reduce a Number in Binary Representation to One.md>) | py               | Jun 08, 2024    |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](<https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor>)                             | Medium  | Daily     | [solution](<../_1442. Count Triplets That Can Form Two Arrays of Equal XOR.md>)               | py               | Jun 08, 2024    |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](<https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree>)                                                   | Medium  |           | [solution](<../_1457. Pseudo-Palindromic Paths in a Binary Tree.md>)                          | py               | Jul 05, 2024    |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](<https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k>)                           | Medium  |           | [solution](<../_1461. Check If a String Contains All Binary Codes of Size K.md>)              | py               | Jul 12, 2024    |
 | 1525 | [Number of Good Ways to Split a String](<https://leetcode.com/problems/number-of-good-ways-to-split-a-string>)                                                           | Medium  |           | [solution](<../_1525. Number of Good Ways to Split a String.md>)                              | py               | Jun 01, 2024    |
 | 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                         | Easy    |           | [solution](<../_1684. Count the Number of Consistent Strings.md>)                             | c, py            | Jun 06, 2024    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                           | Easy    |           | [solution](<../_2206. Divide Array Into Equal Pairs.md>)                                      | c, py            | Jun 08, 2024    |
