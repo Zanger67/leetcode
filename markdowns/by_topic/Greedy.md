@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (32 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (33 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -23,6 +23,7 @@
 | 1564 | [Put Boxes Into the Warehouse I](<https://leetcode.com/problems/put-boxes-into-the-warehouse-i>)                                                                             | Medium  |                | [solution](<../_1564. Put Boxes Into the Warehouse I.md>)                                       | py               | Jun 15, 2024    |
 | 1580 | [Put Boxes Into the Warehouse II](<https://leetcode.com/problems/put-boxes-into-the-warehouse-ii>)                                                                           | Medium  | Weekly Premium | [solution](<../_1580. Put Boxes Into the Warehouse II.md>)                                      | py               | Jun 15, 2024    |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](<https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers>)                           | Medium  |                | [solution](<../_1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.md>)              | c, java          | Jun 22, 2024    |
+| 1717 | [Maximum Score From Removing Substrings](<https://leetcode.com/problems/maximum-score-from-removing-substrings>)                                                             | Medium  | Daily          | [solution](<../_1717. Maximum Score From Removing Substrings.md>)                               | py               | Jul 12, 2024    |
 | 1736 | [Latest Time by Replacing Hidden Digits](<https://leetcode.com/problems/latest-time-by-replacing-hidden-digits>)                                                             | Easy    |                | [solution](<../_1736. Latest Time by Replacing Hidden Digits.md>)                               | c                | Jun 03, 2024    |
 | 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                                                                             | Medium  |                | [solution](<../_1833. Maximum Ice Cream Bars.md>)                                               | c, java, py      | Jun 23, 2024    |
 | 1874 | [Minimize Product Sum of Two Arrays](<https://leetcode.com/problems/minimize-product-sum-of-two-arrays>)                                                                     | Medium  |                | [solution](<../_1874. Minimize Product Sum of Two Arrays.md>)                                   | c, java          | Jun 22, 2024    |

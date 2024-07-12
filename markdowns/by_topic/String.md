@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (90 completed)
+# [String](<https://leetcode.com/tag/String/>) (91 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -71,6 +71,7 @@
 | 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                         | Easy    |                | [solution](<../_1684. Count the Number of Consistent Strings.md>)                             | c, py       | Jun 06, 2024    |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](<https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers>)                       | Medium  |                | [solution](<../_1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.md>)            | c, java     | Jun 22, 2024    |
 | 1698 | [Number of Distinct Substrings in a String](<https://leetcode.com/problems/number-of-distinct-substrings-in-a-string>)                                                   | Medium  |                | [solution](<../_1698. Number of Distinct Substrings in a String.md>)                          | java, py    | Jun 02, 2024    |
+| 1717 | [Maximum Score From Removing Substrings](<https://leetcode.com/problems/maximum-score-from-removing-substrings>)                                                         | Medium  | Daily          | [solution](<../_1717. Maximum Score From Removing Substrings.md>)                             | py          | Jul 12, 2024    |
 | 1736 | [Latest Time by Replacing Hidden Digits](<https://leetcode.com/problems/latest-time-by-replacing-hidden-digits>)                                                         | Easy    |                | [solution](<../_1736. Latest Time by Replacing Hidden Digits.md>)                             | c           | Jun 03, 2024    |
 | 1759 | [Count Number of Homogenous Substrings](<https://leetcode.com/problems/count-number-of-homogenous-substrings>)                                                           | Medium  |                | [solution](<../_1759. Count Number of Homogenous Substrings.md>)                              | c, java     | Jun 10, 2024    |
 | 1768 | [Merge Strings Alternately](<https://leetcode.com/problems/merge-strings-alternately>)                                                                                   | Easy    |                | [solution](<../_1768. Merge Strings Alternately.md>)                                          | java        | Jul 01, 2024    |
