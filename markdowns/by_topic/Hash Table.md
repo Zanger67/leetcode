@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (95 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (96 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -39,6 +39,7 @@
 |  690 | [Employee Importance](<https://leetcode.com/problems/employee-importance>)                                                                                         | Medium  |                | [solution](<../_690. Employee Importance.md>)                                              | java        | Jul 02, 2024    |
 |  692 | [Top K Frequent Words](<https://leetcode.com/problems/top-k-frequent-words>)                                                                                       | Medium  |                | [solution](<../_692. Top K Frequent Words.md>)                                             | py          | Jun 09, 2024    |
 |  720 | [Longest Word in Dictionary](<https://leetcode.com/problems/longest-word-in-dictionary>)                                                                           | Medium  |                | [solution](<../_720. Longest Word in Dictionary.md>)                                       | py          | Jun 27, 2024    |
+|  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                                 | Hard    | Daily          | [solution](<../_726. Number of Atoms.md>)                                                  | py          | Jul 14, 2024    |
 |  758 | [Bold Words in String](<https://leetcode.com/problems/bold-words-in-string>)                                                                                       | Medium  |                | [solution](<../_758. Bold Words in String.md>)                                             | py          | Jun 28, 2024    |
 |  771 | [Jewels and Stones](<https://leetcode.com/problems/jewels-and-stones>)                                                                                             | Easy    |                | [solution](<../_771. Jewels and Stones.md>)                                                | java, py    | Jun 02, 2024    |
 |  791 | [Custom Sort String](<https://leetcode.com/problems/custom-sort-string>)                                                                                           | Medium  |                | [solution](<../_791. Custom Sort String.md>)                                               | java        | Jun 24, 2024    |

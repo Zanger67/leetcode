@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (59 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (60 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,6 +22,7 @@
 |  645 | [Set Mismatch](<https://leetcode.com/problems/set-mismatch>)                                                                                                                 | Easy    |                | [solution](<../_645. Set Mismatch.md>)                                                          | java, py         | Jun 01, 2024    |
 |  692 | [Top K Frequent Words](<https://leetcode.com/problems/top-k-frequent-words>)                                                                                                 | Medium  |                | [solution](<../_692. Top K Frequent Words.md>)                                                  | py               | Jun 09, 2024    |
 |  720 | [Longest Word in Dictionary](<https://leetcode.com/problems/longest-word-in-dictionary>)                                                                                     | Medium  |                | [solution](<../_720. Longest Word in Dictionary.md>)                                            | py               | Jun 27, 2024    |
+|  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                                           | Hard    | Daily          | [solution](<../_726. Number of Atoms.md>)                                                       | py               | Jul 14, 2024    |
 |  791 | [Custom Sort String](<https://leetcode.com/problems/custom-sort-string>)                                                                                                     | Medium  |                | [solution](<../_791. Custom Sort String.md>)                                                    | java             | Jun 24, 2024    |
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                                                     | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                                            | py               | Jun 18, 2024    |
 |  846 | [Hand of Straights](<https://leetcode.com/problems/hand-of-straights>)                                                                                                       | Medium  | Daily, N150    | [solution](<../_846. Hand of Straights.md>)                                                     | py               | Jun 06, 2024    |
