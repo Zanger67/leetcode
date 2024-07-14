@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (43 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (45 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -25,6 +25,7 @@
 |  503 | [Next Greater Element II](<https://leetcode.com/problems/next-greater-element-ii>)                                                                 | Medium  |           | [solution](<../_503. Next Greater Element II.md>)                                 | py           | Jul 05, 2024    |
 |  654 | [Maximum Binary Tree](<https://leetcode.com/problems/maximum-binary-tree>)                                                                         | Medium  |           | [solution](<../_654. Maximum Binary Tree.md>)                                     | py           | Jun 12, 2024    |
 |  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                 | Hard    | Daily     | [solution](<../_726. Number of Atoms.md>)                                         | py           | Jul 14, 2024    |
+|  735 | [Asteroid Collision](<https://leetcode.com/problems/asteroid-collision>)                                                                           | Medium  |           | [solution](<../_735. Asteroid Collision.md>)                                      | py           | Jul 14, 2024    |
 |  739 | [Daily Temperatures](<https://leetcode.com/problems/daily-temperatures>)                                                                           | Medium  | N150      | [solution](<../_739. Daily Temperatures.md>)                                      | c, java, py  | Jun 13, 2024    |
 |  853 | [Car Fleet](<https://leetcode.com/problems/car-fleet>)                                                                                             | Medium  | N150      | [solution](<../_853. Car Fleet.md>)                                               | py           | Jun 14, 2024    |
 |  856 | [Score of Parentheses](<https://leetcode.com/problems/score-of-parentheses>)                                                                       | Medium  |           | [solution](<../_856. Score of Parentheses.md>)                                    | py           | Jun 19, 2024    |
@@ -45,6 +46,7 @@
 | 1717 | [Maximum Score From Removing Substrings](<https://leetcode.com/problems/maximum-score-from-removing-substrings>)                                   | Medium  | Daily     | [solution](<../_1717. Maximum Score From Removing Substrings.md>)                 | py           | Jul 12, 2024    |
 | 1762 | [Buildings With an Ocean View](<https://leetcode.com/problems/buildings-with-an-ocean-view>)                                                       | Medium  |           | [solution](<../_1762. Buildings With an Ocean View.md>)                           | py           | Jun 10, 2024    |
 | 2130 | [Maximum Twin Sum of a Linked List](<https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list>)                                             | Medium  |           | [solution](<../_2130. Maximum Twin Sum of a Linked List.md>)                      | py           | Jun 21, 2024    |
+| 2211 | [Count Collisions on a Road](<https://leetcode.com/problems/count-collisions-on-a-road>)                                                           | Medium  |           | [solution](<../_2211. Count Collisions on a Road.md>)                             | py           | Jul 14, 2024    |
 | 2390 | [Removing Stars From a String](<https://leetcode.com/problems/removing-stars-from-a-string>)                                                       | Medium  |           | [solution](<../_2390. Removing Stars From a String.md>)                           | java, py     | Jun 02, 2024    |
 | 2487 | [Remove Nodes From Linked List](<https://leetcode.com/problems/remove-nodes-from-linked-list>)                                                     | Medium  |           | [solution](<../_2487. Remove Nodes From Linked List.md>)                          | py           | Jun 12, 2024    |
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                               | Hard    | Daily     | [solution](<../_2751. Robot Collisions.md>)                                       | py           | Jul 13, 2024    |
