@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (96 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (97 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -8,6 +8,7 @@
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:-------------------------------------------------------------------------------------------|:------------|:----------------|
 |    1 | [Two Sum](<https://leetcode.com/problems/two-sum>)                                                                                                                 | Easy    | B75, N150      | [solution](<../_1. Two Sum.md>)                                                            | java, py    | May 22, 2024    |
 |    3 | [Longest Substring Without Repeating Characters](<https://leetcode.com/problems/longest-substring-without-repeating-characters>)                                   | Medium  | B75, N150      | [solution](<../_3. Longest Substring Without Repeating Characters.md>)                     | java        | May 22, 2024    |
+|   17 | [Letter Combinations of a Phone Number](<https://leetcode.com/problems/letter-combinations-of-a-phone-number>)                                                     | Medium  | N150           | [solution](<../_17. Letter Combinations of a Phone Number.md>)                             | java        | Jul 14, 2024    |
 |   36 | [Valid Sudoku](<https://leetcode.com/problems/valid-sudoku>)                                                                                                       | Medium  | N150           | [solution](<../_36. Valid Sudoku.md>)                                                      | py          | Jun 13, 2024    |
 |   49 | [Group Anagrams](<https://leetcode.com/problems/group-anagrams>)                                                                                                   | Medium  | B75, N150      | [solution](<../_49. Group Anagrams.md>)                                                    | py          | Jun 13, 2024    |
 |  128 | [Longest Consecutive Sequence](<https://leetcode.com/problems/longest-consecutive-sequence>)                                                                       | Medium  | B75, N150      | [solution](<../_128. Longest Consecutive Sequence.md>)                                     | java, py    | Jun 13, 2024    |

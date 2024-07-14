@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (94 completed)
+# [String](<https://leetcode.com/tag/String/>) (95 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -10,6 +10,7 @@
 |    5 | [Longest Palindromic Substring](<https://leetcode.com/problems/longest-palindromic-substring>)                                                                           | Medium  | B75, N150      | [solution](<../_5. Longest Palindromic Substring.md>)                                         | py          | Jul 05, 2024    |
 |    8 | [String to Integer (atoi)](<https://leetcode.com/problems/string-to-integer-atoi>)                                                                                       | Medium  |                | [solution](<../_8. String to Integer (atoi).md>)                                              | py          | Jun 10, 2024    |
 |   14 | [Longest Common Prefix](<https://leetcode.com/problems/longest-common-prefix>)                                                                                           | Easy    |                | [solution](<../_14. Longest Common Prefix.md>)                                                | java        | May 22, 2024    |
+|   17 | [Letter Combinations of a Phone Number](<https://leetcode.com/problems/letter-combinations-of-a-phone-number>)                                                           | Medium  | N150           | [solution](<../_17. Letter Combinations of a Phone Number.md>)                                | java        | Jul 14, 2024    |
 |   20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)                                                                                                   | Easy    | B75, N150      | [solution](<../_20. Valid Parentheses.md>)                                                    | java        | May 22, 2024    |
 |   22 | [Generate Parentheses](<https://leetcode.com/problems/generate-parentheses>)                                                                                             | Medium  | N150           | [solution](<../_22. Generate Parentheses.md>)                                                 | py          | Jun 13, 2024    |
 |   28 | [Find the Index of the First Occurrence in a String](<https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string>)                                 | Easy    |                | [solution](<../_28. Find the Index of the First Occurrence in a String.md>)                   | py          | May 22, 2024    |
