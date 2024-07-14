@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (42 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (43 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -24,6 +24,7 @@
 |  426 | [Convert Binary Search Tree to Sorted Doubly Linked List](<https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list>) | Medium  |           | [solution](<../_426. Convert Binary Search Tree to Sorted Doubly Linked List.md>) | py           | Jun 12, 2024    |
 |  503 | [Next Greater Element II](<https://leetcode.com/problems/next-greater-element-ii>)                                                                 | Medium  |           | [solution](<../_503. Next Greater Element II.md>)                                 | py           | Jul 05, 2024    |
 |  654 | [Maximum Binary Tree](<https://leetcode.com/problems/maximum-binary-tree>)                                                                         | Medium  |           | [solution](<../_654. Maximum Binary Tree.md>)                                     | py           | Jun 12, 2024    |
+|  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                 | Hard    | Daily     | [solution](<../_726. Number of Atoms.md>)                                         | py           | Jul 14, 2024    |
 |  739 | [Daily Temperatures](<https://leetcode.com/problems/daily-temperatures>)                                                                           | Medium  | N150      | [solution](<../_739. Daily Temperatures.md>)                                      | c, java, py  | Jun 13, 2024    |
 |  853 | [Car Fleet](<https://leetcode.com/problems/car-fleet>)                                                                                             | Medium  | N150      | [solution](<../_853. Car Fleet.md>)                                               | py           | Jun 14, 2024    |
 |  856 | [Score of Parentheses](<https://leetcode.com/problems/score-of-parentheses>)                                                                       | Medium  |           | [solution](<../_856. Score of Parentheses.md>)                                    | py           | Jun 19, 2024    |
