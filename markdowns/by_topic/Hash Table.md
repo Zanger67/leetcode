@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (98 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (99 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -74,6 +74,7 @@
 | 1660 | [Correct a Binary Tree](<https://leetcode.com/problems/correct-a-binary-tree>)                                                                                     | Medium  |                | [solution](<../_1660. Correct a Binary Tree.md>)                                           | py          | Jun 27, 2024    |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv>)                                           | Medium  |                | [solution](<../_1676. Lowest Common Ancestor of a Binary Tree IV.md>)                      | py          | Jun 29, 2024    |
 | 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                   | Easy    |                | [solution](<../_1684. Count the Number of Consistent Strings.md>)                          | c, py       | Jun 06, 2024    |
+| 1740 | [Find Distance in a Binary Tree](<https://leetcode.com/problems/find-distance-in-a-binary-tree>)                                                                   | Medium  | Weekly Premium | [solution](<../_1740. Find Distance in a Binary Tree.md>)                                  | py          | Jul 15, 2024    |
 | 1743 | [Restore the Array From Adjacent Pairs](<https://leetcode.com/problems/restore-the-array-from-adjacent-pairs>)                                                     | Medium  |                | [solution](<../_1743. Restore the Array From Adjacent Pairs.md>)                           | py          | Jun 27, 2024    |
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                   | Easy    |                | [solution](<../_1748. Sum of Unique Elements.md>)                                          | c           | Jun 06, 2024    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                                                   | Medium  |                | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                                 | py          | Jun 27, 2024    |
