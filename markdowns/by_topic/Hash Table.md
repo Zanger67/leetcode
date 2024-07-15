@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (97 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (98 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -83,6 +83,7 @@
 | 1980 | [Find Unique Binary String](<https://leetcode.com/problems/find-unique-binary-string>)                                                                             | Medium  |                | [solution](<../_1980. Find Unique Binary String.md>)                                       | c, py       | Jun 27, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                                                   | Medium  | N150           | [solution](<../_2013. Detect Squares.md>)                                                  | py          | Jun 28, 2024    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)              | c, py       | Jun 10, 2024    |
+| 2196 | [Create Binary Tree From Descriptions](<https://leetcode.com/problems/create-binary-tree-from-descriptions>)                                                       | Medium  | Daily          | [solution](<../_2196. Create Binary Tree From Descriptions.md>)                            | py          | Jul 15, 2024    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                     | Easy    |                | [solution](<../_2206. Divide Array Into Equal Pairs.md>)                                   | c, py       | Jun 08, 2024    |
 | 2225 | [Find Players With Zero or One Losses](<https://leetcode.com/problems/find-players-with-zero-or-one-losses>)                                                       | Medium  |                | [solution](<../_2225. Find Players With Zero or One Losses.md>)                            | java        | Jun 24, 2024    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                 | Easy    |                | [solution](<../_2248. Intersection of Multiple Arrays.md>)                                 | py          | May 31, 2024    |

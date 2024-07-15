@@ -1,4 +1,4 @@
-# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (61 completed)
+# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (62 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -63,6 +63,7 @@
 | 1660 | [Correct a Binary Tree](<https://leetcode.com/problems/correct-a-binary-tree>)                                                                     | Medium  |                | [solution](<../_1660. Correct a Binary Tree.md>)                                  | py           | Jun 27, 2024    |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv>)                           | Medium  |                | [solution](<../_1676. Lowest Common Ancestor of a Binary Tree IV.md>)             | py           | Jun 29, 2024    |
 | 1973 | [Count Nodes Equal to Sum of Descendants](<https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants>)                                 | Medium  |                | [solution](<../_1973. Count Nodes Equal to Sum of Descendants.md>)                | c            | Jun 23, 2024    |
+| 2196 | [Create Binary Tree From Descriptions](<https://leetcode.com/problems/create-binary-tree-from-descriptions>)                                       | Medium  | Daily          | [solution](<../_2196. Create Binary Tree From Descriptions.md>)                   | py           | Jul 15, 2024    |
 | 2265 | [Count Nodes Equal to Average of Subtree](<https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree>)                                 | Medium  |                | [solution](<../_2265. Count Nodes Equal to Average of Subtree.md>)                | js, py       | Jun 07, 2024    |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](<https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected>)                     | Medium  |                | [solution](<../_2385. Amount of Time for Binary Tree to Be Infected.md>)          | py           | Jun 26, 2024    |
 | 2415 | [Reverse Odd Levels of Binary Tree](<https://leetcode.com/problems/reverse-odd-levels-of-binary-tree>)                                             | Medium  |                | [solution](<../_2415. Reverse Odd Levels of Binary Tree.md>)                      | py           | Jun 23, 2024    |
