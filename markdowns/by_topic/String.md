@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (96 completed)
+# [String](<https://leetcode.com/tag/String/>) (97 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -85,6 +85,7 @@
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>)                               | Easy    |                | [solution](<../_2011. Final Value of Variable After Performing Operations.md>)                | c           | Jun 03, 2024    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                                 | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)                 | c, py       | Jun 10, 2024    |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](<https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters>)                               | Medium  |                | [solution](<../_2086. Minimum Number of Food Buckets to Feed the Hamsters.md>)                | java        | Jul 01, 2024    |
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](<https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another>)                 | Medium  | Daily          | [solution](<../_2096. Step-By-Step Directions From a Binary Tree Node to Another.md>)         | py          | Jul 16, 2024    |
 | 2211 | [Count Collisions on a Road](<https://leetcode.com/problems/count-collisions-on-a-road>)                                                                                 | Medium  |                | [solution](<../_2211. Count Collisions on a Road.md>)                                         | py          | Jul 14, 2024    |
 | 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                             | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                                       | py          | Jul 05, 2024    |
 | 2390 | [Removing Stars From a String](<https://leetcode.com/problems/removing-stars-from-a-string>)                                                                             | Medium  |                | [solution](<../_2390. Removing Stars From a String.md>)                                       | java, py    | Jun 02, 2024    |
