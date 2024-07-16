@@ -47,7 +47,7 @@ jobs:
                     git submodule update --recursive --remote
                 else
                     echo "Submodule not found. Adding..."
-                    git submodule add https://github.com/Zanger67/Leetcode-Progress-Tracker.git '.readme_updater'
+                    git submodule add https://github.com/Zanger67/WikiLeet.git '.readme_updater'
                     git submodule update --init --recursive
                 fi
 
