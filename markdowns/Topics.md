@@ -4,12 +4,12 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (198 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (99 completed)
+- [Array](<by_topic/Array.md>) (200 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (100 completed)
 - [String](<by_topic/String.md>) (97 completed)
-- [Depth-First Search](<by_topic/Depth-First Search.md>) (71 completed)
-- [Tree](<by_topic/Tree.md>) (70 completed)
-- [Binary Tree](<by_topic/Binary Tree.md>) (65 completed)
+- [Depth-First Search](<by_topic/Depth-First Search.md>) (72 completed)
+- [Tree](<by_topic/Tree.md>) (71 completed)
+- [Binary Tree](<by_topic/Binary Tree.md>) (66 completed)
 - [Sorting](<by_topic/Sorting.md>) (60 completed)
 - [Math](<by_topic/Math.md>) (54 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (48 completed)
@@ -19,9 +19,9 @@
 - [Greedy](<by_topic/Greedy.md>) (33 completed)
 - [Simulation](<by_topic/Simulation.md>) (32 completed)
 - [Matrix](<by_topic/Matrix.md>) (31 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (26 completed)
 - [Bit Manipulation](<by_topic/Bit Manipulation.md>) (26 completed)
 - [Design](<by_topic/Design.md>) (26 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (25 completed)
 - [Binary Search](<by_topic/Binary Search.md>) (19 completed)
 - [Database](<by_topic/Database.md>) (18 completed)
 - [Trie](<by_topic/Trie.md>) (18 completed)
