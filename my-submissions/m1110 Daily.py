@@ -14,8 +14,13 @@ class Solution:
         def dfs(curr: Optional[TreeNode], to_delete: set, output: List[Optional[TreeNode]]) -> Optional[TreeNode] :
             if not curr :
                 return None
+            
+            # If found quickly, rest of traversal is redundant
+            if not to_delete :
+                return curr
 
             if curr.val in to_delete :
+                to_delete.remove(curr.val)
                 left = dfs(curr.left, to_delete, output)
                 right = dfs(curr.right, to_delete, output)
 
