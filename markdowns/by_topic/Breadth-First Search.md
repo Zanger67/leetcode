@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (48 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (49 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -35,6 +35,7 @@
 |  994 | [Rotting Oranges](<https://leetcode.com/problems/rotting-oranges>)                                                                                                 | Medium  | N150           | [solution](<../_994. Rotting Oranges.md>)                                                  | py          | Jun 15, 2024    |
 | 1020 | [Number of Enclaves](<https://leetcode.com/problems/number-of-enclaves>)                                                                                           | Medium  |                | [solution](<../_1020. Number of Enclaves.md>)                                              | py          | Jun 26, 2024    |
 | 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                                 | Medium  |                | [solution](<../_1087. Brace Expansion.md>)                                                 | py          | Jun 15, 2024    |
+| 1161 | [Maximum Level Sum of a Binary Tree](<https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree>)                                                           | Medium  |                | [solution](<../_1161. Maximum Level Sum of a Binary Tree.md>)                              | py          | Jul 17, 2024    |
 | 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                               | Medium  |                | [solution](<../_1254. Number of Closed Islands.md>)                                        | py          | Jun 26, 2024    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>) | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>) | py          | Jun 09, 2024    |
 | 1302 | [Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)                                                                                           | Medium  |                | [solution](<../_1302. Deepest Leaves Sum.md>)                                              | c, js, py   | Jun 07, 2024    |
