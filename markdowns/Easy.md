@@ -1,4 +1,4 @@
-# Easy Questions (17)
+# Easy Questions (132)
 
 *[Back to top](<../README.md>)*
 

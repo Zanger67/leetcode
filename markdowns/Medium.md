@@ -1,4 +1,4 @@
-# Medium Questions (19)
+# Medium Questions (287)
 
 *[Back to top](<../README.md>)*
 

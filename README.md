@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (445 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (445 - [132E](<markdowns/Easy.md>), [287M](<markdowns/Medium.md>), [26H](<markdowns/Hard.md>) solved)
 
 > My LeetCode Profile: [Zanger](https://leetcode.com/u/Zanger/)
 

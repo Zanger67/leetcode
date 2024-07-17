@@ -1,4 +1,4 @@
-# Hard Questions (17)
+# Hard Questions (26)
 
 *[Back to top](<../README.md>)*
 
