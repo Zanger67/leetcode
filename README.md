@@ -2,7 +2,6 @@
 
 > My LeetCode Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
-> [132 easy](<markdowns/Easy.md>), [287 medium](<markdowns/Medium.md>), [26 hard](<markdowns/Hard.md>)
 
 ## About this Repo
 
