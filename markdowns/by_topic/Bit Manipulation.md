@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (26 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (27 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -32,3 +32,4 @@
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](<https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k>)                   | Medium  |           | [solution](<../_2997. Minimum Number of Operations to Make Array XOR Equal to K.md>)          | java, py         | Jun 12, 2024    |
 | 3064 | [Guess the Number Using Bitwise Questions I](<https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i>)                                                 | Medium  |           | [solution](<../_3064. Guess the Number Using Bitwise Questions I.md>)                         | c, py            | Jun 06, 2024    |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i>)       | Medium  |           | [solution](<../_3191. Minimum Operations to Make Binary Array Elements Equal to One I.md>)    | java             | Jun 22, 2024    |
+| 3211 | Weekly Contest 405 - q2 - [Generate Binary Strings Without Adjacent Zeros](<https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros>)               | Medium  | Contest   | [solution](<../_3211. Generate Binary Strings Without Adjacent Zeros.md>)                     | js, py           | Jul 07, 2024    |

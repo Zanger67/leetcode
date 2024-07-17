@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (31 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (32 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -37,3 +37,4 @@
 | 2545 | [Sort the Students by Their Kth Score](<https://leetcode.com/problems/sort-the-students-by-their-kth-score>)                                                       | Medium  |           | [solution](<../_2545. Sort the Students by Their Kth Score.md>)                            | java, py    | Jun 24, 2024    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                 | Medium  |           | [solution](<../_2679. Sum in a Matrix.md>)                                                 | java        | May 22, 2024    |
 | 3195 | Weekly Contest 403 - q2 - [Find the Minimum Area to Cover All Ones I](<https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i>)                   | Medium  | Contest   | [solution](<../_3195. Find the Minimum Area to Cover All Ones I.md>)                       | py          | Jul 07, 2024    |
+| 3212 | Weekly Contest 405 - q3 - [Count Submatrices With Equal Frequency of X and Y](<https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y>)   | Medium  | Contest   | [solution](<../_3212. Count Submatrices With Equal Frequency of X and Y.md>)               | py          | Jul 07, 2024    |
