@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (71 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (72 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -53,6 +53,7 @@
 | 1026 | [Maximum Difference Between Node and Ancestor](<https://leetcode.com/problems/maximum-difference-between-node-and-ancestor>)                             | Medium  |                | [solution](<../_1026. Maximum Difference Between Node and Ancestor.md>)               | py          | Jun 23, 2024    |
 | 1028 | [Recover a Tree From Preorder Traversal](<https://leetcode.com/problems/recover-a-tree-from-preorder-traversal>)                                         | Hard    |                | [solution](<../_1028. Recover a Tree From Preorder Traversal.md>)                     | py          | Jul 01, 2024    |
 | 1038 | [Binary Search Tree to Greater Sum Tree](<https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree>)                                         | Medium  | Daily          | [solution](<../_1038. Binary Search Tree to Greater Sum Tree.md>)                     | c           | Jun 26, 2024    |
+| 1110 | [Delete Nodes And Return Forest](<https://leetcode.com/problems/delete-nodes-and-return-forest>)                                                         | Medium  | Daily          | [solution](<../_1110. Delete Nodes And Return Forest.md>)                             | py          | Jul 17, 2024    |
 | 1233 | [Remove Sub-Folders from the Filesystem](<https://leetcode.com/problems/remove-sub-folders-from-the-filesystem>)                                         | Medium  |                | [solution](<../_1233. Remove Sub-Folders from the Filesystem.md>)                     | py          | Jun 28, 2024    |
 | 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                     | Medium  |                | [solution](<../_1254. Number of Closed Islands.md>)                                   | py          | Jun 26, 2024    |
 | 1302 | [Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)                                                                                 | Medium  |                | [solution](<../_1302. Deepest Leaves Sum.md>)                                         | c, js, py   | Jun 07, 2024    |

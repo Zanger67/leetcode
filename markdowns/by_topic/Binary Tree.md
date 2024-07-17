@@ -1,4 +1,4 @@
-# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (65 completed)
+# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (66 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -51,6 +51,7 @@
 | 1026 | [Maximum Difference Between Node and Ancestor](<https://leetcode.com/problems/maximum-difference-between-node-and-ancestor>)                             | Medium  |                | [solution](<../_1026. Maximum Difference Between Node and Ancestor.md>)               | py           | Jun 23, 2024    |
 | 1028 | [Recover a Tree From Preorder Traversal](<https://leetcode.com/problems/recover-a-tree-from-preorder-traversal>)                                         | Hard    |                | [solution](<../_1028. Recover a Tree From Preorder Traversal.md>)                     | py           | Jul 01, 2024    |
 | 1038 | [Binary Search Tree to Greater Sum Tree](<https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree>)                                         | Medium  | Daily          | [solution](<../_1038. Binary Search Tree to Greater Sum Tree.md>)                     | c            | Jun 26, 2024    |
+| 1110 | [Delete Nodes And Return Forest](<https://leetcode.com/problems/delete-nodes-and-return-forest>)                                                         | Medium  | Daily          | [solution](<../_1110. Delete Nodes And Return Forest.md>)                             | py           | Jul 17, 2024    |
 | 1302 | [Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)                                                                                 | Medium  |                | [solution](<../_1302. Deepest Leaves Sum.md>)                                         | c, js, py    | Jun 07, 2024    |
 | 1305 | [All Elements in Two Binary Search Trees](<https://leetcode.com/problems/all-elements-in-two-binary-search-trees>)                                       | Medium  |                | [solution](<../_1305. All Elements in Two Binary Search Trees.md>)                    | java         | Jun 24, 2024    |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](<https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent>)                                   | Medium  |                | [solution](<../_1315. Sum of Nodes with Even-Valued Grandparent.md>)                  | py           | Jun 12, 2024    |
