@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (97 completed)
+# [String](<https://leetcode.com/tag/String/>) (100 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -103,3 +103,6 @@
 | 3136 | [Valid Word](<https://leetcode.com/problems/valid-word>)                                                                                                                 | Easy    |                | [solution](<../_3136. Valid Word.md>)                                                         | c, py       | Jul 03, 2024    |
 | 3168 | Weekly Contest 400 - q1 - [Minimum Number of Chairs in a Waiting Room](<https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room>)                       | Easy    | Contest        | [solution](<../_3168. Minimum Number of Chairs in a Waiting Room.md>)                         | py          | Jul 07, 2024    |
 | 3174 | Biweekly Contest 132 - q1 - [Clear Digits](<https://leetcode.com/problems/clear-digits>)                                                                                 | Easy    | Contest        | [solution](<../_3174. Clear Digits.md>)                                                       | py          | Jul 07, 2024    |
+| 3210 | Weekly Contest 405 - q1 - [Find the Encrypted String](<https://leetcode.com/problems/find-the-encrypted-string>)                                                         | Easy    | Contest        | [solution](<../_3210. Find the Encrypted String.md>)                                          | py          | Jul 07, 2024    |
+| 3211 | Weekly Contest 405 - q2 - [Generate Binary Strings Without Adjacent Zeros](<https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros>)               | Medium  | Contest        | [solution](<../_3211. Generate Binary Strings Without Adjacent Zeros.md>)                     | js, py      | Jul 07, 2024    |
+| 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                       | Hard    | Contest        | [solution](<../_3213. Construct String with Minimum Cost.md>)                                 | py          | Jul 07, 2024    |
