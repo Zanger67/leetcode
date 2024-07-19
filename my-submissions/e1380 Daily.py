@@ -1,5 +1,5 @@
 class Solution:
-    def luckyNumbers (self, matrix: List[List[int]]) -> List[int]:
+    def luckyNumbers(self, matrix: List[List[int]]) -> List[int]:
         rowMin = [inf] * len(matrix)
         colMax = [0] * len(matrix[0])
 
@@ -10,4 +10,4 @@ class Solution:
                 if matrix[i][j] < rowMin[i] :
                     rowMin[i] = matrix[i][j]
 
-        return [x for x in rowMin if x in colMax]
+        return list(set(rowMin) & set(colMax))
