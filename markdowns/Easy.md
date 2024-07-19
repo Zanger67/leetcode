@@ -1,4 +1,4 @@
-# Easy Questions (132)
+# Easy Questions (133)
 
 *[Back to top](<../README.md>)*
 
@@ -80,6 +80,7 @@
 | 1252 | [Cells with Odd Values in a Matrix](<https://leetcode.com/problems/cells-with-odd-values-in-a-matrix>)                                                             | Easy    |           | [solution](<markdowns/_1252. Cells with Odd Values in a Matrix.md>)                               | c                            | Jun 04, 2024    |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](<https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers>)                           | Easy    |           | [solution](<markdowns/_1317. Convert Integer to the Sum of Two No-Zero Integers.md>)              | c                            | Jun 04, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                                             | Easy    |           | [solution](<markdowns/_1351. Count Negative Numbers in a Sorted Matrix.md>)                       | java, py                     | Jun 01, 2024    |
+| 1380 | [Lucky Numbers in a Matrix](<https://leetcode.com/problems/lucky-numbers-in-a-matrix>)                                                                             | Easy    | Daily     | [solution](<markdowns/_1380. Lucky Numbers in a Matrix.md>)                                       | py                           | Jul 19, 2024    |
 | 1426 | [Counting Elements](<https://leetcode.com/problems/counting-elements>)                                                                                             | Easy    |           | [solution](<markdowns/_1426. Counting Elements.md>)                                               | c                            | Jun 04, 2024    |
 | 1436 | [Destination City](<https://leetcode.com/problems/destination-city>)                                                                                               | Easy    |           | [solution](<markdowns/_1436. Destination City.md>)                                                | java                         | Jun 01, 2024    |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](<https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence>)       | Easy    |           | [solution](<markdowns/_1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md>)    | py                           | Jun 01, 2024    |
