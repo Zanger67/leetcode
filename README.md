@@ -38,4 +38,4 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 ## Questions
 
 
-<p align="right">*This README was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>)*</p>
+<p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
