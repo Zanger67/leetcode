@@ -1,6 +1,6 @@
-# **[LeetCode Records](https://leetcode.com/u/Bob/)** (448 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (448 solved)
 
-> My LeetCode Profile: [Bob](https://leetcode.com/u/Bob/)
+> My LeetCode Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 ## About this Repo
 
