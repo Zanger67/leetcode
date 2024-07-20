@@ -18,6 +18,6 @@ jobs:
         
         steps:
             - name: Call and run markdown generator
-              uses: Zanger67/Wikileet@testing2
+              uses: Zanger67/Wikileet@main
               with:
-                username: Zanger
+                username: Bob

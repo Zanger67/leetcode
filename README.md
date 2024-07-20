@@ -1,6 +1,6 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (447 solved)
+# **[LeetCode Records](https://leetcode.com/u/bob/)** (448 solved)
 
-> My LeetCode Profile: [Zanger](https://leetcode.com/u/Zanger/)
+> My LeetCode Profile: [bob](https://leetcode.com/u/bob/)
 
 
 ## About this Repo
@@ -338,6 +338,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 1580 | [Put Boxes Into the Warehouse II](<https://leetcode.com/problems/put-boxes-into-the-warehouse-ii>)                                                                                       | Medium  | Weekly Premium | [solution](<markdowns/_1580. Put Boxes Into the Warehouse II.md>)                                            | py                               |
 | 1598 | [Crawler Log Folder](<https://leetcode.com/problems/crawler-log-folder>)                                                                                                                 | Easy    | Daily          | [solution](<markdowns/_1598. Crawler Log Folder.md>)                                                         | c, js                            |
 | 1602 | [Find Nearest Right Node in Binary Tree](<https://leetcode.com/problems/find-nearest-right-node-in-binary-tree>)                                                                         | Medium  |                | [solution](<markdowns/_1602. Find Nearest Right Node in Binary Tree.md>)                                     | java, py                         |
+| 1605 | [Find Valid Matrix Given Row and Column Sums](<https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums>)                                                               | Medium  | Daily          | [solution](<markdowns/_1605. Find Valid Matrix Given Row and Column Sums.md>)                                | py                               |
 | 1609 | [Even Odd Tree](<https://leetcode.com/problems/even-odd-tree>)                                                                                                                           | Medium  |                | [solution](<markdowns/_1609. Even Odd Tree.md>)                                                              | py                               |
 | 1641 | [Count Sorted Vowel Strings](<https://leetcode.com/problems/count-sorted-vowel-strings>)                                                                                                 | Medium  |                | [solution](<markdowns/_1641. Count Sorted Vowel Strings.md>)                                                 | c, cpp, java                     |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii>)                                                               | Medium  |                | [solution](<markdowns/_1650. Lowest Common Ancestor of a Binary Tree III.md>)                                | py                               |
