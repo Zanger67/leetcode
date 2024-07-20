@@ -6,4 +6,4 @@
 
 |    # | Title                                                                                                                                      | Level   | Cats   | Solution                                                                       | Languages   | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------|:--------|:-------|:-------------------------------------------------------------------------------|:------------|:----------------|
-| 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](<https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph>) | Medium  | Daily  | [solution](<../_2192. All Ancestors of a Node in a Directed Acyclic Graph.md>) | java, py    | Jun 29, 2024    |
+| 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](<https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph>) | Easy    | Daily  | [solution](<../_2192. All Ancestors of a Node in a Directed Acyclic Graph.md>) | java, py    | Jun 29, 2024    |
