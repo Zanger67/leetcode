@@ -20,4 +20,4 @@ jobs:
             - name: Call and run markdown generator
               uses: Zanger67/Wikileet@main
               with:
-                username: Bob
+                username: Zanger
