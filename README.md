@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# **[LeetCode Records](https://leetcode.com/u/bob/)** (448 solved)
-=======
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (448 solved)
->>>>>>> e359e07f49bf5399b3081b983072b59f383a4f65
+# **[LeetCode Records](https://leetcode.com/u/Bob/)** (448 solved)
 
-> My LeetCode Profile: [bob](https://leetcode.com/u/bob/)
+> My LeetCode Profile: [Bob](https://leetcode.com/u/Bob/)
 
 ## About this Repo
 

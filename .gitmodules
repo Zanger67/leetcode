@@ -1,0 +1,3 @@
+[submodule ".readme_updater"]
+	path = .readme_updater
+	url = https://github.com/Zanger67/Leetcode-Progress-Tracker.git
