@@ -1,8 +1,10 @@
 name: '[Updating markdown files]'
 
 on:
+    # Allows for munual runs of workflow
     workflow_dispatch:
 
+    # Default whenever a new code file is pushed to the main branch
     push:
         branches:
             - main
@@ -18,6 +20,7 @@ jobs:
         
         steps:
             - name: Call and run markdown generator
-              uses: Zanger67/Wikileet@main
+              uses: Zanger67/WikiLeet@main
               with:
+                # Insert your LeetCode username here!
                 username: Zanger
