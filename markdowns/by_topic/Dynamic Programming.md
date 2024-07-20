@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (27 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (26 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -32,4 +32,3 @@
 | 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>)                         | Medium  | Contest   | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)                          | py                       | Jul 07, 2024    |
 | 3192 | [Minimum Operations to Make Binary Array Elements Equal to One II](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii>) | Medium  |           | [solution](<../_3192. Minimum Operations to Make Binary Array Elements Equal to One II.md>) | java                     | Jun 22, 2024    |
 | 3196 | Weekly Contest 403 - q3 - [Maximize Total Cost of Alternating Subarrays](<https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays>)               | Medium  | Contest   | [solution](<../_3196. Maximize Total Cost of Alternating Subarrays.md>)                     | py                       | Jul 07, 2024    |
-| 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                   | Hard    | Contest   | [solution](<../_3213. Construct String with Minimum Cost.md>)                               | py                       | Jul 07, 2024    |
