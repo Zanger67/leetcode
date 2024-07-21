@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (448 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (452 solved)
 
 > My LeetCode Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
@@ -486,5 +486,9 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3211 | Weekly Contest 405 - q2 - [Generate Binary Strings Without Adjacent Zeros](<https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros>)                               | Easy    | Contest        | [solution](<markdowns/_3211. Generate Binary Strings Without Adjacent Zeros.md>)                             | js, py                           |
 | 3212 | Weekly Contest 405 - q3 - [Count Submatrices With Equal Frequency of X and Y](<https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y>)                         | Easy    | Contest        | [solution](<markdowns/_3212. Count Submatrices With Equal Frequency of X and Y.md>)                          | py                               |
 | 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                                       | Hard    | Contest        | [solution](<markdowns/_3213. Construct String with Minimum Cost.md>)                                         | py                               |
+| 3226 | Weekly Contest 407 - q1 - Question 3226                                                                                                                                                  | Easy    | Contest        | [solution](<markdowns/_3226. Question 3226.md>)                                                              | py                               |
+| 3227 | Weekly Contest 407 - q2 - Question 3227                                                                                                                                                  | Medium  | Contest        | [solution](<markdowns/_3227. Question 3227.md>)                                                              | py                               |
+| 3228 | Weekly Contest 407 - q3 - Question 3228                                                                                                                                                  | Medium  | Contest        | [solution](<markdowns/_3228. Question 3228.md>)                                                              | py                               |
+| 3229 | Weekly Contest 407 - q4 - Question 3229                                                                                                                                                  | Hard    | Contest        | [solution](<markdowns/_3229. Question 3229.md>)                                                              | py                               |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>

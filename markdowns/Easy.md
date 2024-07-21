@@ -1,4 +1,4 @@
-# Easy Questions (422)
+# Easy Questions (423)
 
 *[Back to top](<../README.md>)*
 
@@ -428,3 +428,4 @@
 | 3210 | Weekly Contest 405 - q1 - [Find the Encrypted String](<https://leetcode.com/problems/find-the-encrypted-string>)                                                                         | Easy    | Contest        | [solution](<markdowns/_3210. Find the Encrypted String.md>)                                                  | py                               | Jul 07, 2024    |
 | 3211 | Weekly Contest 405 - q2 - [Generate Binary Strings Without Adjacent Zeros](<https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros>)                               | Easy    | Contest        | [solution](<markdowns/_3211. Generate Binary Strings Without Adjacent Zeros.md>)                             | js, py                           | Jul 07, 2024    |
 | 3212 | Weekly Contest 405 - q3 - [Count Submatrices With Equal Frequency of X and Y](<https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y>)                         | Easy    | Contest        | [solution](<markdowns/_3212. Count Submatrices With Equal Frequency of X and Y.md>)                          | py                               | Jul 07, 2024    |
+| 3226 | Weekly Contest 407 - q1 - Question 3226                                                                                                                                                  | Easy    | Contest        | [solution](<markdowns/_3226. Question 3226.md>)                                                              | py                               | Jul 21, 2024    |
