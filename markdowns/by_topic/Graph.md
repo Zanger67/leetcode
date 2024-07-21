@@ -1,4 +1,4 @@
-# [Graph](<https://leetcode.com/tag/Graph/>) (6 completed)
+# [Graph](<https://leetcode.com/tag/Graph/>) (7 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -11,4 +11,5 @@
 | 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](<https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph>)               | Medium  | Daily  | [solution](<../_2192. All Ancestors of a Node in a Directed Acyclic Graph.md>)        | java, py         | Jun 29, 2024    |
 | 2285 | [Maximum Total Importance of Roads](<https://leetcode.com/problems/maximum-total-importance-of-roads>)                                                   | Medium  | Daily  | [solution](<../_2285. Maximum Total Importance of Roads.md>)                          | c, cpp, java, py | Jun 28, 2024    |
 | 2374 | [Node With Highest Edge Score](<https://leetcode.com/problems/node-with-highest-edge-score>)                                                             | Medium  |        | [solution](<../_2374. Node With Highest Edge Score.md>)                               | py               | Jun 18, 2024    |
+| 2392 | [Build a Matrix With Conditions](<https://leetcode.com/problems/build-a-matrix-with-conditions>)                                                         | Hard    | Daily  | [solution](<../_2392. Build a Matrix With Conditions.md>)                             | py               | Jul 21, 2024    |
 | 2473 | [Minimum Cost to Buy Apples](<https://leetcode.com/problems/minimum-cost-to-buy-apples>)                                                                 | Medium  |        | [solution](<../_2473. Minimum Cost to Buy Apples.md>)                                 | py               | Jun 29, 2024    |

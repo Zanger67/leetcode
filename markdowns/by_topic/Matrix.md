@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (34 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (35 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -35,6 +35,7 @@
 | 1992 | [Find All Groups of Farmland](<https://leetcode.com/problems/find-all-groups-of-farmland>)                                                                         | Medium  |           | [solution](<../_1992. Find All Groups of Farmland.md>)                                     | java, py    | Jun 24, 2024    |
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                                             | Hard    |           | [solution](<../_2258. Escape the Spreading Fire.md>)                                       | py          | Jun 15, 2024    |
 | 2352 | [Equal Row and Column Pairs](<https://leetcode.com/problems/equal-row-and-column-pairs>)                                                                           | Medium  |           | [solution](<../_2352. Equal Row and Column Pairs.md>)                                      | py          | Jun 27, 2024    |
+| 2392 | [Build a Matrix With Conditions](<https://leetcode.com/problems/build-a-matrix-with-conditions>)                                                                   | Hard    | Daily     | [solution](<../_2392. Build a Matrix With Conditions.md>)                                  | py          | Jul 21, 2024    |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](<https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column>)                         | Medium  |           | [solution](<../_2482. Difference Between Ones and Zeros in Row and Column.md>)             | py          | Jun 07, 2024    |
 | 2545 | [Sort the Students by Their Kth Score](<https://leetcode.com/problems/sort-the-students-by-their-kth-score>)                                                       | Medium  |           | [solution](<../_2545. Sort the Students by Their Kth Score.md>)                            | java, py    | Jun 24, 2024    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                 | Medium  |           | [solution](<../_2679. Sum in a Matrix.md>)                                                 | java        | May 22, 2024    |

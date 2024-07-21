@@ -1,4 +1,4 @@
-# Hard Questions (27)
+# Hard Questions (28)
 
 *[Back to top](<../README.md>)*
 
@@ -28,6 +28,7 @@
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>) | Hard    |           | [solution](<_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>) | py          | Jun 09, 2024    |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](<https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable>)           | Hard    | Daily     | [solution](<_1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md>)      | py          | Jun 30, 2024    |
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                                             | Hard    |           | [solution](<_2258. Escape the Spreading Fire.md>)                                       | py          | Jun 15, 2024    |
+| 2392 | [Build a Matrix With Conditions](<https://leetcode.com/problems/build-a-matrix-with-conditions>)                                                                   | Hard    | Daily     | [solution](<_2392. Build a Matrix With Conditions.md>)                                  | py          | Jul 21, 2024    |
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                                               | Hard    | Daily     | [solution](<_2751. Robot Collisions.md>)                                                | py          | Jul 13, 2024    |
 | 2954 | [Count the Number of Infection Sequences](<https://leetcode.com/problems/count-the-number-of-infection-sequences>)                                                 | Hard    |           | [solution](<_2954. Count the Number of Infection Sequences.md>)                         | py          | Jun 26, 2024    |
 | 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                                                               | Hard    |           | [solution](<_3045. Count Prefix and Suffix Pairs II.md>)                                | py          | Jun 29, 2024    |
