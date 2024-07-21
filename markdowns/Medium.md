@@ -1,4 +1,4 @@
-# Medium Questions (291)
+# Medium Questions (292)
 
 *[Back to top](<../README.md>)*
 
@@ -282,6 +282,7 @@
 | 3043 | [Find the Length of the Longest Common Prefix](<https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix>)                                                             | Medium  |                | [solution](<_3043. Find the Length of the Longest Common Prefix.md>)                               | py                               | Jun 28, 2024    |
 | 3064 | [Guess the Number Using Bitwise Questions I](<https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i>)                                                                 | Medium  |                | [solution](<_3064. Guess the Number Using Bitwise Questions I.md>)                                 | c, py                            | Jun 06, 2024    |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](<https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint>)                 | Medium  |                | [solution](<_3106. Lexicographically Smallest String After Operations With Constraint.md>)         | py                               | Jun 29, 2024    |
+| 3111 | [Minimum Rectangles to Cover Points](<https://leetcode.com/problems/minimum-rectangles-to-cover-points>)                                                                                 | Medium  |                | [solution](<_3111. Minimum Rectangles to Cover Points.md>)                                         | java, py                         | Jul 21, 2024    |
 | 3157 | [Find the Level of Tree with Minimum Sum](<https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum>)                                                                       | Medium  |                | [solution](<_3157. Find the Level of Tree with Minimum Sum.md>)                                    | py                               | Jul 05, 2024    |
 | 3169 | Weekly Contest 400 - q2 - [Count Days Without Meetings](<https://leetcode.com/problems/count-days-without-meetings>)                                                                     | Medium  | Contest        | [solution](<_3169. Count Days Without Meetings.md>)                                                | py                               | Jul 07, 2024    |
 | 3175 | Biweekly Contest 132 - q2 - [Find The First Player to win K Games in a Row](<https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row>)                               | Medium  | Contest        | [solution](<_3175. Find The First Player to win K Games in a Row.md>)                              | py                               | Jul 07, 2024    |

@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (60 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (61 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -63,6 +63,7 @@
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                           | Medium  |                | [solution](<../_2679. Sum in a Matrix.md>)                                                      | java             | May 22, 2024    |
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                                                         | Hard    | Daily          | [solution](<../_2751. Robot Collisions.md>)                                                     | py               | Jul 13, 2024    |
 | 3074 | [Apple Redistribution into Boxes](<https://leetcode.com/problems/apple-redistribution-into-boxes>)                                                                           | Easy    |                | [solution](<../_3074. Apple Redistribution into Boxes.md>)                                      | py               | May 23, 2024    |
+| 3111 | [Minimum Rectangles to Cover Points](<https://leetcode.com/problems/minimum-rectangles-to-cover-points>)                                                                     | Medium  |                | [solution](<../_3111. Minimum Rectangles to Cover Points.md>)                                   | java, py         | Jul 21, 2024    |
 | 3169 | Weekly Contest 400 - q2 - [Count Days Without Meetings](<https://leetcode.com/problems/count-days-without-meetings>)                                                         | Medium  | Contest        | [solution](<../_3169. Count Days Without Meetings.md>)                                          | py               | Jul 07, 2024    |
 | 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>)                                 | Medium  | Contest        | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)                              | py               | Jul 07, 2024    |
 | 3194 | Weekly Contest 403 - q1 - [Minimum Average of Smallest and Largest Elements](<https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements>)               | Easy    | Contest        | [solution](<../_3194. Minimum Average of Smallest and Largest Elements.md>)                     | py               | Jul 07, 2024    |
