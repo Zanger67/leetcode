@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (208 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (209 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -214,3 +214,4 @@
 | 3196 | Weekly Contest 403 - q3 - [Maximize Total Cost of Alternating Subarrays](<https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays>)                                   | Medium  | Contest        | [solution](<../_3196. Maximize Total Cost of Alternating Subarrays.md>)                               | py                       | Jul 07, 2024    |
 | 3212 | Weekly Contest 405 - q3 - [Count Submatrices With Equal Frequency of X and Y](<https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y>)                         | Medium  | Contest        | [solution](<../_3212. Count Submatrices With Equal Frequency of X and Y.md>)                          | py                       | Jul 07, 2024    |
 | 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                                       | Hard    | Contest        | [solution](<../_3213. Construct String with Minimum Cost.md>)                                         | py                       | Jul 07, 2024    |
+| 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>)                           | Hard    | Contest        | [solution](<../_3229. Minimum Operations to Make Array Equal to Target.md>)                           | py                       | Jul 21, 2024    |

@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (35 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (37 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -41,3 +41,5 @@
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](<https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint>)     | Medium  |                | [solution](<../_3106. Lexicographically Smallest String After Operations With Constraint.md>)   | py               | Jun 29, 2024    |
 | 3111 | [Minimum Rectangles to Cover Points](<https://leetcode.com/problems/minimum-rectangles-to-cover-points>)                                                                     | Medium  |                | [solution](<../_3111. Minimum Rectangles to Cover Points.md>)                                   | java, py         | Jul 21, 2024    |
 | 3192 | [Minimum Operations to Make Binary Array Elements Equal to One II](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii>)         | Medium  |                | [solution](<../_3192. Minimum Operations to Make Binary Array Elements Equal to One II.md>)     | java             | Jun 22, 2024    |
+| 3228 | Weekly Contest 407 - q3 - [Maximum Number of Operations to Move Ones to the End](<https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end>)       | Medium  | Contest        | [solution](<../_3228. Maximum Number of Operations to Move Ones to the End.md>)                 | py               | Jul 21, 2024    |
+| 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>)               | Hard    | Contest        | [solution](<../_3229. Minimum Operations to Make Array Equal to Target.md>)                     | py               | Jul 21, 2024    |

@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (101 completed)
+# [String](<https://leetcode.com/tag/String/>) (103 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -107,3 +107,5 @@
 | 3210 | Weekly Contest 405 - q1 - [Find the Encrypted String](<https://leetcode.com/problems/find-the-encrypted-string>)                                                         | Easy    | Contest        | [solution](<../_3210. Find the Encrypted String.md>)                                          | py          | Jul 07, 2024    |
 | 3211 | Weekly Contest 405 - q2 - [Generate Binary Strings Without Adjacent Zeros](<https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros>)               | Medium  | Contest        | [solution](<../_3211. Generate Binary Strings Without Adjacent Zeros.md>)                     | js, py      | Jul 07, 2024    |
 | 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                       | Hard    | Contest        | [solution](<../_3213. Construct String with Minimum Cost.md>)                                 | py          | Jul 07, 2024    |
+| 3227 | Weekly Contest 407 - q2 - [Vowels Game in a String](<https://leetcode.com/problems/vowels-game-in-a-string>)                                                             | Medium  | Contest        | [solution](<../_3227. Vowels Game in a String.md>)                                            | py          | Jul 21, 2024    |
+| 3228 | Weekly Contest 407 - q3 - [Maximum Number of Operations to Move Ones to the End](<https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end>)   | Medium  | Contest        | [solution](<../_3228. Maximum Number of Operations to Move Ones to the End.md>)               | py          | Jul 21, 2024    |

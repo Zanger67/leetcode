@@ -1,4 +1,4 @@
-# Medium Questions (292)
+# Medium Questions (293)
 
 *[Back to top](<../README.md>)*
 
@@ -240,6 +240,7 @@
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](<https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points>)             | Medium  | Daily          | [solution](<_2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.md>)       | cpp, java, py                    | Jul 05, 2024    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                                                 | Medium  | Weekly Premium | [solution](<_2083. Substrings That Begin and End With the Same Letter.md>)                         | c, py                            | Jun 10, 2024    |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](<https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters>)                                               | Medium  |                | [solution](<_2086. Minimum Number of Food Buckets to Feed the Hamsters.md>)                        | java                             | Jul 01, 2024    |
+| 2093 | [Minimum Cost to Reach City With Discounts](<https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts>)                                                                   | Medium  | Weekly Premium | [solution](<_2093. Minimum Cost to Reach City With Discounts.md>)                                  | py                               | Jul 23, 2024    |
 | 2095 | [Delete the Middle Node of a Linked List](<https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list>)                                                                       | Medium  |                | [solution](<_2095. Delete the Middle Node of a Linked List.md>)                                    | c, java                          | Jun 07, 2024    |
 | 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](<https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another>)                                 | Medium  | Daily          | [solution](<_2096. Step-By-Step Directions From a Binary Tree Node to Another.md>)                 | py                               | Jul 16, 2024    |
 | 2130 | [Maximum Twin Sum of a Linked List](<https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list>)                                                                                   | Medium  |                | [solution](<_2130. Maximum Twin Sum of a Linked List.md>)                                          | py                               | Jun 21, 2024    |

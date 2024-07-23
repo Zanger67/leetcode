@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (54 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (55 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -60,3 +60,4 @@
 | 3178 | Weekly Contest 401 - q1 - [Find the Child Who Has the Ball After K Seconds](<https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds>)       | Easy    | Contest        | [solution](<../_3178. Find the Child Who Has the Ball After K Seconds.md>)                 | py                               | Jul 07, 2024    |
 | 3179 | Weekly Contest 401 - q2 - [Find the N-th Value After K Seconds](<https://leetcode.com/problems/find-the-n-th-value-after-k-seconds>)                               | Medium  | Contest        | [solution](<../_3179. Find the N-th Value After K Seconds.md>)                             | py                               | Jul 07, 2024    |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](<https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three>) | Easy    |                | [solution](<../_3190. Find Minimum Operations to Make All Elements Divisible by Three.md>) | java                             | Jun 22, 2024    |
+| 3227 | Weekly Contest 407 - q2 - [Vowels Game in a String](<https://leetcode.com/problems/vowels-game-in-a-string>)                                                       | Medium  | Contest        | [solution](<../_3227. Vowels Game in a String.md>)                                         | py                               | Jul 21, 2024    |

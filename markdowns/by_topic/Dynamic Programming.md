@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (27 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (28 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -33,3 +33,4 @@
 | 3192 | [Minimum Operations to Make Binary Array Elements Equal to One II](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii>) | Medium  |           | [solution](<../_3192. Minimum Operations to Make Binary Array Elements Equal to One II.md>) | java                     | Jun 22, 2024    |
 | 3196 | Weekly Contest 403 - q3 - [Maximize Total Cost of Alternating Subarrays](<https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays>)               | Medium  | Contest   | [solution](<../_3196. Maximize Total Cost of Alternating Subarrays.md>)                     | py                       | Jul 07, 2024    |
 | 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                   | Hard    | Contest   | [solution](<../_3213. Construct String with Minimum Cost.md>)                               | py                       | Jul 07, 2024    |
+| 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>)       | Hard    | Contest   | [solution](<../_3229. Minimum Operations to Make Array Equal to Target.md>)                 | py                       | Jul 21, 2024    |
