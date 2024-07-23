@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (101 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (102 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -70,6 +70,7 @@
 | 1490 | [Clone N-ary Tree](<https://leetcode.com/problems/clone-n-ary-tree>)                                                                                               | Medium  |                | [solution](<../_1490. Clone N-ary Tree.md>)                                                | java, py    | Jun 02, 2024    |
 | 1525 | [Number of Good Ways to Split a String](<https://leetcode.com/problems/number-of-good-ways-to-split-a-string>)                                                     | Medium  |                | [solution](<../_1525. Number of Good Ways to Split a String.md>)                           | py          | Jun 01, 2024    |
 | 1570 | [Dot Product of Two Sparse Vectors](<https://leetcode.com/problems/dot-product-of-two-sparse-vectors>)                                                             | Medium  |                | [solution](<../_1570. Dot Product of Two Sparse Vectors.md>)                               | c, java, py | Jun 06, 2024    |
+| 1636 | [Sort Array by Increasing Frequency](<https://leetcode.com/problems/sort-array-by-increasing-frequency>)                                                           | Easy    |                | [solution](<../_1636. Sort Array by Increasing Frequency.md>)                              | py          | Jul 23, 2024    |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii>)                                         | Medium  |                | [solution](<../_1650. Lowest Common Ancestor of a Binary Tree III.md>)                     | py          | Jun 10, 2024    |
 | 1657 | [Determine if Two Strings Are Close](<https://leetcode.com/problems/determine-if-two-strings-are-close>)                                                           | Medium  |                | [solution](<../_1657. Determine if Two Strings Are Close.md>)                              | py          | Jul 13, 2024    |
 | 1660 | [Correct a Binary Tree](<https://leetcode.com/problems/correct-a-binary-tree>)                                                                                     | Medium  |                | [solution](<../_1660. Correct a Binary Tree.md>)                                           | py          | Jun 27, 2024    |
