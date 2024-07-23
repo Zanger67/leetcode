@@ -1,4 +1,4 @@
-# Easy Questions (136)
+# Easy Questions (137)
 
 *[Back to top](<../README.md>)*
 
@@ -57,6 +57,7 @@
 |  586 | [Customer Placing the Largest Number of Orders](<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders>)                                     | Easy    |           | [solution](<_586. Customer Placing the Largest Number of Orders.md>)                    | sql                          | May 22, 2024    |
 |  595 | [Big Countries](<https://leetcode.com/problems/big-countries>)                                                                                                     | Easy    |           | [solution](<_595. Big Countries.md>)                                                    | sql                          | May 22, 2024    |
 |  596 | [Classes More Than 5 Students](<https://leetcode.com/problems/classes-more-than-5-students>)                                                                       | Easy    |           | [solution](<_596. Classes More Than 5 Students.md>)                                     | sql                          | May 22, 2024    |
+|  605 | [Can Place Flowers](<https://leetcode.com/problems/can-place-flowers>)                                                                                             | Easy    |           | [solution](<_605. Can Place Flowers.md>)                                                | c, cpp, java, js, py, rs, ts | Jul 23, 2024    |
 |  607 | [Sales Person](<https://leetcode.com/problems/sales-person>)                                                                                                       | Easy    |           | [solution](<_607. Sales Person.md>)                                                     | sql                          | May 22, 2024    |
 |  619 | [Biggest Single Number](<https://leetcode.com/problems/biggest-single-number>)                                                                                     | Easy    |           | [solution](<_619. Biggest Single Number.md>)                                            | sql                          | May 22, 2024    |
 |  637 | [Average of Levels in Binary Tree](<https://leetcode.com/problems/average-of-levels-in-binary-tree>)                                                               | Easy    |           | [solution](<_637. Average of Levels in Binary Tree.md>)                                 | py                           | Jul 04, 2024    |
