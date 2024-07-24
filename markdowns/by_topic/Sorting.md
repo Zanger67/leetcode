@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (63 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (64 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -55,6 +55,7 @@
 | 2037 | [Minimum Number of Moves to Seat Everyone](<https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone>)                                                         | Easy    | Daily          | [solution](<../_2037. Minimum Number of Moves to Seat Everyone.md>)                             | c, py            | Jun 03, 2024    |
 | 2046 | [Sort Linked List Already Sorted Using Absolute Values](<https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values>)                               | Medium  |                | [solution](<../_2046. Sort Linked List Already Sorted Using Absolute Values.md>)                | py               | Jul 04, 2024    |
 | 2165 | [Smallest Value of the Rearranged Number](<https://leetcode.com/problems/smallest-value-of-the-rearranged-number>)                                                           | Medium  |                | [solution](<../_2165. Smallest Value of the Rearranged Number.md>)                              | py               | Jul 01, 2024    |
+| 2191 | [Sort the Jumbled Numbers](<https://leetcode.com/problems/sort-the-jumbled-numbers>)                                                                                         | Medium  | Daily          | [solution](<../_2191. Sort the Jumbled Numbers.md>)                                             | py               | Jul 24, 2024    |
 | 2225 | [Find Players With Zero or One Losses](<https://leetcode.com/problems/find-players-with-zero-or-one-losses>)                                                                 | Medium  |                | [solution](<../_2225. Find Players With Zero or One Losses.md>)                                 | java             | Jun 24, 2024    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                           | Easy    |                | [solution](<../_2248. Intersection of Multiple Arrays.md>)                                      | py               | May 31, 2024    |
 | 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                                 | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                                         | py               | Jul 05, 2024    |
