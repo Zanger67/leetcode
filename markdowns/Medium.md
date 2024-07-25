@@ -1,4 +1,4 @@
-# Medium Questions (294)
+# Medium Questions (295)
 
 *[Back to top](<../README.md>)*
 
@@ -139,6 +139,7 @@
 |  877 | [Stone Game](<https://leetcode.com/problems/stone-game>)                                                                                                                                 | Medium  |                | [solution](<_877. Stone Game.md>)                                                                  | c, cpp, go, java, js, py         | Jul 11, 2024    |
 |  890 | [Find and Replace Pattern](<https://leetcode.com/problems/find-and-replace-pattern>)                                                                                                     | Medium  |                | [solution](<_890. Find and Replace Pattern.md>)                                                    | py                               | Jul 03, 2024    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                                                 | Medium  |                | [solution](<_909. Snakes and Ladders.md>)                                                          | py                               | Jun 12, 2024    |
+|  912 | [Sort an Array](<https://leetcode.com/problems/sort-an-array>)                                                                                                                           | Medium  | Daily          | [solution](<_912. Sort an Array.md>)                                                               | java, py                         | Jul 25, 2024    |
 |  919 | [Complete Binary Tree Inserter](<https://leetcode.com/problems/complete-binary-tree-inserter>)                                                                                           | Medium  |                | [solution](<_919. Complete Binary Tree Inserter.md>)                                               | py                               | Jul 05, 2024    |
 |  921 | [Minimum Add to Make Parentheses Valid](<https://leetcode.com/problems/minimum-add-to-make-parentheses-valid>)                                                                           | Medium  |                | [solution](<_921. Minimum Add to Make Parentheses Valid.md>)                                       | java, py                         | Jun 12, 2024    |
 |  930 | [Binary Subarrays With Sum](<https://leetcode.com/problems/binary-subarrays-with-sum>)                                                                                                   | Medium  |                | [solution](<_930. Binary Subarrays With Sum.md>)                                                   | py                               | Jun 22, 2024    |

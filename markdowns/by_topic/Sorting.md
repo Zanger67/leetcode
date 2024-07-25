@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (64 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (65 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -27,6 +27,7 @@
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                                                     | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                                            | py               | Jun 18, 2024    |
 |  846 | [Hand of Straights](<https://leetcode.com/problems/hand-of-straights>)                                                                                                       | Medium  | Daily, N150    | [solution](<../_846. Hand of Straights.md>)                                                     | py               | Jun 06, 2024    |
 |  853 | [Car Fleet](<https://leetcode.com/problems/car-fleet>)                                                                                                                       | Medium  | N150           | [solution](<../_853. Car Fleet.md>)                                                             | py               | Jun 14, 2024    |
+|  912 | [Sort an Array](<https://leetcode.com/problems/sort-an-array>)                                                                                                               | Medium  | Daily          | [solution](<../_912. Sort an Array.md>)                                                         | java, py         | Jul 25, 2024    |
 |  945 | [Minimum Increment to Make Array Unique](<https://leetcode.com/problems/minimum-increment-to-make-array-unique>)                                                             | Medium  | Daily          | [solution](<../_945. Minimum Increment to Make Array Unique.md>)                                | py               | Jun 14, 2024    |
 |  950 | [Reveal Cards In Increasing Order](<https://leetcode.com/problems/reveal-cards-in-increasing-order>)                                                                         | Medium  |                | [solution](<../_950. Reveal Cards In Increasing Order.md>)                                      | py               | Jun 12, 2024    |
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                                                                     | Medium  | N150           | [solution](<../_973. K Closest Points to Origin.md>)                                            | py               | Jun 29, 2024    |
