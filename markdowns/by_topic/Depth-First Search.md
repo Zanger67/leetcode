@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (74 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (76 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -47,6 +47,8 @@
 |  690 | [Employee Importance](<https://leetcode.com/problems/employee-importance>)                                                                               | Medium  |           | [solution](<../_690. Employee Importance.md>)                                         | java        | Jul 02, 2024    |
 |  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                 | Medium  | N150      | [solution](<../_695. Max Area of Island.md>)                                          | c           | Jun 24, 2024    |
 |  863 | [All Nodes Distance K in Binary Tree](<https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree>)                                               | Medium  |           | [solution](<../_863. All Nodes Distance K in Binary Tree.md>)                         | py          | Jun 26, 2024    |
+|  938 | [Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)                                                                                     | Easy    |           | [solution](<../_938. Range Sum of BST.md>)                                            | js, py      | Jul 26, 2024    |
+|  979 | [Distribute Coins in Binary Tree](<https://leetcode.com/problems/distribute-coins-in-binary-tree>)                                                       | Medium  |           | [solution](<../_979. Distribute Coins in Binary Tree.md>)                             | py          | Jul 26, 2024    |
 |  987 | [Vertical Order Traversal of a Binary Tree](<https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>)                                   | Hard    |           | [solution](<../_987. Vertical Order Traversal of a Binary Tree.md>)                   | py          | Jun 12, 2024    |
 |  993 | [Cousins in Binary Tree](<https://leetcode.com/problems/cousins-in-binary-tree>)                                                                         | Easy    |           | [solution](<../_993. Cousins in Binary Tree.md>)                                      | py          | Jul 04, 2024    |
 | 1020 | [Number of Enclaves](<https://leetcode.com/problems/number-of-enclaves>)                                                                                 | Medium  |           | [solution](<../_1020. Number of Enclaves.md>)                                         | py          | Jun 26, 2024    |

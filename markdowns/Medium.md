@@ -1,4 +1,4 @@
-# Medium Questions (296)
+# Medium Questions (297)
 
 *[Back to top](<../README.md>)*
 
@@ -148,6 +148,7 @@
 |  950 | [Reveal Cards In Increasing Order](<https://leetcode.com/problems/reveal-cards-in-increasing-order>)                                                                                       | Medium  |           | [solution](<_950. Reveal Cards In Increasing Order.md>)                                             | py                               | Jun 12, 2024    |
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                                                                                   | Medium  | N150      | [solution](<_973. K Closest Points to Origin.md>)                                                   | py                               | Jun 29, 2024    |
 |  974 | [Subarray Sums Divisible by K](<https://leetcode.com/problems/subarray-sums-divisible-by-k>)                                                                                               | Medium  |           | [solution](<_974. Subarray Sums Divisible by K.md>)                                                 | java, py                         | Jun 09, 2024    |
+|  979 | [Distribute Coins in Binary Tree](<https://leetcode.com/problems/distribute-coins-in-binary-tree>)                                                                                         | Medium  |           | [solution](<_979. Distribute Coins in Binary Tree.md>)                                              | py                               | Jul 26, 2024    |
 |  994 | [Rotting Oranges](<https://leetcode.com/problems/rotting-oranges>)                                                                                                                         | Medium  | N150      | [solution](<_994. Rotting Oranges.md>)                                                              | py                               | Jun 15, 2024    |
 | 1006 | [Clumsy Factorial](<https://leetcode.com/problems/clumsy-factorial>)                                                                                                                       | Medium  |           | [solution](<_1006. Clumsy Factorial.md>)                                                            | c, py                            | Jun 12, 2024    |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](<https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal>)                                               | Medium  |           | [solution](<_1008. Construct Binary Search Tree from Preorder Traversal.md>)                        | c, cpp, java                     | Jun 27, 2024    |
