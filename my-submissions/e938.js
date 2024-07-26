@@ -1,0 +1,32 @@
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @param {number} low
+ * @param {number} high
+ * @return {number}
+ */
+var rangeSumBST = function(root, low, high) {
+    function dfs(curr) {
+        if (!curr) {
+            return 0;
+        }
+
+        if (curr.val <= high && curr.val >= low) {
+            return curr.val + dfs(curr.left) + dfs(curr.right);
+        }
+
+        if (curr.val < low) {
+            return dfs(curr.right)
+        }
+        return dfs(curr.left);
+    }
+
+    return dfs(root)
+};
