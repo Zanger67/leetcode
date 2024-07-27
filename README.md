@@ -1,6 +1,8 @@
 # **[LeetCode Records](https://leetcode.com/u/Zanger/)** (464 solved)
 
-<!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->> My LeetCode Profile: [Zanger](https://leetcode.com/u/Zanger/)
+<!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
+
+> My LeetCode Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
 
 ## About this Repo
