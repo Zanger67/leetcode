@@ -1,0 +1,17 @@
+# Weekly Premium Questions
+
+*[Back to top](<../README.md>)*
+
+Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
+
+|    # | Title                                                                                                                                    | Level   | Cats           | Solution                                                                   | Languages   | Date Complete   |
+|-----:|:-----------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:---------------------------------------------------------------------------|:------------|:----------------|
+| 2093 | [Minimum Cost to Reach City With Discounts](<https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts>)                   | Medium  | Weekly Premium | [solution](<_2093. Minimum Cost to Reach City With Discounts.md>)          | py          | Jul 22, 2024    |
+| 1740 | [Find Distance in a Binary Tree](<https://leetcode.com/problems/find-distance-in-a-binary-tree>)                                         | Medium  | Weekly Premium | [solution](<_1740. Find Distance in a Binary Tree.md>)                     | py          | Jul 15, 2024    |
+| 1836 | [Remove Duplicates From an Unsorted Linked List](<https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list>)         | Medium  | Weekly Premium | [solution](<_1836. Remove Duplicates From an Unsorted Linked List.md>)     | java, py    | Jul 08, 2024    |
+| 1101 | [The Earliest Moment When Everyone Become Friends](<https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends>)     | Medium  | Weekly Premium | [solution](<_1101. The Earliest Moment When Everyone Become Friends.md>)   | py          | Jul 01, 2024    |
+|  776 | [Split BST](<https://leetcode.com/problems/split-bst>)                                                                                   | Medium  | Weekly Premium | [solution](<_776. Split BST.md>)                                           | py          | Jun 29, 2024    |
+| 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)             | Medium  | Weekly Premium | [solution](<_2743. Count Substrings Without Repeating Character.md>)       | java, py    | Jun 22, 2024    |
+| 1580 | [Put Boxes Into the Warehouse II](<https://leetcode.com/problems/put-boxes-into-the-warehouse-ii>)                                       | Medium  | Weekly Premium | [solution](<_1580. Put Boxes Into the Warehouse II.md>)                    | py          | Jun 15, 2024    |
+| 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>) | Medium  | Weekly Premium | [solution](<_2083. Substrings That Begin and End With the Same Letter.md>) | c, py       | Jun 08, 2024    |
+| 1940 | [Longest Common Subsequence Between Sorted Arrays](<https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays>)     | Medium  | Weekly Premium | [solution](<_1940. Longest Common Subsequence Between Sorted Arrays.md>)   | java, py    | Jun 01, 2024    |
