@@ -1,4 +1,4 @@
-# [Graph](<https://leetcode.com/tag/Graph/>) (9 completed)
+# [Graph](<https://leetcode.com/tag/Graph/>) (10 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -15,3 +15,4 @@
 | 2374 | [Node With Highest Edge Score](<https://leetcode.com/problems/node-with-highest-edge-score>)                                                                                               | Medium  |        | [solution](<../_2374. Node With Highest Edge Score.md>)                                                | py               | Jun 18, 2024    |
 | 2392 | [Build a Matrix With Conditions](<https://leetcode.com/problems/build-a-matrix-with-conditions>)                                                                                           | Hard    |        | [solution](<../_2392. Build a Matrix With Conditions.md>)                                              | py               | Jul 21, 2024    |
 | 2473 | [Minimum Cost to Buy Apples](<https://leetcode.com/problems/minimum-cost-to-buy-apples>)                                                                                                   | Medium  |        | [solution](<../_2473. Minimum Cost to Buy Apples.md>)                                                  | py               | Jun 29, 2024    |
+| 2976 | [Minimum Cost to Convert String I](<https://leetcode.com/problems/minimum-cost-to-convert-string-i>)                                                                                       | Medium  |        | [solution](<../_2976. Minimum Cost to Convert String I.md>)                                            | py               | Jul 27, 2024    |

@@ -1,4 +1,4 @@
-# Medium Questions (297)
+# Medium Questions (298)
 
 *[Back to top](<../README.md>)*
 
@@ -283,6 +283,7 @@
 | 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)                                                               | Medium  |           | [solution](<_2743. Count Substrings Without Repeating Character.md>)                                | java, py                         | Jun 22, 2024    |
 | 2807 | [Insert Greatest Common Divisors in Linked List](<https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list>)                                                           | Medium  |           | [solution](<_2807. Insert Greatest Common Divisors in Linked List.md>)                              | py                               | Jun 13, 2024    |
 | 2816 | [Double a Number Represented as a Linked List](<https://leetcode.com/problems/double-a-number-represented-as-a-linked-list>)                                                               | Medium  |           | [solution](<_2816. Double a Number Represented as a Linked List.md>)                                | c                                | Jul 04, 2024    |
+| 2976 | [Minimum Cost to Convert String I](<https://leetcode.com/problems/minimum-cost-to-convert-string-i>)                                                                                       | Medium  |           | [solution](<_2976. Minimum Cost to Convert String I.md>)                                            | py                               | Jul 27, 2024    |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](<https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k>)                                     | Medium  |           | [solution](<_2997. Minimum Number of Operations to Make Array XOR Equal to K.md>)                   | java, py                         | Jun 12, 2024    |
 | 3043 | [Find the Length of the Longest Common Prefix](<https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix>)                                                               | Medium  |           | [solution](<_3043. Find the Length of the Longest Common Prefix.md>)                                | py                               | Jun 28, 2024    |
 | 3064 | [Guess the Number Using Bitwise Questions I](<https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i>)                                                                   | Medium  |           | [solution](<_3064. Guess the Number Using Bitwise Questions I.md>)                                  | c, py                            | Jun 06, 2024    |
