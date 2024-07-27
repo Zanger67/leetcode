@@ -1,4 +1,4 @@
-# Easy Questions (137)
+# Easy Questions (138)
 
 *[Back to top](<../README.md>)*
 
@@ -68,6 +68,7 @@
 |  746 | [Min Cost Climbing Stairs](<https://leetcode.com/problems/min-cost-climbing-stairs>)                                                                               | Easy    | N150      | [solution](<_746. Min Cost Climbing Stairs.md>)                                         | py                           | Jul 05, 2024    |
 |  771 | [Jewels and Stones](<https://leetcode.com/problems/jewels-and-stones>)                                                                                             | Easy    |           | [solution](<_771. Jewels and Stones.md>)                                                | java, py                     | Jun 02, 2024    |
 |  867 | [Transpose Matrix](<https://leetcode.com/problems/transpose-matrix>)                                                                                               | Easy    |           | [solution](<_867. Transpose Matrix.md>)                                                 | py                           | Jun 15, 2024    |
+|  938 | [Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)                                                                                               | Easy    |           | [solution](<_938. Range Sum of BST.md>)                                                 | js, py                       | Jul 26, 2024    |
 |  977 | [Squares of a Sorted Array](<https://leetcode.com/problems/squares-of-a-sorted-array>)                                                                             | Easy    |           | [solution](<_977. Squares of a Sorted Array.md>)                                        | py                           | Jun 21, 2024    |
 |  993 | [Cousins in Binary Tree](<https://leetcode.com/problems/cousins-in-binary-tree>)                                                                                   | Easy    |           | [solution](<_993. Cousins in Binary Tree.md>)                                           | py                           | Jul 04, 2024    |
 | 1002 | [Find Common Characters](<https://leetcode.com/problems/find-common-characters>)                                                                                   | Easy    |           | [solution](<_1002. Find Common Characters.md>)                                          | py                           | Jun 08, 2024    |

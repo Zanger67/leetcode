@@ -1,4 +1,4 @@
-# [Binary Search Tree](<https://leetcode.com/tag/Binary-Search-Tree/>) (14 completed)
+# [Binary Search Tree](<https://leetcode.com/tag/Binary-Search-Tree/>) (15 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -16,6 +16,7 @@
 |  700 | [Search in a Binary Search Tree](<https://leetcode.com/problems/search-in-a-binary-search-tree>)                                                   | Easy    |           | [solution](<../_700. Search in a Binary Search Tree.md>)                          | c, java, py  | Jul 17, 2024    |
 |  703 | [Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)                                                 | Easy    | N150      | [solution](<../_703. Kth Largest Element in a Stream.md>)                         | py           | Jul 05, 2024    |
 |  776 | [Split BST](<https://leetcode.com/problems/split-bst>)                                                                                             | Medium  |           | [solution](<../_776. Split BST.md>)                                               | py           | Jun 29, 2024    |
+|  938 | [Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)                                                                               | Easy    |           | [solution](<../_938. Range Sum of BST.md>)                                        | js, py       | Jul 26, 2024    |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](<https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal>)       | Medium  |           | [solution](<../_1008. Construct Binary Search Tree from Preorder Traversal.md>)   | c, cpp, java | Jun 27, 2024    |
 | 1038 | [Binary Search Tree to Greater Sum Tree](<https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree>)                                   | Medium  |           | [solution](<../_1038. Binary Search Tree to Greater Sum Tree.md>)                 | c            | Jun 26, 2024    |
 | 1305 | [All Elements in Two Binary Search Trees](<https://leetcode.com/problems/all-elements-in-two-binary-search-trees>)                                 | Medium  |           | [solution](<../_1305. All Elements in Two Binary Search Trees.md>)                | java         | Jun 24, 2024    |
