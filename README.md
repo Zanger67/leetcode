@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (464 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (466 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -506,5 +506,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3227 | Weekly Contest 407 - q2 - [Vowels Game in a String](<https://leetcode.com/problems/vowels-game-in-a-string>)                                                                               | Medium  | Contest        | [solution](<markdowns/_3227. Vowels Game in a String.md>)                                                     | py                               |
 | 3228 | Weekly Contest 407 - q3 - [Maximum Number of Operations to Move Ones to the End](<https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end>)                     | Medium  | Contest        | [solution](<markdowns/_3228. Maximum Number of Operations to Move Ones to the End.md>)                        | py                               |
 | 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>)                             | Hard    | Contest        | [solution](<markdowns/_3229. Minimum Operations to Make Array Equal to Target.md>)                            | py                               |
+| 3232 | Weekly Contest 408 - q1 - Question 3232                                                                                                                                                    | Easy    | Contest        | [solution](<markdowns/_3232. Question 3232.md>)                                                               | py                               |
+| 3233 | Weekly Contest 408 - q2 - Question 3233                                                                                                                                                    | Medium  | Contest        | [solution](<markdowns/_3233. Question 3233.md>)                                                               | java, py                         |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
