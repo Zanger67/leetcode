@@ -1,4 +1,4 @@
-# [Graph](<https://leetcode.com/tag/Graph/>) (10 completed)
+# [Graph](<https://leetcode.com/tag/Graph/>) (11 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](<https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance>) | Medium  | Daily          | [solution](<../_1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance.md>) | py               | Jul 26, 2024    |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](<https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable>)                                   | Hard    | Daily          | [solution](<../_1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md>)                  | py               | Jun 30, 2024    |
 | 1791 | [Find Center of Star Graph](<https://leetcode.com/problems/find-center-of-star-graph>)                                                                                                     | Easy    | Daily          | [solution](<../_1791. Find Center of Star Graph.md>)                                                   | c, cpp, java, py | Jun 27, 2024    |
+| 2045 | [Second Minimum Time to Reach Destination](<https://leetcode.com/problems/second-minimum-time-to-reach-destination>)                                                                       | Hard    | Contest, Daily | [solution](<../_2045. Second Minimum Time to Reach Destination.md>)                                    | py               | Jul 28, 2024    |
 | 2093 | [Minimum Cost to Reach City With Discounts](<https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts>)                                                                     | Medium  | Weekly Premium | [solution](<../_2093. Minimum Cost to Reach City With Discounts.md>)                                   | py               | Jul 23, 2024    |
 | 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](<https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph>)                                                 | Medium  | Daily          | [solution](<../_2192. All Ancestors of a Node in a Directed Acyclic Graph.md>)                         | java, py         | Jun 29, 2024    |
 | 2285 | [Maximum Total Importance of Roads](<https://leetcode.com/problems/maximum-total-importance-of-roads>)                                                                                     | Medium  | Daily          | [solution](<../_2285. Maximum Total Importance of Roads.md>)                                           | c, cpp, java, py | Jun 28, 2024    |

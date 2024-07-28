@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (49 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (50 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -50,6 +50,7 @@
 | 1740 | [Find Distance in a Binary Tree](<https://leetcode.com/problems/find-distance-in-a-binary-tree>)                                                                   | Medium  | Weekly Premium | [solution](<../_1740. Find Distance in a Binary Tree.md>)                                  | py          | Jul 15, 2024    |
 | 1905 | [Count Sub Islands](<https://leetcode.com/problems/count-sub-islands>)                                                                                             | Medium  |                | [solution](<../_1905. Count Sub Islands.md>)                                               | py          | Jun 24, 2024    |
 | 1992 | [Find All Groups of Farmland](<https://leetcode.com/problems/find-all-groups-of-farmland>)                                                                         | Medium  |                | [solution](<../_1992. Find All Groups of Farmland.md>)                                     | java, py    | Jun 24, 2024    |
+| 2045 | [Second Minimum Time to Reach Destination](<https://leetcode.com/problems/second-minimum-time-to-reach-destination>)                                               | Hard    | Contest, Daily | [solution](<../_2045. Second Minimum Time to Reach Destination.md>)                        | py          | Jul 28, 2024    |
 | 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](<https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph>)                         | Medium  | Daily          | [solution](<../_2192. All Ancestors of a Node in a Directed Acyclic Graph.md>)             | java, py    | Jun 29, 2024    |
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                                             | Hard    |                | [solution](<../_2258. Escape the Spreading Fire.md>)                                       | py          | Jun 15, 2024    |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](<https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected>)                                     | Medium  |                | [solution](<../_2385. Amount of Time for Binary Tree to Be Infected.md>)                   | py          | Jun 26, 2024    |
