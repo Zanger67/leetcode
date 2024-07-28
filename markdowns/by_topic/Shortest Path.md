@@ -1,4 +1,4 @@
-# [Shortest Path](<https://leetcode.com/tag/Shortest-Path/>) (5 completed)
+# [Shortest Path](<https://leetcode.com/tag/Shortest-Path/>) (6 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -6,6 +6,7 @@
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                               | Languages   | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:-------------------------------------------------------------------------------------------------------|:------------|:----------------|
+|  743 | [Network Delay Time](<https://leetcode.com/problems/network-delay-time>)                                                                                                                   | Medium  | N150           | [solution](<../_743. Network Delay Time.md>)                                                           | py          | Jul 28, 2024    |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](<https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance>) | Medium  | Daily          | [solution](<../_1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance.md>) | py          | Jul 26, 2024    |
 | 2045 | [Second Minimum Time to Reach Destination](<https://leetcode.com/problems/second-minimum-time-to-reach-destination>)                                                                       | Hard    | Daily          | [solution](<../_2045. Second Minimum Time to Reach Destination.md>)                                    | py          | Jul 28, 2024    |
 | 2093 | [Minimum Cost to Reach City With Discounts](<https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts>)                                                                     | Medium  | Weekly Premium | [solution](<../_2093. Minimum Cost to Reach City With Discounts.md>)                                   | py          | Jul 23, 2024    |

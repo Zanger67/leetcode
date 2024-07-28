@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (50 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (51 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -27,6 +27,7 @@
 |  637 | [Average of Levels in Binary Tree](<https://leetcode.com/problems/average-of-levels-in-binary-tree>)                                                               | Easy    |                | [solution](<../_637. Average of Levels in Binary Tree.md>)                                 | py          | Jul 04, 2024    |
 |  690 | [Employee Importance](<https://leetcode.com/problems/employee-importance>)                                                                                         | Medium  |                | [solution](<../_690. Employee Importance.md>)                                              | java        | Jul 02, 2024    |
 |  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                           | Medium  | N150           | [solution](<../_695. Max Area of Island.md>)                                               | c           | Jun 24, 2024    |
+|  743 | [Network Delay Time](<https://leetcode.com/problems/network-delay-time>)                                                                                           | Medium  | N150           | [solution](<../_743. Network Delay Time.md>)                                               | py          | Jul 28, 2024    |
 |  863 | [All Nodes Distance K in Binary Tree](<https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree>)                                                         | Medium  |                | [solution](<../_863. All Nodes Distance K in Binary Tree.md>)                              | py          | Jun 26, 2024    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                           | Medium  |                | [solution](<../_909. Snakes and Ladders.md>)                                               | py          | Jun 12, 2024    |
 |  919 | [Complete Binary Tree Inserter](<https://leetcode.com/problems/complete-binary-tree-inserter>)                                                                     | Medium  |                | [solution](<../_919. Complete Binary Tree Inserter.md>)                                    | py          | Jul 05, 2024    |
