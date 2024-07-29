@@ -1,4 +1,4 @@
-# Medium Questions (301)
+# Medium Questions (302)
 
 *[Back to top](<../README.md>)*
 
@@ -167,6 +167,7 @@
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](<https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses>)                                                 | Medium  | Daily          | [solution](<_1190. Reverse Substrings Between Each Pair of Parentheses.md>)                         | py                               | Jul 11, 2024    |
 | 1209 | [Remove All Adjacent Duplicates in String II](<https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii>)                                                                 | Medium  |                | [solution](<_1209. Remove All Adjacent Duplicates in String II.md>)                                 | py                               | Jun 19, 2024    |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](<https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference>)                                                   | Medium  |                | [solution](<_1218. Longest Arithmetic Subsequence of Given Difference.md>)                          | py                               | May 31, 2024    |
+| 1230 | [Toss Strange Coins](<https://leetcode.com/problems/toss-strange-coins>)                                                                                                                   | Medium  | Weekly Premium | [solution](<_1230. Toss Strange Coins.md>)                                                          | c, java, py                      | Jul 29, 2024    |
 | 1233 | [Remove Sub-Folders from the Filesystem](<https://leetcode.com/problems/remove-sub-folders-from-the-filesystem>)                                                                           | Medium  |                | [solution](<_1233. Remove Sub-Folders from the Filesystem.md>)                                      | py                               | Jun 28, 2024    |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>)                           | Medium  |                | [solution](<_1239. Maximum Length of a Concatenated String with Unique Characters.md>)              | py                               | Jun 29, 2024    |
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                                           | Medium  | Daily          | [solution](<_1248. Count Number of Nice Subarrays.md>)                                              | py                               | Jun 22, 2024    |

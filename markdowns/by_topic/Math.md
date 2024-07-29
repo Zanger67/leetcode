@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (55 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (56 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -34,6 +34,7 @@
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                                                           | Medium  | N150           | [solution](<../_973. K Closest Points to Origin.md>)                                       | py                               | Jun 29, 2024    |
 | 1006 | [Clumsy Factorial](<https://leetcode.com/problems/clumsy-factorial>)                                                                                               | Medium  |                | [solution](<../_1006. Clumsy Factorial.md>)                                                | c, py                            | Jun 12, 2024    |
 | 1030 | [Matrix Cells in Distance Order](<https://leetcode.com/problems/matrix-cells-in-distance-order>)                                                                   | Easy    |                | [solution](<../_1030. Matrix Cells in Distance Order.md>)                                  | py                               | Jun 04, 2024    |
+| 1230 | [Toss Strange Coins](<https://leetcode.com/problems/toss-strange-coins>)                                                                                           | Medium  | Weekly Premium | [solution](<../_1230. Toss Strange Coins.md>)                                              | c, java, py                      | Jul 29, 2024    |
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                   | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                  | py                               | Jun 22, 2024    |
 | 1252 | [Cells with Odd Values in a Matrix](<https://leetcode.com/problems/cells-with-odd-values-in-a-matrix>)                                                             | Easy    |                | [solution](<../_1252. Cells with Odd Values in a Matrix.md>)                               | c                                | Jun 04, 2024    |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](<https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers>)                           | Easy    |                | [solution](<../_1317. Convert Integer to the Sum of Two No-Zero Integers.md>)              | c                                | Jun 04, 2024    |
