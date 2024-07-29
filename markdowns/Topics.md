@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (217 completed)
+- [Array](<by_topic/Array.md>) (218 completed)
 - [String](<by_topic/String.md>) (104 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (102 completed)
 - [Tree](<by_topic/Tree.md>) (77 completed)
@@ -17,8 +17,8 @@
 - [Stack](<by_topic/Stack.md>) (46 completed)
 - [Linked List](<by_topic/Linked List.md>) (40 completed)
 - [Greedy](<by_topic/Greedy.md>) (38 completed)
-- [Matrix](<by_topic/Matrix.md>) (35 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (34 completed)
+- [Matrix](<by_topic/Matrix.md>) (36 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (35 completed)
 - [Simulation](<by_topic/Simulation.md>) (32 completed)
 - [Bit Manipulation](<by_topic/Bit Manipulation.md>) (28 completed)
 - [Design](<by_topic/Design.md>) (26 completed)
