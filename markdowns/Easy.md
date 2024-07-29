@@ -1,4 +1,4 @@
-# Easy Questions (139)
+# Easy Questions (140)
 
 *[Back to top](<../README.md>)*
 
@@ -100,6 +100,7 @@
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                   | Easy    |           | [solution](<_1748. Sum of Unique Elements.md>)                                          | c                            | Jun 06, 2024    |
 | 1768 | [Merge Strings Alternately](<https://leetcode.com/problems/merge-strings-alternately>)                                                                             | Easy    |           | [solution](<_1768. Merge Strings Alternately.md>)                                       | java                         | Jul 01, 2024    |
 | 1791 | [Find Center of Star Graph](<https://leetcode.com/problems/find-center-of-star-graph>)                                                                             | Easy    | Daily     | [solution](<_1791. Find Center of Star Graph.md>)                                       | c, cpp, java, py             | Jun 27, 2024    |
+| 1800 | [Maximum Ascending Subarray Sum](<https://leetcode.com/problems/maximum-ascending-subarray-sum>)                                                                   | Easy    |           | [solution](<_1800. Maximum Ascending Subarray Sum.md>)                                  | py                           | Jul 29, 2024    |
 | 1822 | [Sign of the Product of an Array](<https://leetcode.com/problems/sign-of-the-product-of-an-array>)                                                                 | Easy    |           | [solution](<_1822. Sign of the Product of an Array.md>)                                 | c                            | Jun 06, 2024    |
 | 1844 | [Replace All Digits with Characters](<https://leetcode.com/problems/replace-all-digits-with-characters>)                                                           | Easy    |           | [solution](<_1844. Replace All Digits with Characters.md>)                              | py                           | Jun 29, 2024    |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](<https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing>)               | Easy    |           | [solution](<_1909. Remove One Element to Make the Array Strictly Increasing.md>)        | c                            | Jun 17, 2024    |
