@@ -1,4 +1,4 @@
-# Medium Questions (300)
+# Medium Questions (301)
 
 *[Back to top](<../README.md>)*
 
@@ -182,6 +182,7 @@
 | 1372 | [Longest ZigZag Path in a Binary Tree](<https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree>)                                                                               | Medium  |                | [solution](<_1372. Longest ZigZag Path in a Binary Tree.md>)                                        | py                               | Jul 05, 2024    |
 | 1381 | [Design a Stack With Increment Operation](<https://leetcode.com/problems/design-a-stack-with-increment-operation>)                                                                         | Medium  |                | [solution](<_1381. Design a Stack With Increment Operation.md>)                                     | py                               | Jul 06, 2024    |
 | 1382 | [Balance a Binary Search Tree](<https://leetcode.com/problems/balance-a-binary-search-tree>)                                                                                               | Medium  |                | [solution](<_1382. Balance a Binary Search Tree.md>)                                                | py                               | Jun 29, 2024    |
+| 1395 | [Count Number of Teams](<https://leetcode.com/problems/count-number-of-teams>)                                                                                                             | Medium  | Daily          | [solution](<_1395. Count Number of Teams.md>)                                                       | py                               | Jul 29, 2024    |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one>)                   | Medium  |                | [solution](<_1404. Number of Steps to Reduce a Number in Binary Representation to One.md>)          | py                               | Jun 08, 2024    |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](<https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit>)   | Medium  | Daily          | [solution](<_1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md>)  | java                             | Jun 24, 2024    |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](<https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor>)                                               | Medium  |                | [solution](<_1442. Count Triplets That Can Form Two Arrays of Equal XOR.md>)                        | py                               | Jun 08, 2024    |
