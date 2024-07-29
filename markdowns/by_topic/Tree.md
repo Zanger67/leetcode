@@ -1,4 +1,4 @@
-# [Tree](<https://leetcode.com/tag/Tree/>) (76 completed)
+# [Tree](<https://leetcode.com/tag/Tree/>) (77 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -48,6 +48,7 @@
 |  703 | [Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)                                                       | Easy    | N150           | [solution](<../_703. Kth Largest Element in a Stream.md>)                             | py           | Jul 05, 2024    |
 |  776 | [Split BST](<https://leetcode.com/problems/split-bst>)                                                                                                   | Medium  | Weekly Premium | [solution](<../_776. Split BST.md>)                                                   | py           | Jun 29, 2024    |
 |  863 | [All Nodes Distance K in Binary Tree](<https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree>)                                               | Medium  |                | [solution](<../_863. All Nodes Distance K in Binary Tree.md>)                         | py           | Jun 26, 2024    |
+|  894 | [All Possible Full Binary Trees](<https://leetcode.com/problems/all-possible-full-binary-trees>)                                                         | Medium  |                | [solution](<../_894. All Possible Full Binary Trees.md>)                              | py           | Jul 29, 2024    |
 |  919 | [Complete Binary Tree Inserter](<https://leetcode.com/problems/complete-binary-tree-inserter>)                                                           | Medium  |                | [solution](<../_919. Complete Binary Tree Inserter.md>)                               | py           | Jul 05, 2024    |
 |  938 | [Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)                                                                                     | Easy    |                | [solution](<../_938. Range Sum of BST.md>)                                            | js, py       | Jul 26, 2024    |
 |  979 | [Distribute Coins in Binary Tree](<https://leetcode.com/problems/distribute-coins-in-binary-tree>)                                                       | Medium  |                | [solution](<../_979. Distribute Coins in Binary Tree.md>)                             | py           | Jul 26, 2024    |

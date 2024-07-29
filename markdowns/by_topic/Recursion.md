@@ -1,4 +1,4 @@
-# [Recursion](<https://leetcode.com/tag/Recursion/>) (16 completed)
+# [Recursion](<https://leetcode.com/tag/Recursion/>) (17 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -18,6 +18,7 @@
 |  394 | [Decode String](<https://leetcode.com/problems/decode-string>)                                                                                             | Medium  |                | [solution](<../_394. Decode String.md>)                                   | py                   | Jun 15, 2024    |
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                                                                       | Easy    |                | [solution](<../_509. Fibonacci Number.md>)                                | c                    | Jun 17, 2024    |
 |  776 | [Split BST](<https://leetcode.com/problems/split-bst>)                                                                                                     | Medium  | Weekly Premium | [solution](<../_776. Split BST.md>)                                       | py                   | Jun 29, 2024    |
+|  894 | [All Possible Full Binary Trees](<https://leetcode.com/problems/all-possible-full-binary-trees>)                                                           | Medium  |                | [solution](<../_894. All Possible Full Binary Trees.md>)                  | py                   | Jul 29, 2024    |
 | 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>)                                           | Medium  |                | [solution](<../_1265. Print Immutable Linked List in Reverse.md>)         | c, py                | Jun 06, 2024    |
 | 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)                                               | Medium  | Daily          | [solution](<../_1823. Find the Winner of the Circular Game.md>)           | c, cpp, java, js, py | Jul 08, 2024    |
 | 2487 | [Remove Nodes From Linked List](<https://leetcode.com/problems/remove-nodes-from-linked-list>)                                                             | Medium  |                | [solution](<../_2487. Remove Nodes From Linked List.md>)                  | py                   | Jun 12, 2024    |
