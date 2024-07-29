@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (57 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (58 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -51,6 +51,7 @@
 | 2165 | [Smallest Value of the Rearranged Number](<https://leetcode.com/problems/smallest-value-of-the-rearranged-number>)                                                 | Medium  |                | [solution](<../_2165. Smallest Value of the Rearranged Number.md>)                         | py                                          | Jul 01, 2024    |
 | 2221 | [Find Triangular Sum of an Array](<https://leetcode.com/problems/find-triangular-sum-of-an-array>)                                                                 | Medium  |                | [solution](<../_2221. Find Triangular Sum of an Array.md>)                                 | c, java                                     | Jun 27, 2024    |
 | 2317 | [Maximum XOR After Operations ](<https://leetcode.com/problems/maximum-xor-after-operations>)                                                                      | Medium  |                | [solution](<../_2317. Maximum XOR After Operations .md>)                                   | c, cpp, java, py                            | Jun 24, 2024    |
+| 2393 | [Count Strictly Increasing Subarrays](<https://leetcode.com/problems/count-strictly-increasing-subarrays>)                                                         | Medium  |                | [solution](<../_2393. Count Strictly Increasing Subarrays.md>)                             | py                                          | Jul 29, 2024    |
 | 2396 | [Strictly Palindromic Number](<https://leetcode.com/problems/strictly-palindromic-number>)                                                                         | Medium  |                | [solution](<../_2396. Strictly Palindromic Number.md>)                                     | c, cpp, java, js, kt, py, rb, rs            | Jun 09, 2024    |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](<https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three>)             | Easy    |                | [solution](<../_2455. Average Value of Even Numbers That Are Divisible by Three.md>)       | java                                        | Jul 04, 2024    |
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                                                                 | Easy    | Daily          | [solution](<../_2582. Pass the Pillow.md>)                                                 | c, cpp, cs, java, js, py                    | Jul 06, 2024    |
