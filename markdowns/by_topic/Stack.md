@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (46 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (47 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -42,6 +42,7 @@
 | 1381 | [Design a Stack With Increment Operation](<https://leetcode.com/problems/design-a-stack-with-increment-operation>)                                             | Medium  |           | [solution](<../_1381. Design a Stack With Increment Operation.md>)                | py           | Jul 06, 2024    |
 | 1472 | [Design Browser History](<https://leetcode.com/problems/design-browser-history>)                                                                               | Medium  |           | [solution](<../_1472. Design Browser History.md>)                                 | py           | Jul 06, 2024    |
 | 1598 | [Crawler Log Folder](<https://leetcode.com/problems/crawler-log-folder>)                                                                                       | Easy    | Daily     | [solution](<../_1598. Crawler Log Folder.md>)                                     | c, js        | Jul 10, 2024    |
+| 1653 | [Minimum Deletions to Make String Balanced](<https://leetcode.com/problems/minimum-deletions-to-make-string-balanced>)                                         | Medium  | Daily     | [solution](<../_1653. Minimum Deletions to Make String Balanced.md>)              | py           | Jul 30, 2024    |
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                               | Easy    |           | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)                 | py           | Jun 02, 2024    |
 | 1717 | [Maximum Score From Removing Substrings](<https://leetcode.com/problems/maximum-score-from-removing-substrings>)                                               | Medium  | Daily     | [solution](<../_1717. Maximum Score From Removing Substrings.md>)                 | py           | Jul 12, 2024    |
 | 1762 | [Buildings With an Ocean View](<https://leetcode.com/problems/buildings-with-an-ocean-view>)                                                                   | Medium  |           | [solution](<../_1762. Buildings With an Ocean View.md>)                           | py           | Jun 10, 2024    |
