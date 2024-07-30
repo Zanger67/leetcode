@@ -1,4 +1,4 @@
-# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (15 completed)
+# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (16 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -15,6 +15,7 @@
 |   79 | [Word Search](<https://leetcode.com/problems/word-search>)                                                                                                       | Medium  | B75, N150 | [solution](<../_79. Word Search.md>)                                                      | py          | Jun 27, 2024    |
 |   90 | [Subsets II](<https://leetcode.com/problems/subsets-ii>)                                                                                                         | Medium  | N150      | [solution](<../_90. Subsets II.md>)                                                       | py          | Jul 03, 2024    |
 |  113 | [Path Sum II](<https://leetcode.com/problems/path-sum-ii>)                                                                                                       | Medium  |           | [solution](<../_113. Path Sum II.md>)                                                     | py          | Jul 03, 2024    |
+|  131 | [Palindrome Partitioning](<https://leetcode.com/problems/palindrome-partitioning>)                                                                               | Medium  | N150      | [solution](<../_131. Palindrome Partitioning.md>)                                         | py          | Jul 30, 2024    |
 |  212 | [Word Search II](<https://leetcode.com/problems/word-search-ii>)                                                                                                 | Hard    | B75, N150 | [solution](<../_212. Word Search II.md>)                                                  | py          | Jun 27, 2024    |
 |  784 | [Letter Case Permutation](<https://leetcode.com/problems/letter-case-permutation>)                                                                               | Medium  |           | [solution](<../_784. Letter Case Permutation.md>)                                         | py          | Jun 15, 2024    |
 | 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                               | Medium  |           | [solution](<../_1087. Brace Expansion.md>)                                                | py          | Jun 15, 2024    |

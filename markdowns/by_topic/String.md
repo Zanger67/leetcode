@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (104 completed)
+# [String](<https://leetcode.com/tag/String/>) (105 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -18,6 +18,7 @@
 |   71 | [Simplify Path](<https://leetcode.com/problems/simplify-path>)                                                                                                           | Medium  |                | [solution](<../_71. Simplify Path.md>)                                                        | py          | Jun 11, 2024    |
 |   79 | [Word Search](<https://leetcode.com/problems/word-search>)                                                                                                               | Medium  | B75, N150      | [solution](<../_79. Word Search.md>)                                                          | py          | Jun 27, 2024    |
 |  125 | [Valid Palindrome](<https://leetcode.com/problems/valid-palindrome>)                                                                                                     | Easy    | B75, N150      | [solution](<../_125. Valid Palindrome.md>)                                                    | c, py       | Jun 07, 2024    |
+|  131 | [Palindrome Partitioning](<https://leetcode.com/problems/palindrome-partitioning>)                                                                                       | Medium  | N150           | [solution](<../_131. Palindrome Partitioning.md>)                                             | py          | Jul 30, 2024    |
 |  165 | [Compare Version Numbers](<https://leetcode.com/problems/compare-version-numbers>)                                                                                       | Medium  |                | [solution](<../_165. Compare Version Numbers.md>)                                             | c, py       | Jul 02, 2024    |
 |  166 | [Fraction to Recurring Decimal](<https://leetcode.com/problems/fraction-to-recurring-decimal>)                                                                           | Medium  |                | [solution](<../_166. Fraction to Recurring Decimal.md>)                                       | py          | May 31, 2024    |
 |  208 | [Implement Trie (Prefix Tree)](<https://leetcode.com/problems/implement-trie-prefix-tree>)                                                                               | Medium  | B75, N150      | [solution](<../_208. Implement Trie (Prefix Tree).md>)                                        | py          | Jun 27, 2024    |
