@@ -2,10 +2,10 @@ class Solution:
     def minimumDeletions(self, s: str) -> int:
         s = deque(s)
         counter = 0
-        
+
         cnt = Counter(s)
 
-        while s :            
+        while s :
             if s[0] == 'a' :
                 s.popleft()
                 cnt['a'] -= 1
