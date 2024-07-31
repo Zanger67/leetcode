@@ -1,4 +1,4 @@
-# Easy Questions (140)
+# Easy Questions (141)
 
 *[Back to top](<../README.md>)*
 
@@ -8,6 +8,7 @@
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:----------------------------------------------------------------------------------------|:-----------------------------|:----------------|
 |    1 | [Two Sum](<https://leetcode.com/problems/two-sum>)                                                                                                                 | Easy    | B75, N150 | [solution](<_1. Two Sum.md>)                                                            | java, py                     | May 22, 2024    |
 |    9 | [Palindrome Number](<https://leetcode.com/problems/palindrome-number>)                                                                                             | Easy    |           | [solution](<_9. Palindrome Number.md>)                                                  | java                         | May 22, 2024    |
+|   13 | [Roman to Integer](<https://leetcode.com/problems/roman-to-integer>)                                                                                               | Easy    |           | [solution](<_13. Roman to Integer.md>)                                                  | py                           | Jul 31, 2024    |
 |   14 | [Longest Common Prefix](<https://leetcode.com/problems/longest-common-prefix>)                                                                                     | Easy    |           | [solution](<_14. Longest Common Prefix.md>)                                             | java                         | May 22, 2024    |
 |   20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)                                                                                             | Easy    | B75, N150 | [solution](<_20. Valid Parentheses.md>)                                                 | java                         | May 22, 2024    |
 |   21 | [Merge Two Sorted Lists](<https://leetcode.com/problems/merge-two-sorted-lists>)                                                                                   | Easy    | B75, N150 | [solution](<_21. Merge Two Sorted Lists.md>)                                            | java                         | May 22, 2024    |

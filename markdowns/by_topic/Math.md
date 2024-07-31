@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (58 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (59 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 |    2 | [Add Two Numbers](<https://leetcode.com/problems/add-two-numbers>)                                                                                                 | Medium  | N150           | [solution](<../_2. Add Two Numbers.md>)                                                    | java                                        | May 22, 2024    |
 |    7 | [Reverse Integer](<https://leetcode.com/problems/reverse-integer>)                                                                                                 | Medium  | N150           | [solution](<../_7. Reverse Integer.md>)                                                    | py                                          | May 29, 2024    |
 |    9 | [Palindrome Number](<https://leetcode.com/problems/palindrome-number>)                                                                                             | Easy    |                | [solution](<../_9. Palindrome Number.md>)                                                  | java                                        | May 22, 2024    |
+|   13 | [Roman to Integer](<https://leetcode.com/problems/roman-to-integer>)                                                                                               | Easy    |                | [solution](<../_13. Roman to Integer.md>)                                                  | py                                          | Jul 31, 2024    |
 |   48 | [Rotate Image](<https://leetcode.com/problems/rotate-image>)                                                                                                       | Medium  | B75, N150      | [solution](<../_48. Rotate Image.md>)                                                      | c, py                                       | Jun 15, 2024    |
 |   50 | [Pow(x, n)](<https://leetcode.com/problems/powx-n>)                                                                                                                | Medium  | N150           | [solution](<../_50. Pow(x, n).md>)                                                         | c, java, py                                 | Jun 23, 2024    |
 |   66 | [Plus One](<https://leetcode.com/problems/plus-one>)                                                                                                               | Easy    | N150           | [solution](<../_66. Plus One.md>)                                                          | c                                           | Jun 03, 2024    |

@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (106 completed)
+# [String](<https://leetcode.com/tag/String/>) (107 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 |    3 | [Longest Substring Without Repeating Characters](<https://leetcode.com/problems/longest-substring-without-repeating-characters>)                                         | Medium  | B75, N150      | [solution](<../_3. Longest Substring Without Repeating Characters.md>)                        | java        | May 22, 2024    |
 |    5 | [Longest Palindromic Substring](<https://leetcode.com/problems/longest-palindromic-substring>)                                                                           | Medium  | B75, N150      | [solution](<../_5. Longest Palindromic Substring.md>)                                         | py          | Jul 05, 2024    |
 |    8 | [String to Integer (atoi)](<https://leetcode.com/problems/string-to-integer-atoi>)                                                                                       | Medium  |                | [solution](<../_8. String to Integer (atoi).md>)                                              | py          | Jun 10, 2024    |
+|   13 | [Roman to Integer](<https://leetcode.com/problems/roman-to-integer>)                                                                                                     | Easy    |                | [solution](<../_13. Roman to Integer.md>)                                                     | py          | Jul 31, 2024    |
 |   14 | [Longest Common Prefix](<https://leetcode.com/problems/longest-common-prefix>)                                                                                           | Easy    |                | [solution](<../_14. Longest Common Prefix.md>)                                                | java        | May 22, 2024    |
 |   17 | [Letter Combinations of a Phone Number](<https://leetcode.com/problems/letter-combinations-of-a-phone-number>)                                                           | Medium  | N150           | [solution](<../_17. Letter Combinations of a Phone Number.md>)                                | java        | Jul 14, 2024    |
 |   20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)                                                                                                   | Easy    | B75, N150      | [solution](<../_20. Valid Parentheses.md>)                                                    | java        | May 22, 2024    |
