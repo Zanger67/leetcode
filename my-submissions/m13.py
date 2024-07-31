@@ -1,0 +1,47 @@
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        # Since we only wish for unique cases, filter out
+        # the redundant values (values that are the 4th or later
+        # occurance in nums)
+        cnt = Counter(nums)
+        nums = []
+        for k, v in cnt.items() :
+            nums.extend([k] * min(3, v))
+
+        # Sort the nums so we can break early
+        nums.sort()
+
+        # For k in (i, j, k) vals, get the negative flip mapped
+        # for O(1) lookup purposes but ensure that we
+        # don't use the same case of the value each time so 
+        # save a set of indices
+        maxx = 0
+        needs = defaultdict(set)
+        for i, num in enumerate(nums) :
+            if -num < maxx :
+                maxx = -num
+            needs[-num].add(i)
+
+        # Iterate
+        output = set()
+        for i, num1 in enumerate(nums[:-1]) :
+            for j, num2 in enumerate(nums[i + 1:], i + 1) :
+                misVal = num1 + num2
+                if misVal in needs :
+                    # If both num1 and num2 are 0 for instance, 
+                    # we need a 3rd 0 or else it's reusing the 
+                    # same case of some values and miscounting
+                    needed = 1
+                    if i in needs[misVal] :
+                        needed += 1
+                    if j in needs[misVal] :
+                        needed += 1
+                    if len(needs[misVal]) >= needed :
+                        triplet = sorted([num1, num2, -(num1 + num2)])
+                        output.add(tuple(triplet))
+                elif misVal < maxx :
+                    # Early braek if there we're past the largest
+                    # counterpart val possible
+                    break
+
+        return [[x[0], x[1], x[2]] for x in output]
