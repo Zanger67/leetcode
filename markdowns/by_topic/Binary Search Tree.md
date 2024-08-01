@@ -1,4 +1,4 @@
-# [Binary Search Tree](<https://leetcode.com/tag/Binary-Search-Tree/>) (15 completed)
+# [Binary Search Tree](<https://leetcode.com/tag/Binary-Search-Tree/>) (16 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  272 | [Closest Binary Search Tree Value II](<https://leetcode.com/problems/closest-binary-search-tree-value-ii>)                                         | Hard    |                | [solution](<../_272. Closest Binary Search Tree Value II.md>)                     | py           | Jul 01, 2024    |
 |  426 | [Convert Binary Search Tree to Sorted Doubly Linked List](<https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list>) | Medium  |                | [solution](<../_426. Convert Binary Search Tree to Sorted Doubly Linked List.md>) | py           | Jun 12, 2024    |
 |  450 | [Delete Node in a BST](<https://leetcode.com/problems/delete-node-in-a-bst>)                                                                       | Medium  |                | [solution](<../_450. Delete Node in a BST.md>)                                    | py           | Jun 29, 2024    |
+|  653 | [Two Sum IV - Input is a BST](<https://leetcode.com/problems/two-sum-iv-input-is-a-bst>)                                                           | Easy    |                | [solution](<../_653. Two Sum IV - Input is a BST.md>)                             | py           | Jul 31, 2024    |
 |  700 | [Search in a Binary Search Tree](<https://leetcode.com/problems/search-in-a-binary-search-tree>)                                                   | Easy    |                | [solution](<../_700. Search in a Binary Search Tree.md>)                          | c, java, py  | Jul 17, 2024    |
 |  703 | [Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)                                                 | Easy    | N150           | [solution](<../_703. Kth Largest Element in a Stream.md>)                         | py           | Jul 05, 2024    |
 |  776 | [Split BST](<https://leetcode.com/problems/split-bst>)                                                                                             | Medium  | Weekly Premium | [solution](<../_776. Split BST.md>)                                               | py           | Jun 29, 2024    |

@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (26 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (27 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -7,6 +7,7 @@
 |    # | Title                                                                                                                              | Level   | Cats      | Solution                                                                    | Languages   | Date Complete   |
 |-----:|:-----------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:----------------------------------------------------------------------------|:------------|:----------------|
 |  155 | [Min Stack](<https://leetcode.com/problems/min-stack>)                                                                             | Medium  | N150      | [solution](<../_155. Min Stack.md>)                                         | py          | Jun 16, 2024    |
+|  170 | [Two Sum III - Data structure design](<https://leetcode.com/problems/two-sum-iii-data-structure-design>)                           | Easy    |           | [solution](<../_170. Two Sum III - Data structure design.md>)               | py          | Jul 31, 2024    |
 |  173 | [Binary Search Tree Iterator](<https://leetcode.com/problems/binary-search-tree-iterator>)                                         | Medium  |           | [solution](<../_173. Binary Search Tree Iterator.md>)                       | py          | Jun 26, 2024    |
 |  208 | [Implement Trie (Prefix Tree)](<https://leetcode.com/problems/implement-trie-prefix-tree>)                                         | Medium  | B75, N150 | [solution](<../_208. Implement Trie (Prefix Tree).md>)                      | py          | Jun 27, 2024    |
 |  211 | [Design Add and Search Words Data Structure](<https://leetcode.com/problems/design-add-and-search-words-data-structure>)           | Medium  | B75, N150 | [solution](<../_211. Design Add and Search Words Data Structure.md>)        | py          | Jun 27, 2024    |
