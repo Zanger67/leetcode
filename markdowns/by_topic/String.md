@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (107 completed)
+# [String](<https://leetcode.com/tag/String/>) (108 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -58,6 +58,7 @@
 |  921 | [Minimum Add to Make Parentheses Valid](<https://leetcode.com/problems/minimum-add-to-make-parentheses-valid>)                                                           | Medium  |                | [solution](<../_921. Minimum Add to Make Parentheses Valid.md>)                               | java, py    | Jun 12, 2024    |
 | 1002 | [Find Common Characters](<https://leetcode.com/problems/find-common-characters>)                                                                                         | Easy    |                | [solution](<../_1002. Find Common Characters.md>)                                             | py          | Jun 08, 2024    |
 | 1028 | [Recover a Tree From Preorder Traversal](<https://leetcode.com/problems/recover-a-tree-from-preorder-traversal>)                                                         | Hard    |                | [solution](<../_1028. Recover a Tree From Preorder Traversal.md>)                             | py          | Jul 01, 2024    |
+| 1062 | [Longest Repeating Substring](<https://leetcode.com/problems/longest-repeating-substring>)                                                                               | Medium  | Weekly Premium | [solution](<../_1062. Longest Repeating Substring.md>)                                        | py          | Aug 01, 2024    |
 | 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                                       | Medium  |                | [solution](<../_1087. Brace Expansion.md>)                                                    | py          | Jun 15, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                                                                 | Medium  |                | [solution](<../_1166. Design File System.md>)                                                 | py          | Jun 28, 2024    |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](<https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses>)                               | Medium  | Daily          | [solution](<../_1190. Reverse Substrings Between Each Pair of Parentheses.md>)                | py          | Jul 11, 2024    |
