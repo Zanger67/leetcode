@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (220 completed)
+- [Array](<by_topic/Array.md>) (221 completed)
 - [String](<by_topic/String.md>) (108 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (105 completed)
 - [Tree](<by_topic/Tree.md>) (78 completed)
@@ -30,7 +30,7 @@
 - [Recursion](<by_topic/Recursion.md>) (17 completed)
 - [Backtracking](<by_topic/Backtracking.md>) (16 completed)
 - [Binary Search Tree](<by_topic/Binary Search Tree.md>) (16 completed)
-- [Sliding Window](<by_topic/Sliding Window.md>) (13 completed)
+- [Sliding Window](<by_topic/Sliding Window.md>) (14 completed)
 - [Graph](<by_topic/Graph.md>) (12 completed)
 - [Prefix Sum](<by_topic/Prefix Sum.md>) (12 completed)
 - [Queue](<by_topic/Queue.md>) (11 completed)
