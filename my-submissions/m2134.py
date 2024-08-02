@@ -22,4 +22,3 @@ class Solution:
             minMoves = min(minMoves, zeroCount)
 
         return minMoves
-git p
