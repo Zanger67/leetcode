@@ -1,4 +1,4 @@
-# Medium Questions (311)
+# Medium Questions (313)
 
 *[Back to top](<../README.md>)*
 
@@ -317,3 +317,5 @@
 | 3227 | Weekly Contest 407 - q2 - [Vowels Game in a String](<https://leetcode.com/problems/vowels-game-in-a-string>)                                                                               | Medium  | Contest        | [solution](<_3227. Vowels Game in a String.md>)                                                     | py                                          | Jul 21, 2024    |
 | 3228 | Weekly Contest 407 - q3 - [Maximum Number of Operations to Move Ones to the End](<https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end>)                     | Medium  | Contest        | [solution](<_3228. Maximum Number of Operations to Move Ones to the End.md>)                        | py                                          | Jul 21, 2024    |
 | 3233 | Weekly Contest 408 - q2 - [Find the Count of Numbers Which Are Not Special](<https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special>)                               | Medium  | Contest        | [solution](<_3233. Find the Count of Numbers Which Are Not Special.md>)                             | java, py                                    | Jul 28, 2024    |
+| 3239 | Biweekly Contest 136 - q2 - Question 3239                                                                                                                                                  | Medium  | Contest        | [solution](<_3239. Question 3239.md>)                                                               | py                                          | Aug 03, 2024    |
+| 3240 | Biweekly Contest 136 - q3 - Question 3240                                                                                                                                                  | Medium  | Contest        | [solution](<_3240. Question 3240.md>)                                                               | py                                          | Aug 03, 2024    |

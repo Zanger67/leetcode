@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (483 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (486 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -525,5 +525,8 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>)                             | Hard    | Contest        | [solution](<markdowns/_3229. Minimum Operations to Make Array Equal to Target.md>)                            | py                                          |
 | 3232 | Weekly Contest 408 - q1 - [Find if Digit Game Can Be Won](<https://leetcode.com/problems/find-if-digit-game-can-be-won>)                                                                   | Easy    | Contest        | [solution](<markdowns/_3232. Find if Digit Game Can Be Won.md>)                                               | py                                          |
 | 3233 | Weekly Contest 408 - q2 - [Find the Count of Numbers Which Are Not Special](<https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special>)                               | Medium  | Contest        | [solution](<markdowns/_3233. Find the Count of Numbers Which Are Not Special.md>)                             | java, py                                    |
+| 3238 | Biweekly Contest 136 - q1 - Question 3238                                                                                                                                                  | Easy    | Contest        | [solution](<markdowns/_3238. Question 3238.md>)                                                               | py                                          |
+| 3239 | Biweekly Contest 136 - q2 - Question 3239                                                                                                                                                  | Medium  | Contest        | [solution](<markdowns/_3239. Question 3239.md>)                                                               | py                                          |
+| 3240 | Biweekly Contest 136 - q3 - Question 3240                                                                                                                                                  | Medium  | Contest        | [solution](<markdowns/_3240. Question 3240.md>)                                                               | py                                          |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
