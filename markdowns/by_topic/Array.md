@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (221 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (223 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -227,3 +227,5 @@
 | 3212 | Weekly Contest 405 - q3 - [Count Submatrices With Equal Frequency of X and Y](<https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y>)                         | Medium  | Contest        | [solution](<../_3212. Count Submatrices With Equal Frequency of X and Y.md>)                          | py                           | Jul 07, 2024    |
 | 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                                       | Hard    | Contest        | [solution](<../_3213. Construct String with Minimum Cost.md>)                                         | py                           | Jul 07, 2024    |
 | 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>)                           | Hard    | Contest        | [solution](<../_3229. Minimum Operations to Make Array Equal to Target.md>)                           | py                           | Jul 21, 2024    |
+| 3232 | Weekly Contest 408 - q1 - [Find if Digit Game Can Be Won](<https://leetcode.com/problems/find-if-digit-game-can-be-won>)                                                                 | Easy    | Contest        | [solution](<../_3232. Find if Digit Game Can Be Won.md>)                                              | py                           | Jul 28, 2024    |
+| 3233 | Weekly Contest 408 - q2 - [Find the Count of Numbers Which Are Not Special](<https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special>)                             | Medium  | Contest        | [solution](<../_3233. Find the Count of Numbers Which Are Not Special.md>)                            | java, py                     | Jul 28, 2024    |

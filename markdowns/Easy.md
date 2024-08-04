@@ -1,4 +1,4 @@
-# Easy Questions (144)
+# Easy Questions (145)
 
 *[Back to top](<../README.md>)*
 
@@ -149,4 +149,5 @@
 | 3210 | Weekly Contest 405 - q1 - [Find the Encrypted String](<https://leetcode.com/problems/find-the-encrypted-string>)                                                   | Easy    | Contest   | [solution](<_3210. Find the Encrypted String.md>)                                       | py                           | Jul 07, 2024    |
 | 3226 | Weekly Contest 407 - q1 - [Number of Bit Changes to Make Two Integers Equal](<https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal>)     | Easy    | Contest   | [solution](<_3226. Number of Bit Changes to Make Two Integers Equal.md>)                | py                           | Jul 21, 2024    |
 | 3232 | Weekly Contest 408 - q1 - [Find if Digit Game Can Be Won](<https://leetcode.com/problems/find-if-digit-game-can-be-won>)                                           | Easy    | Contest   | [solution](<_3232. Find if Digit Game Can Be Won.md>)                                   | py                           | Jul 28, 2024    |
-| 3238 | Biweekly Contest 136 - q1 - Question 3238                                                                                                                          | Easy    | Contest   | [solution](<_3238. Question 3238.md>)                                                   | py                           | Aug 03, 2024    |
+| 3238 | Biweekly Contest 136 - q1 - [Find the Number of Winning Players](<https://leetcode.com/problems/find-the-number-of-winning-players>)                               | Easy    | Contest   | [solution](<_3238. Find the Number of Winning Players.md>)                              | py                           | Aug 03, 2024    |
+| 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                                                         | Easy    |           | [solution](<_3242. Design Neighbor Sum Service.md>)                                     | py                           | Aug 04, 2024    |
