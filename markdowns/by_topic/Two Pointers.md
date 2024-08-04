@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (48 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (49 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -39,6 +39,7 @@
 |  977 | [Squares of a Sorted Array](<https://leetcode.com/problems/squares-of-a-sorted-array>)                                                                         | Easy    |           | [solution](<../_977. Squares of a Sorted Array.md>)                                     | py                               | Jun 21, 2024    |
 | 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>)                                               | Medium  |           | [solution](<../_1265. Print Immutable Linked List in Reverse.md>)                       | c, py                            | Jun 06, 2024    |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](<https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence>)   | Easy    |           | [solution](<../_1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md>) | py                               | Jun 01, 2024    |
+| 1508 | [Range Sum of Sorted Subarray Sums](<https://leetcode.com/problems/range-sum-of-sorted-subarray-sums>)                                                         | Medium  | Daily     | [solution](<../_1508. Range Sum of Sorted Subarray Sums.md>)                            | py                               | Aug 04, 2024    |
 | 1570 | [Dot Product of Two Sparse Vectors](<https://leetcode.com/problems/dot-product-of-two-sparse-vectors>)                                                         | Medium  |           | [solution](<../_1570. Dot Product of Two Sparse Vectors.md>)                            | c, java, py                      | Jun 06, 2024    |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii>)                                     | Medium  |           | [solution](<../_1650. Lowest Common Ancestor of a Binary Tree III.md>)                  | py                               | Jun 10, 2024    |
 | 1721 | [Swapping Nodes in a Linked List](<https://leetcode.com/problems/swapping-nodes-in-a-linked-list>)                                                             | Medium  |           | [solution](<../_1721. Swapping Nodes in a Linked List.md>)                              | c                                | Jun 07, 2024    |

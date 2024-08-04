@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (20 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (21 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 | 1268 | [Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)                                                       | Medium  |                | [solution](<../_1268. Search Suggestions System.md>)                 | py          | Jun 29, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                       | Easy    |                | [solution](<../_1351. Count Negative Numbers in a Sorted Matrix.md>) | java, py    | Jun 01, 2024    |
 | 1482 | [Minimum Number of Days to Make m Bouquets](<https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets>)                       | Medium  | Daily          | [solution](<../_1482. Minimum Number of Days to Make m Bouquets.md>) | py          | Jun 19, 2024    |
+| 1508 | [Range Sum of Sorted Subarray Sums](<https://leetcode.com/problems/range-sum-of-sorted-subarray-sums>)                                       | Medium  | Daily          | [solution](<../_1508. Range Sum of Sorted Subarray Sums.md>)         | py          | Aug 04, 2024    |
 | 1552 | [Magnetic Force Between Two Balls](<https://leetcode.com/problems/magnetic-force-between-two-balls>)                                         | Medium  | Daily          | [solution](<../_1552. Magnetic Force Between Two Balls.md>)          | py          | Jun 20, 2024    |
 | 1885 | [Count Pairs in Two Arrays](<https://leetcode.com/problems/count-pairs-in-two-arrays>)                                                       | Medium  |                | [solution](<../_1885. Count Pairs in Two Arrays.md>)                 | py          | Jun 08, 2024    |
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                       | Hard    |                | [solution](<../_2258. Escape the Spreading Fire.md>)                 | py          | Jun 15, 2024    |

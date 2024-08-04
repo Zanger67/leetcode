@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (65 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (66 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -42,6 +42,7 @@
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                                                 | Easy    | Daily          | [solution](<../_1460. Make Two Arrays Equal by Reversing Subarrays.md>)                         | c, py            | Jun 04, 2024    |
 | 1481 | [Least Number of Unique Integers after K Removals](<https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals>)                                         | Medium  |                | [solution](<../_1481. Least Number of Unique Integers after K Removals.md>)                     | py               | Jun 15, 2024    |
 | 1502 | [Can Make Arithmetic Progression From Sequence](<https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence>)                                               | Easy    |                | [solution](<../_1502. Can Make Arithmetic Progression From Sequence.md>)                        | c, py            | Jun 04, 2024    |
+| 1508 | [Range Sum of Sorted Subarray Sums](<https://leetcode.com/problems/range-sum-of-sorted-subarray-sums>)                                                                       | Medium  | Daily          | [solution](<../_1508. Range Sum of Sorted Subarray Sums.md>)                                    | py               | Aug 04, 2024    |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](<https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves>) | Medium  | Daily          | [solution](<../_1509. Minimum Difference Between Largest and Smallest Value in Three Moves.md>) | c, cpp, java, py | Jul 03, 2024    |
 | 1552 | [Magnetic Force Between Two Balls](<https://leetcode.com/problems/magnetic-force-between-two-balls>)                                                                         | Medium  | Daily          | [solution](<../_1552. Magnetic Force Between Two Balls.md>)                                     | py               | Jun 20, 2024    |
 | 1561 | [Maximum Number of Coins You Can Get](<https://leetcode.com/problems/maximum-number-of-coins-you-can-get>)                                                                   | Medium  |                | [solution](<../_1561. Maximum Number of Coins You Can Get.md>)                                  | py               | Jun 23, 2024    |
