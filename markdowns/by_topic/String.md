@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (108 completed)
+# [String](<https://leetcode.com/tag/String/>) (109 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -41,6 +41,7 @@
 |  451 | [Sort Characters By Frequency](<https://leetcode.com/problems/sort-characters-by-frequency>)                                                                             | Medium  |                | [solution](<../_451. Sort Characters By Frequency.md>)                                        | py          | Jun 18, 2024    |
 |  535 | [Encode and Decode TinyURL](<https://leetcode.com/problems/encode-and-decode-tinyurl>)                                                                                   | Medium  |                | [solution](<../_535. Encode and Decode TinyURL.md>)                                           | py          | Jun 07, 2024    |
 |  567 | [Permutation in String](<https://leetcode.com/problems/permutation-in-string>)                                                                                           | Medium  | N150           | [solution](<../_567. Permutation in String.md>)                                               | py          | Jul 06, 2024    |
+|  606 | [Construct String from Binary Tree](<https://leetcode.com/problems/construct-string-from-binary-tree>)                                                                   | Medium  |                | [solution](<../_606. Construct String from Binary Tree.md>)                                   | java, py    | Aug 04, 2024    |
 |  616 | [Add Bold Tag in String](<https://leetcode.com/problems/add-bold-tag-in-string>)                                                                                         | Medium  |                | [solution](<../_616. Add Bold Tag in String.md>)                                              | py          | Jun 28, 2024    |
 |  647 | [Palindromic Substrings](<https://leetcode.com/problems/palindromic-substrings>)                                                                                         | Medium  | B75, N150      | [solution](<../_647. Palindromic Substrings.md>)                                              | py          | Jul 05, 2024    |
 |  648 | [Replace Words](<https://leetcode.com/problems/replace-words>)                                                                                                           | Medium  | Daily          | [solution](<../_648. Replace Words.md>)                                                       | java, py    | Jun 07, 2024    |

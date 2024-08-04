@@ -5,11 +5,11 @@
 ------
 
 - [Array](<by_topic/Array.md>) (224 completed)
-- [String](<by_topic/String.md>) (108 completed)
+- [String](<by_topic/String.md>) (109 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (105 completed)
-- [Tree](<by_topic/Tree.md>) (78 completed)
-- [Depth-First Search](<by_topic/Depth-First Search.md>) (78 completed)
-- [Binary Tree](<by_topic/Binary Tree.md>) (73 completed)
+- [Tree](<by_topic/Tree.md>) (79 completed)
+- [Depth-First Search](<by_topic/Depth-First Search.md>) (79 completed)
+- [Binary Tree](<by_topic/Binary Tree.md>) (74 completed)
 - [Sorting](<by_topic/Sorting.md>) (66 completed)
 - [Math](<by_topic/Math.md>) (61 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (52 completed)

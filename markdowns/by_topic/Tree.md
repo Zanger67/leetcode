@@ -1,4 +1,4 @@
-# [Tree](<https://leetcode.com/tag/Tree/>) (78 completed)
+# [Tree](<https://leetcode.com/tag/Tree/>) (79 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -38,6 +38,7 @@
 |  513 | [Find Bottom Left Tree Value](<https://leetcode.com/problems/find-bottom-left-tree-value>)                                                               | Medium  |                | [solution](<../_513. Find Bottom Left Tree Value.md>)                                 | java         | Jul 03, 2024    |
 |  543 | [Diameter of Binary Tree](<https://leetcode.com/problems/diameter-of-binary-tree>)                                                                       | Easy    | N150           | [solution](<../_543. Diameter of Binary Tree.md>)                                     | c, java, py  | Jun 03, 2024    |
 |  572 | [Subtree of Another Tree](<https://leetcode.com/problems/subtree-of-another-tree>)                                                                       | Easy    | B75, N150      | [solution](<../_572. Subtree of Another Tree.md>)                                     | py           | Jun 03, 2024    |
+|  606 | [Construct String from Binary Tree](<https://leetcode.com/problems/construct-string-from-binary-tree>)                                                   | Medium  |                | [solution](<../_606. Construct String from Binary Tree.md>)                           | java, py     | Aug 04, 2024    |
 |  637 | [Average of Levels in Binary Tree](<https://leetcode.com/problems/average-of-levels-in-binary-tree>)                                                     | Easy    |                | [solution](<../_637. Average of Levels in Binary Tree.md>)                            | py           | Jul 04, 2024    |
 |  653 | [Two Sum IV - Input is a BST](<https://leetcode.com/problems/two-sum-iv-input-is-a-bst>)                                                                 | Easy    |                | [solution](<../_653. Two Sum IV - Input is a BST.md>)                                 | py           | Jul 31, 2024    |
 |  654 | [Maximum Binary Tree](<https://leetcode.com/problems/maximum-binary-tree>)                                                                               | Medium  |                | [solution](<../_654. Maximum Binary Tree.md>)                                         | py           | Jun 12, 2024    |
