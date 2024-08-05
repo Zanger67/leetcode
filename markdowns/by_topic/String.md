@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (109 completed)
+# [String](<https://leetcode.com/tag/String/>) (110 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -88,6 +88,7 @@
 | 1844 | [Replace All Digits with Characters](<https://leetcode.com/problems/replace-all-digits-with-characters>)                                                                 | Easy    |                | [solution](<../_1844. Replace All Digits with Characters.md>)                                 | py          | Jun 29, 2024    |
 | 1980 | [Find Unique Binary String](<https://leetcode.com/problems/find-unique-binary-string>)                                                                                   | Medium  |                | [solution](<../_1980. Find Unique Binary String.md>)                                          | c, py       | Jun 27, 2024    |
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>)                               | Easy    |                | [solution](<../_2011. Final Value of Variable After Performing Operations.md>)                | c           | Jun 03, 2024    |
+| 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                       | Easy    | Daily          | [solution](<../_2053. Kth Distinct String in an Array.md>)                                    | py          | Aug 05, 2024    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                                 | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)                 | c, py       | Jun 10, 2024    |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](<https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters>)                               | Medium  |                | [solution](<../_2086. Minimum Number of Food Buckets to Feed the Hamsters.md>)                | java        | Jul 01, 2024    |
 | 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](<https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another>)                 | Medium  | Daily          | [solution](<../_2096. Step-By-Step Directions From a Binary Tree Node to Another.md>)         | py          | Jul 16, 2024    |

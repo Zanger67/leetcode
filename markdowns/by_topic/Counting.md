@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (19 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (20 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -15,6 +15,7 @@
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                       | Easy    |                | [solution](<../_1748. Sum of Unique Elements.md>)                               | c           | Jun 06, 2024    |
 | 1940 | [Longest Common Subsequence Between Sorted Arrays](<https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays>)                                   | Medium  | Weekly Premium | [solution](<../_1940. Longest Common Subsequence Between Sorted Arrays.md>)     | java, py    | Jun 01, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                                                       | Medium  | N150           | [solution](<../_2013. Detect Squares.md>)                                       | py          | Jun 28, 2024    |
+| 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                     | Easy    | Daily          | [solution](<../_2053. Kth Distinct String in an Array.md>)                      | py          | Aug 05, 2024    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                               | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)   | c, py       | Jun 10, 2024    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                         | Easy    |                | [solution](<../_2206. Divide Array Into Equal Pairs.md>)                        | c, py       | Jun 08, 2024    |
 | 2225 | [Find Players With Zero or One Losses](<https://leetcode.com/problems/find-players-with-zero-or-one-losses>)                                                           | Medium  |                | [solution](<../_2225. Find Players With Zero or One Losses.md>)                 | java        | Jun 24, 2024    |

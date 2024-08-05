@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (105 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (106 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -88,6 +88,7 @@
 | 1940 | [Longest Common Subsequence Between Sorted Arrays](<https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays>)                               | Medium  | Weekly Premium | [solution](<../_1940. Longest Common Subsequence Between Sorted Arrays.md>)                | java, py    | Jun 01, 2024    |
 | 1980 | [Find Unique Binary String](<https://leetcode.com/problems/find-unique-binary-string>)                                                                             | Medium  |                | [solution](<../_1980. Find Unique Binary String.md>)                                       | c, py       | Jun 27, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                                                   | Medium  | N150           | [solution](<../_2013. Detect Squares.md>)                                                  | py          | Jun 28, 2024    |
+| 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                 | Easy    | Daily          | [solution](<../_2053. Kth Distinct String in an Array.md>)                                 | py          | Aug 05, 2024    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)              | c, py       | Jun 10, 2024    |
 | 2196 | [Create Binary Tree From Descriptions](<https://leetcode.com/problems/create-binary-tree-from-descriptions>)                                                       | Medium  | Daily          | [solution](<../_2196. Create Binary Tree From Descriptions.md>)                            | py          | Jul 15, 2024    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                     | Easy    |                | [solution](<../_2206. Divide Array Into Equal Pairs.md>)                                   | c, py       | Jun 08, 2024    |

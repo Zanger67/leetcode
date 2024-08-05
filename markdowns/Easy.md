@@ -1,4 +1,4 @@
-# Easy Questions (145)
+# Easy Questions (146)
 
 *[Back to top](<../README.md>)*
 
@@ -110,6 +110,7 @@
 | 1929 | [Concatenation of Array](<https://leetcode.com/problems/concatenation-of-array>)                                                                                   | Easy    |           | [solution](<_1929. Concatenation of Array.md>)                                          | c, java, py                  | Jun 03, 2024    |
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>)                         | Easy    |           | [solution](<_2011. Final Value of Variable After Performing Operations.md>)             | c                            | Jun 03, 2024    |
 | 2037 | [Minimum Number of Moves to Seat Everyone](<https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone>)                                               | Easy    | Daily     | [solution](<_2037. Minimum Number of Moves to Seat Everyone.md>)                        | c, py                        | Jun 03, 2024    |
+| 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                 | Easy    | Daily     | [solution](<_2053. Kth Distinct String in an Array.md>)                                 | py                           | Aug 05, 2024    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                     | Easy    |           | [solution](<_2206. Divide Array Into Equal Pairs.md>)                                   | c, py                        | Jun 08, 2024    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                 | Easy    |           | [solution](<_2248. Intersection of Multiple Arrays.md>)                                 | py                           | May 31, 2024    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                       | Easy    |           | [solution](<_2389. Longest Subsequence With Limited Sum.md>)                            | py                           | Jun 01, 2024    |
