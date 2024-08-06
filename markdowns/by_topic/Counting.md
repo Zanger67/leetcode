@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (20 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (21 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,6 +22,7 @@
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                     | Easy    |                | [solution](<../_2248. Intersection of Multiple Arrays.md>)                      | py          | May 31, 2024    |
 | 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                           | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                         | py          | Jul 05, 2024    |
 | 2423 | [Remove Letter To Equalize Frequency](<https://leetcode.com/problems/remove-letter-to-equalize-frequency>)                                                             | Easy    |                | [solution](<../_2423. Remove Letter To Equalize Frequency.md>)                  | py          | Jun 17, 2024    |
+| 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                   | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)             | py          | Aug 06, 2024    |
 | 3184 | Weekly Contest 402 - q1 - [Count Pairs That Form a Complete Day I](<https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i>)                             | Easy    | Contest        | [solution](<../_3184. Count Pairs That Form a Complete Day I.md>)               | py          | Jul 07, 2024    |
 | 3185 | Weekly Contest 402 - q2 - [Count Pairs That Form a Complete Day II](<https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii>)                           | Medium  | Contest        | [solution](<../_3185. Count Pairs That Form a Complete Day II.md>)              | py          | Jul 07, 2024    |
 | 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>)                           | Medium  | Contest        | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)              | py          | Jul 07, 2024    |

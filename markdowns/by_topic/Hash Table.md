@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (106 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (107 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -107,6 +107,7 @@
 | 2610 | [Convert an Array Into a 2D Array With Conditions](<https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions>)                               | Medium  |                | [solution](<../_2610. Convert an Array Into a 2D Array With Conditions.md>)                | py          | Jun 07, 2024    |
 | 2671 | [Frequency Tracker](<https://leetcode.com/problems/frequency-tracker>)                                                                                             | Medium  |                | [solution](<../_2671. Frequency Tracker.md>)                                               | py          | Jun 28, 2024    |
 | 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)                                       | Medium  | Weekly Premium | [solution](<../_2743. Count Substrings Without Repeating Character.md>)                    | java, py    | Jun 22, 2024    |
+| 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                               | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                        | py          | Aug 06, 2024    |
 | 3043 | [Find the Length of the Longest Common Prefix](<https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix>)                                       | Medium  |                | [solution](<../_3043. Find the Length of the Longest Common Prefix.md>)                    | py          | Jun 28, 2024    |
 | 3174 | Biweekly Contest 132 - q1 - [Clear Digits](<https://leetcode.com/problems/clear-digits>)                                                                           | Easy    | Contest        | [solution](<../_3174. Clear Digits.md>)                                                    | py          | Jul 07, 2024    |
 | 3184 | Weekly Contest 402 - q1 - [Count Pairs That Form a Complete Day I](<https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i>)                         | Easy    | Contest        | [solution](<../_3184. Count Pairs That Form a Complete Day I.md>)                          | py          | Jul 07, 2024    |

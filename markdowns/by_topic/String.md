@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (110 completed)
+# [String](<https://leetcode.com/tag/String/>) (111 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -104,6 +104,7 @@
 | 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)                                             | Medium  | Weekly Premium | [solution](<../_2743. Count Substrings Without Repeating Character.md>)                       | java, py    | Jun 22, 2024    |
 | 2942 | [Find Words Containing Character](<https://leetcode.com/problems/find-words-containing-character>)                                                                       | Easy    |                | [solution](<../_2942. Find Words Containing Character.md>)                                    | c           | Jun 06, 2024    |
 | 2976 | [Minimum Cost to Convert String I](<https://leetcode.com/problems/minimum-cost-to-convert-string-i>)                                                                     | Medium  | Daily          | [solution](<../_2976. Minimum Cost to Convert String I.md>)                                   | py          | Jul 27, 2024    |
+| 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                     | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                           | py          | Aug 06, 2024    |
 | 3043 | [Find the Length of the Longest Common Prefix](<https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix>)                                             | Medium  |                | [solution](<../_3043. Find the Length of the Longest Common Prefix.md>)                       | py          | Jun 28, 2024    |
 | 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                                                                     | Hard    |                | [solution](<../_3045. Count Prefix and Suffix Pairs II.md>)                                   | py          | Jun 29, 2024    |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](<https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint>) | Medium  |                | [solution](<../_3106. Lexicographically Smallest String After Operations With Constraint.md>) | py          | Jun 29, 2024    |

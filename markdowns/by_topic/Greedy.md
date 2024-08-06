@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (38 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (39 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -38,6 +38,7 @@
 | 2405 | [Optimal Partition of String](<https://leetcode.com/problems/optimal-partition-of-string>)                                                                                   | Medium  |                | [solution](<../_2405. Optimal Partition of String.md>)                                          | py                           | Jun 23, 2024    |
 | 2486 | [Append Characters to String to Make Subsequence](<https://leetcode.com/problems/append-characters-to-string-to-make-subsequence>)                                           | Medium  | Daily          | [solution](<../_2486. Append Characters to String to Make Subsequence.md>)                      | c, java, py                  | Jun 03, 2024    |
 | 2734 | [Lexicographically Smallest String After Substring Operation](<https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation>)                   | Medium  |                | [solution](<../_2734. Lexicographically Smallest String After Substring Operation.md>)          | py                           | Jun 29, 2024    |
+| 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                         | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                             | py                           | Aug 06, 2024    |
 | 3074 | [Apple Redistribution into Boxes](<https://leetcode.com/problems/apple-redistribution-into-boxes>)                                                                           | Easy    |                | [solution](<../_3074. Apple Redistribution into Boxes.md>)                                      | py                           | May 23, 2024    |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](<https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint>)     | Medium  |                | [solution](<../_3106. Lexicographically Smallest String After Operations With Constraint.md>)   | py                           | Jun 29, 2024    |
 | 3111 | [Minimum Rectangles to Cover Points](<https://leetcode.com/problems/minimum-rectangles-to-cover-points>)                                                                     | Medium  |                | [solution](<../_3111. Minimum Rectangles to Cover Points.md>)                                   | java, py                     | Jul 21, 2024    |
