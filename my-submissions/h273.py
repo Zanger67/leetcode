@@ -33,7 +33,6 @@ class Solution:
         return ' '.join(output)
         
     def threeDigits(self, num: int) -> str:
-        print('\t', num)
         expressions = ['Zero', 
                         'One', 
                         'Two', 
