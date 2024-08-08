@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (32 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (33 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -11,6 +11,7 @@
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                                       | Easy    |         | [solution](<../_412. Fizz Buzz.md>)                                            | java, py                     | Jun 02, 2024    |
 |  735 | [Asteroid Collision](<https://leetcode.com/problems/asteroid-collision>)                                                                                     | Medium  |         | [solution](<../_735. Asteroid Collision.md>)                                   | py                           | Jul 14, 2024    |
 |  867 | [Transpose Matrix](<https://leetcode.com/problems/transpose-matrix>)                                                                                         | Easy    |         | [solution](<../_867. Transpose Matrix.md>)                                     | py                           | Jun 15, 2024    |
+|  885 | [Spiral Matrix III](<https://leetcode.com/problems/spiral-matrix-iii>)                                                                                       | Medium  | Daily   | [solution](<../_885. Spiral Matrix III.md>)                                    | py                           | Aug 08, 2024    |
 |  946 | [Validate Stack Sequences](<https://leetcode.com/problems/validate-stack-sequences>)                                                                         | Medium  |         | [solution](<../_946. Validate Stack Sequences.md>)                             | c, py                        | Jun 12, 2024    |
 |  950 | [Reveal Cards In Increasing Order](<https://leetcode.com/problems/reveal-cards-in-increasing-order>)                                                         | Medium  |         | [solution](<../_950. Reveal Cards In Increasing Order.md>)                     | py                           | Jun 12, 2024    |
 | 1006 | [Clumsy Factorial](<https://leetcode.com/problems/clumsy-factorial>)                                                                                         | Medium  |         | [solution](<../_1006. Clumsy Factorial.md>)                                    | c, py                        | Jun 12, 2024    |

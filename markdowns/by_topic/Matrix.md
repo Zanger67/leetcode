@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (36 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (37 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  807 | [Max Increase to Keep City Skyline](<https://leetcode.com/problems/max-increase-to-keep-city-skyline>)                                                             | Medium  |           | [solution](<../_807. Max Increase to Keep City Skyline.md>)                                | java        | Jun 22, 2024    |
 |  861 | [Score After Flipping Matrix](<https://leetcode.com/problems/score-after-flipping-matrix>)                                                                         | Medium  |           | [solution](<../_861. Score After Flipping Matrix.md>)                                      | c, py       | Jun 10, 2024    |
 |  867 | [Transpose Matrix](<https://leetcode.com/problems/transpose-matrix>)                                                                                               | Easy    |           | [solution](<../_867. Transpose Matrix.md>)                                                 | py          | Jun 15, 2024    |
+|  885 | [Spiral Matrix III](<https://leetcode.com/problems/spiral-matrix-iii>)                                                                                             | Medium  | Daily     | [solution](<../_885. Spiral Matrix III.md>)                                                | py          | Aug 08, 2024    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                           | Medium  |           | [solution](<../_909. Snakes and Ladders.md>)                                               | py          | Jun 12, 2024    |
 |  994 | [Rotting Oranges](<https://leetcode.com/problems/rotting-oranges>)                                                                                                 | Medium  | N150      | [solution](<../_994. Rotting Oranges.md>)                                                  | py          | Jun 15, 2024    |
 | 1020 | [Number of Enclaves](<https://leetcode.com/problems/number-of-enclaves>)                                                                                           | Medium  |           | [solution](<../_1020. Number of Enclaves.md>)                                              | py          | Jun 26, 2024    |
