@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (61 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (62 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -31,6 +31,7 @@
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                                                                               | Easy    |                | [solution](<../_509. Fibonacci Number.md>)                                                 | c                                           | Jun 17, 2024    |
 |  523 | [Continuous Subarray Sum](<https://leetcode.com/problems/continuous-subarray-sum>)                                                                                 | Medium  | Daily          | [solution](<../_523. Continuous Subarray Sum.md>)                                          | py                                          | Jun 08, 2024    |
 |  651 | [4 Keys Keyboard](<https://leetcode.com/problems/4-keys-keyboard>)                                                                                                 | Medium  |                | [solution](<../_651. 4 Keys Keyboard.md>)                                                  | py                                          | May 29, 2024    |
+|  840 | [Magic Squares In Grid](<https://leetcode.com/problems/magic-squares-in-grid>)                                                                                     | Medium  | Daily          | [solution](<../_840. Magic Squares In Grid.md>)                                            | py                                          | Aug 09, 2024    |
 |  877 | [Stone Game](<https://leetcode.com/problems/stone-game>)                                                                                                           | Medium  |                | [solution](<../_877. Stone Game.md>)                                                       | c, cpp, go, java, js, py                    | Jul 11, 2024    |
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                                                           | Medium  | N150           | [solution](<../_973. K Closest Points to Origin.md>)                                       | py                                          | Jun 29, 2024    |
 | 1006 | [Clumsy Factorial](<https://leetcode.com/problems/clumsy-factorial>)                                                                                               | Medium  |                | [solution](<../_1006. Clumsy Factorial.md>)                                                | c, py                                       | Jun 12, 2024    |
