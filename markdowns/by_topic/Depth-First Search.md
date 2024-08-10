@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (79 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (80 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -51,6 +51,7 @@
 |  743 | [Network Delay Time](<https://leetcode.com/problems/network-delay-time>)                                                                                 | Medium  | N150           | [solution](<../_743. Network Delay Time.md>)                                          | java, py    | Jul 28, 2024    |
 |  863 | [All Nodes Distance K in Binary Tree](<https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree>)                                               | Medium  |                | [solution](<../_863. All Nodes Distance K in Binary Tree.md>)                         | py          | Jun 26, 2024    |
 |  938 | [Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)                                                                                     | Easy    |                | [solution](<../_938. Range Sum of BST.md>)                                            | js, py      | Jul 26, 2024    |
+|  959 | [Regions Cut By Slashes](<https://leetcode.com/problems/regions-cut-by-slashes>)                                                                         | Medium  | Daily          | [solution](<../_959. Regions Cut By Slashes.md>)                                      | py          | Aug 10, 2024    |
 |  979 | [Distribute Coins in Binary Tree](<https://leetcode.com/problems/distribute-coins-in-binary-tree>)                                                       | Medium  |                | [solution](<../_979. Distribute Coins in Binary Tree.md>)                             | py          | Jul 26, 2024    |
 |  987 | [Vertical Order Traversal of a Binary Tree](<https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>)                                   | Hard    |                | [solution](<../_987. Vertical Order Traversal of a Binary Tree.md>)                   | py          | Jun 12, 2024    |
 |  993 | [Cousins in Binary Tree](<https://leetcode.com/problems/cousins-in-binary-tree>)                                                                         | Easy    |                | [solution](<../_993. Cousins in Binary Tree.md>)                                      | py          | Jul 04, 2024    |

@@ -1,4 +1,4 @@
-# [Union Find](<https://leetcode.com/tag/Union-Find/>) (8 completed)
+# [Union Find](<https://leetcode.com/tag/Union-Find/>) (9 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 |  128 | [Longest Consecutive Sequence](<https://leetcode.com/problems/longest-consecutive-sequence>)                                                             | Medium  | B75, N150      | [solution](<../_128. Longest Consecutive Sequence.md>)                                | java, py    | Jun 13, 2024    |
 |  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                                                   | Medium  | B75, N150      | [solution](<../_200. Number of Islands.md>)                                           | py          | Jun 17, 2024    |
 |  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                 | Medium  | N150           | [solution](<../_695. Max Area of Island.md>)                                          | c           | Jun 24, 2024    |
+|  959 | [Regions Cut By Slashes](<https://leetcode.com/problems/regions-cut-by-slashes>)                                                                         | Medium  | Daily          | [solution](<../_959. Regions Cut By Slashes.md>)                                      | py          | Aug 10, 2024    |
 | 1020 | [Number of Enclaves](<https://leetcode.com/problems/number-of-enclaves>)                                                                                 | Medium  |                | [solution](<../_1020. Number of Enclaves.md>)                                         | py          | Jun 26, 2024    |
 | 1101 | [The Earliest Moment When Everyone Become Friends](<https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends>)                     | Medium  | Weekly Premium | [solution](<../_1101. The Earliest Moment When Everyone Become Friends.md>)           | py          | Jul 04, 2024    |
 | 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                     | Medium  |                | [solution](<../_1254. Number of Closed Islands.md>)                                   | py          | Jun 26, 2024    |
