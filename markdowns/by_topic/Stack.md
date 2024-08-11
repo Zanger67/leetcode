@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (47 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (48 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -52,4 +52,5 @@
 | 2487 | [Remove Nodes From Linked List](<https://leetcode.com/problems/remove-nodes-from-linked-list>)                                                                 | Medium  |           | [solution](<../_2487. Remove Nodes From Linked List.md>)                          | py           | Jun 12, 2024    |
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                                           | Hard    | Daily     | [solution](<../_2751. Robot Collisions.md>)                                       | py           | Jul 13, 2024    |
 | 2816 | [Double a Number Represented as a Linked List](<https://leetcode.com/problems/double-a-number-represented-as-a-linked-list>)                                   | Medium  |           | [solution](<../_2816. Double a Number Represented as a Linked List.md>)           | c            | Jul 04, 2024    |
+| 3174 | Biweekly Contest 132 - q1 - [Clear Digits](<https://leetcode.com/problems/clear-digits>)                                                                       | Easy    | Contest   | [solution](<../_3174. Clear Digits.md>)                                           | py           | Jul 07, 2024    |
 | 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>) | Hard    | Contest   | [solution](<../_3229. Minimum Operations to Make Array Equal to Target.md>)       | py           | Jul 21, 2024    |

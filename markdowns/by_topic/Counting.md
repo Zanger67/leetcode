@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (21 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (22 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -27,3 +27,4 @@
 | 3185 | Weekly Contest 402 - q2 - [Count Pairs That Form a Complete Day II](<https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii>)                           | Medium  | Contest        | [solution](<../_3185. Count Pairs That Form a Complete Day II.md>)              | py          | Jul 07, 2024    |
 | 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>)                           | Medium  | Contest        | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)              | py          | Jul 07, 2024    |
 | 3228 | Weekly Contest 407 - q3 - [Maximum Number of Operations to Move Ones to the End](<https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end>) | Medium  | Contest        | [solution](<../_3228. Maximum Number of Operations to Move Ones to the End.md>) | py          | Jul 21, 2024    |
+| 3238 | Biweekly Contest 136 - q1 - [Find the Number of Winning Players](<https://leetcode.com/problems/find-the-number-of-winning-players>)                                   | Easy    | Contest        | [solution](<../_3238. Find the Number of Winning Players.md>)                   | py          | Aug 03, 2024    |

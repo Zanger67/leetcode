@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (27 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (28 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -33,3 +33,4 @@
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                   | Medium  |           | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                  | py          | Jun 27, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                   | Medium  | N150      | [solution](<../_2013. Detect Squares.md>)                                   | py          | Jun 28, 2024    |
 | 2671 | [Frequency Tracker](<https://leetcode.com/problems/frequency-tracker>)                                                             | Medium  |           | [solution](<../_2671. Frequency Tracker.md>)                                | py          | Jun 28, 2024    |
+| 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                         | Easy    |           | [solution](<../_3242. Design Neighbor Sum Service.md>)                      | py          | Aug 04, 2024    |

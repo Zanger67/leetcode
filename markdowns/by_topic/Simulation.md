@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (33 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (34 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -39,3 +39,4 @@
 | 3175 | Biweekly Contest 132 - q2 - [Find The First Player to win K Games in a Row](<https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row>)   | Medium  | Contest | [solution](<../_3175. Find The First Player to win K Games in a Row.md>)       | py                           | Jul 07, 2024    |
 | 3178 | Weekly Contest 401 - q1 - [Find the Child Who Has the Ball After K Seconds](<https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds>) | Easy    | Contest | [solution](<../_3178. Find the Child Who Has the Ball After K Seconds.md>)     | py                           | Jul 07, 2024    |
 | 3179 | Weekly Contest 401 - q2 - [Find the N-th Value After K Seconds](<https://leetcode.com/problems/find-the-n-th-value-after-k-seconds>)                         | Medium  | Contest | [solution](<../_3179. Find the N-th Value After K Seconds.md>)                 | py                           | Jul 07, 2024    |
+| 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                                                   | Easy    |         | [solution](<../_3242. Design Neighbor Sum Service.md>)                         | py                           | Aug 04, 2024    |

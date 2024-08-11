@@ -1,4 +1,4 @@
-# Hard Questions (29)
+# Hard Questions (30)
 
 *[Back to top](<../README.md>)*
 
@@ -26,6 +26,7 @@
 | 1028 | [Recover a Tree From Preorder Traversal](<https://leetcode.com/problems/recover-a-tree-from-preorder-traversal>)                                                   | Hard    |           | [solution](<_1028. Recover a Tree From Preorder Traversal.md>)                          | py          | Jul 01, 2024    |
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                                                     | Hard    |           | [solution](<_1255. Maximum Score Words Formed by Letters.md>)                           | py          | Jun 15, 2024    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>) | Hard    |           | [solution](<_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>) | py          | Jun 09, 2024    |
+| 1568 | [Minimum Number of Days to Disconnect Island](<https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island>)                                         | Hard    | Daily     | [solution](<_1568. Minimum Number of Days to Disconnect Island.md>)                     | py          | Aug 11, 2024    |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](<https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable>)           | Hard    | Daily     | [solution](<_1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md>)      | py          | Jun 30, 2024    |
 | 2045 | [Second Minimum Time to Reach Destination](<https://leetcode.com/problems/second-minimum-time-to-reach-destination>)                                               | Hard    | Daily     | [solution](<_2045. Second Minimum Time to Reach Destination.md>)                        | py          | Jul 28, 2024    |
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                                             | Hard    |           | [solution](<_2258. Escape the Spreading Fire.md>)                                       | py          | Jun 15, 2024    |
