@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (496 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (497 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -538,5 +538,6 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3240 | Biweekly Contest 136 - q3 - [Minimum Number of Flips to Make Binary Grid Palindromic II](<https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii>)       | Medium  | Contest        | [solution](<markdowns/_3240. Minimum Number of Flips to Make Binary Grid Palindromic II.md>)                  | py                                          |
 | 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                                                                                 | Easy    |                | [solution](<markdowns/_3242. Design Neighbor Sum Service.md>)                                                 | py                                          |
 | 3248 | [Snake in Matrix](<https://leetcode.com/problems/snake-in-matrix>)                                                                                                                         | Easy    |                | [solution](<markdowns/_3248. Snake in Matrix.md>)                                                             | py                                          |
+| 3249 | [Count the Number of Good Nodes](<https://leetcode.com/problems/count-the-number-of-good-nodes>)                                                                                           | Medium  |                | [solution](<markdowns/_3249. Count the Number of Good Nodes.md>)                                              | py                                          |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
