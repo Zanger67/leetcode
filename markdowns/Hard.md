@@ -1,4 +1,4 @@
-# Hard Questions (30)
+# Hard Questions (31)
 
 *[Back to top](<../README.md>)*
 
@@ -19,6 +19,7 @@
 |  381 | [Insert Delete GetRandom O(1) - Duplicates allowed](<https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed>)                                 | Hard    |           | [solution](<_381. Insert Delete GetRandom O(1) - Duplicates allowed.md>)                | java        | Jul 06, 2024    |
 |  431 | [Encode N-ary Tree to Binary Tree](<https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree>)                                                               | Hard    |           | [solution](<_431. Encode N-ary Tree to Binary Tree.md>)                                 | java, py    | Jun 28, 2024    |
 |  502 | [IPO](<https://leetcode.com/problems/ipo>)                                                                                                                         | Hard    | Daily     | [solution](<_502. IPO.md>)                                                              | py          | Jun 15, 2024    |
+|  719 | [Find K-th Smallest Pair Distance](<https://leetcode.com/problems/find-k-th-smallest-pair-distance>)                                                               | Hard    | Daily     | [solution](<_719. Find K-th Smallest Pair Distance.md>)                                 | py          | Aug 14, 2024    |
 |  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                                 | Hard    | Daily     | [solution](<_726. Number of Atoms.md>)                                                  | py          | Jul 14, 2024    |
 |  895 | [Maximum Frequency Stack](<https://leetcode.com/problems/maximum-frequency-stack>)                                                                                 | Hard    |           | [solution](<_895. Maximum Frequency Stack.md>)                                          | java, py    | Jul 11, 2024    |
 |  987 | [Vertical Order Traversal of a Binary Tree](<https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>)                                             | Hard    |           | [solution](<_987. Vertical Order Traversal of a Binary Tree.md>)                        | py          | Jun 12, 2024    |

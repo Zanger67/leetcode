@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (67 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (68 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  611 | [Valid Triangle Number](<https://leetcode.com/problems/valid-triangle-number>)                                                                                               | Medium  |                | [solution](<../_611. Valid Triangle Number.md>)                                                 | py               | May 22, 2024    |
 |  645 | [Set Mismatch](<https://leetcode.com/problems/set-mismatch>)                                                                                                                 | Easy    |                | [solution](<../_645. Set Mismatch.md>)                                                          | java, py         | Jun 01, 2024    |
 |  692 | [Top K Frequent Words](<https://leetcode.com/problems/top-k-frequent-words>)                                                                                                 | Medium  |                | [solution](<../_692. Top K Frequent Words.md>)                                                  | py               | Jun 09, 2024    |
+|  719 | [Find K-th Smallest Pair Distance](<https://leetcode.com/problems/find-k-th-smallest-pair-distance>)                                                                         | Hard    | Daily          | [solution](<../_719. Find K-th Smallest Pair Distance.md>)                                      | py               | Aug 14, 2024    |
 |  720 | [Longest Word in Dictionary](<https://leetcode.com/problems/longest-word-in-dictionary>)                                                                                     | Medium  |                | [solution](<../_720. Longest Word in Dictionary.md>)                                            | py               | Jun 27, 2024    |
 |  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                                           | Hard    | Daily          | [solution](<../_726. Number of Atoms.md>)                                                       | py               | Jul 14, 2024    |
 |  791 | [Custom Sort String](<https://leetcode.com/problems/custom-sort-string>)                                                                                                     | Medium  |                | [solution](<../_791. Custom Sort String.md>)                                                    | java             | Jun 24, 2024    |
