@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (111 completed)
+# [String](<https://leetcode.com/tag/String/>) (112 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -117,3 +117,4 @@
 | 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                       | Hard    | Contest        | [solution](<../_3213. Construct String with Minimum Cost.md>)                                 | py          | Jul 07, 2024    |
 | 3227 | Weekly Contest 407 - q2 - [Vowels Game in a String](<https://leetcode.com/problems/vowels-game-in-a-string>)                                                             | Medium  | Contest        | [solution](<../_3227. Vowels Game in a String.md>)                                            | py          | Jul 21, 2024    |
 | 3228 | Weekly Contest 407 - q3 - [Maximum Number of Operations to Move Ones to the End](<https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end>)   | Medium  | Contest        | [solution](<../_3228. Maximum Number of Operations to Move Ones to the End.md>)               | py          | Jul 21, 2024    |
+| 3248 | [Snake in Matrix](<https://leetcode.com/problems/snake-in-matrix>)                                                                                                       | Easy    |                | [solution](<../_3248. Snake in Matrix.md>)                                                    | py          | Aug 12, 2024    |

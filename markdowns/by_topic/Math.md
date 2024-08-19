@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (62 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (63 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -30,6 +30,7 @@
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                                             | Easy    |                | [solution](<../_412. Fizz Buzz.md>)                                                        | java, py                                    | Jun 02, 2024    |
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                                                                               | Easy    |                | [solution](<../_509. Fibonacci Number.md>)                                                 | c                                           | Jun 17, 2024    |
 |  523 | [Continuous Subarray Sum](<https://leetcode.com/problems/continuous-subarray-sum>)                                                                                 | Medium  | Daily          | [solution](<../_523. Continuous Subarray Sum.md>)                                          | py                                          | Jun 08, 2024    |
+|  650 | [2 Keys Keyboard](<https://leetcode.com/problems/2-keys-keyboard>)                                                                                                 | Medium  | Daily          | [solution](<../_650. 2 Keys Keyboard.md>)                                                  | py                                          | Aug 19, 2024    |
 |  651 | [4 Keys Keyboard](<https://leetcode.com/problems/4-keys-keyboard>)                                                                                                 | Medium  |                | [solution](<../_651. 4 Keys Keyboard.md>)                                                  | py                                          | May 29, 2024    |
 |  840 | [Magic Squares In Grid](<https://leetcode.com/problems/magic-squares-in-grid>)                                                                                     | Medium  | Daily          | [solution](<../_840. Magic Squares In Grid.md>)                                            | py                                          | Aug 09, 2024    |
 |  877 | [Stone Game](<https://leetcode.com/problems/stone-game>)                                                                                                           | Medium  |                | [solution](<../_877. Stone Game.md>)                                                       | c, cpp, go, java, js, py                    | Jul 11, 2024    |
