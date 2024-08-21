@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (112 completed)
+# [String](<https://leetcode.com/tag/String/>) (113 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -45,6 +45,7 @@
 |  616 | [Add Bold Tag in String](<https://leetcode.com/problems/add-bold-tag-in-string>)                                                                                         | Medium  |                | [solution](<../_616. Add Bold Tag in String.md>)                                              | py          | Jun 28, 2024    |
 |  647 | [Palindromic Substrings](<https://leetcode.com/problems/palindromic-substrings>)                                                                                         | Medium  | B75, N150      | [solution](<../_647. Palindromic Substrings.md>)                                              | py          | Jul 05, 2024    |
 |  648 | [Replace Words](<https://leetcode.com/problems/replace-words>)                                                                                                           | Medium  | Daily          | [solution](<../_648. Replace Words.md>)                                                       | java, py    | Jun 07, 2024    |
+|  664 | [Strange Printer](<https://leetcode.com/problems/strange-printer>)                                                                                                       | Hard    | Daily          | [solution](<../_664. Strange Printer.md>)                                                     | py          | Aug 21, 2024    |
 |  676 | [Implement Magic Dictionary](<https://leetcode.com/problems/implement-magic-dictionary>)                                                                                 | Medium  |                | [solution](<../_676. Implement Magic Dictionary.md>)                                          | py          | Jun 27, 2024    |
 |  692 | [Top K Frequent Words](<https://leetcode.com/problems/top-k-frequent-words>)                                                                                             | Medium  |                | [solution](<../_692. Top K Frequent Words.md>)                                                | py          | Jun 09, 2024    |
 |  720 | [Longest Word in Dictionary](<https://leetcode.com/problems/longest-word-in-dictionary>)                                                                                 | Medium  |                | [solution](<../_720. Longest Word in Dictionary.md>)                                          | py          | Jun 27, 2024    |
