@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (30 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (31 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -12,6 +12,7 @@
 |  191 | [Number of 1 Bits](<https://leetcode.com/problems/number-of-1-bits>)                                                                                                     | Easy    | B75, N150      | [solution](<../_191. Number of 1 Bits.md>)                                                    | py               | Jul 03, 2024    |
 |  260 | [Single Number III](<https://leetcode.com/problems/single-number-iii>)                                                                                                   | Medium  |                | [solution](<../_260. Single Number III.md>)                                                   | py               | Jun 08, 2024    |
 |  287 | [Find the Duplicate Number](<https://leetcode.com/problems/find-the-duplicate-number>)                                                                                   | Medium  | N150           | [solution](<../_287. Find the Duplicate Number.md>)                                           | c                | Jun 26, 2024    |
+|  320 | [Generalized Abbreviation](<https://leetcode.com/problems/generalized-abbreviation>)                                                                                     | Medium  | Weekly Premium | [solution](<../_320. Generalized Abbreviation.md>)                                            | py               | Aug 22, 2024    |
 |  351 | [Android Unlock Patterns](<https://leetcode.com/problems/android-unlock-patterns>)                                                                                       | Medium  | Weekly Premium | [solution](<../_351. Android Unlock Patterns.md>)                                             | py               | Aug 13, 2024    |
 |  476 | [Number Complement](<https://leetcode.com/problems/number-complement>)                                                                                                   | Easy    | Daily          | [solution](<../_476. Number Complement.md>)                                                   | py               | Aug 22, 2024    |
 |  645 | [Set Mismatch](<https://leetcode.com/problems/set-mismatch>)                                                                                                             | Easy    |                | [solution](<../_645. Set Mismatch.md>)                                                        | java, py         | Jun 01, 2024    |

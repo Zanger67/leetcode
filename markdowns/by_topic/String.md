@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (113 completed)
+# [String](<https://leetcode.com/tag/String/>) (114 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -30,6 +30,7 @@
 |  242 | [Valid Anagram](<https://leetcode.com/problems/valid-anagram>)                                                                                                           | Easy    | B75, N150      | [solution](<../_242. Valid Anagram.md>)                                                       | c, py       | Jun 13, 2024    |
 |  271 | [Encode and Decode Strings](<https://leetcode.com/problems/encode-and-decode-strings>)                                                                                   | Medium  | B75, N150      | [solution](<../_271. Encode and Decode Strings.md>)                                           | py          | Jun 13, 2024    |
 |  273 | [Integer to English Words](<https://leetcode.com/problems/integer-to-english-words>)                                                                                     | Hard    | Daily          | [solution](<../_273. Integer to English Words.md>)                                            | py          | Jun 11, 2024    |
+|  320 | [Generalized Abbreviation](<https://leetcode.com/problems/generalized-abbreviation>)                                                                                     | Medium  | Weekly Premium | [solution](<../_320. Generalized Abbreviation.md>)                                            | py          | Aug 22, 2024    |
 |  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                                                         | Easy    | Daily          | [solution](<../_344. Reverse String.md>)                                                      | java, py    | Jun 02, 2024    |
 |  345 | [Reverse Vowels of a String](<https://leetcode.com/problems/reverse-vowels-of-a-string>)                                                                                 | Easy    |                | [solution](<../_345. Reverse Vowels of a String.md>)                                          | py          | May 23, 2024    |
 |  392 | [Is Subsequence](<https://leetcode.com/problems/is-subsequence>)                                                                                                         | Easy    |                | [solution](<../_392. Is Subsequence.md>)                                                      | java        | Jun 22, 2024    |
