@@ -1,7 +1,5 @@
 class Solution:
     def generateAbbreviations(self, word: str) -> List[str]:
-        self.output = []
-
         def dfs(curr: List[str] = [],
                 currIndx: int = 0,
                 currNum: int = 0,
