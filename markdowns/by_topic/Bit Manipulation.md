@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (29 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (30 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  260 | [Single Number III](<https://leetcode.com/problems/single-number-iii>)                                                                                                   | Medium  |                | [solution](<../_260. Single Number III.md>)                                                   | py               | Jun 08, 2024    |
 |  287 | [Find the Duplicate Number](<https://leetcode.com/problems/find-the-duplicate-number>)                                                                                   | Medium  | N150           | [solution](<../_287. Find the Duplicate Number.md>)                                           | c                | Jun 26, 2024    |
 |  351 | [Android Unlock Patterns](<https://leetcode.com/problems/android-unlock-patterns>)                                                                                       | Medium  | Weekly Premium | [solution](<../_351. Android Unlock Patterns.md>)                                             | py               | Aug 13, 2024    |
+|  476 | [Number Complement](<https://leetcode.com/problems/number-complement>)                                                                                                   | Easy    | Daily          | [solution](<../_476. Number Complement.md>)                                                   | py               | Aug 22, 2024    |
 |  645 | [Set Mismatch](<https://leetcode.com/problems/set-mismatch>)                                                                                                             | Easy    |                | [solution](<../_645. Set Mismatch.md>)                                                        | java, py         | Jun 01, 2024    |
 |  784 | [Letter Case Permutation](<https://leetcode.com/problems/letter-case-permutation>)                                                                                       | Medium  |                | [solution](<../_784. Letter Case Permutation.md>)                                             | py               | Jun 15, 2024    |
 |  861 | [Score After Flipping Matrix](<https://leetcode.com/problems/score-after-flipping-matrix>)                                                                               | Medium  |                | [solution](<../_861. Score After Flipping Matrix.md>)                                         | c, py            | Jun 10, 2024    |

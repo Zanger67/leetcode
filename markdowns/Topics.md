@@ -20,7 +20,7 @@
 - [Greedy](<by_topic/Greedy.md>) (42 completed)
 - [Linked List](<by_topic/Linked List.md>) (40 completed)
 - [Simulation](<by_topic/Simulation.md>) (35 completed)
-- [Bit Manipulation](<by_topic/Bit Manipulation.md>) (29 completed)
+- [Bit Manipulation](<by_topic/Bit Manipulation.md>) (30 completed)
 - [Design](<by_topic/Design.md>) (28 completed)
 - [Binary Search](<by_topic/Binary Search.md>) (22 completed)
 - [Counting](<by_topic/Counting.md>) (22 completed)

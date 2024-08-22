@@ -1,4 +1,4 @@
-# Easy Questions (148)
+# Easy Questions (149)
 
 *[Back to top](<../README.md>)*
 
@@ -51,6 +51,7 @@
 |  409 | [Longest Palindrome](<https://leetcode.com/problems/longest-palindrome>)                                                                                           | Easy    | Daily       | [solution](<_409. Longest Palindrome.md>)                                               | c, py                        | Jun 04, 2024    |
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                                             | Easy    |             | [solution](<_412. Fizz Buzz.md>)                                                        | java, py                     | Jun 02, 2024    |
 |  414 | [Third Maximum Number](<https://leetcode.com/problems/third-maximum-number>)                                                                                       | Easy    |             | [solution](<_414. Third Maximum Number.md>)                                             | py                           | May 23, 2024    |
+|  476 | [Number Complement](<https://leetcode.com/problems/number-complement>)                                                                                             | Easy    | Daily       | [solution](<_476. Number Complement.md>)                                                | py                           | Aug 22, 2024    |
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                                                                               | Easy    |             | [solution](<_509. Fibonacci Number.md>)                                                 | c                            | Jun 17, 2024    |
 |  543 | [Diameter of Binary Tree](<https://leetcode.com/problems/diameter-of-binary-tree>)                                                                                 | Easy    | N150        | [solution](<_543. Diameter of Binary Tree.md>)                                          | c, java, py                  | Jun 03, 2024    |
 |  572 | [Subtree of Another Tree](<https://leetcode.com/problems/subtree-of-another-tree>)                                                                                 | Easy    | B75, N150   | [solution](<_572. Subtree of Another Tree.md>)                                          | py                           | Jun 03, 2024    |
