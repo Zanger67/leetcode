@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (48 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (49 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -12,6 +12,7 @@
 |   94 | [Binary Tree Inorder Traversal](<https://leetcode.com/problems/binary-tree-inorder-traversal>)                                                                 | Easy    |           | [solution](<../_94. Binary Tree Inorder Traversal.md>)                            | java, py     | Jun 29, 2024    |
 |  114 | [Flatten Binary Tree to Linked List](<https://leetcode.com/problems/flatten-binary-tree-to-linked-list>)                                                       | Medium  |           | [solution](<../_114. Flatten Binary Tree to Linked List.md>)                      | c, py        | Jun 11, 2024    |
 |  143 | [Reorder List](<https://leetcode.com/problems/reorder-list>)                                                                                                   | Medium  | B75, N150 | [solution](<../_143. Reorder List.md>)                                            | java, py     | Jun 11, 2024    |
+|  145 | [Binary Tree Postorder Traversal](<https://leetcode.com/problems/binary-tree-postorder-traversal>)                                                             | Easy    | Daily     | [solution](<../_145. Binary Tree Postorder Traversal.md>)                         | py           | Aug 25, 2024    |
 |  150 | [Evaluate Reverse Polish Notation](<https://leetcode.com/problems/evaluate-reverse-polish-notation>)                                                           | Medium  | N150      | [solution](<../_150. Evaluate Reverse Polish Notation.md>)                        | py           | Jun 11, 2024    |
 |  155 | [Min Stack](<https://leetcode.com/problems/min-stack>)                                                                                                         | Medium  | N150      | [solution](<../_155. Min Stack.md>)                                               | py           | Jun 16, 2024    |
 |  173 | [Binary Search Tree Iterator](<https://leetcode.com/problems/binary-search-tree-iterator>)                                                                     | Medium  |           | [solution](<../_173. Binary Search Tree Iterator.md>)                             | py           | Jun 26, 2024    |

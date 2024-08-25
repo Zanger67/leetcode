@@ -1,4 +1,4 @@
-# Easy Questions (149)
+# Easy Questions (150)
 
 *[Back to top](<../README.md>)*
 
@@ -29,6 +29,7 @@
 |  125 | [Valid Palindrome](<https://leetcode.com/problems/valid-palindrome>)                                                                                               | Easy    | B75, N150   | [solution](<_125. Valid Palindrome.md>)                                                 | c, py                        | Jun 07, 2024    |
 |  136 | [Single Number](<https://leetcode.com/problems/single-number>)                                                                                                     | Easy    | N150        | [solution](<_136. Single Number.md>)                                                    | py                           | Jul 03, 2024    |
 |  141 | [Linked List Cycle](<https://leetcode.com/problems/linked-list-cycle>)                                                                                             | Easy    | B75, N150   | [solution](<_141. Linked List Cycle.md>)                                                | c, py                        | Jun 04, 2024    |
+|  145 | [Binary Tree Postorder Traversal](<https://leetcode.com/problems/binary-tree-postorder-traversal>)                                                                 | Easy    | Daily       | [solution](<_145. Binary Tree Postorder Traversal.md>)                                  | py                           | Aug 25, 2024    |
 |  170 | [Two Sum III - Data structure design](<https://leetcode.com/problems/two-sum-iii-data-structure-design>)                                                           | Easy    |             | [solution](<_170. Two Sum III - Data structure design.md>)                              | py                           | Jul 31, 2024    |
 |  175 | [Combine Two Tables](<https://leetcode.com/problems/combine-two-tables>)                                                                                           | Easy    |             | [solution](<_175. Combine Two Tables.md>)                                               | py, sql                      | May 22, 2024    |
 |  181 | [Employees Earning More Than Their Managers](<https://leetcode.com/problems/employees-earning-more-than-their-managers>)                                           | Easy    |             | [solution](<_181. Employees Earning More Than Their Managers.md>)                       | sql                          | May 22, 2024    |

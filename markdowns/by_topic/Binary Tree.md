@@ -1,4 +1,4 @@
-# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (75 completed)
+# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (76 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -20,6 +20,7 @@
 |  114 | [Flatten Binary Tree to Linked List](<https://leetcode.com/problems/flatten-binary-tree-to-linked-list>)                                                 | Medium  |                | [solution](<../_114. Flatten Binary Tree to Linked List.md>)                          | c, py        | Jun 11, 2024    |
 |  124 | [Binary Tree Maximum Path Sum](<https://leetcode.com/problems/binary-tree-maximum-path-sum>)                                                             | Hard    | B75, N150      | [solution](<../_124. Binary Tree Maximum Path Sum.md>)                                | py           | Jul 04, 2024    |
 |  129 | [Sum Root to Leaf Numbers](<https://leetcode.com/problems/sum-root-to-leaf-numbers>)                                                                     | Medium  |                | [solution](<../_129. Sum Root to Leaf Numbers.md>)                                    | py           | Jun 07, 2024    |
+|  145 | [Binary Tree Postorder Traversal](<https://leetcode.com/problems/binary-tree-postorder-traversal>)                                                       | Easy    | Daily          | [solution](<../_145. Binary Tree Postorder Traversal.md>)                             | py           | Aug 25, 2024    |
 |  173 | [Binary Search Tree Iterator](<https://leetcode.com/problems/binary-search-tree-iterator>)                                                               | Medium  |                | [solution](<../_173. Binary Search Tree Iterator.md>)                                 | py           | Jun 26, 2024    |
 |  199 | [Binary Tree Right Side View](<https://leetcode.com/problems/binary-tree-right-side-view>)                                                               | Medium  | N150           | [solution](<../_199. Binary Tree Right Side View.md>)                                 | cpp, java    | Jul 04, 2024    |
 |  226 | [Invert Binary Tree](<https://leetcode.com/problems/invert-binary-tree>)                                                                                 | Easy    | B75, N150      | [solution](<../_226. Invert Binary Tree.md>)                                          | py           | Jul 03, 2024    |

@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (83 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (84 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -17,6 +17,7 @@
 |  114 | [Flatten Binary Tree to Linked List](<https://leetcode.com/problems/flatten-binary-tree-to-linked-list>)                                                 | Medium  |                | [solution](<../_114. Flatten Binary Tree to Linked List.md>)                          | c, py       | Jun 11, 2024    |
 |  124 | [Binary Tree Maximum Path Sum](<https://leetcode.com/problems/binary-tree-maximum-path-sum>)                                                             | Hard    | B75, N150      | [solution](<../_124. Binary Tree Maximum Path Sum.md>)                                | py          | Jul 04, 2024    |
 |  129 | [Sum Root to Leaf Numbers](<https://leetcode.com/problems/sum-root-to-leaf-numbers>)                                                                     | Medium  |                | [solution](<../_129. Sum Root to Leaf Numbers.md>)                                    | py          | Jun 07, 2024    |
+|  145 | [Binary Tree Postorder Traversal](<https://leetcode.com/problems/binary-tree-postorder-traversal>)                                                       | Easy    | Daily          | [solution](<../_145. Binary Tree Postorder Traversal.md>)                             | py          | Aug 25, 2024    |
 |  199 | [Binary Tree Right Side View](<https://leetcode.com/problems/binary-tree-right-side-view>)                                                               | Medium  | N150           | [solution](<../_199. Binary Tree Right Side View.md>)                                 | cpp, java   | Jul 04, 2024    |
 |  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                                                   | Medium  | B75, N150      | [solution](<../_200. Number of Islands.md>)                                           | py          | Jun 17, 2024    |
 |  211 | [Design Add and Search Words Data Structure](<https://leetcode.com/problems/design-add-and-search-words-data-structure>)                                 | Medium  | B75, N150      | [solution](<../_211. Design Add and Search Words Data Structure.md>)                  | py          | Jun 27, 2024    |
