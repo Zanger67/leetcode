@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (84 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (85 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -40,6 +40,7 @@
 |  543 | [Diameter of Binary Tree](<https://leetcode.com/problems/diameter-of-binary-tree>)                                                                       | Easy    | N150           | [solution](<../_543. Diameter of Binary Tree.md>)                                     | c, java, py | Jun 03, 2024    |
 |  565 | [Array Nesting](<https://leetcode.com/problems/array-nesting>)                                                                                           | Medium  |                | [solution](<../_565. Array Nesting.md>)                                               | py          | Jul 02, 2024    |
 |  572 | [Subtree of Another Tree](<https://leetcode.com/problems/subtree-of-another-tree>)                                                                       | Easy    | B75, N150      | [solution](<../_572. Subtree of Another Tree.md>)                                     | py          | Jun 03, 2024    |
+|  590 | [N-ary Tree Postorder Traversal](<https://leetcode.com/problems/n-ary-tree-postorder-traversal>)                                                         | Easy    | Daily          | [solution](<../_590. N-ary Tree Postorder Traversal.md>)                              | py          | Aug 26, 2024    |
 |  606 | [Construct String from Binary Tree](<https://leetcode.com/problems/construct-string-from-binary-tree>)                                                   | Medium  |                | [solution](<../_606. Construct String from Binary Tree.md>)                           | java, py    | Aug 04, 2024    |
 |  637 | [Average of Levels in Binary Tree](<https://leetcode.com/problems/average-of-levels-in-binary-tree>)                                                     | Easy    |                | [solution](<../_637. Average of Levels in Binary Tree.md>)                            | py          | Jul 04, 2024    |
 |  653 | [Two Sum IV - Input is a BST](<https://leetcode.com/problems/two-sum-iv-input-is-a-bst>)                                                                 | Easy    |                | [solution](<../_653. Two Sum IV - Input is a BST.md>)                                 | py          | Jul 31, 2024    |

@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (49 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (50 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -24,6 +24,7 @@
 |  394 | [Decode String](<https://leetcode.com/problems/decode-string>)                                                                                                 | Medium  |           | [solution](<../_394. Decode String.md>)                                           | py           | Jun 15, 2024    |
 |  426 | [Convert Binary Search Tree to Sorted Doubly Linked List](<https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list>)             | Medium  |           | [solution](<../_426. Convert Binary Search Tree to Sorted Doubly Linked List.md>) | py           | Jun 12, 2024    |
 |  503 | [Next Greater Element II](<https://leetcode.com/problems/next-greater-element-ii>)                                                                             | Medium  |           | [solution](<../_503. Next Greater Element II.md>)                                 | py           | Jul 05, 2024    |
+|  590 | [N-ary Tree Postorder Traversal](<https://leetcode.com/problems/n-ary-tree-postorder-traversal>)                                                               | Easy    | Daily     | [solution](<../_590. N-ary Tree Postorder Traversal.md>)                          | py           | Aug 26, 2024    |
 |  654 | [Maximum Binary Tree](<https://leetcode.com/problems/maximum-binary-tree>)                                                                                     | Medium  |           | [solution](<../_654. Maximum Binary Tree.md>)                                     | py           | Jun 12, 2024    |
 |  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                             | Hard    | Daily     | [solution](<../_726. Number of Atoms.md>)                                         | py           | Jul 14, 2024    |
 |  735 | [Asteroid Collision](<https://leetcode.com/problems/asteroid-collision>)                                                                                       | Medium  |           | [solution](<../_735. Asteroid Collision.md>)                                      | py           | Jul 14, 2024    |

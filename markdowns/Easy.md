@@ -1,4 +1,4 @@
-# Easy Questions (150)
+# Easy Questions (151)
 
 *[Back to top](<../README.md>)*
 
@@ -59,6 +59,7 @@
 |  577 | [Employee Bonus](<https://leetcode.com/problems/employee-bonus>)                                                                                                   | Easy    |             | [solution](<_577. Employee Bonus.md>)                                                   | sql                          | May 22, 2024    |
 |  584 | [Find Customer Referee](<https://leetcode.com/problems/find-customer-referee>)                                                                                     | Easy    |             | [solution](<_584. Find Customer Referee.md>)                                            | sql                          | May 22, 2024    |
 |  586 | [Customer Placing the Largest Number of Orders](<https://leetcode.com/problems/customer-placing-the-largest-number-of-orders>)                                     | Easy    |             | [solution](<_586. Customer Placing the Largest Number of Orders.md>)                    | sql                          | May 22, 2024    |
+|  590 | [N-ary Tree Postorder Traversal](<https://leetcode.com/problems/n-ary-tree-postorder-traversal>)                                                                   | Easy    | Daily       | [solution](<_590. N-ary Tree Postorder Traversal.md>)                                   | py                           | Aug 26, 2024    |
 |  595 | [Big Countries](<https://leetcode.com/problems/big-countries>)                                                                                                     | Easy    |             | [solution](<_595. Big Countries.md>)                                                    | sql                          | May 22, 2024    |
 |  596 | [Classes More Than 5 Students](<https://leetcode.com/problems/classes-more-than-5-students>)                                                                       | Easy    |             | [solution](<_596. Classes More Than 5 Students.md>)                                     | sql                          | May 22, 2024    |
 |  605 | [Can Place Flowers](<https://leetcode.com/problems/can-place-flowers>)                                                                                             | Easy    |             | [solution](<_605. Can Place Flowers.md>)                                                | c, cpp, java, js, py, rs, ts | Jul 23, 2024    |
