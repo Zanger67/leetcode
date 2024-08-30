@@ -18,7 +18,7 @@
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (43 completed)
 - [Matrix](<by_topic/Matrix.md>) (43 completed)
 - [Greedy](<by_topic/Greedy.md>) (42 completed)
-- [Linked List](<by_topic/Linked List.md>) (40 completed)
+- [Linked List](<by_topic/Linked List.md>) (41 completed)
 - [Simulation](<by_topic/Simulation.md>) (35 completed)
 - [Bit Manipulation](<by_topic/Bit Manipulation.md>) (31 completed)
 - [Design](<by_topic/Design.md>) (28 completed)

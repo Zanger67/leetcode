@@ -1,4 +1,4 @@
-# [Linked List](<https://leetcode.com/tag/Linked-List/>) (40 completed)
+# [Linked List](<https://leetcode.com/tag/Linked-List/>) (41 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -14,6 +14,7 @@
 |   25 | [Reverse Nodes in k-Group](<https://leetcode.com/problems/reverse-nodes-in-k-group>)                                                                                         | Hard    | N150           | [solution](<../_25. Reverse Nodes in k-Group.md>)                                               | c                | Jun 07, 2024    |
 |   61 | [Rotate List](<https://leetcode.com/problems/rotate-list>)                                                                                                                   | Medium  |                | [solution](<../_61. Rotate List.md>)                                                            | py               | Jun 22, 2024    |
 |   82 | [Remove Duplicates from Sorted List II](<https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii>)                                                               | Medium  |                | [solution](<../_82. Remove Duplicates from Sorted List II.md>)                                  | py               | Jul 04, 2024    |
+|   83 | [Remove Duplicates from Sorted List](<https://leetcode.com/problems/remove-duplicates-from-sorted-list>)                                                                     | Easy    |                | [solution](<../_83. Remove Duplicates from Sorted List.md>)                                     | py               | Aug 30, 2024    |
 |  114 | [Flatten Binary Tree to Linked List](<https://leetcode.com/problems/flatten-binary-tree-to-linked-list>)                                                                     | Medium  |                | [solution](<../_114. Flatten Binary Tree to Linked List.md>)                                    | c, py            | Jun 11, 2024    |
 |  138 | [Copy List with Random Pointer](<https://leetcode.com/problems/copy-list-with-random-pointer>)                                                                               | Medium  | N150           | [solution](<../_138. Copy List with Random Pointer.md>)                                         | py               | Jun 27, 2024    |
 |  141 | [Linked List Cycle](<https://leetcode.com/problems/linked-list-cycle>)                                                                                                       | Easy    | B75, N150      | [solution](<../_141. Linked List Cycle.md>)                                                     | c, py            | Jun 04, 2024    |

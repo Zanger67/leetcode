@@ -1,4 +1,4 @@
-# Easy Questions (151)
+# Easy Questions (152)
 
 *[Back to top](<../README.md>)*
 
@@ -18,6 +18,7 @@
 |   66 | [Plus One](<https://leetcode.com/problems/plus-one>)                                                                                                               | Easy    | N150        | [solution](<_66. Plus One.md>)                                                          | c                            | Jun 03, 2024    |
 |   69 | [Sqrt(x)](<https://leetcode.com/problems/sqrtx>)                                                                                                                   | Easy    |             | [solution](<_69. Sqrt(x).md>)                                                           | py                           | Jun 07, 2024    |
 |   70 | [Climbing Stairs](<https://leetcode.com/problems/climbing-stairs>)                                                                                                 | Easy    | B75, N150   | [solution](<_70. Climbing Stairs.md>)                                                   | py                           | May 22, 2024    |
+|   83 | [Remove Duplicates from Sorted List](<https://leetcode.com/problems/remove-duplicates-from-sorted-list>)                                                           | Easy    |             | [solution](<_83. Remove Duplicates from Sorted List.md>)                                | py                           | Aug 30, 2024    |
 |   94 | [Binary Tree Inorder Traversal](<https://leetcode.com/problems/binary-tree-inorder-traversal>)                                                                     | Easy    |             | [solution](<_94. Binary Tree Inorder Traversal.md>)                                     | java, py                     | Jun 29, 2024    |
 |  100 | [Same Tree](<https://leetcode.com/problems/same-tree>)                                                                                                             | Easy    | B75, N150   | [solution](<_100. Same Tree.md>)                                                        | py                           | Jul 03, 2024    |
 |  104 | [Maximum Depth of Binary Tree](<https://leetcode.com/problems/maximum-depth-of-binary-tree>)                                                                       | Easy    | B75, N150   | [solution](<_104. Maximum Depth of Binary Tree.md>)                                     | py                           | Jul 04, 2024    |
