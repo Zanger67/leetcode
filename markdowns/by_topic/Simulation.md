@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (35 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (36 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,6 +22,7 @@
 | 1701 | [Average Waiting Time](<https://leetcode.com/problems/average-waiting-time>)                                                                                 | Medium  | Daily   | [solution](<../_1701. Average Waiting Time.md>)                                | js, py                       | Jul 09, 2024    |
 | 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)                                                 | Medium  | Daily   | [solution](<../_1823. Find the Winner of the Circular Game.md>)                | c, cpp, java, js, py         | Jul 08, 2024    |
 | 1929 | [Concatenation of Array](<https://leetcode.com/problems/concatenation-of-array>)                                                                             | Easy    |         | [solution](<../_1929. Concatenation of Array.md>)                              | c, java, py                  | Jun 03, 2024    |
+| 1945 | [Sum of Digits of String After Convert](<https://leetcode.com/problems/sum-of-digits-of-string-after-convert>)                                               | Easy    | Daily   | [solution](<../_1945. Sum of Digits of String After Convert.md>)               | py                           | Sep 03, 2024    |
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>)                   | Easy    |         | [solution](<../_2011. Final Value of Variable After Performing Operations.md>) | c                            | Jun 03, 2024    |
 | 2149 | [Rearrange Array Elements by Sign](<https://leetcode.com/problems/rearrange-array-elements-by-sign>)                                                         | Medium  |         | [solution](<../_2149. Rearrange Array Elements by Sign.md>)                    | c, py                        | Jun 10, 2024    |
 | 2181 | [Merge Nodes in Between Zeros](<https://leetcode.com/problems/merge-nodes-in-between-zeros>)                                                                 | Medium  | Daily   | [solution](<../_2181. Merge Nodes in Between Zeros.md>)                        | c, cpp, java, py             | Jul 04, 2024    |

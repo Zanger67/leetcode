@@ -5,7 +5,7 @@
 ------
 
 - [Array](<by_topic/Array.md>) (241 completed)
-- [String](<by_topic/String.md>) (114 completed)
+- [String](<by_topic/String.md>) (115 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (110 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (85 completed)
 - [Tree](<by_topic/Tree.md>) (83 completed)
@@ -19,7 +19,7 @@
 - [Matrix](<by_topic/Matrix.md>) (43 completed)
 - [Greedy](<by_topic/Greedy.md>) (42 completed)
 - [Linked List](<by_topic/Linked List.md>) (41 completed)
-- [Simulation](<by_topic/Simulation.md>) (35 completed)
+- [Simulation](<by_topic/Simulation.md>) (36 completed)
 - [Bit Manipulation](<by_topic/Bit Manipulation.md>) (31 completed)
 - [Design](<by_topic/Design.md>) (28 completed)
 - [Binary Search](<by_topic/Binary Search.md>) (22 completed)
@@ -40,8 +40,8 @@
 - [String Matching](<by_topic/String Matching.md>) (6 completed)
 - [Hash Function](<by_topic/Hash Function.md>) (6 completed)
 - [Shortest Path](<by_topic/Shortest Path.md>) (6 completed)
+- [Counting Sort](<by_topic/Counting Sort.md>) (5 completed)
 - [Game Theory](<by_topic/Game Theory.md>) (5 completed)
-- [Counting Sort](<by_topic/Counting Sort.md>) (4 completed)
 - [Combinatorics](<by_topic/Combinatorics.md>) (4 completed)
 - [Rolling Hash](<by_topic/Rolling Hash.md>) (4 completed)
 - [Randomized](<by_topic/Randomized.md>) (4 completed)

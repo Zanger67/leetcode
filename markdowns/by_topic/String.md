@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (114 completed)
+# [String](<https://leetcode.com/tag/String/>) (115 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -88,6 +88,7 @@
 | 1768 | [Merge Strings Alternately](<https://leetcode.com/problems/merge-strings-alternately>)                                                                                   | Easy    |                | [solution](<../_1768. Merge Strings Alternately.md>)                                          | java        | Jul 01, 2024    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                                                         | Medium  |                | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                                    | py          | Jun 27, 2024    |
 | 1844 | [Replace All Digits with Characters](<https://leetcode.com/problems/replace-all-digits-with-characters>)                                                                 | Easy    |                | [solution](<../_1844. Replace All Digits with Characters.md>)                                 | py          | Jun 29, 2024    |
+| 1945 | [Sum of Digits of String After Convert](<https://leetcode.com/problems/sum-of-digits-of-string-after-convert>)                                                           | Easy    | Daily          | [solution](<../_1945. Sum of Digits of String After Convert.md>)                              | py          | Sep 03, 2024    |
 | 1980 | [Find Unique Binary String](<https://leetcode.com/problems/find-unique-binary-string>)                                                                                   | Medium  |                | [solution](<../_1980. Find Unique Binary String.md>)                                          | c, py       | Jun 27, 2024    |
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>)                               | Easy    |                | [solution](<../_2011. Final Value of Variable After Performing Operations.md>)                | c           | Jun 03, 2024    |
 | 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                       | Easy    | Daily          | [solution](<../_2053. Kth Distinct String in an Array.md>)                                    | py          | Aug 05, 2024    |
