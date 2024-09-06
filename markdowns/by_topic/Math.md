@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (64 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (65 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -46,6 +46,7 @@
 | 1518 | [Water Bottles](<https://leetcode.com/problems/water-bottles>)                                                                                                     | Easy    | Daily          | [solution](<../_1518. Water Bottles.md>)                                                   | c, cpp, cs, java, js, py, ts                | Jul 07, 2024    |
 | 1551 | [Minimum Operations to Make Array Equal](<https://leetcode.com/problems/minimum-operations-to-make-array-equal>)                                                   | Medium  |                | [solution](<../_1551. Minimum Operations to Make Array Equal.md>)                          | c, java, js, kt, py, rb, rs                 | Jun 13, 2024    |
 | 1561 | [Maximum Number of Coins You Can Get](<https://leetcode.com/problems/maximum-number-of-coins-you-can-get>)                                                         | Medium  |                | [solution](<../_1561. Maximum Number of Coins You Can Get.md>)                             | py                                          | Jun 23, 2024    |
+| 1634 | [Add Two Polynomials Represented as Linked Lists](<https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists>)                                 | Medium  | Weekly Premium | [solution](<../_1634. Add Two Polynomials Represented as Linked Lists.md>)                 | py                                          | Sep 06, 2024    |
 | 1641 | [Count Sorted Vowel Strings](<https://leetcode.com/problems/count-sorted-vowel-strings>)                                                                           | Medium  |                | [solution](<../_1641. Count Sorted Vowel Strings.md>)                                      | c, cpp, java                                | Jun 24, 2024    |
 | 1759 | [Count Number of Homogenous Substrings](<https://leetcode.com/problems/count-number-of-homogenous-substrings>)                                                     | Medium  |                | [solution](<../_1759. Count Number of Homogenous Substrings.md>)                           | c, java                                     | Jun 10, 2024    |
 | 1822 | [Sign of the Product of an Array](<https://leetcode.com/problems/sign-of-the-product-of-an-array>)                                                                 | Easy    |                | [solution](<../_1822. Sign of the Product of an Array.md>)                                 | c                                           | Jun 06, 2024    |
