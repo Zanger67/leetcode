@@ -1,4 +1,4 @@
-# [Linked List](<https://leetcode.com/tag/Linked-List/>) (41 completed)
+# [Linked List](<https://leetcode.com/tag/Linked-List/>) (42 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -47,3 +47,4 @@
 | 2487 | [Remove Nodes From Linked List](<https://leetcode.com/problems/remove-nodes-from-linked-list>)                                                                               | Medium  |                | [solution](<../_2487. Remove Nodes From Linked List.md>)                                        | py               | Jun 12, 2024    |
 | 2807 | [Insert Greatest Common Divisors in Linked List](<https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list>)                                             | Medium  |                | [solution](<../_2807. Insert Greatest Common Divisors in Linked List.md>)                       | py               | Jun 13, 2024    |
 | 2816 | [Double a Number Represented as a Linked List](<https://leetcode.com/problems/double-a-number-represented-as-a-linked-list>)                                                 | Medium  |                | [solution](<../_2816. Double a Number Represented as a Linked List.md>)                         | c                | Jul 04, 2024    |
+| 3217 | [Delete Nodes From Linked List Present in Array](<https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array>)                                             | Medium  |                | [solution](<../_3217. Delete Nodes From Linked List Present in Array.md>)                       | py               | Sep 06, 2024    |
