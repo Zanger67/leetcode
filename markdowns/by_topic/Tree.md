@@ -1,4 +1,4 @@
-# [Tree](<https://leetcode.com/tag/Tree/>) (83 completed)
+# [Tree](<https://leetcode.com/tag/Tree/>) (84 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -68,6 +68,7 @@
 | 1305 | [All Elements in Two Binary Search Trees](<https://leetcode.com/problems/all-elements-in-two-binary-search-trees>)                                       | Medium  |                | [solution](<../_1305. All Elements in Two Binary Search Trees.md>)                    | java         | Jun 24, 2024    |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](<https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent>)                                   | Medium  |                | [solution](<../_1315. Sum of Nodes with Even-Valued Grandparent.md>)                  | py           | Jun 12, 2024    |
 | 1325 | [Delete Leaves With a Given Value](<https://leetcode.com/problems/delete-leaves-with-a-given-value>)                                                     | Medium  |                | [solution](<../_1325. Delete Leaves With a Given Value.md>)                           | py           | Aug 22, 2024    |
+| 1367 | [Linked List in Binary Tree](<https://leetcode.com/problems/linked-list-in-binary-tree>)                                                                 | Medium  | Daily          | [solution](<../_1367. Linked List in Binary Tree.md>)                                 | py           | Sep 07, 2024    |
 | 1372 | [Longest ZigZag Path in a Binary Tree](<https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree>)                                             | Medium  |                | [solution](<../_1372. Longest ZigZag Path in a Binary Tree.md>)                       | py           | Jul 05, 2024    |
 | 1382 | [Balance a Binary Search Tree](<https://leetcode.com/problems/balance-a-binary-search-tree>)                                                             | Medium  |                | [solution](<../_1382. Balance a Binary Search Tree.md>)                               | py           | Jun 29, 2024    |
 | 1448 | [Count Good Nodes in Binary Tree](<https://leetcode.com/problems/count-good-nodes-in-binary-tree>)                                                       | Medium  | N150           | [solution](<../_1448. Count Good Nodes in Binary Tree.md>)                            | java         | Jul 04, 2024    |

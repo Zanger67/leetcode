@@ -1,4 +1,4 @@
-# [Linked List](<https://leetcode.com/tag/Linked-List/>) (43 completed)
+# [Linked List](<https://leetcode.com/tag/Linked-List/>) (44 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -34,6 +34,7 @@
 | 1019 | [Next Greater Node In Linked List](<https://leetcode.com/problems/next-greater-node-in-linked-list>)                                                                         | Medium  |                | [solution](<../_1019. Next Greater Node In Linked List.md>)                                     | py               | Jun 22, 2024    |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](<https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list>)                                     | Medium  |                | [solution](<../_1171. Remove Zero Sum Consecutive Nodes from Linked List.md>)                   | py               | Jun 15, 2024    |
 | 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>)                                                             | Medium  |                | [solution](<../_1265. Print Immutable Linked List in Reverse.md>)                               | c, py            | Jun 06, 2024    |
+| 1367 | [Linked List in Binary Tree](<https://leetcode.com/problems/linked-list-in-binary-tree>)                                                                                     | Medium  | Daily          | [solution](<../_1367. Linked List in Binary Tree.md>)                                           | py               | Sep 07, 2024    |
 | 1472 | [Design Browser History](<https://leetcode.com/problems/design-browser-history>)                                                                                             | Medium  |                | [solution](<../_1472. Design Browser History.md>)                                               | py               | Jul 06, 2024    |
 | 1474 | [Delete N Nodes After M Nodes of a Linked List](<https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list>)                                               | Easy    |                | [solution](<../_1474. Delete N Nodes After M Nodes of a Linked List.md>)                        | c, java          | Jun 07, 2024    |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](<https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists>)                                           | Medium  | Weekly Premium | [solution](<../_1634. Add Two Polynomials Represented as Linked Lists.md>)                      | py               | Sep 06, 2024    |
