@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (53 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (54 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -38,6 +38,7 @@
 |  719 | [Find K-th Smallest Pair Distance](<https://leetcode.com/problems/find-k-th-smallest-pair-distance>)                                                                                 | Hard    | Daily          | [solution](<../_719. Find K-th Smallest Pair Distance.md>)                              | py                               | Aug 14, 2024    |
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                                                             | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                                    | py                               | Jun 18, 2024    |
 |  977 | [Squares of a Sorted Array](<https://leetcode.com/problems/squares-of-a-sorted-array>)                                                                                               | Easy    |                | [solution](<../_977. Squares of a Sorted Array.md>)                                     | py                               | Jun 21, 2024    |
+| 1229 | [Meeting Scheduler](<https://leetcode.com/problems/meeting-scheduler>)                                                                                                               | Medium  | Weekly Premium | [solution](<../_1229. Meeting Scheduler.md>)                                            | py                               | Sep 10, 2024    |
 | 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>)                                                                     | Medium  |                | [solution](<../_1265. Print Immutable Linked List in Reverse.md>)                       | c, py                            | Jun 06, 2024    |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](<https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence>)                         | Easy    |                | [solution](<../_1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md>) | py                               | Jun 01, 2024    |
 | 1508 | [Range Sum of Sorted Subarray Sums](<https://leetcode.com/problems/range-sum-of-sorted-subarray-sums>)                                                                               | Medium  | Daily          | [solution](<../_1508. Range Sum of Sorted Subarray Sums.md>)                            | py                               | Aug 04, 2024    |

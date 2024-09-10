@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (22 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (23 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -12,6 +12,7 @@
 |  945 | [Minimum Increment to Make Array Unique](<https://leetcode.com/problems/minimum-increment-to-make-array-unique>)                                                       | Medium  | Daily          | [solution](<../_945. Minimum Increment to Make Array Unique.md>)                | py          | Jun 14, 2024    |
 | 1481 | [Least Number of Unique Integers after K Removals](<https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals>)                                   | Medium  |                | [solution](<../_1481. Least Number of Unique Integers after K Removals.md>)     | py          | Jun 15, 2024    |
 | 1657 | [Determine if Two Strings Are Close](<https://leetcode.com/problems/determine-if-two-strings-are-close>)                                                               | Medium  |                | [solution](<../_1657. Determine if Two Strings Are Close.md>)                   | py          | Jul 13, 2024    |
+| 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                       | Easy    |                | [solution](<../_1684. Count the Number of Consistent Strings.md>)               | c, py       | Jun 06, 2024    |
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                       | Easy    |                | [solution](<../_1748. Sum of Unique Elements.md>)                               | c           | Jun 06, 2024    |
 | 1940 | [Longest Common Subsequence Between Sorted Arrays](<https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays>)                                   | Medium  | Weekly Premium | [solution](<../_1940. Longest Common Subsequence Between Sorted Arrays.md>)     | java, py    | Jun 01, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                                                       | Medium  | N150           | [solution](<../_2013. Detect Squares.md>)                                       | py          | Jun 28, 2024    |

@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (69 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (70 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -38,6 +38,7 @@
 | 1051 | [Height Checker](<https://leetcode.com/problems/height-checker>)                                                                                                             | Easy    | Daily          | [solution](<../_1051. Height Checker.md>)                                                       | c, py            | Jun 10, 2024    |
 | 1101 | [The Earliest Moment When Everyone Become Friends](<https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends>)                                         | Medium  | Weekly Premium | [solution](<../_1101. The Earliest Moment When Everyone Become Friends.md>)                     | py               | Jul 04, 2024    |
 | 1122 | [Relative Sort Array](<https://leetcode.com/problems/relative-sort-array>)                                                                                                   | Easy    | Daily          | [solution](<../_1122. Relative Sort Array.md>)                                                  | java, py         | Jun 11, 2024    |
+| 1229 | [Meeting Scheduler](<https://leetcode.com/problems/meeting-scheduler>)                                                                                                       | Medium  | Weekly Premium | [solution](<../_1229. Meeting Scheduler.md>)                                                    | py               | Sep 10, 2024    |
 | 1268 | [Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)                                                                                       | Medium  |                | [solution](<../_1268. Search Suggestions System.md>)                                            | py               | Jun 29, 2024    |
 | 1305 | [All Elements in Two Binary Search Trees](<https://leetcode.com/problems/all-elements-in-two-binary-search-trees>)                                                           | Medium  |                | [solution](<../_1305. All Elements in Two Binary Search Trees.md>)                              | java             | Jun 24, 2024    |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                                                 | Easy    | Daily          | [solution](<../_1460. Make Two Arrays Equal by Reversing Subarrays.md>)                         | c, py            | Jun 04, 2024    |
