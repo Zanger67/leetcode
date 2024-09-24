@@ -1,4 +1,4 @@
-# Easy Questions (153)
+# Easy Questions (154)
 
 *[Back to top](<../README.md>)*
 
@@ -56,6 +56,7 @@
 |  476 | [Number Complement](<https://leetcode.com/problems/number-complement>)                                                                                             | Easy    | Daily       | [solution](<_476. Number Complement.md>)                                                | py                           | Aug 22, 2024    |
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                                                                               | Easy    |             | [solution](<_509. Fibonacci Number.md>)                                                 | c                            | Jun 17, 2024    |
 |  543 | [Diameter of Binary Tree](<https://leetcode.com/problems/diameter-of-binary-tree>)                                                                                 | Easy    | N150        | [solution](<_543. Diameter of Binary Tree.md>)                                          | c, java, py                  | Jun 03, 2024    |
+|  559 | [Maximum Depth of N-ary Tree](<https://leetcode.com/problems/maximum-depth-of-n-ary-tree>)                                                                         | Easy    |             | [solution](<_559. Maximum Depth of N-ary Tree.md>)                                      | py                           | Sep 24, 2024    |
 |  572 | [Subtree of Another Tree](<https://leetcode.com/problems/subtree-of-another-tree>)                                                                                 | Easy    | B75, N150   | [solution](<_572. Subtree of Another Tree.md>)                                          | py                           | Jun 03, 2024    |
 |  577 | [Employee Bonus](<https://leetcode.com/problems/employee-bonus>)                                                                                                   | Easy    |             | [solution](<_577. Employee Bonus.md>)                                                   | sql                          | May 22, 2024    |
 |  584 | [Find Customer Referee](<https://leetcode.com/problems/find-customer-referee>)                                                                                     | Easy    |             | [solution](<_584. Find Customer Referee.md>)                                            | sql                          | May 22, 2024    |

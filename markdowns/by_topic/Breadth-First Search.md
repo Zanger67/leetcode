@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (55 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (56 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -25,6 +25,7 @@
 |  431 | [Encode N-ary Tree to Binary Tree](<https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree>)                                                               | Hard    |                | [solution](<../_431. Encode N-ary Tree to Binary Tree.md>)                                 | java, py    | Jun 28, 2024    |
 |  513 | [Find Bottom Left Tree Value](<https://leetcode.com/problems/find-bottom-left-tree-value>)                                                                         | Medium  |                | [solution](<../_513. Find Bottom Left Tree Value.md>)                                      | java        | Jul 03, 2024    |
 |  542 | [01 Matrix](<https://leetcode.com/problems/01-matrix>)                                                                                                             | Medium  |                | [solution](<../_542. 01 Matrix.md>)                                                        | py          | Jun 26, 2024    |
+|  559 | [Maximum Depth of N-ary Tree](<https://leetcode.com/problems/maximum-depth-of-n-ary-tree>)                                                                         | Easy    |                | [solution](<../_559. Maximum Depth of N-ary Tree.md>)                                      | py          | Sep 24, 2024    |
 |  637 | [Average of Levels in Binary Tree](<https://leetcode.com/problems/average-of-levels-in-binary-tree>)                                                               | Easy    |                | [solution](<../_637. Average of Levels in Binary Tree.md>)                                 | py          | Jul 04, 2024    |
 |  653 | [Two Sum IV - Input is a BST](<https://leetcode.com/problems/two-sum-iv-input-is-a-bst>)                                                                           | Easy    |                | [solution](<../_653. Two Sum IV - Input is a BST.md>)                                      | py          | Jul 31, 2024    |
 |  690 | [Employee Importance](<https://leetcode.com/problems/employee-importance>)                                                                                         | Medium  |                | [solution](<../_690. Employee Importance.md>)                                              | java        | Jul 02, 2024    |

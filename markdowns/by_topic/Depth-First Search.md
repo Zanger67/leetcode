@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (87 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (88 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -38,6 +38,7 @@
 |  437 | [Path Sum III](<https://leetcode.com/problems/path-sum-iii>)                                                                                             | Medium  |                | [solution](<../_437. Path Sum III.md>)                                                | py          | Jul 03, 2024    |
 |  513 | [Find Bottom Left Tree Value](<https://leetcode.com/problems/find-bottom-left-tree-value>)                                                               | Medium  |                | [solution](<../_513. Find Bottom Left Tree Value.md>)                                 | java        | Jul 03, 2024    |
 |  543 | [Diameter of Binary Tree](<https://leetcode.com/problems/diameter-of-binary-tree>)                                                                       | Easy    | N150           | [solution](<../_543. Diameter of Binary Tree.md>)                                     | c, java, py | Jun 03, 2024    |
+|  559 | [Maximum Depth of N-ary Tree](<https://leetcode.com/problems/maximum-depth-of-n-ary-tree>)                                                               | Easy    |                | [solution](<../_559. Maximum Depth of N-ary Tree.md>)                                 | py          | Sep 24, 2024    |
 |  565 | [Array Nesting](<https://leetcode.com/problems/array-nesting>)                                                                                           | Medium  |                | [solution](<../_565. Array Nesting.md>)                                               | py          | Jul 02, 2024    |
 |  572 | [Subtree of Another Tree](<https://leetcode.com/problems/subtree-of-another-tree>)                                                                       | Easy    | B75, N150      | [solution](<../_572. Subtree of Another Tree.md>)                                     | py          | Jun 03, 2024    |
 |  590 | [N-ary Tree Postorder Traversal](<https://leetcode.com/problems/n-ary-tree-postorder-traversal>)                                                         | Easy    | Daily          | [solution](<../_590. N-ary Tree Postorder Traversal.md>)                              | py          | Aug 26, 2024    |
