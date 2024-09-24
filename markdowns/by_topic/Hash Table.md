@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (111 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (112 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -48,6 +48,7 @@
 |  771 | [Jewels and Stones](<https://leetcode.com/problems/jewels-and-stones>)                                                                                             | Easy    |                | [solution](<../_771. Jewels and Stones.md>)                                                | java, py    | Jun 02, 2024    |
 |  791 | [Custom Sort String](<https://leetcode.com/problems/custom-sort-string>)                                                                                           | Medium  |                | [solution](<../_791. Custom Sort String.md>)                                               | java        | Jun 24, 2024    |
 |  817 | [Linked List Components](<https://leetcode.com/problems/linked-list-components>)                                                                                   | Medium  |                | [solution](<../_817. Linked List Components.md>)                                           | java        | Jul 04, 2024    |
+|  819 | [Most Common Word](<https://leetcode.com/problems/most-common-word>)                                                                                               | Easy    |                | [solution](<../_819. Most Common Word.md>)                                                 | py          | Sep 24, 2024    |
 |  840 | [Magic Squares In Grid](<https://leetcode.com/problems/magic-squares-in-grid>)                                                                                     | Medium  | Daily          | [solution](<../_840. Magic Squares In Grid.md>)                                            | py          | Aug 09, 2024    |
 |  846 | [Hand of Straights](<https://leetcode.com/problems/hand-of-straights>)                                                                                             | Medium  | Daily, N150    | [solution](<../_846. Hand of Straights.md>)                                                | py          | Jun 06, 2024    |
 |  863 | [All Nodes Distance K in Binary Tree](<https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree>)                                                         | Medium  |                | [solution](<../_863. All Nodes Distance K in Binary Tree.md>)                              | py          | Jun 26, 2024    |

@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (23 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (24 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 |  347 | [Top K Frequent Elements](<https://leetcode.com/problems/top-k-frequent-elements>)                                                                                     | Medium  | B75, N150      | [solution](<../_347. Top K Frequent Elements.md>)                               | py          | Jun 13, 2024    |
 |  451 | [Sort Characters By Frequency](<https://leetcode.com/problems/sort-characters-by-frequency>)                                                                           | Medium  |                | [solution](<../_451. Sort Characters By Frequency.md>)                          | py          | Jun 18, 2024    |
 |  692 | [Top K Frequent Words](<https://leetcode.com/problems/top-k-frequent-words>)                                                                                           | Medium  |                | [solution](<../_692. Top K Frequent Words.md>)                                  | py          | Jun 09, 2024    |
+|  819 | [Most Common Word](<https://leetcode.com/problems/most-common-word>)                                                                                                   | Easy    |                | [solution](<../_819. Most Common Word.md>)                                      | py          | Sep 24, 2024    |
 |  945 | [Minimum Increment to Make Array Unique](<https://leetcode.com/problems/minimum-increment-to-make-array-unique>)                                                       | Medium  | Daily          | [solution](<../_945. Minimum Increment to Make Array Unique.md>)                | py          | Jun 14, 2024    |
 | 1481 | [Least Number of Unique Integers after K Removals](<https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals>)                                   | Medium  |                | [solution](<../_1481. Least Number of Unique Integers after K Removals.md>)     | py          | Jun 15, 2024    |
 | 1657 | [Determine if Two Strings Are Close](<https://leetcode.com/problems/determine-if-two-strings-are-close>)                                                               | Medium  |                | [solution](<../_1657. Determine if Two Strings Are Close.md>)                   | py          | Jul 13, 2024    |
