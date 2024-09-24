@@ -1,4 +1,4 @@
-# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (13 completed)
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (14 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -8,6 +8,7 @@
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:-------------------------------------------------------------------------------------------|:------------|:----------------|
 |  238 | [Product of Array Except Self](<https://leetcode.com/problems/product-of-array-except-self>)                                                                       | Medium  | B75, N150      | [solution](<../_238. Product of Array Except Self.md>)                                     | py          | Jun 13, 2024    |
 |  523 | [Continuous Subarray Sum](<https://leetcode.com/problems/continuous-subarray-sum>)                                                                                 | Medium  | Daily          | [solution](<../_523. Continuous Subarray Sum.md>)                                          | py          | Jun 08, 2024    |
+|  713 | [Subarray Product Less Than K](<https://leetcode.com/problems/subarray-product-less-than-k>)                                                                       | Medium  |                | [solution](<../_713. Subarray Product Less Than K.md>)                                     | py          | Jul 01, 2024    |
 |  848 | [Shifting Letters](<https://leetcode.com/problems/shifting-letters>)                                                                                               | Medium  |                | [solution](<../_848. Shifting Letters.md>)                                                 | py          | Jun 29, 2024    |
 |  930 | [Binary Subarrays With Sum](<https://leetcode.com/problems/binary-subarrays-with-sum>)                                                                             | Medium  |                | [solution](<../_930. Binary Subarrays With Sum.md>)                                        | py          | Jun 22, 2024    |
 |  974 | [Subarray Sums Divisible by K](<https://leetcode.com/problems/subarray-sums-divisible-by-k>)                                                                       | Medium  | Daily          | [solution](<../_974. Subarray Sums Divisible by K.md>)                                     | java, py    | Jun 09, 2024    |

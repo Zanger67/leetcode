@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (86 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (87 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -81,7 +81,8 @@
 | 1660 | [Correct a Binary Tree](<https://leetcode.com/problems/correct-a-binary-tree>)                                                                           | Medium  |                | [solution](<../_1660. Correct a Binary Tree.md>)                                      | py          | Jun 27, 2024    |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv>)                                 | Medium  |                | [solution](<../_1676. Lowest Common Ancestor of a Binary Tree IV.md>)                 | py          | Jun 29, 2024    |
 | 1740 | [Find Distance in a Binary Tree](<https://leetcode.com/problems/find-distance-in-a-binary-tree>)                                                         | Medium  | Weekly Premium | [solution](<../_1740. Find Distance in a Binary Tree.md>)                             | py          | Jul 15, 2024    |
-| 1858 | [Longest Word With All Prefixes](<https://leetcode.com/problems/longest-word-with-all-prefixes>)                                                         | Medium  |                | [solution](<../_1858. Longest Word With All Prefixes.md>)                             | py          | Jun 29, 2024    |
+| 1743 | [Restore the Array From Adjacent Pairs](<https://leetcode.com/problems/restore-the-array-from-adjacent-pairs>)                                           | Medium  |                | [solution](<../_1743. Restore the Array From Adjacent Pairs.md>)                      | py          | Jun 27, 2024    |
+| 1858 | [Longest Word With All Prefixes](<https://leetcode.com/problems/longest-word-with-all-prefixes>)                                                         | Medium  | Weekly Premium | [solution](<../_1858. Longest Word With All Prefixes.md>)                             | py          | Jun 29, 2024    |
 | 1905 | [Count Sub Islands](<https://leetcode.com/problems/count-sub-islands>)                                                                                   | Medium  | Daily          | [solution](<../_1905. Count Sub Islands.md>)                                          | py          | Jun 24, 2024    |
 | 1973 | [Count Nodes Equal to Sum of Descendants](<https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants>)                                       | Medium  |                | [solution](<../_1973. Count Nodes Equal to Sum of Descendants.md>)                    | c           | Jun 23, 2024    |
 | 1992 | [Find All Groups of Farmland](<https://leetcode.com/problems/find-all-groups-of-farmland>)                                                               | Medium  |                | [solution](<../_1992. Find All Groups of Farmland.md>)                                | java, py    | Jun 24, 2024    |
