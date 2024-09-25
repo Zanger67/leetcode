@@ -4,14 +4,14 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (247 completed)
+- [Array](<by_topic/Array.md>) (248 completed)
 - [String](<by_topic/String.md>) (118 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (114 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (88 completed)
 - [Tree](<by_topic/Tree.md>) (85 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (77 completed)
 - [Sorting](<by_topic/Sorting.md>) (70 completed)
-- [Math](<by_topic/Math.md>) (66 completed)
+- [Math](<by_topic/Math.md>) (67 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (56 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (54 completed)
 - [Stack](<by_topic/Stack.md>) (51 completed)
@@ -46,6 +46,7 @@
 - [Rolling Hash](<by_topic/Rolling Hash.md>) (4 completed)
 - [Randomized](<by_topic/Randomized.md>) (4 completed)
 - [Bucket Sort](<by_topic/Bucket Sort.md>) (4 completed)
+- [Geometry](<by_topic/Geometry.md>) (3 completed)
 - [Data Stream](<by_topic/Data Stream.md>) (3 completed)
 - [Brainteaser](<by_topic/Brainteaser.md>) (3 completed)
 - [Memoization](<by_topic/Memoization.md>) (3 completed)
@@ -54,7 +55,6 @@
 - [Doubly-Linked List](<by_topic/Doubly-Linked List.md>) (3 completed)
 - [Iterator](<by_topic/Iterator.md>) (3 completed)
 - [Number Theory](<by_topic/Number Theory.md>) (3 completed)
-- [Geometry](<by_topic/Geometry.md>) (2 completed)
 - [Interactive](<by_topic/Interactive.md>) (2 completed)
 - [Bitmask](<by_topic/Bitmask.md>) (2 completed)
 - [Merge Sort](<by_topic/Merge Sort.md>) (2 completed)
