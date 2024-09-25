@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (25 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (26 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -24,6 +24,7 @@
 | 2225 | [Find Players With Zero or One Losses](<https://leetcode.com/problems/find-players-with-zero-or-one-losses>)                                                           | Medium  |                | [solution](<../_2225. Find Players With Zero or One Losses.md>)                 | java        | Jun 24, 2024    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                     | Easy    |                | [solution](<../_2248. Intersection of Multiple Arrays.md>)                      | py          | May 31, 2024    |
 | 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                           | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                         | py          | Jul 05, 2024    |
+| 2416 | [Sum of Prefix Scores of Strings](<https://leetcode.com/problems/sum-of-prefix-scores-of-strings>)                                                                     | Hard    | Daily          | [solution](<../_2416. Sum of Prefix Scores of Strings.md>)                      | py          | Sep 25, 2024    |
 | 2423 | [Remove Letter To Equalize Frequency](<https://leetcode.com/problems/remove-letter-to-equalize-frequency>)                                                             | Easy    |                | [solution](<../_2423. Remove Letter To Equalize Frequency.md>)                  | py          | Jun 17, 2024    |
 | 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                   | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)             | py          | Aug 06, 2024    |
 | 3184 | Weekly Contest 402 - q1 - [Count Pairs That Form a Complete Day I](<https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i>)                             | Easy    | Contest        | [solution](<../_3184. Count Pairs That Form a Complete Day I.md>)               | py          | Jul 07, 2024    |

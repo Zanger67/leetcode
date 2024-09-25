@@ -1,4 +1,4 @@
-# [Trie](<https://leetcode.com/tag/Trie/>) (18 completed)
+# [Trie](<https://leetcode.com/tag/Trie/>) (19 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,5 +22,6 @@
 | 1698 | [Number of Distinct Substrings in a String](<https://leetcode.com/problems/number-of-distinct-substrings-in-a-string>)       | Medium  |                | [solution](<../_1698. Number of Distinct Substrings in a String.md>)    | java, py    | Jun 02, 2024    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                             | Medium  |                | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)              | py          | Jun 27, 2024    |
 | 1858 | [Longest Word With All Prefixes](<https://leetcode.com/problems/longest-word-with-all-prefixes>)                             | Medium  | Weekly Premium | [solution](<../_1858. Longest Word With All Prefixes.md>)               | py          | Jun 29, 2024    |
+| 2416 | [Sum of Prefix Scores of Strings](<https://leetcode.com/problems/sum-of-prefix-scores-of-strings>)                           | Hard    | Daily          | [solution](<../_2416. Sum of Prefix Scores of Strings.md>)              | py          | Sep 25, 2024    |
 | 3043 | [Find the Length of the Longest Common Prefix](<https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix>) | Medium  | Daily          | [solution](<../_3043. Find the Length of the Longest Common Prefix.md>) | py          | Jun 28, 2024    |
 | 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                         | Hard    |                | [solution](<../_3045. Count Prefix and Suffix Pairs II.md>)             | py          | Jun 29, 2024    |

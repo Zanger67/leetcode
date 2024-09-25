@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (120 completed)
+# [String](<https://leetcode.com/tag/String/>) (121 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -103,6 +103,7 @@
 | 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                                       | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                                            | py          | Jul 05, 2024    |
 | 2390 | [Removing Stars From a String](<https://leetcode.com/problems/removing-stars-from-a-string>)                                                                                       | Medium  |                | [solution](<../_2390. Removing Stars From a String.md>)                                            | java, py    | Jun 02, 2024    |
 | 2405 | [Optimal Partition of String](<https://leetcode.com/problems/optimal-partition-of-string>)                                                                                         | Medium  |                | [solution](<../_2405. Optimal Partition of String.md>)                                             | py          | Jun 23, 2024    |
+| 2416 | [Sum of Prefix Scores of Strings](<https://leetcode.com/problems/sum-of-prefix-scores-of-strings>)                                                                                 | Hard    | Daily          | [solution](<../_2416. Sum of Prefix Scores of Strings.md>)                                         | py          | Sep 25, 2024    |
 | 2418 | [Sort the People](<https://leetcode.com/problems/sort-the-people>)                                                                                                                 | Easy    | Daily          | [solution](<../_2418. Sort the People.md>)                                                         | py          | Jul 22, 2024    |
 | 2423 | [Remove Letter To Equalize Frequency](<https://leetcode.com/problems/remove-letter-to-equalize-frequency>)                                                                         | Easy    |                | [solution](<../_2423. Remove Letter To Equalize Frequency.md>)                                     | py          | Jun 17, 2024    |
 | 2451 | [Odd String Difference](<https://leetcode.com/problems/odd-string-difference>)                                                                                                     | Easy    |                | [solution](<../_2451. Odd String Difference.md>)                                                   | py          | Sep 25, 2024    |
