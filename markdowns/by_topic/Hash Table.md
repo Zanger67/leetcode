@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (115 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (116 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -109,6 +109,7 @@
 | 2405 | [Optimal Partition of String](<https://leetcode.com/problems/optimal-partition-of-string>)                                                                                         | Medium  |                | [solution](<../_2405. Optimal Partition of String.md>)                                             | py          | Jun 23, 2024    |
 | 2418 | [Sort the People](<https://leetcode.com/problems/sort-the-people>)                                                                                                                 | Easy    | Daily          | [solution](<../_2418. Sort the People.md>)                                                         | py          | Jul 22, 2024    |
 | 2423 | [Remove Letter To Equalize Frequency](<https://leetcode.com/problems/remove-letter-to-equalize-frequency>)                                                                         | Easy    |                | [solution](<../_2423. Remove Letter To Equalize Frequency.md>)                                     | py          | Jun 17, 2024    |
+| 2451 | [Odd String Difference](<https://leetcode.com/problems/odd-string-difference>)                                                                                                     | Easy    |                | [solution](<../_2451. Odd String Difference.md>)                                                   | py          | Sep 25, 2024    |
 | 2570 | [Merge Two 2D Arrays by Summing Values](<https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values>)                                                                     | Easy    |                | [solution](<../_2570. Merge Two 2D Arrays by Summing Values.md>)                                   | c           | Jun 10, 2024    |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](<https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions>)                                               | Medium  |                | [solution](<../_2610. Convert an Array Into a 2D Array With Conditions.md>)                        | py          | Jun 07, 2024    |
 | 2671 | [Frequency Tracker](<https://leetcode.com/problems/frequency-tracker>)                                                                                                             | Medium  |                | [solution](<../_2671. Frequency Tracker.md>)                                                       | py          | Jun 28, 2024    |

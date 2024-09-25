@@ -1,4 +1,4 @@
-# Easy Questions (159)
+# Easy Questions (160)
 
 *[Back to top](<../README.md>)*
 
@@ -129,6 +129,7 @@
 | 2395 | [Find Subarrays With Equal Sum](<https://leetcode.com/problems/find-subarrays-with-equal-sum>)                                                                     | Easy    |             | [solution](<_2395. Find Subarrays With Equal Sum.md>)                                   | py                           | May 31, 2024    |
 | 2418 | [Sort the People](<https://leetcode.com/problems/sort-the-people>)                                                                                                 | Easy    | Daily       | [solution](<_2418. Sort the People.md>)                                                 | py                           | Jul 22, 2024    |
 | 2423 | [Remove Letter To Equalize Frequency](<https://leetcode.com/problems/remove-letter-to-equalize-frequency>)                                                         | Easy    |             | [solution](<_2423. Remove Letter To Equalize Frequency.md>)                             | py                           | Jun 17, 2024    |
+| 2451 | [Odd String Difference](<https://leetcode.com/problems/odd-string-difference>)                                                                                     | Easy    |             | [solution](<_2451. Odd String Difference.md>)                                           | py                           | Sep 25, 2024    |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](<https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three>)             | Easy    |             | [solution](<_2455. Average Value of Even Numbers That Are Divisible by Three.md>)       | java                         | Jul 04, 2024    |
 | 2570 | [Merge Two 2D Arrays by Summing Values](<https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values>)                                                     | Easy    |             | [solution](<_2570. Merge Two 2D Arrays by Summing Values.md>)                           | c                            | Jun 10, 2024    |
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                                                                 | Easy    | Daily       | [solution](<_2582. Pass the Pillow.md>)                                                 | c, cpp, cs, java, js, py     | Jul 06, 2024    |
