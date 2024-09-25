@@ -1,4 +1,4 @@
-# Easy Questions (157)
+# Easy Questions (158)
 
 *[Back to top](<../README.md>)*
 
@@ -91,6 +91,7 @@
 | 1122 | [Relative Sort Array](<https://leetcode.com/problems/relative-sort-array>)                                                                                         | Easy    | Daily       | [solution](<_1122. Relative Sort Array.md>)                                             | java, py                     | Jun 11, 2024    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                         | Easy    |             | [solution](<_1160. Find Words That Can Be Formed by Characters.md>)                     | py                           | Sep 24, 2024    |
 | 1184 | [Distance Between Bus Stops](<https://leetcode.com/problems/distance-between-bus-stops>)                                                                           | Easy    |             | [solution](<_1184. Distance Between Bus Stops.md>)                                      | py                           | May 31, 2024    |
+| 1207 | [Unique Number of Occurrences](<https://leetcode.com/problems/unique-number-of-occurrences>)                                                                       | Easy    |             | [solution](<_1207. Unique Number of Occurrences.md>)                                    | py                           | Sep 25, 2024    |
 | 1252 | [Cells with Odd Values in a Matrix](<https://leetcode.com/problems/cells-with-odd-values-in-a-matrix>)                                                             | Easy    |             | [solution](<_1252. Cells with Odd Values in a Matrix.md>)                               | c                            | Jun 04, 2024    |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](<https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers>)                           | Easy    |             | [solution](<_1317. Convert Integer to the Sum of Two No-Zero Integers.md>)              | c                            | Jun 04, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                                             | Easy    |             | [solution](<_1351. Count Negative Numbers in a Sorted Matrix.md>)                       | java, py                     | Jun 01, 2024    |
