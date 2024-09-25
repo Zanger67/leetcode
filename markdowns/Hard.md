@@ -1,4 +1,4 @@
-# Hard Questions (32)
+# Hard Questions (33)
 
 *[Back to top](<../README.md>)*
 
@@ -18,6 +18,7 @@
 |  330 | [Patching Array](<https://leetcode.com/problems/patching-array>)                                                                                                   | Hard    | Daily     | [solution](<_330. Patching Array.md>)                                                   | py          | Jun 16, 2024    |
 |  381 | [Insert Delete GetRandom O(1) - Duplicates allowed](<https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed>)                                 | Hard    |           | [solution](<_381. Insert Delete GetRandom O(1) - Duplicates allowed.md>)                | java        | Jul 06, 2024    |
 |  431 | [Encode N-ary Tree to Binary Tree](<https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree>)                                                               | Hard    |           | [solution](<_431. Encode N-ary Tree to Binary Tree.md>)                                 | java, py    | Jun 28, 2024    |
+|  480 | [Sliding Window Median](<https://leetcode.com/problems/sliding-window-median>)                                                                                     | Hard    |           | [solution](<_480. Sliding Window Median.md>)                                            | py          | Sep 25, 2024    |
 |  502 | [IPO](<https://leetcode.com/problems/ipo>)                                                                                                                         | Hard    | Daily     | [solution](<_502. IPO.md>)                                                              | py          | Jun 15, 2024    |
 |  664 | [Strange Printer](<https://leetcode.com/problems/strange-printer>)                                                                                                 | Hard    | Daily     | [solution](<_664. Strange Printer.md>)                                                  | py          | Aug 21, 2024    |
 |  719 | [Find K-th Smallest Pair Distance](<https://leetcode.com/problems/find-k-th-smallest-pair-distance>)                                                               | Hard    | Daily     | [solution](<_719. Find K-th Smallest Pair Distance.md>)                                 | py          | Aug 14, 2024    |

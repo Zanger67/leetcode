@@ -4,9 +4,9 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (250 completed)
+- [Array](<by_topic/Array.md>) (251 completed)
 - [String](<by_topic/String.md>) (120 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (116 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (117 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (88 completed)
 - [Tree](<by_topic/Tree.md>) (85 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (77 completed)
@@ -24,14 +24,14 @@
 - [Design](<by_topic/Design.md>) (28 completed)
 - [Counting](<by_topic/Counting.md>) (25 completed)
 - [Binary Search](<by_topic/Binary Search.md>) (23 completed)
+- [Heap (Priority Queue)](<by_topic/Heap (Priority Queue).md>) (20 completed)
 - [Backtracking](<by_topic/Backtracking.md>) (19 completed)
-- [Heap (Priority Queue)](<by_topic/Heap (Priority Queue).md>) (19 completed)
 - [Database](<by_topic/Database.md>) (18 completed)
 - [Trie](<by_topic/Trie.md>) (18 completed)
 - [Recursion](<by_topic/Recursion.md>) (17 completed)
 - [Binary Search Tree](<by_topic/Binary Search Tree.md>) (16 completed)
+- [Sliding Window](<by_topic/Sliding Window.md>) (15 completed)
 - [Prefix Sum](<by_topic/Prefix Sum.md>) (14 completed)
-- [Sliding Window](<by_topic/Sliding Window.md>) (14 completed)
 - [Graph](<by_topic/Graph.md>) (12 completed)
 - [Queue](<by_topic/Queue.md>) (11 completed)
 - [Monotonic Stack](<by_topic/Monotonic Stack.md>) (10 completed)
