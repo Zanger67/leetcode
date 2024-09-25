@@ -4,9 +4,9 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (248 completed)
-- [String](<by_topic/String.md>) (118 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (114 completed)
+- [Array](<by_topic/Array.md>) (249 completed)
+- [String](<by_topic/String.md>) (119 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (115 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (88 completed)
 - [Tree](<by_topic/Tree.md>) (85 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (77 completed)
