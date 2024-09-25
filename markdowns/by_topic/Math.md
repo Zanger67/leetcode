@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (65 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (66 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -37,6 +37,7 @@
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                                                           | Medium  | N150           | [solution](<../_973. K Closest Points to Origin.md>)                                       | py                                          | Jun 29, 2024    |
 | 1006 | [Clumsy Factorial](<https://leetcode.com/problems/clumsy-factorial>)                                                                                               | Medium  |                | [solution](<../_1006. Clumsy Factorial.md>)                                                | c, py                                       | Jun 12, 2024    |
 | 1030 | [Matrix Cells in Distance Order](<https://leetcode.com/problems/matrix-cells-in-distance-order>)                                                                   | Easy    |                | [solution](<../_1030. Matrix Cells in Distance Order.md>)                                  | py                                          | Jun 04, 2024    |
+| 1071 | [Greatest Common Divisor of Strings](<https://leetcode.com/problems/greatest-common-divisor-of-strings>)                                                           | Easy    |                | [solution](<../_1071. Greatest Common Divisor of Strings.md>)                              | py                                          | Sep 25, 2024    |
 | 1140 | [Stone Game II](<https://leetcode.com/problems/stone-game-ii>)                                                                                                     | Medium  | Daily          | [solution](<../_1140. Stone Game II.md>)                                                   | py                                          | Aug 20, 2024    |
 | 1230 | [Toss Strange Coins](<https://leetcode.com/problems/toss-strange-coins>)                                                                                           | Medium  | Weekly Premium | [solution](<../_1230. Toss Strange Coins.md>)                                              | c, java, py                                 | Jul 29, 2024    |
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                   | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                  | py                                          | Jun 22, 2024    |

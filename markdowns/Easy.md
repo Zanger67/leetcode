@@ -1,4 +1,4 @@
-# Easy Questions (156)
+# Easy Questions (157)
 
 *[Back to top](<../README.md>)*
 
@@ -87,6 +87,7 @@
 | 1046 | [Last Stone Weight](<https://leetcode.com/problems/last-stone-weight>)                                                                                             | Easy    | N150        | [solution](<_1046. Last Stone Weight.md>)                                               | py                           | Jun 04, 2024    |
 | 1051 | [Height Checker](<https://leetcode.com/problems/height-checker>)                                                                                                   | Easy    | Daily       | [solution](<_1051. Height Checker.md>)                                                  | c, py                        | Jun 10, 2024    |
 | 1068 | [Product Sales Analysis I](<https://leetcode.com/problems/product-sales-analysis-i>)                                                                               | Easy    |             | [solution](<_1068. Product Sales Analysis I.md>)                                        | sql                          | May 22, 2024    |
+| 1071 | [Greatest Common Divisor of Strings](<https://leetcode.com/problems/greatest-common-divisor-of-strings>)                                                           | Easy    |             | [solution](<_1071. Greatest Common Divisor of Strings.md>)                              | py                           | Sep 25, 2024    |
 | 1122 | [Relative Sort Array](<https://leetcode.com/problems/relative-sort-array>)                                                                                         | Easy    | Daily       | [solution](<_1122. Relative Sort Array.md>)                                             | java, py                     | Jun 11, 2024    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                         | Easy    |             | [solution](<_1160. Find Words That Can Be Formed by Characters.md>)                     | py                           | Sep 24, 2024    |
 | 1184 | [Distance Between Bus Stops](<https://leetcode.com/problems/distance-between-bus-stops>)                                                                           | Easy    |             | [solution](<_1184. Distance Between Bus Stops.md>)                                      | py                           | May 31, 2024    |
