@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (23 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (24 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -17,6 +17,7 @@
 |  611 | [Valid Triangle Number](<https://leetcode.com/problems/valid-triangle-number>)                                                               | Medium  |                | [solution](<../_611. Valid Triangle Number.md>)                      | py          | May 22, 2024    |
 |  713 | [Subarray Product Less Than K](<https://leetcode.com/problems/subarray-product-less-than-k>)                                                 | Medium  |                | [solution](<../_713. Subarray Product Less Than K.md>)               | py          | Jul 01, 2024    |
 |  719 | [Find K-th Smallest Pair Distance](<https://leetcode.com/problems/find-k-th-smallest-pair-distance>)                                         | Hard    | Daily          | [solution](<../_719. Find K-th Smallest Pair Distance.md>)           | py          | Aug 14, 2024    |
+|  729 | [My Calendar I](<https://leetcode.com/problems/my-calendar-i>)                                                                               | Medium  | Daily          | [solution](<../_729. My Calendar I.md>)                              | py          | Sep 26, 2024    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                         | Easy    |                | [solution](<../_744. Find Smallest Letter Greater Than Target.md>)   | java, py    | Jun 01, 2024    |
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                     | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                 | py          | Jun 18, 2024    |
 | 1062 | [Longest Repeating Substring](<https://leetcode.com/problems/longest-repeating-substring>)                                                   | Medium  | Weekly Premium | [solution](<../_1062. Longest Repeating Substring.md>)               | py          | Aug 01, 2024    |

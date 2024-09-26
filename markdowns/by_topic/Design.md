@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (28 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (29 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -24,6 +24,7 @@
 |  676 | [Implement Magic Dictionary](<https://leetcode.com/problems/implement-magic-dictionary>)                                           | Medium  |             | [solution](<../_676. Implement Magic Dictionary.md>)                        | py          | Jun 27, 2024    |
 |  703 | [Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)                                 | Easy    | Daily, N150 | [solution](<../_703. Kth Largest Element in a Stream.md>)                   | py          | Jul 05, 2024    |
 |  707 | [Design Linked List](<https://leetcode.com/problems/design-linked-list>)                                                           | Medium  |             | [solution](<../_707. Design Linked List.md>)                                | java        | Jun 22, 2024    |
+|  729 | [My Calendar I](<https://leetcode.com/problems/my-calendar-i>)                                                                     | Medium  | Daily       | [solution](<../_729. My Calendar I.md>)                                     | py          | Sep 26, 2024    |
 |  895 | [Maximum Frequency Stack](<https://leetcode.com/problems/maximum-frequency-stack>)                                                 | Hard    |             | [solution](<../_895. Maximum Frequency Stack.md>)                           | java, py    | Jul 11, 2024    |
 |  919 | [Complete Binary Tree Inserter](<https://leetcode.com/problems/complete-binary-tree-inserter>)                                     | Medium  |             | [solution](<../_919. Complete Binary Tree Inserter.md>)                     | py          | Jul 05, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                           | Medium  |             | [solution](<../_1166. Design File System.md>)                               | py          | Jun 28, 2024    |
