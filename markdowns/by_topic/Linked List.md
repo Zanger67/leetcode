@@ -1,4 +1,4 @@
-# [Linked List](<https://leetcode.com/tag/Linked-List/>) (44 completed)
+# [Linked List](<https://leetcode.com/tag/Linked-List/>) (45 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -27,6 +27,7 @@
 |  426 | [Convert Binary Search Tree to Sorted Doubly Linked List](<https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list>)                           | Medium  |                | [solution](<../_426. Convert Binary Search Tree to Sorted Doubly Linked List.md>)               | py               | Jun 12, 2024    |
 |  430 | [Flatten a Multilevel Doubly Linked List](<https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list>)                                                           | Medium  |                | [solution](<../_430. Flatten a Multilevel Doubly Linked List.md>)                               | cpp, java        | Jun 27, 2024    |
 |  622 | [Design Circular Queue](<https://leetcode.com/problems/design-circular-queue>)                                                                                               | Medium  |                | [solution](<../_622. Design Circular Queue.md>)                                                 | py               | Jul 06, 2024    |
+|  641 | [Design Circular Deque](<https://leetcode.com/problems/design-circular-deque>)                                                                                               | Medium  |                | [solution](<../_641. Design Circular Deque.md>)                                                 | py               | Sep 30, 2024    |
 |  707 | [Design Linked List](<https://leetcode.com/problems/design-linked-list>)                                                                                                     | Medium  |                | [solution](<../_707. Design Linked List.md>)                                                    | java             | Jun 22, 2024    |
 |  708 | [Insert into a Sorted Circular Linked List](<https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list>)                                                       | Medium  |                | [solution](<../_708. Insert into a Sorted Circular Linked List.md>)                             | py               | Jun 22, 2024    |
 |  725 | [Split Linked List in Parts](<https://leetcode.com/problems/split-linked-list-in-parts>)                                                                                     | Medium  | Daily          | [solution](<../_725. Split Linked List in Parts.md>)                                            | py               | Jun 22, 2024    |
