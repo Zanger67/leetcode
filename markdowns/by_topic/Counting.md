@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (26 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (27 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  945 | [Minimum Increment to Make Array Unique](<https://leetcode.com/problems/minimum-increment-to-make-array-unique>)                                                       | Medium  | Daily          | [solution](<../_945. Minimum Increment to Make Array Unique.md>)                | py          | Jun 14, 2024    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                             | Easy    |                | [solution](<../_1160. Find Words That Can Be Formed by Characters.md>)          | py          | Sep 24, 2024    |
 | 1481 | [Least Number of Unique Integers after K Removals](<https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals>)                                   | Medium  |                | [solution](<../_1481. Least Number of Unique Integers after K Removals.md>)     | py          | Jun 15, 2024    |
+| 1497 | [Check If Array Pairs Are Divisible by k](<https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k>)                                                     | Medium  | Daily          | [solution](<../_1497. Check If Array Pairs Are Divisible by k.md>)              | py          | Oct 01, 2024    |
 | 1657 | [Determine if Two Strings Are Close](<https://leetcode.com/problems/determine-if-two-strings-are-close>)                                                               | Medium  |                | [solution](<../_1657. Determine if Two Strings Are Close.md>)                   | py          | Jul 13, 2024    |
 | 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                       | Easy    | Daily          | [solution](<../_1684. Count the Number of Consistent Strings.md>)               | c, py       | Jun 06, 2024    |
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                       | Easy    |                | [solution](<../_1748. Sum of Unique Elements.md>)                               | c           | Jun 06, 2024    |
