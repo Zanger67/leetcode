@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (118 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (119 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -62,6 +62,7 @@
 | 1002 | [Find Common Characters](<https://leetcode.com/problems/find-common-characters>)                                                                                                   | Easy    |                | [solution](<../_1002. Find Common Characters.md>)                                                  | py          | Jun 08, 2024    |
 | 1110 | [Delete Nodes And Return Forest](<https://leetcode.com/problems/delete-nodes-and-return-forest>)                                                                                   | Medium  | Daily          | [solution](<../_1110. Delete Nodes And Return Forest.md>)                                          | py          | Jul 17, 2024    |
 | 1122 | [Relative Sort Array](<https://leetcode.com/problems/relative-sort-array>)                                                                                                         | Easy    | Daily          | [solution](<../_1122. Relative Sort Array.md>)                                                     | java, py    | Jun 11, 2024    |
+| 1133 | [Largest Unique Number](<https://leetcode.com/problems/largest-unique-number>)                                                                                                     | Easy    | Weekly Premium | [solution](<../_1133. Largest Unique Number.md>)                                                   | py          | Oct 01, 2024    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                                         | Easy    |                | [solution](<../_1160. Find Words That Can Be Formed by Characters.md>)                             | py          | Sep 24, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                                                                           | Medium  |                | [solution](<../_1166. Design File System.md>)                                                      | py          | Jun 28, 2024    |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](<https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list>)                                           | Medium  |                | [solution](<../_1171. Remove Zero Sum Consecutive Nodes from Linked List.md>)                      | py          | Jun 15, 2024    |
