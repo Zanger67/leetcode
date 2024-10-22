@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (71 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (72 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -68,6 +68,7 @@
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                                 | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                                 | py               | Jun 01, 2024    |
 | 2418 | [Sort the People](<https://leetcode.com/problems/sort-the-people>)                                                                                                           | Easy    | Daily          | [solution](<../_2418. Sort the People.md>)                                                      | py               | Jul 22, 2024    |
 | 2545 | [Sort the Students by Their Kth Score](<https://leetcode.com/problems/sort-the-students-by-their-kth-score>)                                                                 | Medium  |                | [solution](<../_2545. Sort the Students by Their Kth Score.md>)                                 | java, py         | Jun 24, 2024    |
+| 2583 | [Kth Largest Sum in a Binary Tree](<https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree>)                                                                         | Medium  | Daily          | [solution](<../_2583. Kth Largest Sum in a Binary Tree.md>)                                     | py               | Oct 22, 2024    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                           | Medium  |                | [solution](<../_2679. Sum in a Matrix.md>)                                                      | java             | May 22, 2024    |
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                                                         | Hard    | Daily          | [solution](<../_2751. Robot Collisions.md>)                                                     | py               | Jul 13, 2024    |
 | 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                         | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                             | py               | Aug 06, 2024    |

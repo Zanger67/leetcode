@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (56 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (57 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -61,4 +61,5 @@
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                                             | Hard    |                | [solution](<../_2258. Escape the Spreading Fire.md>)                                       | py          | Jun 15, 2024    |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](<https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected>)                                     | Medium  |                | [solution](<../_2385. Amount of Time for Binary Tree to Be Infected.md>)                   | py          | Jun 26, 2024    |
 | 2415 | [Reverse Odd Levels of Binary Tree](<https://leetcode.com/problems/reverse-odd-levels-of-binary-tree>)                                                             | Medium  |                | [solution](<../_2415. Reverse Odd Levels of Binary Tree.md>)                               | py          | Jun 23, 2024    |
+| 2583 | [Kth Largest Sum in a Binary Tree](<https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree>)                                                               | Medium  | Daily          | [solution](<../_2583. Kth Largest Sum in a Binary Tree.md>)                                | py          | Oct 22, 2024    |
 | 3157 | [Find the Level of Tree with Minimum Sum](<https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum>)                                                 | Medium  |                | [solution](<../_3157. Find the Level of Tree with Minimum Sum.md>)                         | py          | Jul 05, 2024    |

@@ -1,4 +1,4 @@
-# [Tree](<https://leetcode.com/tag/Tree/>) (85 completed)
+# [Tree](<https://leetcode.com/tag/Tree/>) (86 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -89,5 +89,6 @@
 | 2265 | [Count Nodes Equal to Average of Subtree](<https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree>)                                       | Medium  |                | [solution](<../_2265. Count Nodes Equal to Average of Subtree.md>)                    | js, py       | Jun 07, 2024    |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](<https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected>)                           | Medium  |                | [solution](<../_2385. Amount of Time for Binary Tree to Be Infected.md>)              | py           | Jun 26, 2024    |
 | 2415 | [Reverse Odd Levels of Binary Tree](<https://leetcode.com/problems/reverse-odd-levels-of-binary-tree>)                                                   | Medium  |                | [solution](<../_2415. Reverse Odd Levels of Binary Tree.md>)                          | py           | Jun 23, 2024    |
+| 2583 | [Kth Largest Sum in a Binary Tree](<https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree>)                                                     | Medium  | Daily          | [solution](<../_2583. Kth Largest Sum in a Binary Tree.md>)                           | py           | Oct 22, 2024    |
 | 3157 | [Find the Level of Tree with Minimum Sum](<https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum>)                                       | Medium  |                | [solution](<../_3157. Find the Level of Tree with Minimum Sum.md>)                    | py           | Jul 05, 2024    |
 | 3249 | [Count the Number of Good Nodes](<https://leetcode.com/problems/count-the-number-of-good-nodes>)                                                         | Medium  |                | [solution](<../_3249. Count the Number of Good Nodes.md>)                             | py           | Aug 12, 2024    |
