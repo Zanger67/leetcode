@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (25 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (26 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  729 | [My Calendar I](<https://leetcode.com/problems/my-calendar-i>)                                                                               | Medium  | Daily          | [solution](<../_729. My Calendar I.md>)                              | py          | Sep 26, 2024    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                         | Easy    |                | [solution](<../_744. Find Smallest Letter Greater Than Target.md>)   | java, py    | Jun 01, 2024    |
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                     | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                 | py          | Jun 18, 2024    |
+|  981 | [Time Based Key-Value Store](<https://leetcode.com/problems/time-based-key-value-store>)                                                     | Medium  | N150           | [solution](<../_981. Time Based Key-Value Store.md>)                 | py          | Oct 24, 2024    |
 | 1062 | [Longest Repeating Substring](<https://leetcode.com/problems/longest-repeating-substring>)                                                   | Medium  | Weekly Premium | [solution](<../_1062. Longest Repeating Substring.md>)               | py          | Aug 01, 2024    |
 | 1268 | [Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)                                                       | Medium  |                | [solution](<../_1268. Search Suggestions System.md>)                 | py          | Jun 29, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                       | Easy    |                | [solution](<../_1351. Count Negative Numbers in a Sorted Matrix.md>) | java, py    | Jun 01, 2024    |

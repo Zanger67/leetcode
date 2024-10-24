@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (119 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (120 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -58,6 +58,7 @@
 |  930 | [Binary Subarrays With Sum](<https://leetcode.com/problems/binary-subarrays-with-sum>)                                                                                             | Medium  |                | [solution](<../_930. Binary Subarrays With Sum.md>)                                                | py          | Jun 22, 2024    |
 |  959 | [Regions Cut By Slashes](<https://leetcode.com/problems/regions-cut-by-slashes>)                                                                                                   | Medium  | Daily          | [solution](<../_959. Regions Cut By Slashes.md>)                                                   | py          | Aug 10, 2024    |
 |  974 | [Subarray Sums Divisible by K](<https://leetcode.com/problems/subarray-sums-divisible-by-k>)                                                                                       | Medium  | Daily          | [solution](<../_974. Subarray Sums Divisible by K.md>)                                             | java, py    | Jun 09, 2024    |
+|  981 | [Time Based Key-Value Store](<https://leetcode.com/problems/time-based-key-value-store>)                                                                                           | Medium  | N150           | [solution](<../_981. Time Based Key-Value Store.md>)                                               | py          | Oct 24, 2024    |
 |  987 | [Vertical Order Traversal of a Binary Tree](<https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>)                                                             | Hard    |                | [solution](<../_987. Vertical Order Traversal of a Binary Tree.md>)                                | py          | Jun 12, 2024    |
 | 1002 | [Find Common Characters](<https://leetcode.com/problems/find-common-characters>)                                                                                                   | Easy    |                | [solution](<../_1002. Find Common Characters.md>)                                                  | py          | Jun 08, 2024    |
 | 1110 | [Delete Nodes And Return Forest](<https://leetcode.com/problems/delete-nodes-and-return-forest>)                                                                                   | Medium  | Daily          | [solution](<../_1110. Delete Nodes And Return Forest.md>)                                          | py          | Jul 17, 2024    |
