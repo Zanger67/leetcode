@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (30 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (31 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -16,6 +16,7 @@
 |  341 | [Flatten Nested List Iterator](<https://leetcode.com/problems/flatten-nested-list-iterator>)                                       | Medium  |                | [solution](<../_341. Flatten Nested List Iterator.md>)                      | java        | Jul 02, 2024    |
 |  348 | [Design Tic-Tac-Toe](<https://leetcode.com/problems/design-tic-tac-toe>)                                                           | Medium  |                | [solution](<../_348. Design Tic-Tac-Toe.md>)                                | py          | Jul 05, 2024    |
 |  353 | [Design Snake Game](<https://leetcode.com/problems/design-snake-game>)                                                             | Medium  |                | [solution](<../_353. Design Snake Game.md>)                                 | py          | Jun 28, 2024    |
+|  362 | [Design Hit Counter](<https://leetcode.com/problems/design-hit-counter>)                                                           | Medium  |                | [solution](<../_362. Design Hit Counter.md>)                                | py          | Oct 24, 2024    |
 |  380 | [Insert Delete GetRandom O(1)](<https://leetcode.com/problems/insert-delete-getrandom-o1>)                                         | Medium  |                | [solution](<../_380. Insert Delete GetRandom O(1).md>)                      | java        | Jul 06, 2024    |
 |  381 | [Insert Delete GetRandom O(1) - Duplicates allowed](<https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed>) | Hard    |                | [solution](<../_381. Insert Delete GetRandom O(1) - Duplicates allowed.md>) | java        | Jul 06, 2024    |
 |  431 | [Encode N-ary Tree to Binary Tree](<https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree>)                               | Hard    |                | [solution](<../_431. Encode N-ary Tree to Binary Tree.md>)                  | java, py    | Jun 28, 2024    |

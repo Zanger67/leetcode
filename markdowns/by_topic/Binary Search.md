@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (24 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (25 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -11,6 +11,7 @@
 |  167 | [Two Sum II - Input Array Is Sorted](<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted>)                                       | Medium  | N150           | [solution](<../_167. Two Sum II - Input Array Is Sorted.md>)         | py          | Jun 14, 2024    |
 |  287 | [Find the Duplicate Number](<https://leetcode.com/problems/find-the-duplicate-number>)                                                       | Medium  | N150           | [solution](<../_287. Find the Duplicate Number.md>)                  | c           | Jun 26, 2024    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                               | Easy    | Daily          | [solution](<../_350. Intersection of Two Arrays II.md>)              | java, py    | Jul 02, 2024    |
+|  362 | [Design Hit Counter](<https://leetcode.com/problems/design-hit-counter>)                                                                     | Medium  |                | [solution](<../_362. Design Hit Counter.md>)                         | py          | Oct 24, 2024    |
 |  374 | [Guess Number Higher or Lower](<https://leetcode.com/problems/guess-number-higher-or-lower>)                                                 | Easy    |                | [solution](<../_374. Guess Number Higher or Lower.md>)               | java, py    | Jun 02, 2024    |
 |  475 | [Heaters](<https://leetcode.com/problems/heaters>)                                                                                           | Medium  |                | [solution](<../_475. Heaters.md>)                                    | py          | Jun 07, 2024    |
 |  540 | [Single Element in a Sorted Array](<https://leetcode.com/problems/single-element-in-a-sorted-array>)                                         | Medium  |                | [solution](<../_540. Single Element in a Sorted Array.md>)           | py          | Jul 05, 2024    |

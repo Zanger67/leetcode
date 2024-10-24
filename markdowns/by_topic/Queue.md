@@ -1,4 +1,4 @@
-# [Queue](<https://leetcode.com/tag/Queue/>) (12 completed)
+# [Queue](<https://leetcode.com/tag/Queue/>) (13 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 |  239 | [Sliding Window Maximum](<https://leetcode.com/problems/sliding-window-maximum>)                                                                                                         | Hard    | N150   | [solution](<../_239. Sliding Window Maximum.md>)                                                      | py                   | Jun 04, 2024    |
 |  341 | [Flatten Nested List Iterator](<https://leetcode.com/problems/flatten-nested-list-iterator>)                                                                                             | Medium  |        | [solution](<../_341. Flatten Nested List Iterator.md>)                                                | java                 | Jul 02, 2024    |
 |  353 | [Design Snake Game](<https://leetcode.com/problems/design-snake-game>)                                                                                                                   | Medium  |        | [solution](<../_353. Design Snake Game.md>)                                                           | py                   | Jun 28, 2024    |
+|  362 | [Design Hit Counter](<https://leetcode.com/problems/design-hit-counter>)                                                                                                                 | Medium  |        | [solution](<../_362. Design Hit Counter.md>)                                                          | py                   | Oct 24, 2024    |
 |  622 | [Design Circular Queue](<https://leetcode.com/problems/design-circular-queue>)                                                                                                           | Medium  |        | [solution](<../_622. Design Circular Queue.md>)                                                       | py                   | Jul 06, 2024    |
 |  641 | [Design Circular Deque](<https://leetcode.com/problems/design-circular-deque>)                                                                                                           | Medium  |        | [solution](<../_641. Design Circular Deque.md>)                                                       | py                   | Sep 30, 2024    |
 |  950 | [Reveal Cards In Increasing Order](<https://leetcode.com/problems/reveal-cards-in-increasing-order>)                                                                                     | Medium  |        | [solution](<../_950. Reveal Cards In Increasing Order.md>)                                            | py                   | Jun 12, 2024    |
