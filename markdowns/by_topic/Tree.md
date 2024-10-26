@@ -1,4 +1,4 @@
-# [Tree](<https://leetcode.com/tag/Tree/>) (88 completed)
+# [Tree](<https://leetcode.com/tag/Tree/>) (89 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -72,6 +72,7 @@
 | 1325 | [Delete Leaves With a Given Value](<https://leetcode.com/problems/delete-leaves-with-a-given-value>)                                                     | Medium  |                | [solution](<../_1325. Delete Leaves With a Given Value.md>)                           | py           | Aug 22, 2024    |
 | 1367 | [Linked List in Binary Tree](<https://leetcode.com/problems/linked-list-in-binary-tree>)                                                                 | Medium  | Daily          | [solution](<../_1367. Linked List in Binary Tree.md>)                                 | py           | Sep 07, 2024    |
 | 1372 | [Longest ZigZag Path in a Binary Tree](<https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree>)                                             | Medium  |                | [solution](<../_1372. Longest ZigZag Path in a Binary Tree.md>)                       | py           | Jul 05, 2024    |
+| 1376 | [Time Needed to Inform All Employees](<https://leetcode.com/problems/time-needed-to-inform-all-employees>)                                               | Medium  |                | [solution](<../_1376. Time Needed to Inform All Employees.md>)                        | py           | Oct 26, 2024    |
 | 1382 | [Balance a Binary Search Tree](<https://leetcode.com/problems/balance-a-binary-search-tree>)                                                             | Medium  |                | [solution](<../_1382. Balance a Binary Search Tree.md>)                               | py           | Jun 29, 2024    |
 | 1448 | [Count Good Nodes in Binary Tree](<https://leetcode.com/problems/count-good-nodes-in-binary-tree>)                                                       | Medium  | N150           | [solution](<../_1448. Count Good Nodes in Binary Tree.md>)                            | java         | Jul 04, 2024    |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](<https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree>)                                   | Medium  |                | [solution](<../_1457. Pseudo-Palindromic Paths in a Binary Tree.md>)                  | py           | Jul 05, 2024    |

@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (58 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (59 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -45,6 +45,7 @@
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>) | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>) | py          | Jun 09, 2024    |
 | 1302 | [Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)                                                                                           | Medium  |                | [solution](<../_1302. Deepest Leaves Sum.md>)                                              | c, js, py   | Jun 07, 2024    |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](<https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent>)                                             | Medium  |                | [solution](<../_1315. Sum of Nodes with Even-Valued Grandparent.md>)                       | py          | Jun 12, 2024    |
+| 1376 | [Time Needed to Inform All Employees](<https://leetcode.com/problems/time-needed-to-inform-all-employees>)                                                         | Medium  |                | [solution](<../_1376. Time Needed to Inform All Employees.md>)                             | py          | Oct 26, 2024    |
 | 1448 | [Count Good Nodes in Binary Tree](<https://leetcode.com/problems/count-good-nodes-in-binary-tree>)                                                                 | Medium  | N150           | [solution](<../_1448. Count Good Nodes in Binary Tree.md>)                                 | java        | Jul 04, 2024    |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](<https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree>)                                             | Medium  |                | [solution](<../_1457. Pseudo-Palindromic Paths in a Binary Tree.md>)                       | py          | Jul 05, 2024    |
 | 1490 | [Clone N-ary Tree](<https://leetcode.com/problems/clone-n-ary-tree>)                                                                                               | Medium  |                | [solution](<../_1490. Clone N-ary Tree.md>)                                                | java, py    | Jun 02, 2024    |
