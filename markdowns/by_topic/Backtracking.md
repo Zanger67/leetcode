@@ -1,4 +1,4 @@
-# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (19 completed)
+# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (20 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -25,3 +25,4 @@
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>) | Medium  |                | [solution](<../_1239. Maximum Length of a Concatenated String with Unique Characters.md>) | py          | Jun 29, 2024    |
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                                                   | Hard    |                | [solution](<../_1255. Maximum Score Words Formed by Letters.md>)                          | py          | Jun 15, 2024    |
 | 1980 | [Find Unique Binary String](<https://leetcode.com/problems/find-unique-binary-string>)                                                                           | Medium  |                | [solution](<../_1980. Find Unique Binary String.md>)                                      | c, py       | Jun 27, 2024    |
+| 2664 | [The Knight’s Tour](<https://leetcode.com/problems/the-knights-tour>)                                                                                            | Medium  | Weekly Premium | [solution](<../_2664. The Knight’s Tour.md>)                                              | py          | Oct 26, 2024    |
