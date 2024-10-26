@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (32 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (33 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -32,6 +32,7 @@
 |  981 | [Time Based Key-Value Store](<https://leetcode.com/problems/time-based-key-value-store>)                                           | Medium  | N150           | [solution](<../_981. Time Based Key-Value Store.md>)                        | py          | Oct 24, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                           | Medium  |                | [solution](<../_1166. Design File System.md>)                               | py          | Jun 28, 2024    |
 | 1381 | [Design a Stack With Increment Operation](<https://leetcode.com/problems/design-a-stack-with-increment-operation>)                 | Medium  | Daily          | [solution](<../_1381. Design a Stack With Increment Operation.md>)          | py          | Jul 06, 2024    |
+| 1429 | [First Unique Number](<https://leetcode.com/problems/first-unique-number>)                                                         | Medium  |                | [solution](<../_1429. First Unique Number.md>)                              | py          | Oct 26, 2024    |
 | 1472 | [Design Browser History](<https://leetcode.com/problems/design-browser-history>)                                                   | Medium  |                | [solution](<../_1472. Design Browser History.md>)                           | py          | Jul 06, 2024    |
 | 1570 | [Dot Product of Two Sparse Vectors](<https://leetcode.com/problems/dot-product-of-two-sparse-vectors>)                             | Medium  |                | [solution](<../_1570. Dot Product of Two Sparse Vectors.md>)                | c, java, py | Jun 06, 2024    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                   | Medium  | Weekly Premium | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                  | py          | Jun 27, 2024    |

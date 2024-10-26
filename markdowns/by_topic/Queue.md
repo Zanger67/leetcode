@@ -1,4 +1,4 @@
-# [Queue](<https://leetcode.com/tag/Queue/>) (13 completed)
+# [Queue](<https://leetcode.com/tag/Queue/>) (14 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -14,6 +14,7 @@
 |  641 | [Design Circular Deque](<https://leetcode.com/problems/design-circular-deque>)                                                                                                           | Medium  |        | [solution](<../_641. Design Circular Deque.md>)                                                       | py                   | Sep 30, 2024    |
 |  950 | [Reveal Cards In Increasing Order](<https://leetcode.com/problems/reveal-cards-in-increasing-order>)                                                                                     | Medium  |        | [solution](<../_950. Reveal Cards In Increasing Order.md>)                                            | py                   | Jun 12, 2024    |
 |  995 | [Minimum Number of K Consecutive Bit Flips](<https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips>)                                                                   | Hard    | Daily  | [solution](<../_995. Minimum Number of K Consecutive Bit Flips.md>)                                   | c, py                | Jun 24, 2024    |
+| 1429 | [First Unique Number](<https://leetcode.com/problems/first-unique-number>)                                                                                                               | Medium  |        | [solution](<../_1429. First Unique Number.md>)                                                        | py                   | Oct 26, 2024    |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](<https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit>) | Medium  | Daily  | [solution](<../_1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md>) | java                 | Jun 24, 2024    |
 | 1696 | [Jump Game VI](<https://leetcode.com/problems/jump-game-vi>)                                                                                                                             | Medium  |        | [solution](<../_1696. Jump Game VI.md>)                                                               | java, py             | Jul 03, 2024    |
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                                                         | Easy    |        | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)                                     | py                   | Jun 02, 2024    |

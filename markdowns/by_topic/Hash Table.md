@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (120 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (121 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -73,6 +73,7 @@
 | 1282 | [Group the People Given the Group Size They Belong To](<https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to>)                                       | Medium  |                | [solution](<../_1282. Group the People Given the Group Size They Belong To.md>)                    | py          | Jun 28, 2024    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>)                 | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>)         | py          | Jun 09, 2024    |
 | 1426 | [Counting Elements](<https://leetcode.com/problems/counting-elements>)                                                                                                             | Easy    |                | [solution](<../_1426. Counting Elements.md>)                                                       | c           | Jun 04, 2024    |
+| 1429 | [First Unique Number](<https://leetcode.com/problems/first-unique-number>)                                                                                                         | Medium  |                | [solution](<../_1429. First Unique Number.md>)                                                     | py          | Oct 26, 2024    |
 | 1436 | [Destination City](<https://leetcode.com/problems/destination-city>)                                                                                                               | Easy    |                | [solution](<../_1436. Destination City.md>)                                                        | java        | Jun 01, 2024    |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](<https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor>)                                       | Medium  |                | [solution](<../_1442. Count Triplets That Can Form Two Arrays of Equal XOR.md>)                    | py          | Jun 08, 2024    |
 | 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](<https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list>) | Medium  |                | [solution](<../_1452. People Whose List of Favorite Companies Is Not a Subset of Another List.md>) | py          | Sep 25, 2024    |
