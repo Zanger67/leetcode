@@ -4,15 +4,15 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (259 completed)
+- [Array](<by_topic/Array.md>) (260 completed)
 - [String](<by_topic/String.md>) (122 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (120 completed)
-- [Depth-First Search](<by_topic/Depth-First Search.md>) (89 completed)
-- [Tree](<by_topic/Tree.md>) (87 completed)
-- [Binary Tree](<by_topic/Binary Tree.md>) (79 completed)
+- [Depth-First Search](<by_topic/Depth-First Search.md>) (90 completed)
+- [Tree](<by_topic/Tree.md>) (88 completed)
+- [Binary Tree](<by_topic/Binary Tree.md>) (80 completed)
 - [Sorting](<by_topic/Sorting.md>) (72 completed)
 - [Math](<by_topic/Math.md>) (67 completed)
-- [Breadth-First Search](<by_topic/Breadth-First Search.md>) (57 completed)
+- [Breadth-First Search](<by_topic/Breadth-First Search.md>) (58 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (54 completed)
 - [Stack](<by_topic/Stack.md>) (51 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (45 completed)
