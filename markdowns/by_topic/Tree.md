@@ -1,4 +1,4 @@
-# [Tree](<https://leetcode.com/tag/Tree/>) (89 completed)
+# [Tree](<https://leetcode.com/tag/Tree/>) (90 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -45,6 +45,7 @@
 |  637 | [Average of Levels in Binary Tree](<https://leetcode.com/problems/average-of-levels-in-binary-tree>)                                                     | Easy    |                | [solution](<../_637. Average of Levels in Binary Tree.md>)                            | py           | Jul 04, 2024    |
 |  653 | [Two Sum IV - Input is a BST](<https://leetcode.com/problems/two-sum-iv-input-is-a-bst>)                                                                 | Easy    |                | [solution](<../_653. Two Sum IV - Input is a BST.md>)                                 | py           | Jul 31, 2024    |
 |  654 | [Maximum Binary Tree](<https://leetcode.com/problems/maximum-binary-tree>)                                                                               | Medium  |                | [solution](<../_654. Maximum Binary Tree.md>)                                         | py           | Jun 12, 2024    |
+|  662 | [Maximum Width of Binary Tree](<https://leetcode.com/problems/maximum-width-of-binary-tree>)                                                             | Medium  |                | [solution](<../_662. Maximum Width of Binary Tree.md>)                                | py           | Oct 28, 2024    |
 |  663 | [Equal Tree Partition](<https://leetcode.com/problems/equal-tree-partition>)                                                                             | Medium  |                | [solution](<../_663. Equal Tree Partition.md>)                                        | py           | Jun 17, 2024    |
 |  666 | [Path Sum IV](<https://leetcode.com/problems/path-sum-iv>)                                                                                               | Medium  | Weekly Premium | [solution](<../_666. Path Sum IV.md>)                                                 | py           | Jul 03, 2024    |
 |  687 | [Longest Univalue Path](<https://leetcode.com/problems/longest-univalue-path>)                                                                           | Medium  |                | [solution](<../_687. Longest Univalue Path.md>)                                       | py           | Jul 03, 2024    |
