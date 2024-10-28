@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (26 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (27 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -31,4 +31,5 @@
 | 1885 | [Count Pairs in Two Arrays](<https://leetcode.com/problems/count-pairs-in-two-arrays>)                                                       | Medium  |                | [solution](<../_1885. Count Pairs in Two Arrays.md>)                 | py          | Jun 08, 2024    |
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                       | Hard    |                | [solution](<../_2258. Escape the Spreading Fire.md>)                 | py          | Jun 15, 2024    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                 | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)      | py          | Jun 01, 2024    |
+| 2501 | [Longest Square Streak in an Array](<https://leetcode.com/problems/longest-square-streak-in-an-array>)                                       | Medium  | Daily          | [solution](<../_2501. Longest Square Streak in an Array.md>)         | py          | Oct 28, 2024    |
 | 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>) | Medium  | Contest        | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)   | py          | Jul 07, 2024    |
