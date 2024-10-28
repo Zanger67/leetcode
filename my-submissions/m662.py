@@ -6,11 +6,10 @@
 #         self.right = right
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-
-        def bfs(curr: Optional[TreeNode], 
-                lvl_maxes: List[int], 
-                lvl_mins: List[int], 
-                curr_indx: int = 0, 
+        def dfs(curr: Optional[TreeNode],
+                lvl_maxes: List[int],
+                lvl_mins: List[int],
+                curr_indx: int = 0,
                 depth: int = 0) -> None :
             if not curr :
                 return
@@ -25,10 +24,10 @@ class Solution:
             elif curr_indx < lvl_mins[depth] :
                 lvl_maxes[depth] = curr_indx
             
-            bfs(curr.left, lvl_maxes, lvl_mins, curr_indx * 2, depth + 1)
-            bfs(curr.right, lvl_maxes, lvl_mins, curr_indx * 2 + 1, depth + 1)
+            dfs(curr.left, lvl_maxes, lvl_mins, curr_indx * 2, depth + 1)
+            dfs(curr.right, lvl_maxes, lvl_mins, curr_indx * 2 + 1, depth + 1)
         
         lvl_maxes = []
         lvl_mins = []
-        bfs(root, lvl_maxes, lvl_mins, 0, 0)
+        dfs(root, lvl_maxes, lvl_mins, 0, 0)
         return max([maxx - minn + 1 for maxx, minn in zip(lvl_maxes, lvl_mins)])
