@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (33 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (34 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -37,5 +37,6 @@
 | 1570 | [Dot Product of Two Sparse Vectors](<https://leetcode.com/problems/dot-product-of-two-sparse-vectors>)                             | Medium  |                | [solution](<../_1570. Dot Product of Two Sparse Vectors.md>)                | c, java, py | Jun 06, 2024    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                   | Medium  | Weekly Premium | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                  | py          | Jun 27, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                   | Medium  | N150           | [solution](<../_2013. Detect Squares.md>)                                   | py          | Jun 28, 2024    |
+| 2349 | [Design a Number Container System](<https://leetcode.com/problems/design-a-number-container-system>)                               | Medium  |                | [solution](<../_2349. Design a Number Container System.md>)                 | py          | Oct 28, 2024    |
 | 2671 | [Frequency Tracker](<https://leetcode.com/problems/frequency-tracker>)                                                             | Medium  |                | [solution](<../_2671. Frequency Tracker.md>)                                | py          | Jun 28, 2024    |
 | 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                         | Easy    |                | [solution](<../_3242. Design Neighbor Sum Service.md>)                      | py          | Aug 04, 2024    |
