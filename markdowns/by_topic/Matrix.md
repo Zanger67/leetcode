@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (45 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (46 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -46,6 +46,7 @@
 | 2545 | [Sort the Students by Their Kth Score](<https://leetcode.com/problems/sort-the-students-by-their-kth-score>)                                                                         | Medium  |                | [solution](<../_2545. Sort the Students by Their Kth Score.md>)                            | java, py    | Jun 24, 2024    |
 | 2664 | [The Knight’s Tour](<https://leetcode.com/problems/the-knights-tour>)                                                                                                                | Medium  | Weekly Premium | [solution](<../_2664. The Knight’s Tour.md>)                                               | py          | Oct 26, 2024    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                                   | Medium  |                | [solution](<../_2679. Sum in a Matrix.md>)                                                 | java        | May 22, 2024    |
+| 2684 | [Maximum Number of Moves in a Grid](<https://leetcode.com/problems/maximum-number-of-moves-in-a-grid>)                                                                               | Medium  | Daily          | [solution](<../_2684. Maximum Number of Moves in a Grid.md>)                               | py          | Oct 29, 2024    |
 | 3195 | Weekly Contest 403 - q2 - [Find the Minimum Area to Cover All Ones I](<https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i>)                                     | Medium  | Contest        | [solution](<../_3195. Find the Minimum Area to Cover All Ones I.md>)                       | py          | Jul 07, 2024    |
 | 3212 | Weekly Contest 405 - q3 - [Count Submatrices With Equal Frequency of X and Y](<https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y>)                     | Medium  | Contest        | [solution](<../_3212. Count Submatrices With Equal Frequency of X and Y.md>)               | py          | Jul 07, 2024    |
 | 3239 | Biweekly Contest 136 - q2 - [Minimum Number of Flips to Make Binary Grid Palindromic I](<https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i>)   | Medium  | Contest        | [solution](<../_3239. Minimum Number of Flips to Make Binary Grid Palindromic I.md>)       | py          | Aug 03, 2024    |
