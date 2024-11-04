@@ -1,4 +1,4 @@
-# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (15 completed)
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (16 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -18,6 +18,7 @@
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](<https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor>)                       | Medium  |                | [solution](<../_1442. Count Triplets That Can Form Two Arrays of Equal XOR.md>)            | py          | Jun 08, 2024    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)              | c, py       | Jun 10, 2024    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                       | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                            | py          | Jun 01, 2024    |
+| 2955 | [Number of Same-End Substrings](<https://leetcode.com/problems/number-of-same-end-substrings>)                                                                     | Medium  | Weekly Premium | [solution](<../_2955. Number of Same-End Substrings.md>)                                   | py          | Nov 04, 2024    |
 | 3179 | Weekly Contest 401 - q2 - [Find the N-th Value After K Seconds](<https://leetcode.com/problems/find-the-n-th-value-after-k-seconds>)                               | Medium  | Contest        | [solution](<../_3179. Find the N-th Value After K Seconds.md>)                             | py          | Jul 07, 2024    |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i>) | Medium  |                | [solution](<../_3191. Minimum Operations to Make Binary Array Elements Equal to One I.md>) | java        | Jun 22, 2024    |
 | 3212 | Weekly Contest 405 - q3 - [Count Submatrices With Equal Frequency of X and Y](<https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y>)   | Medium  | Contest        | [solution](<../_3212. Count Submatrices With Equal Frequency of X and Y.md>)               | py          | Jul 07, 2024    |
