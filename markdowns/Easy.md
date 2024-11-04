@@ -1,4 +1,4 @@
-# Easy Questions (162)
+# Easy Questions (163)
 
 *[Back to top](<../README.md>)*
 
@@ -122,6 +122,7 @@
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](<https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing>)               | Easy    |                | [solution](<_1909. Remove One Element to Make the Array Strictly Increasing.md>)        | c                            | Jun 17, 2024    |
 | 1929 | [Concatenation of Array](<https://leetcode.com/problems/concatenation-of-array>)                                                                                   | Easy    |                | [solution](<_1929. Concatenation of Array.md>)                                          | c, java, py                  | Jun 03, 2024    |
 | 1945 | [Sum of Digits of String After Convert](<https://leetcode.com/problems/sum-of-digits-of-string-after-convert>)                                                     | Easy    | Daily          | [solution](<_1945. Sum of Digits of String After Convert.md>)                           | py                           | Sep 03, 2024    |
+| 1957 | [Delete Characters to Make Fancy String](<https://leetcode.com/problems/delete-characters-to-make-fancy-string>)                                                   | Easy    |                | [solution](<_1957. Delete Characters to Make Fancy String.md>)                          | py                           | Nov 04, 2024    |
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>)                         | Easy    |                | [solution](<_2011. Final Value of Variable After Performing Operations.md>)             | c                            | Jun 03, 2024    |
 | 2037 | [Minimum Number of Moves to Seat Everyone](<https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone>)                                               | Easy    | Daily          | [solution](<_2037. Minimum Number of Moves to Seat Everyone.md>)                        | c, py                        | Jun 03, 2024    |
 | 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                 | Easy    | Daily          | [solution](<_2053. Kth Distinct String in an Array.md>)                                 | py                           | Aug 05, 2024    |
