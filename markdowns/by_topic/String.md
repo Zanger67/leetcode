@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (122 completed)
+# [String](<https://leetcode.com/tag/String/>) (123 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -120,6 +120,7 @@
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](<https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint>)           | Medium  |                | [solution](<../_3106. Lexicographically Smallest String After Operations With Constraint.md>)      | py          | Jun 29, 2024    |
 | 3110 | [Score of a String](<https://leetcode.com/problems/score-of-a-string>)                                                                                                             | Easy    | Daily          | [solution](<../_3110. Score of a String.md>)                                                       | java, py    | Jun 01, 2024    |
 | 3136 | [Valid Word](<https://leetcode.com/problems/valid-word>)                                                                                                                           | Easy    |                | [solution](<../_3136. Valid Word.md>)                                                              | c, py       | Jul 03, 2024    |
+| 3163 | [String Compression III](<https://leetcode.com/problems/string-compression-iii>)                                                                                                   | Medium  | Daily          | [solution](<../_3163. String Compression III.md>)                                                  | py          | Nov 04, 2024    |
 | 3168 | Weekly Contest 400 - q1 - [Minimum Number of Chairs in a Waiting Room](<https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room>)                                 | Easy    | Contest        | [solution](<../_3168. Minimum Number of Chairs in a Waiting Room.md>)                              | py          | Jul 07, 2024    |
 | 3174 | Biweekly Contest 132 - q1 - [Clear Digits](<https://leetcode.com/problems/clear-digits>)                                                                                           | Easy    | Contest        | [solution](<../_3174. Clear Digits.md>)                                                            | py          | Jul 07, 2024    |
 | 3210 | Weekly Contest 405 - q1 - [Find the Encrypted String](<https://leetcode.com/problems/find-the-encrypted-string>)                                                                   | Easy    | Contest        | [solution](<../_3210. Find the Encrypted String.md>)                                               | py          | Jul 07, 2024    |
