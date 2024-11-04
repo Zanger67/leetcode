@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (123 completed)
+# [String](<https://leetcode.com/tag/String/>) (124 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -39,6 +39,7 @@
 |  409 | [Longest Palindrome](<https://leetcode.com/problems/longest-palindrome>)                                                                                                           | Easy    | Daily          | [solution](<../_409. Longest Palindrome.md>)                                                       | c, py       | Jun 04, 2024    |
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                                                             | Easy    |                | [solution](<../_412. Fizz Buzz.md>)                                                                | java, py    | Jun 02, 2024    |
 |  424 | [Longest Repeating Character Replacement](<https://leetcode.com/problems/longest-repeating-character-replacement>)                                                                 | Medium  | B75, N150      | [solution](<../_424. Longest Repeating Character Replacement.md>)                                  | py          | Jul 06, 2024    |
+|  443 | [String Compression](<https://leetcode.com/problems/string-compression>)                                                                                                           | Medium  |                | [solution](<../_443. String Compression.md>)                                                       | py          | Nov 04, 2024    |
 |  451 | [Sort Characters By Frequency](<https://leetcode.com/problems/sort-characters-by-frequency>)                                                                                       | Medium  |                | [solution](<../_451. Sort Characters By Frequency.md>)                                             | py          | Jun 18, 2024    |
 |  535 | [Encode and Decode TinyURL](<https://leetcode.com/problems/encode-and-decode-tinyurl>)                                                                                             | Medium  |                | [solution](<../_535. Encode and Decode TinyURL.md>)                                                | py          | Jun 07, 2024    |
 |  567 | [Permutation in String](<https://leetcode.com/problems/permutation-in-string>)                                                                                                     | Medium  | Daily, N150    | [solution](<../_567. Permutation in String.md>)                                                    | py          | Jul 06, 2024    |

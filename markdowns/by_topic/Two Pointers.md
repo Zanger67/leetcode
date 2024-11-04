@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (54 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (55 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -30,6 +30,7 @@
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                                       | Easy    | Daily          | [solution](<../_350. Intersection of Two Arrays II.md>)                                 | java, py                         | Jul 02, 2024    |
 |  392 | [Is Subsequence](<https://leetcode.com/problems/is-subsequence>)                                                                                                                     | Easy    |                | [solution](<../_392. Is Subsequence.md>)                                                | java                             | Jun 22, 2024    |
 |  408 | [Valid Word Abbreviation](<https://leetcode.com/problems/valid-word-abbreviation>)                                                                                                   | Easy    |                | [solution](<../_408. Valid Word Abbreviation.md>)                                       | py                               | Jun 02, 2024    |
+|  443 | [String Compression](<https://leetcode.com/problems/string-compression>)                                                                                                             | Medium  |                | [solution](<../_443. String Compression.md>)                                            | py                               | Nov 04, 2024    |
 |  475 | [Heaters](<https://leetcode.com/problems/heaters>)                                                                                                                                   | Medium  |                | [solution](<../_475. Heaters.md>)                                                       | py                               | Jun 07, 2024    |
 |  567 | [Permutation in String](<https://leetcode.com/problems/permutation-in-string>)                                                                                                       | Medium  | Daily, N150    | [solution](<../_567. Permutation in String.md>)                                         | py                               | Jul 06, 2024    |
 |  611 | [Valid Triangle Number](<https://leetcode.com/problems/valid-triangle-number>)                                                                                                       | Medium  |                | [solution](<../_611. Valid Triangle Number.md>)                                         | py                               | May 22, 2024    |
