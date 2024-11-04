@@ -1,4 +1,4 @@
-# Easy Questions (161)
+# Easy Questions (162)
 
 *[Back to top](<../README.md>)*
 
@@ -75,6 +75,7 @@
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                                               | Easy    |                | [solution](<_744. Find Smallest Letter Greater Than Target.md>)                         | java, py                     | Jun 01, 2024    |
 |  746 | [Min Cost Climbing Stairs](<https://leetcode.com/problems/min-cost-climbing-stairs>)                                                                               | Easy    | N150           | [solution](<_746. Min Cost Climbing Stairs.md>)                                         | py                           | Jul 05, 2024    |
 |  771 | [Jewels and Stones](<https://leetcode.com/problems/jewels-and-stones>)                                                                                             | Easy    |                | [solution](<_771. Jewels and Stones.md>)                                                | java, py                     | Jun 02, 2024    |
+|  796 | [Rotate String](<https://leetcode.com/problems/rotate-string>)                                                                                                     | Easy    |                | [solution](<_796. Rotate String.md>)                                                    | py                           | Nov 04, 2024    |
 |  819 | [Most Common Word](<https://leetcode.com/problems/most-common-word>)                                                                                               | Easy    |                | [solution](<_819. Most Common Word.md>)                                                 | py                           | Sep 24, 2024    |
 |  860 | [Lemonade Change](<https://leetcode.com/problems/lemonade-change>)                                                                                                 | Easy    | Daily          | [solution](<_860. Lemonade Change.md>)                                                  | py                           | Aug 15, 2024    |
 |  867 | [Transpose Matrix](<https://leetcode.com/problems/transpose-matrix>)                                                                                               | Easy    |                | [solution](<_867. Transpose Matrix.md>)                                                 | py                           | Jun 15, 2024    |
