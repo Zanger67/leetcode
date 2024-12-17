@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (28 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (29 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 |   33 | [Search in Rotated Sorted Array](<https://leetcode.com/problems/search-in-rotated-sorted-array>)                                             | Medium  | B75, N150      | [solution](<../_33. Search in Rotated Sorted Array.md>)              | py          | Dec 17, 2024    |
 |   69 | [Sqrt(x)](<https://leetcode.com/problems/sqrtx>)                                                                                             | Easy    |                | [solution](<../_69. Sqrt(x).md>)                                     | py          | Jun 07, 2024    |
 |   74 | [Search a 2D Matrix](<https://leetcode.com/problems/search-a-2d-matrix>)                                                                     | Medium  | N150           | [solution](<../_74. Search a 2D Matrix.md>)                          | py          | Jun 15, 2024    |
+|   81 | [Search in Rotated Sorted Array II](<https://leetcode.com/problems/search-in-rotated-sorted-array-ii>)                                       | Medium  |                | [solution](<../_81. Search in Rotated Sorted Array II.md>)           | py          | Dec 17, 2024    |
 |  167 | [Two Sum II - Input Array Is Sorted](<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted>)                                       | Medium  | N150           | [solution](<../_167. Two Sum II - Input Array Is Sorted.md>)         | py          | Jun 14, 2024    |
 |  287 | [Find the Duplicate Number](<https://leetcode.com/problems/find-the-duplicate-number>)                                                       | Medium  | N150           | [solution](<../_287. Find the Duplicate Number.md>)                  | c           | Jun 26, 2024    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                               | Easy    | Daily          | [solution](<../_350. Intersection of Two Arrays II.md>)              | java, py    | Jul 02, 2024    |
