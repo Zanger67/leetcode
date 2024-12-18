@@ -1,4 +1,4 @@
-# Easy Questions (163)
+# Easy Questions (164)
 
 *[Back to top](<../README.md>)*
 
@@ -105,6 +105,7 @@
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                                       | Easy    | Daily          | [solution](<_1460. Make Two Arrays Equal by Reversing Subarrays.md>)                    | c, py                        | Jun 04, 2024    |
 | 1470 | [Shuffle the Array](<https://leetcode.com/problems/shuffle-the-array>)                                                                                             | Easy    |                | [solution](<_1470. Shuffle the Array.md>)                                               | c                            | Jun 03, 2024    |
 | 1474 | [Delete N Nodes After M Nodes of a Linked List](<https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list>)                                     | Easy    |                | [solution](<_1474. Delete N Nodes After M Nodes of a Linked List.md>)                   | c, java                      | Jun 07, 2024    |
+| 1475 | [Final Prices With a Special Discount in a Shop](<https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop>)                                   | Easy    | Daily          | [solution](<_1475. Final Prices With a Special Discount in a Shop.md>)                  | py                           | Dec 18, 2024    |
 | 1502 | [Can Make Arithmetic Progression From Sequence](<https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence>)                                     | Easy    |                | [solution](<_1502. Can Make Arithmetic Progression From Sequence.md>)                   | c, py                        | Jun 04, 2024    |
 | 1518 | [Water Bottles](<https://leetcode.com/problems/water-bottles>)                                                                                                     | Easy    | Daily          | [solution](<_1518. Water Bottles.md>)                                                   | c, cpp, cs, java, js, py, ts | Jul 07, 2024    |
 | 1550 | [Three Consecutive Odds](<https://leetcode.com/problems/three-consecutive-odds>)                                                                                   | Easy    | Daily          | [solution](<_1550. Three Consecutive Odds.md>)                                          | c, py                        | Jul 01, 2024    |

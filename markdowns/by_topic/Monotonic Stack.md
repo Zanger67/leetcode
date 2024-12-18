@@ -1,4 +1,4 @@
-# [Monotonic Stack](<https://leetcode.com/tag/Monotonic-Stack/>) (10 completed)
+# [Monotonic Stack](<https://leetcode.com/tag/Monotonic-Stack/>) (11 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  853 | [Car Fleet](<https://leetcode.com/problems/car-fleet>)                                                                                                         | Medium  | N150    | [solution](<../_853. Car Fleet.md>)                                             | py           | Jun 14, 2024    |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](<https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal>)                   | Medium  |         | [solution](<../_1008. Construct Binary Search Tree from Preorder Traversal.md>) | c, cpp, java | Jun 27, 2024    |
 | 1019 | [Next Greater Node In Linked List](<https://leetcode.com/problems/next-greater-node-in-linked-list>)                                                           | Medium  |         | [solution](<../_1019. Next Greater Node In Linked List.md>)                     | py           | Jun 22, 2024    |
+| 1475 | [Final Prices With a Special Discount in a Shop](<https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop>)                               | Easy    | Daily   | [solution](<../_1475. Final Prices With a Special Discount in a Shop.md>)       | py           | Dec 18, 2024    |
 | 1762 | [Buildings With an Ocean View](<https://leetcode.com/problems/buildings-with-an-ocean-view>)                                                                   | Medium  |         | [solution](<../_1762. Buildings With an Ocean View.md>)                         | py           | Jun 10, 2024    |
 | 2487 | [Remove Nodes From Linked List](<https://leetcode.com/problems/remove-nodes-from-linked-list>)                                                                 | Medium  |         | [solution](<../_2487. Remove Nodes From Linked List.md>)                        | py           | Jun 12, 2024    |
 | 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>) | Hard    | Contest | [solution](<../_3229. Minimum Operations to Make Array Equal to Target.md>)     | py           | Jul 21, 2024    |

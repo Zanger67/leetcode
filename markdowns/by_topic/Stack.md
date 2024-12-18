@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (51 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (52 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -44,6 +44,7 @@
 | 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>)                                               | Medium  |           | [solution](<../_1265. Print Immutable Linked List in Reverse.md>)                 | c, py        | Jun 06, 2024    |
 | 1381 | [Design a Stack With Increment Operation](<https://leetcode.com/problems/design-a-stack-with-increment-operation>)                                             | Medium  | Daily     | [solution](<../_1381. Design a Stack With Increment Operation.md>)                | py           | Jul 06, 2024    |
 | 1472 | [Design Browser History](<https://leetcode.com/problems/design-browser-history>)                                                                               | Medium  |           | [solution](<../_1472. Design Browser History.md>)                                 | py           | Jul 06, 2024    |
+| 1475 | [Final Prices With a Special Discount in a Shop](<https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop>)                               | Easy    | Daily     | [solution](<../_1475. Final Prices With a Special Discount in a Shop.md>)         | py           | Dec 18, 2024    |
 | 1598 | [Crawler Log Folder](<https://leetcode.com/problems/crawler-log-folder>)                                                                                       | Easy    | Daily     | [solution](<../_1598. Crawler Log Folder.md>)                                     | c, js        | Jul 10, 2024    |
 | 1653 | [Minimum Deletions to Make String Balanced](<https://leetcode.com/problems/minimum-deletions-to-make-string-balanced>)                                         | Medium  | Daily     | [solution](<../_1653. Minimum Deletions to Make String Balanced.md>)              | py           | Jul 30, 2024    |
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                               | Easy    |           | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)                 | py           | Jun 02, 2024    |
