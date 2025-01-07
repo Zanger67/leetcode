@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (128 completed)
+# [String](<https://leetcode.com/tag/String/>) (129 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -78,6 +78,7 @@
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                                                                     | Hard    |                | [solution](<../_1255. Maximum Score Words Formed by Letters.md>)                                   | py          | Jun 15, 2024    |
 | 1268 | [Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)                                                                                             | Medium  |                | [solution](<../_1268. Search Suggestions System.md>)                                               | py          | Jun 29, 2024    |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one>)           | Medium  |                | [solution](<../_1404. Number of Steps to Reduce a Number in Binary Representation to One.md>)      | py          | Jun 08, 2024    |
+| 1408 | [String Matching in an Array](<https://leetcode.com/problems/string-matching-in-an-array>)                                                                                         | Easy    | Daily          | [solution](<../_1408. String Matching in an Array.md>)                                             | py          | Jan 07, 2025    |
 | 1422 | [Maximum Score After Splitting a String](<https://leetcode.com/problems/maximum-score-after-splitting-a-string>)                                                                   | Easy    | Daily          | [solution](<../_1422. Maximum Score After Splitting a String.md>)                                  | c, py       | Jan 01, 2025    |
 | 1436 | [Destination City](<https://leetcode.com/problems/destination-city>)                                                                                                               | Easy    |                | [solution](<../_1436. Destination City.md>)                                                        | java        | Jun 01, 2024    |
 | 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](<https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list>) | Medium  |                | [solution](<../_1452. People Whose List of Favorite Companies Is Not a Subset of Another List.md>) | py          | Sep 25, 2024    |

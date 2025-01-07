@@ -4,10 +4,10 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (268 completed)
-- [String](<by_topic/String.md>) (128 completed)
+- [Array](<by_topic/Array.md>) (269 completed)
+- [String](<by_topic/String.md>) (129 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (124 completed)
-- [Depth-First Search](<by_topic/Depth-First Search.md>) (92 completed)
+- [Depth-First Search](<by_topic/Depth-First Search.md>) (93 completed)
 - [Tree](<by_topic/Tree.md>) (90 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (81 completed)
 - [Sorting](<by_topic/Sorting.md>) (73 completed)
@@ -36,8 +36,8 @@
 - [Graph](<by_topic/Graph.md>) (12 completed)
 - [Monotonic Stack](<by_topic/Monotonic Stack.md>) (11 completed)
 - [Union Find](<by_topic/Union Find.md>) (9 completed)
+- [String Matching](<by_topic/String Matching.md>) (8 completed)
 - [Divide and Conquer](<by_topic/Divide and Conquer.md>) (7 completed)
-- [String Matching](<by_topic/String Matching.md>) (7 completed)
 - [Counting Sort](<by_topic/Counting Sort.md>) (6 completed)
 - [Hash Function](<by_topic/Hash Function.md>) (6 completed)
 - [Shortest Path](<by_topic/Shortest Path.md>) (6 completed)

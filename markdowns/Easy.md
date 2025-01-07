@@ -1,4 +1,4 @@
-# Easy Questions (165)
+# Easy Questions (166)
 
 *[Back to top](<../README.md>)*
 
@@ -99,6 +99,7 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](<https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers>)                           | Easy    |                | [solution](<_1317. Convert Integer to the Sum of Two No-Zero Integers.md>)              | c                            | Jun 04, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                                             | Easy    |                | [solution](<_1351. Count Negative Numbers in a Sorted Matrix.md>)                       | java, py                     | Jun 01, 2024    |
 | 1380 | [Lucky Numbers in a Matrix](<https://leetcode.com/problems/lucky-numbers-in-a-matrix>)                                                                             | Easy    | Daily          | [solution](<_1380. Lucky Numbers in a Matrix.md>)                                       | js, py                       | Jul 19, 2024    |
+| 1408 | [String Matching in an Array](<https://leetcode.com/problems/string-matching-in-an-array>)                                                                         | Easy    | Daily          | [solution](<_1408. String Matching in an Array.md>)                                     | py                           | Jan 07, 2025    |
 | 1422 | [Maximum Score After Splitting a String](<https://leetcode.com/problems/maximum-score-after-splitting-a-string>)                                                   | Easy    | Daily          | [solution](<_1422. Maximum Score After Splitting a String.md>)                          | c, py                        | Jan 01, 2025    |
 | 1426 | [Counting Elements](<https://leetcode.com/problems/counting-elements>)                                                                                             | Easy    |                | [solution](<_1426. Counting Elements.md>)                                               | c                            | Jun 04, 2024    |
 | 1436 | [Destination City](<https://leetcode.com/problems/destination-city>)                                                                                               | Easy    |                | [solution](<_1436. Destination City.md>)                                                | java                         | Jun 01, 2024    |

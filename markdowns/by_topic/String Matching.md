@@ -1,4 +1,4 @@
-# [String Matching](<https://leetcode.com/tag/String-Matching/>) (7 completed)
+# [String Matching](<https://leetcode.com/tag/String-Matching/>) (8 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -11,5 +11,6 @@
 |  616 | [Add Bold Tag in String](<https://leetcode.com/problems/add-bold-tag-in-string>)                                                                             | Medium  |           | [solution](<../_616. Add Bold Tag in String.md>)                                        | py          | Jun 28, 2024    |
 |  758 | [Bold Words in String](<https://leetcode.com/problems/bold-words-in-string>)                                                                                 | Medium  |           | [solution](<../_758. Bold Words in String.md>)                                          | py          | Jun 28, 2024    |
 |  796 | [Rotate String](<https://leetcode.com/problems/rotate-string>)                                                                                               | Easy    |           | [solution](<../_796. Rotate String.md>)                                                 | py          | Nov 04, 2024    |
+| 1408 | [String Matching in an Array](<https://leetcode.com/problems/string-matching-in-an-array>)                                                                   | Easy    | Daily     | [solution](<../_1408. String Matching in an Array.md>)                                  | py          | Jan 07, 2025    |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](<https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence>) | Easy    | Daily     | [solution](<../_1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md>) | py          | Jun 01, 2024    |
 | 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                                                         | Hard    |           | [solution](<../_3045. Count Prefix and Suffix Pairs II.md>)                             | py          | Jun 29, 2024    |
