@@ -4,14 +4,14 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (269 completed)
-- [String](<by_topic/String.md>) (129 completed)
+- [Array](<by_topic/Array.md>) (270 completed)
+- [String](<by_topic/String.md>) (130 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (124 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (93 completed)
 - [Tree](<by_topic/Tree.md>) (90 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (81 completed)
 - [Sorting](<by_topic/Sorting.md>) (73 completed)
-- [Math](<by_topic/Math.md>) (67 completed)
+- [Math](<by_topic/Math.md>) (68 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (60 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (55 completed)
 - [Stack](<by_topic/Stack.md>) (52 completed)

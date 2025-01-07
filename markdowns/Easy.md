@@ -1,4 +1,4 @@
-# Easy Questions (166)
+# Easy Questions (167)
 
 *[Back to top](<../README.md>)*
 
@@ -102,6 +102,7 @@
 | 1408 | [String Matching in an Array](<https://leetcode.com/problems/string-matching-in-an-array>)                                                                         | Easy    | Daily          | [solution](<_1408. String Matching in an Array.md>)                                     | py                           | Jan 07, 2025    |
 | 1422 | [Maximum Score After Splitting a String](<https://leetcode.com/problems/maximum-score-after-splitting-a-string>)                                                   | Easy    | Daily          | [solution](<_1422. Maximum Score After Splitting a String.md>)                          | c, py                        | Jan 01, 2025    |
 | 1426 | [Counting Elements](<https://leetcode.com/problems/counting-elements>)                                                                                             | Easy    |                | [solution](<_1426. Counting Elements.md>)                                               | c                            | Jun 04, 2024    |
+| 1427 | [Perform String Shifts](<https://leetcode.com/problems/perform-string-shifts>)                                                                                     | Easy    | Weekly Premium | [solution](<_1427. Perform String Shifts.md>)                                           | py                           | Jan 07, 2025    |
 | 1436 | [Destination City](<https://leetcode.com/problems/destination-city>)                                                                                               | Easy    |                | [solution](<_1436. Destination City.md>)                                                | java                         | Jun 01, 2024    |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](<https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence>)       | Easy    | Daily          | [solution](<_1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md>)    | py                           | Jun 01, 2024    |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                                       | Easy    | Daily          | [solution](<_1460. Make Two Arrays Equal by Reversing Subarrays.md>)                    | c, py                        | Jun 04, 2024    |
