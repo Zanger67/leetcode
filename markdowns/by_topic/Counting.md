@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (28 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (29 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -12,6 +12,7 @@
 |  819 | [Most Common Word](<https://leetcode.com/problems/most-common-word>)                                                                                                   | Easy    |                | [solution](<../_819. Most Common Word.md>)                                      | py          | Sep 24, 2024    |
 |  945 | [Minimum Increment to Make Array Unique](<https://leetcode.com/problems/minimum-increment-to-make-array-unique>)                                                       | Medium  | Daily          | [solution](<../_945. Minimum Increment to Make Array Unique.md>)                | py          | Jun 14, 2024    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                             | Easy    |                | [solution](<../_1160. Find Words That Can Be Formed by Characters.md>)          | py          | Sep 24, 2024    |
+| 1400 | [Construct K Palindrome Strings](<https://leetcode.com/problems/construct-k-palindrome-strings>)                                                                       | Medium  | Daily          | [solution](<../_1400. Construct K Palindrome Strings.md>)                       | py          | Jan 11, 2025    |
 | 1481 | [Least Number of Unique Integers after K Removals](<https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals>)                                   | Medium  |                | [solution](<../_1481. Least Number of Unique Integers after K Removals.md>)     | py          | Jun 15, 2024    |
 | 1497 | [Check If Array Pairs Are Divisible by k](<https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k>)                                                     | Medium  | Daily          | [solution](<../_1497. Check If Array Pairs Are Divisible by k.md>)              | py          | Oct 01, 2024    |
 | 1657 | [Determine if Two Strings Are Close](<https://leetcode.com/problems/determine-if-two-strings-are-close>)                                                               | Medium  |                | [solution](<../_1657. Determine if Two Strings Are Close.md>)                   | py          | Jul 13, 2024    |

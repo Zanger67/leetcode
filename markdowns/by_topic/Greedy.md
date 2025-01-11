@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (43 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (44 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  945 | [Minimum Increment to Make Array Unique](<https://leetcode.com/problems/minimum-increment-to-make-array-unique>)                                                             | Medium  | Daily          | [solution](<../_945. Minimum Increment to Make Array Unique.md>)                                | py                           | Jun 14, 2024    |
 | 1282 | [Group the People Given the Group Size They Belong To](<https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to>)                                 | Medium  |                | [solution](<../_1282. Group the People Given the Group Size They Belong To.md>)                 | py                           | Jun 28, 2024    |
 | 1382 | [Balance a Binary Search Tree](<https://leetcode.com/problems/balance-a-binary-search-tree>)                                                                                 | Medium  |                | [solution](<../_1382. Balance a Binary Search Tree.md>)                                         | py                           | Jun 29, 2024    |
+| 1400 | [Construct K Palindrome Strings](<https://leetcode.com/problems/construct-k-palindrome-strings>)                                                                             | Medium  | Daily          | [solution](<../_1400. Construct K Palindrome Strings.md>)                                       | py                           | Jan 11, 2025    |
 | 1481 | [Least Number of Unique Integers after K Removals](<https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals>)                                         | Medium  |                | [solution](<../_1481. Least Number of Unique Integers after K Removals.md>)                     | py                           | Jun 15, 2024    |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](<https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves>) | Medium  | Daily          | [solution](<../_1509. Minimum Difference Between Largest and Smallest Value in Three Moves.md>) | c, cpp, java, py             | Jul 03, 2024    |
 | 1561 | [Maximum Number of Coins You Can Get](<https://leetcode.com/problems/maximum-number-of-coins-you-can-get>)                                                                   | Medium  |                | [solution](<../_1561. Maximum Number of Coins You Can Get.md>)                                  | py                           | Jun 23, 2024    |

@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (130 completed)
+# [String](<https://leetcode.com/tag/String/>) (131 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -77,6 +77,7 @@
 | 1249 | [Minimum Remove to Make Valid Parentheses](<https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses>)                                                               | Medium  |                | [solution](<../_1249. Minimum Remove to Make Valid Parentheses.md>)                                | py          | Jun 10, 2024    |
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                                                                     | Hard    |                | [solution](<../_1255. Maximum Score Words Formed by Letters.md>)                                   | py          | Jun 15, 2024    |
 | 1268 | [Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)                                                                                             | Medium  |                | [solution](<../_1268. Search Suggestions System.md>)                                               | py          | Jun 29, 2024    |
+| 1400 | [Construct K Palindrome Strings](<https://leetcode.com/problems/construct-k-palindrome-strings>)                                                                                   | Medium  | Daily          | [solution](<../_1400. Construct K Palindrome Strings.md>)                                          | py          | Jan 11, 2025    |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one>)           | Medium  |                | [solution](<../_1404. Number of Steps to Reduce a Number in Binary Representation to One.md>)      | py          | Jun 08, 2024    |
 | 1408 | [String Matching in an Array](<https://leetcode.com/problems/string-matching-in-an-array>)                                                                                         | Easy    | Daily          | [solution](<../_1408. String Matching in an Array.md>)                                             | py          | Jan 07, 2025    |
 | 1422 | [Maximum Score After Splitting a String](<https://leetcode.com/problems/maximum-score-after-splitting-a-string>)                                                                   | Easy    | Daily          | [solution](<../_1422. Maximum Score After Splitting a String.md>)                                  | c, py       | Jan 01, 2025    |

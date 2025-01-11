@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (124 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (125 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -72,6 +72,7 @@
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                                   | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                          | py          | Jun 22, 2024    |
 | 1282 | [Group the People Given the Group Size They Belong To](<https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to>)                                       | Medium  |                | [solution](<../_1282. Group the People Given the Group Size They Belong To.md>)                    | py          | Jun 28, 2024    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>)                 | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>)         | py          | Jun 09, 2024    |
+| 1400 | [Construct K Palindrome Strings](<https://leetcode.com/problems/construct-k-palindrome-strings>)                                                                                   | Medium  | Daily          | [solution](<../_1400. Construct K Palindrome Strings.md>)                                          | py          | Jan 11, 2025    |
 | 1426 | [Counting Elements](<https://leetcode.com/problems/counting-elements>)                                                                                                             | Easy    |                | [solution](<../_1426. Counting Elements.md>)                                                       | c           | Jun 04, 2024    |
 | 1429 | [First Unique Number](<https://leetcode.com/problems/first-unique-number>)                                                                                                         | Medium  |                | [solution](<../_1429. First Unique Number.md>)                                                     | py          | Oct 26, 2024    |
 | 1436 | [Destination City](<https://leetcode.com/problems/destination-city>)                                                                                                               | Easy    |                | [solution](<../_1436. Destination City.md>)                                                        | java        | Jun 01, 2024    |
