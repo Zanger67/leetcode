@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (31 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (32 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -31,6 +31,7 @@
 | 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                         | Easy    | Daily          | [solution](<../_1684. Count the Number of Consistent Strings.md>)                             | c, py            | Jun 06, 2024    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                           | Easy    |                | [solution](<../_2206. Divide Array Into Equal Pairs.md>)                                      | c, py            | Jun 08, 2024    |
 | 2317 | [Maximum XOR After Operations ](<https://leetcode.com/problems/maximum-xor-after-operations>)                                                                            | Medium  |                | [solution](<../_2317. Maximum XOR After Operations .md>)                                      | c, cpp, java, py | Jun 24, 2024    |
+| 2425 | [Bitwise XOR of All Pairings](<https://leetcode.com/problems/bitwise-xor-of-all-pairings>)                                                                               | Medium  | Daily          | [solution](<../_2425. Bitwise XOR of All Pairings.md>)                                        | py               | Jan 16, 2025    |
 | 2433 | [Find The Original Array of Prefix Xor](<https://leetcode.com/problems/find-the-original-array-of-prefix-xor>)                                                           | Medium  |                | [solution](<../_2433. Find The Original Array of Prefix Xor.md>)                              | py               | May 31, 2024    |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](<https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k>)                   | Medium  |                | [solution](<../_2997. Minimum Number of Operations to Make Array XOR Equal to K.md>)          | java, py         | Jun 12, 2024    |
 | 3064 | [Guess the Number Using Bitwise Questions I](<https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i>)                                                 | Medium  |                | [solution](<../_3064. Guess the Number Using Bitwise Questions I.md>)                         | c, py            | Jun 06, 2024    |

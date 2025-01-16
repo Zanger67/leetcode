@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (271 completed)
+- [Array](<by_topic/Array.md>) (272 completed)
 - [String](<by_topic/String.md>) (131 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (125 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (93 completed)
@@ -21,7 +21,7 @@
 - [Greedy](<by_topic/Greedy.md>) (44 completed)
 - [Simulation](<by_topic/Simulation.md>) (37 completed)
 - [Design](<by_topic/Design.md>) (35 completed)
-- [Bit Manipulation](<by_topic/Bit Manipulation.md>) (31 completed)
+- [Bit Manipulation](<by_topic/Bit Manipulation.md>) (32 completed)
 - [Counting](<by_topic/Counting.md>) (29 completed)
 - [Binary Search](<by_topic/Binary Search.md>) (29 completed)
 - [Backtracking](<by_topic/Backtracking.md>) (21 completed)
@@ -43,13 +43,13 @@
 - [Shortest Path](<by_topic/Shortest Path.md>) (6 completed)
 - [Data Stream](<by_topic/Data Stream.md>) (5 completed)
 - [Game Theory](<by_topic/Game Theory.md>) (5 completed)
+- [Brainteaser](<by_topic/Brainteaser.md>) (4 completed)
 - [Combinatorics](<by_topic/Combinatorics.md>) (4 completed)
 - [Rolling Hash](<by_topic/Rolling Hash.md>) (4 completed)
 - [Randomized](<by_topic/Randomized.md>) (4 completed)
 - [Ordered Set](<by_topic/Ordered Set.md>) (4 completed)
 - [Bucket Sort](<by_topic/Bucket Sort.md>) (4 completed)
 - [Geometry](<by_topic/Geometry.md>) (3 completed)
-- [Brainteaser](<by_topic/Brainteaser.md>) (3 completed)
 - [Memoization](<by_topic/Memoization.md>) (3 completed)
 - [Monotonic Queue](<by_topic/Monotonic Queue.md>) (3 completed)
 - [Suffix Array](<by_topic/Suffix Array.md>) (3 completed)
