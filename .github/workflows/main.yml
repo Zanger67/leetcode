@@ -1,4 +1,4 @@
-name: '[Updating markdown files]'
+name: "[Updating markdown files]"
 
 on:
     # Allows for munual runs of workflow
@@ -9,7 +9,7 @@ on:
         branches:
             - main
         paths:
-            - 'my-submissions/**'
+            - "my-submissions/**"
 
 permissions:
     contents: write
@@ -17,10 +17,10 @@ permissions:
 jobs:
     build:
         runs-on: ubuntu-latest
-        
+
         steps:
             - name: Call and run markdown generator
               uses: Zanger67/WikiLeet@main
               with:
-                # Insert your LeetCode username here!
-                username: Zanger
+                  # Insert your LeetCode username here!
+                  username: Zanger
