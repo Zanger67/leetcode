@@ -1,4 +1,4 @@
-# [Graph](<https://leetcode.com/tag/Graph/>) (12 completed)
+# [Graph](<https://leetcode.com/tag/Graph/>) (13 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -8,6 +8,7 @@
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:-------------------------------------------------------------------------------------------------------|:-----------------|:----------------|
 |  743 | [Network Delay Time](<https://leetcode.com/problems/network-delay-time>)                                                                                                                   | Medium  | N150           | [solution](<../_743. Network Delay Time.md>)                                                           | java, py         | Jul 28, 2024    |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](<https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance>) | Medium  | Daily          | [solution](<../_1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance.md>) | py               | Jul 26, 2024    |
+| 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](<https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid>)                                           | Hard    | Daily          | [solution](<../_1368. Minimum Cost to Make at Least One Valid Path in a Grid.md>)                      | py               | Jan 18, 2025    |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](<https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable>)                                   | Hard    | Daily          | [solution](<../_1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md>)                  | py               | Jun 30, 2024    |
 | 1791 | [Find Center of Star Graph](<https://leetcode.com/problems/find-center-of-star-graph>)                                                                                                     | Easy    | Daily          | [solution](<../_1791. Find Center of Star Graph.md>)                                                   | c, cpp, java, py | Jun 27, 2024    |
 | 2045 | [Second Minimum Time to Reach Destination](<https://leetcode.com/problems/second-minimum-time-to-reach-destination>)                                                                       | Hard    | Daily          | [solution](<../_2045. Second Minimum Time to Reach Destination.md>)                                    | py               | Jul 28, 2024    |

@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (46 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (47 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -32,6 +32,7 @@
 | 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                                                 | Medium  |                | [solution](<../_1254. Number of Closed Islands.md>)                                        | py          | Jun 26, 2024    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>)                   | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>) | py          | Jun 09, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                                                               | Easy    |                | [solution](<../_1351. Count Negative Numbers in a Sorted Matrix.md>)                       | java, py    | Jun 01, 2024    |
+| 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](<https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid>)                                     | Hard    | Daily          | [solution](<../_1368. Minimum Cost to Make at Least One Valid Path in a Grid.md>)          | py          | Jan 18, 2025    |
 | 1380 | [Lucky Numbers in a Matrix](<https://leetcode.com/problems/lucky-numbers-in-a-matrix>)                                                                                               | Easy    | Daily          | [solution](<../_1380. Lucky Numbers in a Matrix.md>)                                       | js, py      | Jul 19, 2024    |
 | 1568 | [Minimum Number of Days to Disconnect Island](<https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island>)                                                           | Hard    | Daily          | [solution](<../_1568. Minimum Number of Days to Disconnect Island.md>)                     | py          | Aug 11, 2024    |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](<https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums>)                                                           | Medium  | Daily          | [solution](<../_1605. Find Valid Matrix Given Row and Column Sums.md>)                     | py          | Jul 20, 2024    |
