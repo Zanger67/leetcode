@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (48 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (49 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -30,6 +30,7 @@
 | 1020 | [Number of Enclaves](<https://leetcode.com/problems/number-of-enclaves>)                                                                                                             | Medium  |                | [solution](<../_1020. Number of Enclaves.md>)                                              | py          | Jun 26, 2024    |
 | 1030 | [Matrix Cells in Distance Order](<https://leetcode.com/problems/matrix-cells-in-distance-order>)                                                                                     | Easy    |                | [solution](<../_1030. Matrix Cells in Distance Order.md>)                                  | py          | Jun 04, 2024    |
 | 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                                                 | Medium  |                | [solution](<../_1254. Number of Closed Islands.md>)                                        | py          | Jun 26, 2024    |
+| 1267 | [Count Servers that Communicate](<https://leetcode.com/problems/count-servers-that-communicate>)                                                                                     | Medium  | Daily          | [solution](<../_1267. Count Servers that Communicate.md>)                                  | py          | Jan 23, 2025    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>)                   | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>) | py          | Jun 09, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                                                               | Easy    |                | [solution](<../_1351. Count Negative Numbers in a Sorted Matrix.md>)                       | java, py    | Jun 01, 2024    |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](<https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid>)                                     | Hard    | Daily          | [solution](<../_1368. Minimum Cost to Make at Least One Valid Path in a Grid.md>)          | py          | Jan 18, 2025    |

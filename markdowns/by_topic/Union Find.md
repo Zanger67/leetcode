@@ -1,4 +1,4 @@
-# [Union Find](<https://leetcode.com/tag/Union-Find/>) (9 completed)
+# [Union Find](<https://leetcode.com/tag/Union-Find/>) (10 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,5 +13,6 @@
 | 1020 | [Number of Enclaves](<https://leetcode.com/problems/number-of-enclaves>)                                                                                 | Medium  |                | [solution](<../_1020. Number of Enclaves.md>)                                         | py          | Jun 26, 2024    |
 | 1101 | [The Earliest Moment When Everyone Become Friends](<https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends>)                     | Medium  | Weekly Premium | [solution](<../_1101. The Earliest Moment When Everyone Become Friends.md>)           | py          | Jul 04, 2024    |
 | 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                     | Medium  |                | [solution](<../_1254. Number of Closed Islands.md>)                                   | py          | Jun 26, 2024    |
+| 1267 | [Count Servers that Communicate](<https://leetcode.com/problems/count-servers-that-communicate>)                                                         | Medium  | Daily          | [solution](<../_1267. Count Servers that Communicate.md>)                             | py          | Jan 23, 2025    |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](<https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable>) | Hard    | Daily          | [solution](<../_1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md>) | py          | Jun 30, 2024    |
 | 1905 | [Count Sub Islands](<https://leetcode.com/problems/count-sub-islands>)                                                                                   | Medium  | Daily          | [solution](<../_1905. Count Sub Islands.md>)                                          | py          | Jun 24, 2024    |
