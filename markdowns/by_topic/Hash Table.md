@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (126 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (127 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -123,6 +123,7 @@
 | 2661 | [First Completely Painted Row or Column](<https://leetcode.com/problems/first-completely-painted-row-or-column>)                                                                   | Medium  | Daily          | [solution](<../_2661. First Completely Painted Row or Column.md>)                                  | py          | Jan 20, 2025    |
 | 2671 | [Frequency Tracker](<https://leetcode.com/problems/frequency-tracker>)                                                                                                             | Medium  |                | [solution](<../_2671. Frequency Tracker.md>)                                                       | py          | Jun 28, 2024    |
 | 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)                                                       | Medium  | Weekly Premium | [solution](<../_2743. Count Substrings Without Repeating Character.md>)                            | java, py    | Jun 22, 2024    |
+| 2852 | [Sum of Remoteness of All Cells](<https://leetcode.com/problems/sum-of-remoteness-of-all-cells>)                                                                                   | Medium  | Weekly Premium | [solution](<../_2852. Sum of Remoteness of All Cells.md>)                                          | py          | Jan 23, 2025    |
 | 2955 | [Number of Same-End Substrings](<https://leetcode.com/problems/number-of-same-end-substrings>)                                                                                     | Medium  | Weekly Premium | [solution](<../_2955. Number of Same-End Substrings.md>)                                           | py          | Nov 04, 2024    |
 | 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                               | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                                | py          | Aug 06, 2024    |
 | 3043 | [Find the Length of the Longest Common Prefix](<https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix>)                                                       | Medium  | Daily          | [solution](<../_3043. Find the Length of the Longest Common Prefix.md>)                            | py          | Jun 28, 2024    |

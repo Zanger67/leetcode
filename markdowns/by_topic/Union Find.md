@@ -1,4 +1,4 @@
-# [Union Find](<https://leetcode.com/tag/Union-Find/>) (10 completed)
+# [Union Find](<https://leetcode.com/tag/Union-Find/>) (11 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -16,3 +16,4 @@
 | 1267 | [Count Servers that Communicate](<https://leetcode.com/problems/count-servers-that-communicate>)                                                         | Medium  | Daily          | [solution](<../_1267. Count Servers that Communicate.md>)                             | py          | Jan 23, 2025    |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](<https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable>) | Hard    | Daily          | [solution](<../_1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md>) | py          | Jun 30, 2024    |
 | 1905 | [Count Sub Islands](<https://leetcode.com/problems/count-sub-islands>)                                                                                   | Medium  | Daily          | [solution](<../_1905. Count Sub Islands.md>)                                          | py          | Jun 24, 2024    |
+| 2852 | [Sum of Remoteness of All Cells](<https://leetcode.com/problems/sum-of-remoteness-of-all-cells>)                                                         | Medium  | Weekly Premium | [solution](<../_2852. Sum of Remoteness of All Cells.md>)                             | py          | Jan 23, 2025    |
