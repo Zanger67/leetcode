@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (63 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (64 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -51,6 +51,7 @@
 | 1376 | [Time Needed to Inform All Employees](<https://leetcode.com/problems/time-needed-to-inform-all-employees>)                                                         | Medium  |                | [solution](<../_1376. Time Needed to Inform All Employees.md>)                             | py          | Oct 26, 2024    |
 | 1448 | [Count Good Nodes in Binary Tree](<https://leetcode.com/problems/count-good-nodes-in-binary-tree>)                                                                 | Medium  | N150           | [solution](<../_1448. Count Good Nodes in Binary Tree.md>)                                 | java        | Jul 04, 2024    |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](<https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree>)                                             | Medium  |                | [solution](<../_1457. Pseudo-Palindromic Paths in a Binary Tree.md>)                       | py          | Jul 05, 2024    |
+| 1462 | [Course Schedule IV](<https://leetcode.com/problems/course-schedule-iv>)                                                                                           | Medium  | Daily          | [solution](<../_1462. Course Schedule IV.md>)                                              | py          | Jan 27, 2025    |
 | 1490 | [Clone N-ary Tree](<https://leetcode.com/problems/clone-n-ary-tree>)                                                                                               | Medium  |                | [solution](<../_1490. Clone N-ary Tree.md>)                                                | java, py    | Jun 02, 2024    |
 | 1568 | [Minimum Number of Days to Disconnect Island](<https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island>)                                         | Hard    | Daily          | [solution](<../_1568. Minimum Number of Days to Disconnect Island.md>)                     | py          | Aug 11, 2024    |
 | 1602 | [Find Nearest Right Node in Binary Tree](<https://leetcode.com/problems/find-nearest-right-node-in-binary-tree>)                                                   | Medium  |                | [solution](<../_1602. Find Nearest Right Node in Binary Tree.md>)                          | java, py    | Jul 03, 2024    |

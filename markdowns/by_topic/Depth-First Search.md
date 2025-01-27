@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (95 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (96 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -80,6 +80,7 @@
 | 1382 | [Balance a Binary Search Tree](<https://leetcode.com/problems/balance-a-binary-search-tree>)                                                             | Medium  |                | [solution](<../_1382. Balance a Binary Search Tree.md>)                               | py          | Jun 29, 2024    |
 | 1448 | [Count Good Nodes in Binary Tree](<https://leetcode.com/problems/count-good-nodes-in-binary-tree>)                                                       | Medium  | N150           | [solution](<../_1448. Count Good Nodes in Binary Tree.md>)                            | java        | Jul 04, 2024    |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](<https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree>)                                   | Medium  |                | [solution](<../_1457. Pseudo-Palindromic Paths in a Binary Tree.md>)                  | py          | Jul 05, 2024    |
+| 1462 | [Course Schedule IV](<https://leetcode.com/problems/course-schedule-iv>)                                                                                 | Medium  | Daily          | [solution](<../_1462. Course Schedule IV.md>)                                         | py          | Jan 27, 2025    |
 | 1490 | [Clone N-ary Tree](<https://leetcode.com/problems/clone-n-ary-tree>)                                                                                     | Medium  |                | [solution](<../_1490. Clone N-ary Tree.md>)                                           | java, py    | Jun 02, 2024    |
 | 1522 | [Diameter of N-Ary Tree](<https://leetcode.com/problems/diameter-of-n-ary-tree>)                                                                         | Medium  |                | [solution](<../_1522. Diameter of N-Ary Tree.md>)                                     | py          | Jul 03, 2024    |
 | 1530 | [Number of Good Leaf Nodes Pairs](<https://leetcode.com/problems/number-of-good-leaf-nodes-pairs>)                                                       | Medium  | Daily          | [solution](<../_1530. Number of Good Leaf Nodes Pairs.md>)                            | py          | Jul 18, 2024    |
