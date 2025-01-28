@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (50 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (51 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -46,6 +46,7 @@
 | 2392 | [Build a Matrix With Conditions](<https://leetcode.com/problems/build-a-matrix-with-conditions>)                                                                                     | Hard    | Daily          | [solution](<../_2392. Build a Matrix With Conditions.md>)                                  | py          | Jul 21, 2024    |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](<https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column>)                                           | Medium  |                | [solution](<../_2482. Difference Between Ones and Zeros in Row and Column.md>)             | py          | Jun 07, 2024    |
 | 2545 | [Sort the Students by Their Kth Score](<https://leetcode.com/problems/sort-the-students-by-their-kth-score>)                                                                         | Medium  |                | [solution](<../_2545. Sort the Students by Their Kth Score.md>)                            | java, py    | Jun 24, 2024    |
+| 2658 | [Maximum Number of Fish in a Grid](<https://leetcode.com/problems/maximum-number-of-fish-in-a-grid>)                                                                                 | Medium  | Daily          | [solution](<../_2658. Maximum Number of Fish in a Grid.md>)                                | py          | Jan 28, 2025    |
 | 2661 | [First Completely Painted Row or Column](<https://leetcode.com/problems/first-completely-painted-row-or-column>)                                                                     | Medium  | Daily          | [solution](<../_2661. First Completely Painted Row or Column.md>)                          | py          | Jan 20, 2025    |
 | 2664 | [The Knight’s Tour](<https://leetcode.com/problems/the-knights-tour>)                                                                                                                | Medium  | Weekly Premium | [solution](<../_2664. The Knight’s Tour.md>)                                               | py          | Oct 26, 2024    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                                   | Medium  |                | [solution](<../_2679. Sum in a Matrix.md>)                                                 | java        | May 22, 2024    |
