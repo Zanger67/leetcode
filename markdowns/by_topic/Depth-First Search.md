@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (97 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (98 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -50,6 +50,7 @@
 |  663 | [Equal Tree Partition](<https://leetcode.com/problems/equal-tree-partition>)                                                                             | Medium  |                | [solution](<../_663. Equal Tree Partition.md>)                                        | py          | Jun 17, 2024    |
 |  666 | [Path Sum IV](<https://leetcode.com/problems/path-sum-iv>)                                                                                               | Medium  | Weekly Premium | [solution](<../_666. Path Sum IV.md>)                                                 | py          | Jul 03, 2024    |
 |  676 | [Implement Magic Dictionary](<https://leetcode.com/problems/implement-magic-dictionary>)                                                                 | Medium  |                | [solution](<../_676. Implement Magic Dictionary.md>)                                  | py          | Jun 27, 2024    |
+|  684 | [Redundant Connection](<https://leetcode.com/problems/redundant-connection>)                                                                             | Medium  | Daily, N150    | [solution](<../_684. Redundant Connection.md>)                                        | py          | Jan 29, 2025    |
 |  687 | [Longest Univalue Path](<https://leetcode.com/problems/longest-univalue-path>)                                                                           | Medium  |                | [solution](<../_687. Longest Univalue Path.md>)                                       | py          | Jul 03, 2024    |
 |  690 | [Employee Importance](<https://leetcode.com/problems/employee-importance>)                                                                               | Medium  |                | [solution](<../_690. Employee Importance.md>)                                         | java        | Jul 02, 2024    |
 |  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                 | Medium  | N150           | [solution](<../_695. Max Area of Island.md>)                                          | c           | Jun 24, 2024    |

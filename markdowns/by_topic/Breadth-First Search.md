@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (65 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (66 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -29,6 +29,7 @@
 |  637 | [Average of Levels in Binary Tree](<https://leetcode.com/problems/average-of-levels-in-binary-tree>)                                                               | Easy    |                | [solution](<../_637. Average of Levels in Binary Tree.md>)                                 | py          | Jul 04, 2024    |
 |  653 | [Two Sum IV - Input is a BST](<https://leetcode.com/problems/two-sum-iv-input-is-a-bst>)                                                                           | Easy    |                | [solution](<../_653. Two Sum IV - Input is a BST.md>)                                      | py          | Jul 31, 2024    |
 |  662 | [Maximum Width of Binary Tree](<https://leetcode.com/problems/maximum-width-of-binary-tree>)                                                                       | Medium  |                | [solution](<../_662. Maximum Width of Binary Tree.md>)                                     | py          | Oct 28, 2024    |
+|  684 | [Redundant Connection](<https://leetcode.com/problems/redundant-connection>)                                                                                       | Medium  | Daily, N150    | [solution](<../_684. Redundant Connection.md>)                                             | py          | Jan 29, 2025    |
 |  690 | [Employee Importance](<https://leetcode.com/problems/employee-importance>)                                                                                         | Medium  |                | [solution](<../_690. Employee Importance.md>)                                              | java        | Jul 02, 2024    |
 |  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                           | Medium  | N150           | [solution](<../_695. Max Area of Island.md>)                                               | c           | Jun 24, 2024    |
 |  743 | [Network Delay Time](<https://leetcode.com/problems/network-delay-time>)                                                                                           | Medium  | N150           | [solution](<../_743. Network Delay Time.md>)                                               | java, py    | Jul 28, 2024    |
