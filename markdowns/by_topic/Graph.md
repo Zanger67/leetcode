@@ -1,4 +1,4 @@
-# [Graph](<https://leetcode.com/tag/Graph/>) (16 completed)
+# [Graph](<https://leetcode.com/tag/Graph/>) (17 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,4 +21,5 @@
 | 2374 | [Node With Highest Edge Score](<https://leetcode.com/problems/node-with-highest-edge-score>)                                                                                               | Medium  |                           | [solution](<../_2374. Node With Highest Edge Score.md>)                                                | py               | Jun 18, 2024    |
 | 2392 | [Build a Matrix With Conditions](<https://leetcode.com/problems/build-a-matrix-with-conditions>)                                                                                           | Hard    | Daily                     | [solution](<../_2392. Build a Matrix With Conditions.md>)                                              | py               | Jul 21, 2024    |
 | 2473 | [Minimum Cost to Buy Apples](<https://leetcode.com/problems/minimum-cost-to-buy-apples>)                                                                                                   | Medium  |                           | [solution](<../_2473. Minimum Cost to Buy Apples.md>)                                                  | py               | Jun 29, 2024    |
+| 2493 | [Divide Nodes Into the Maximum Number of Groups](<https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups>)                                                           | Hard    | Daily                     | [solution](<../_2493. Divide Nodes Into the Maximum Number of Groups.md>)                              | py               | Jan 30, 2025    |
 | 2976 | [Minimum Cost to Convert String I](<https://leetcode.com/problems/minimum-cost-to-convert-string-i>)                                                                                       | Medium  | Daily                     | [solution](<../_2976. Minimum Cost to Convert String I.md>)                                            | py               | Jul 27, 2024    |
