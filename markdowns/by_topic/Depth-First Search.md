@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (99 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (100 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -56,6 +56,7 @@
 |  690 | [Employee Importance](<https://leetcode.com/problems/employee-importance>)                                                                               | Medium  |                           | [solution](<../_690. Employee Importance.md>)                                         | java        | Jul 02, 2024    |
 |  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                 | Medium  | N150                      | [solution](<../_695. Max Area of Island.md>)                                          | c           | Jun 24, 2024    |
 |  743 | [Network Delay Time](<https://leetcode.com/problems/network-delay-time>)                                                                                 | Medium  | N150                      | [solution](<../_743. Network Delay Time.md>)                                          | java, py    | Jul 28, 2024    |
+|  827 | [Making A Large Island](<https://leetcode.com/problems/making-a-large-island>)                                                                           | Hard    | Daily                     | [solution](<../_827. Making A Large Island.md>)                                       | py          | Jan 31, 2025    |
 |  863 | [All Nodes Distance K in Binary Tree](<https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree>)                                               | Medium  |                           | [solution](<../_863. All Nodes Distance K in Binary Tree.md>)                         | py          | Jun 26, 2024    |
 |  938 | [Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)                                                                                     | Easy    |                           | [solution](<../_938. Range Sum of BST.md>)                                            | js, py      | Jul 26, 2024    |
 |  951 | [Flip Equivalent Binary Trees](<https://leetcode.com/problems/flip-equivalent-binary-trees>)                                                             | Medium  | Daily                     | [solution](<../_951. Flip Equivalent Binary Trees.md>)                                | py          | Oct 24, 2024    |

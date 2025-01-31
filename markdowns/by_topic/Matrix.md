@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (51 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (52 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -20,6 +20,7 @@
 |  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                                             | Medium  | N150           | [solution](<../_695. Max Area of Island.md>)                                               | c           | Jun 24, 2024    |
 |  794 | [Valid Tic-Tac-Toe State](<https://leetcode.com/problems/valid-tic-tac-toe-state>)                                                                                                   | Medium  |                | [solution](<../_794. Valid Tic-Tac-Toe State.md>)                                          | py          | Jul 05, 2024    |
 |  807 | [Max Increase to Keep City Skyline](<https://leetcode.com/problems/max-increase-to-keep-city-skyline>)                                                                               | Medium  |                | [solution](<../_807. Max Increase to Keep City Skyline.md>)                                | java        | Jun 22, 2024    |
+|  827 | [Making A Large Island](<https://leetcode.com/problems/making-a-large-island>)                                                                                                       | Hard    | Daily          | [solution](<../_827. Making A Large Island.md>)                                            | py          | Jan 31, 2025    |
 |  840 | [Magic Squares In Grid](<https://leetcode.com/problems/magic-squares-in-grid>)                                                                                                       | Medium  | Daily          | [solution](<../_840. Magic Squares In Grid.md>)                                            | py          | Aug 09, 2024    |
 |  861 | [Score After Flipping Matrix](<https://leetcode.com/problems/score-after-flipping-matrix>)                                                                                           | Medium  |                | [solution](<../_861. Score After Flipping Matrix.md>)                                      | c, py       | Jun 10, 2024    |
 |  867 | [Transpose Matrix](<https://leetcode.com/problems/transpose-matrix>)                                                                                                                 | Easy    |                | [solution](<../_867. Transpose Matrix.md>)                                                 | py          | Jun 15, 2024    |

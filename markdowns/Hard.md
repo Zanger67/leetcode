@@ -1,4 +1,4 @@
-# Hard Questions (37)
+# Hard Questions (38)
 
 *[Back to top](<../README.md>)*
 
@@ -23,6 +23,7 @@
 |  664 | [Strange Printer](<https://leetcode.com/problems/strange-printer>)                                                                                                 | Hard    | Daily     | [solution](<_664. Strange Printer.md>)                                                  | py          | Aug 21, 2024    |
 |  719 | [Find K-th Smallest Pair Distance](<https://leetcode.com/problems/find-k-th-smallest-pair-distance>)                                                               | Hard    | Daily     | [solution](<_719. Find K-th Smallest Pair Distance.md>)                                 | py          | Aug 14, 2024    |
 |  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                                 | Hard    | Daily     | [solution](<_726. Number of Atoms.md>)                                                  | py          | Jul 14, 2024    |
+|  827 | [Making A Large Island](<https://leetcode.com/problems/making-a-large-island>)                                                                                     | Hard    | Daily     | [solution](<_827. Making A Large Island.md>)                                            | py          | Jan 31, 2025    |
 |  895 | [Maximum Frequency Stack](<https://leetcode.com/problems/maximum-frequency-stack>)                                                                                 | Hard    |           | [solution](<_895. Maximum Frequency Stack.md>)                                          | java, py    | Jul 11, 2024    |
 |  987 | [Vertical Order Traversal of a Binary Tree](<https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>)                                             | Hard    |           | [solution](<_987. Vertical Order Traversal of a Binary Tree.md>)                        | py          | Jun 12, 2024    |
 |  995 | [Minimum Number of K Consecutive Bit Flips](<https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips>)                                             | Hard    | Daily     | [solution](<_995. Minimum Number of K Consecutive Bit Flips.md>)                        | c, py       | Jun 24, 2024    |

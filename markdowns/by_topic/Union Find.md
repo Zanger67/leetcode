@@ -1,4 +1,4 @@
-# [Union Find](<https://leetcode.com/tag/Union-Find/>) (15 completed)
+# [Union Find](<https://leetcode.com/tag/Union-Find/>) (16 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -11,6 +11,7 @@
 |  261 | [Graph Valid Tree](<https://leetcode.com/problems/graph-valid-tree>)                                                                                     | Medium  | B75, N150, Weekly Premium | [solution](<../_261. Graph Valid Tree.md>)                                            | py          | Jan 29, 2025    |
 |  684 | [Redundant Connection](<https://leetcode.com/problems/redundant-connection>)                                                                             | Medium  | Daily, N150               | [solution](<../_684. Redundant Connection.md>)                                        | py          | Jan 29, 2025    |
 |  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                 | Medium  | N150                      | [solution](<../_695. Max Area of Island.md>)                                          | c           | Jun 24, 2024    |
+|  827 | [Making A Large Island](<https://leetcode.com/problems/making-a-large-island>)                                                                           | Hard    | Daily                     | [solution](<../_827. Making A Large Island.md>)                                       | py          | Jan 31, 2025    |
 |  959 | [Regions Cut By Slashes](<https://leetcode.com/problems/regions-cut-by-slashes>)                                                                         | Medium  | Daily                     | [solution](<../_959. Regions Cut By Slashes.md>)                                      | py          | Aug 10, 2024    |
 | 1020 | [Number of Enclaves](<https://leetcode.com/problems/number-of-enclaves>)                                                                                 | Medium  |                           | [solution](<../_1020. Number of Enclaves.md>)                                         | py          | Jun 26, 2024    |
 | 1101 | [The Earliest Moment When Everyone Become Friends](<https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends>)                     | Medium  | Weekly Premium            | [solution](<../_1101. The Earliest Moment When Everyone Become Friends.md>)           | py          | Jul 04, 2024    |
