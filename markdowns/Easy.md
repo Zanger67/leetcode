@@ -1,4 +1,4 @@
-# Easy Questions (167)
+# Easy Questions (168)
 
 *[Back to top](<../README.md>)*
 
@@ -161,6 +161,7 @@
 | 3074 | [Apple Redistribution into Boxes](<https://leetcode.com/problems/apple-redistribution-into-boxes>)                                                                 | Easy    |                | [solution](<_3074. Apple Redistribution into Boxes.md>)                                 | py                           | May 23, 2024    |
 | 3110 | [Score of a String](<https://leetcode.com/problems/score-of-a-string>)                                                                                             | Easy    | Daily          | [solution](<_3110. Score of a String.md>)                                               | java, py                     | Jun 01, 2024    |
 | 3136 | [Valid Word](<https://leetcode.com/problems/valid-word>)                                                                                                           | Easy    |                | [solution](<_3136. Valid Word.md>)                                                      | c, py                        | Jul 03, 2024    |
+| 3151 | [Special Array I](<https://leetcode.com/problems/special-array-i>)                                                                                                 | Easy    | Daily          | [solution](<_3151. Special Array I.md>)                                                 | py                           | Feb 01, 2025    |
 | 3168 | Weekly Contest 400 - q1 - [Minimum Number of Chairs in a Waiting Room](<https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room>)                 | Easy    | Contest        | [solution](<_3168. Minimum Number of Chairs in a Waiting Room.md>)                      | py                           | Jul 07, 2024    |
 | 3174 | Biweekly Contest 132 - q1 - [Clear Digits](<https://leetcode.com/problems/clear-digits>)                                                                           | Easy    | Contest        | [solution](<_3174. Clear Digits.md>)                                                    | py                           | Jul 07, 2024    |
 | 3178 | Weekly Contest 401 - q1 - [Find the Child Who Has the Ball After K Seconds](<https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds>)       | Easy    | Contest        | [solution](<_3178. Find the Child Who Has the Ball After K Seconds.md>)                 | py                           | Jul 07, 2024    |
