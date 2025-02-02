@@ -1,4 +1,4 @@
-# Easy Questions (168)
+# Easy Questions (169)
 
 *[Back to top](<../README.md>)*
 
@@ -118,6 +118,7 @@
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                                   | Easy    |                | [solution](<_1700. Number of Students Unable to Eat Lunch.md>)                          | py                           | Jun 02, 2024    |
 | 1736 | [Latest Time by Replacing Hidden Digits](<https://leetcode.com/problems/latest-time-by-replacing-hidden-digits>)                                                   | Easy    |                | [solution](<_1736. Latest Time by Replacing Hidden Digits.md>)                          | c                            | Jun 03, 2024    |
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                   | Easy    |                | [solution](<_1748. Sum of Unique Elements.md>)                                          | c                            | Jun 06, 2024    |
+| 1752 | [Check if Array Is Sorted and Rotated](<https://leetcode.com/problems/check-if-array-is-sorted-and-rotated>)                                                       | Easy    | Daily          | [solution](<_1752. Check if Array Is Sorted and Rotated.md>)                            | py                           | Feb 02, 2025    |
 | 1768 | [Merge Strings Alternately](<https://leetcode.com/problems/merge-strings-alternately>)                                                                             | Easy    |                | [solution](<_1768. Merge Strings Alternately.md>)                                       | java                         | Jul 01, 2024    |
 | 1791 | [Find Center of Star Graph](<https://leetcode.com/problems/find-center-of-star-graph>)                                                                             | Easy    | Daily          | [solution](<_1791. Find Center of Star Graph.md>)                                       | c, cpp, java, py             | Jun 27, 2024    |
 | 1800 | [Maximum Ascending Subarray Sum](<https://leetcode.com/problems/maximum-ascending-subarray-sum>)                                                                   | Easy    |                | [solution](<_1800. Maximum Ascending Subarray Sum.md>)                                  | py                           | Jul 29, 2024    |
