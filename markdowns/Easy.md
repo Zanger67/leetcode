@@ -1,4 +1,4 @@
-# Easy Questions (169)
+# Easy Questions (170)
 
 *[Back to top](<../README.md>)*
 
@@ -160,6 +160,7 @@
 | 2894 | [Divisible and Non-divisible Sums Difference](<https://leetcode.com/problems/divisible-and-non-divisible-sums-difference>)                                         | Easy    |                | [solution](<_2894. Divisible and Non-divisible Sums Difference.md>)                     | py                           | May 22, 2024    |
 | 2942 | [Find Words Containing Character](<https://leetcode.com/problems/find-words-containing-character>)                                                                 | Easy    |                | [solution](<_2942. Find Words Containing Character.md>)                                 | c                            | Jun 06, 2024    |
 | 3074 | [Apple Redistribution into Boxes](<https://leetcode.com/problems/apple-redistribution-into-boxes>)                                                                 | Easy    |                | [solution](<_3074. Apple Redistribution into Boxes.md>)                                 | py                           | May 23, 2024    |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](<https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray>)         | Easy    | Daily          | [solution](<_3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md>)     | py                           | Feb 03, 2025    |
 | 3110 | [Score of a String](<https://leetcode.com/problems/score-of-a-string>)                                                                                             | Easy    | Daily          | [solution](<_3110. Score of a String.md>)                                               | java, py                     | Jun 01, 2024    |
 | 3136 | [Valid Word](<https://leetcode.com/problems/valid-word>)                                                                                                           | Easy    |                | [solution](<_3136. Valid Word.md>)                                                      | c, py                        | Jul 03, 2024    |
 | 3151 | [Special Array I](<https://leetcode.com/problems/special-array-i>)                                                                                                 | Easy    | Daily          | [solution](<_3151. Special Array I.md>)                                                 | py                           | Feb 01, 2025    |
