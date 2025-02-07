@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (127 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (128 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -127,6 +127,7 @@
 | 2955 | [Number of Same-End Substrings](<https://leetcode.com/problems/number-of-same-end-substrings>)                                                                                     | Medium  | Weekly Premium | [solution](<../_2955. Number of Same-End Substrings.md>)                                           | py          | Nov 04, 2024    |
 | 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                               | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                                | py          | Aug 06, 2024    |
 | 3043 | [Find the Length of the Longest Common Prefix](<https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix>)                                                       | Medium  | Daily          | [solution](<../_3043. Find the Length of the Longest Common Prefix.md>)                            | py          | Jun 28, 2024    |
+| 3160 | [Find the Number of Distinct Colors Among the Balls](<https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls>)                                           | Medium  | Daily          | [solution](<../_3160. Find the Number of Distinct Colors Among the Balls.md>)                      | py          | Feb 07, 2025    |
 | 3184 | Weekly Contest 402 - q1 - [Count Pairs That Form a Complete Day I](<https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i>)                                         | Easy    | Contest        | [solution](<../_3184. Count Pairs That Form a Complete Day I.md>)                                  | py          | Jul 07, 2024    |
 | 3185 | Weekly Contest 402 - q2 - [Count Pairs That Form a Complete Day II](<https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii>)                                       | Medium  | Contest        | [solution](<../_3185. Count Pairs That Form a Complete Day II.md>)                                 | py          | Jul 07, 2024    |
 | 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>)                                       | Medium  | Contest        | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)                                 | py          | Jul 07, 2024    |
