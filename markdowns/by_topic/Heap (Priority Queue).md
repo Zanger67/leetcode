@@ -1,4 +1,4 @@
-# [Heap (Priority Queue)](<https://leetcode.com/tag/Heap-(Priority-Queue)/>) (22 completed)
+# [Heap (Priority Queue)](<https://leetcode.com/tag/Heap-(Priority-Queue)/>) (23 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -27,4 +27,5 @@
 | 2285 | [Maximum Total Importance of Roads](<https://leetcode.com/problems/maximum-total-importance-of-roads>)                                                                                   | Medium  | Daily          | [solution](<../_2285. Maximum Total Importance of Roads.md>)                                          | c, cpp, java, py | Jun 28, 2024    |
 | 2349 | [Design a Number Container System](<https://leetcode.com/problems/design-a-number-container-system>)                                                                                     | Medium  | Daily          | [solution](<../_2349. Design a Number Container System.md>)                                           | py               | Oct 28, 2024    |
 | 2473 | [Minimum Cost to Buy Apples](<https://leetcode.com/problems/minimum-cost-to-buy-apples>)                                                                                                 | Medium  |                | [solution](<../_2473. Minimum Cost to Buy Apples.md>)                                                 | py               | Jun 29, 2024    |
+| 2599 | [Make the Prefix Sum Non-negative](<https://leetcode.com/problems/make-the-prefix-sum-non-negative>)                                                                                     | Medium  | Weekly Premium | [solution](<../_2599. Make the Prefix Sum Non-negative.md>)                                           | py               | Feb 10, 2025    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                                       | Medium  |                | [solution](<../_2679. Sum in a Matrix.md>)                                                            | java             | May 22, 2024    |
