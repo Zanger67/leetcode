@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (100 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (101 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -102,6 +102,7 @@
 | 2385 | [Amount of Time for Binary Tree to Be Infected](<https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected>)                           | Medium  |                           | [solution](<../_2385. Amount of Time for Binary Tree to Be Infected.md>)              | py          | Jun 26, 2024    |
 | 2415 | [Reverse Odd Levels of Binary Tree](<https://leetcode.com/problems/reverse-odd-levels-of-binary-tree>)                                                   | Medium  | Daily                     | [solution](<../_2415. Reverse Odd Levels of Binary Tree.md>)                          | py          | Jun 23, 2024    |
 | 2458 | [Height of Binary Tree After Subtree Removal Queries](<https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries>)               | Hard    | Daily                     | [solution](<../_2458. Height of Binary Tree After Subtree Removal Queries.md>)        | py          | Oct 26, 2024    |
+| 2493 | [Divide Nodes Into the Maximum Number of Groups](<https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups>)                         | Hard    | Daily                     | [solution](<../_2493. Divide Nodes Into the Maximum Number of Groups.md>)             | py          | Jan 30, 2025    |
 | 2658 | [Maximum Number of Fish in a Grid](<https://leetcode.com/problems/maximum-number-of-fish-in-a-grid>)                                                     | Medium  | Daily                     | [solution](<../_2658. Maximum Number of Fish in a Grid.md>)                           | py          | Jan 28, 2025    |
 | 2852 | [Sum of Remoteness of All Cells](<https://leetcode.com/problems/sum-of-remoteness-of-all-cells>)                                                         | Medium  | Weekly Premium            | [solution](<../_2852. Sum of Remoteness of All Cells.md>)                             | py          | Jan 23, 2025    |
 | 3157 | [Find the Level of Tree with Minimum Sum](<https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum>)                                       | Medium  |                           | [solution](<../_3157. Find the Level of Tree with Minimum Sum.md>)                    | py          | Jul 05, 2024    |

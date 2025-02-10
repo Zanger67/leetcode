@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (68 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (69 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -74,3 +74,4 @@
 | 3227 | Weekly Contest 407 - q2 - [Vowels Game in a String](<https://leetcode.com/problems/vowels-game-in-a-string>)                                                       | Medium  | Contest        | [solution](<../_3227. Vowels Game in a String.md>)                                         | py                                          | Jul 21, 2024    |
 | 3232 | Weekly Contest 408 - q1 - [Find if Digit Game Can Be Won](<https://leetcode.com/problems/find-if-digit-game-can-be-won>)                                           | Easy    | Contest        | [solution](<../_3232. Find if Digit Game Can Be Won.md>)                                   | py                                          | Jul 28, 2024    |
 | 3233 | Weekly Contest 408 - q2 - [Find the Count of Numbers Which Are Not Special](<https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special>)       | Medium  | Contest        | [solution](<../_3233. Find the Count of Numbers Which Are Not Special.md>)                 | java, py                                    | Jul 28, 2024    |
+| 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                           | Medium  |                | [solution](<../_3443. Maximum Manhattan Distance After K Changes.md>)                      | py                                          | Feb 04, 2025    |

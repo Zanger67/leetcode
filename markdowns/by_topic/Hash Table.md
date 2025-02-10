@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (128 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (129 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -134,3 +134,4 @@
 | 3217 | [Delete Nodes From Linked List Present in Array](<https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array>)                                                   | Medium  | Daily          | [solution](<../_3217. Delete Nodes From Linked List Present in Array.md>)                          | py          | Sep 06, 2024    |
 | 3238 | Biweekly Contest 136 - q1 - [Find the Number of Winning Players](<https://leetcode.com/problems/find-the-number-of-winning-players>)                                               | Easy    | Contest        | [solution](<../_3238. Find the Number of Winning Players.md>)                                      | py          | Aug 03, 2024    |
 | 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                                                                         | Easy    |                | [solution](<../_3242. Design Neighbor Sum Service.md>)                                             | py          | Aug 04, 2024    |
+| 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                           | Medium  |                | [solution](<../_3443. Maximum Manhattan Distance After K Changes.md>)                              | py          | Feb 04, 2025    |
