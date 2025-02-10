@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (45 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (46 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -28,6 +28,7 @@
 | 1564 | [Put Boxes Into the Warehouse I](<https://leetcode.com/problems/put-boxes-into-the-warehouse-i>)                                                                             | Medium  |                | [solution](<../_1564. Put Boxes Into the Warehouse I.md>)                                       | py                           | Jun 15, 2024    |
 | 1580 | [Put Boxes Into the Warehouse II](<https://leetcode.com/problems/put-boxes-into-the-warehouse-ii>)                                                                           | Medium  | Weekly Premium | [solution](<../_1580. Put Boxes Into the Warehouse II.md>)                                      | py                           | Jun 15, 2024    |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](<https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums>)                                                   | Medium  | Daily          | [solution](<../_1605. Find Valid Matrix Given Row and Column Sums.md>)                          | py                           | Jul 20, 2024    |
+| 1642 | [Furthest Building You Can Reach](<https://leetcode.com/problems/furthest-building-you-can-reach>)                                                                           | Medium  |                | [solution](<../_1642. Furthest Building You Can Reach.md>)                                      | py                           | Feb 10, 2025    |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](<https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers>)                           | Medium  |                | [solution](<../_1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.md>)              | c, java                      | Jun 22, 2024    |
 | 1717 | [Maximum Score From Removing Substrings](<https://leetcode.com/problems/maximum-score-from-removing-substrings>)                                                             | Medium  | Daily          | [solution](<../_1717. Maximum Score From Removing Substrings.md>)                               | py                           | Jul 12, 2024    |
 | 1736 | [Latest Time by Replacing Hidden Digits](<https://leetcode.com/problems/latest-time-by-replacing-hidden-digits>)                                                             | Easy    |                | [solution](<../_1736. Latest Time by Replacing Hidden Digits.md>)                               | c                            | Jun 03, 2024    |
