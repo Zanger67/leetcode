@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (38 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (39 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,6 +22,7 @@
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                             | Easy    |                | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)              | py                           | Jun 02, 2024    |
 | 1701 | [Average Waiting Time](<https://leetcode.com/problems/average-waiting-time>)                                                                                 | Medium  | Daily          | [solution](<../_1701. Average Waiting Time.md>)                                | js, py                       | Jul 09, 2024    |
 | 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)                                                 | Medium  | Daily          | [solution](<../_1823. Find the Winner of the Circular Game.md>)                | c, cpp, java, js, py         | Jul 08, 2024    |
+| 1910 | [Remove All Occurrences of a Substring](<https://leetcode.com/problems/remove-all-occurrences-of-a-substring>)                                               | Medium  | Daily          | [solution](<../_1910. Remove All Occurrences of a Substring.md>)               | py                           | Feb 11, 2025    |
 | 1929 | [Concatenation of Array](<https://leetcode.com/problems/concatenation-of-array>)                                                                             | Easy    |                | [solution](<../_1929. Concatenation of Array.md>)                              | c, java, py                  | Jun 03, 2024    |
 | 1945 | [Sum of Digits of String After Convert](<https://leetcode.com/problems/sum-of-digits-of-string-after-convert>)                                               | Easy    | Daily          | [solution](<../_1945. Sum of Digits of String After Convert.md>)               | py                           | Sep 03, 2024    |
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>)                   | Easy    |                | [solution](<../_2011. Final Value of Variable After Performing Operations.md>) | c                            | Jun 03, 2024    |

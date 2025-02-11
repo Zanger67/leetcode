@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (52 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (53 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -50,6 +50,7 @@
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                               | Easy    |                | [solution](<../_1700. Number of Students Unable to Eat Lunch.md>)                 | py           | Jun 02, 2024    |
 | 1717 | [Maximum Score From Removing Substrings](<https://leetcode.com/problems/maximum-score-from-removing-substrings>)                                               | Medium  | Daily          | [solution](<../_1717. Maximum Score From Removing Substrings.md>)                 | py           | Jul 12, 2024    |
 | 1762 | [Buildings With an Ocean View](<https://leetcode.com/problems/buildings-with-an-ocean-view>)                                                                   | Medium  |                | [solution](<../_1762. Buildings With an Ocean View.md>)                           | py           | Jun 10, 2024    |
+| 1910 | [Remove All Occurrences of a Substring](<https://leetcode.com/problems/remove-all-occurrences-of-a-substring>)                                                 | Medium  | Daily          | [solution](<../_1910. Remove All Occurrences of a Substring.md>)                  | py           | Feb 11, 2025    |
 | 2130 | [Maximum Twin Sum of a Linked List](<https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list>)                                                         | Medium  |                | [solution](<../_2130. Maximum Twin Sum of a Linked List.md>)                      | py           | Jun 21, 2024    |
 | 2211 | [Count Collisions on a Road](<https://leetcode.com/problems/count-collisions-on-a-road>)                                                                       | Medium  |                | [solution](<../_2211. Count Collisions on a Road.md>)                             | py           | Jul 14, 2024    |
 | 2390 | [Removing Stars From a String](<https://leetcode.com/problems/removing-stars-from-a-string>)                                                                   | Medium  |                | [solution](<../_2390. Removing Stars From a String.md>)                           | java, py     | Jun 02, 2024    |

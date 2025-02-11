@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (132 completed)
+# [String](<https://leetcode.com/tag/String/>) (133 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -99,6 +99,7 @@
 | 1768 | [Merge Strings Alternately](<https://leetcode.com/problems/merge-strings-alternately>)                                                                                             | Easy    |                | [solution](<../_1768. Merge Strings Alternately.md>)                                               | java        | Jul 01, 2024    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                                                                   | Medium  | Weekly Premium | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                                         | py          | Jun 27, 2024    |
 | 1844 | [Replace All Digits with Characters](<https://leetcode.com/problems/replace-all-digits-with-characters>)                                                                           | Easy    |                | [solution](<../_1844. Replace All Digits with Characters.md>)                                      | py          | Jun 29, 2024    |
+| 1910 | [Remove All Occurrences of a Substring](<https://leetcode.com/problems/remove-all-occurrences-of-a-substring>)                                                                     | Medium  | Daily          | [solution](<../_1910. Remove All Occurrences of a Substring.md>)                                   | py          | Feb 11, 2025    |
 | 1945 | [Sum of Digits of String After Convert](<https://leetcode.com/problems/sum-of-digits-of-string-after-convert>)                                                                     | Easy    | Daily          | [solution](<../_1945. Sum of Digits of String After Convert.md>)                                   | py          | Sep 03, 2024    |
 | 1957 | [Delete Characters to Make Fancy String](<https://leetcode.com/problems/delete-characters-to-make-fancy-string>)                                                                   | Easy    |                | [solution](<../_1957. Delete Characters to Make Fancy String.md>)                                  | py          | Nov 04, 2024    |
 | 1980 | [Find Unique Binary String](<https://leetcode.com/problems/find-unique-binary-string>)                                                                                             | Medium  |                | [solution](<../_1980. Find Unique Binary String.md>)                                               | c, py       | Jun 27, 2024    |
