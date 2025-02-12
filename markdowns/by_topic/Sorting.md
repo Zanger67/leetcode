@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (73 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (74 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -65,6 +65,7 @@
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                           | Easy    |                | [solution](<../_2248. Intersection of Multiple Arrays.md>)                                      | py               | May 31, 2024    |
 | 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                                 | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                                         | py               | Jul 05, 2024    |
 | 2285 | [Maximum Total Importance of Roads](<https://leetcode.com/problems/maximum-total-importance-of-roads>)                                                                       | Medium  | Daily          | [solution](<../_2285. Maximum Total Importance of Roads.md>)                                    | c, cpp, java, py | Jun 28, 2024    |
+| 2342 | [Max Sum of a Pair With Equal Sum of Digits](<https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits>)                                                     | Medium  | Daily          | [solution](<../_2342. Max Sum of a Pair With Equal Sum of Digits.md>)                           | py               | Feb 12, 2025    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                                 | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                                 | py               | Jun 01, 2024    |
 | 2418 | [Sort the People](<https://leetcode.com/problems/sort-the-people>)                                                                                                           | Easy    | Daily          | [solution](<../_2418. Sort the People.md>)                                                      | py               | Jul 22, 2024    |
 | 2501 | [Longest Square Streak in an Array](<https://leetcode.com/problems/longest-square-streak-in-an-array>)                                                                       | Medium  | Daily          | [solution](<../_2501. Longest Square Streak in an Array.md>)                                    | py               | Oct 28, 2024    |
