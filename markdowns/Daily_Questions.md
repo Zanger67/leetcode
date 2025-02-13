@@ -4,6 +4,24 @@
 
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
+   December 2024
+Mo Tu We Th Fr Sa Su
+                   1
+ [2](<_1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md>)  3  4  5  6  7  8
+ 9 10 11 12 13 14 15
+16 17 [18](<_1475. Final Prices With a Special Discount in a Shop.md>) 19 [20](<_2415. Reverse Odd Levels of Binary Tree.md>) 21 22
+23 24 25 26 27 28 29
+30 31
+
+   February 2025
+Mo Tu We Th Fr Sa Su
+                [1](<_3151. Special Array I.md>)  [2](<_1752. Check if Array Is Sorted and Rotated.md>)
+ [3](<_3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md>)  [4](<_1800. Maximum Ascending Subarray Sum.md>)  5  6  [7](<_3160. Find the Number of Distinct Colors Among the Balls.md>)  [8](<_2349. Design a Number Container System.md>)  9
+[10](<_3174. Clear Digits.md>) [11](<_1910. Remove All Occurrences of a Substring.md>) [12](<_2342. Max Sum of a Pair With Equal Sum of Digits.md>) 13 14 15 16
+17 18 19 20 21 22 23
+24 25 26 27 28
+
+
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](<https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits>)                                                                   | Medium  | Daily          | [solution](<_2342. Max Sum of a Pair With Equal Sum of Digits.md>)                                  | py                           | Feb 12, 2025    |
