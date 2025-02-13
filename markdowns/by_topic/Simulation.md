@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (39 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (40 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -37,6 +37,7 @@
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                                                           | Easy    | Daily          | [solution](<../_2582. Pass the Pillow.md>)                                     | c, cpp, cs, java, js, py     | Jul 06, 2024    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                           | Medium  |                | [solution](<../_2679. Sum in a Matrix.md>)                                     | java                         | May 22, 2024    |
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                                         | Hard    | Daily          | [solution](<../_2751. Robot Collisions.md>)                                    | py                           | Jul 13, 2024    |
+| 3066 | [Minimum Operations to Exceed Threshold Value II](<https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii>)                           | Medium  |                | [solution](<../_3066. Minimum Operations to Exceed Threshold Value II.md>)     | py                           | Feb 13, 2025    |
 | 3160 | [Find the Number of Distinct Colors Among the Balls](<https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls>)                     | Medium  | Daily          | [solution](<../_3160. Find the Number of Distinct Colors Among the Balls.md>)  | py                           | Feb 07, 2025    |
 | 3168 | Weekly Contest 400 - q1 - [Minimum Number of Chairs in a Waiting Room](<https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room>)           | Easy    | Contest        | [solution](<../_3168. Minimum Number of Chairs in a Waiting Room.md>)          | py                           | Jul 07, 2024    |
 | 3174 | Biweekly Contest 132 - q1 - [Clear Digits](<https://leetcode.com/problems/clear-digits>)                                                                     | Easy    | Contest, Daily | [solution](<../_3174. Clear Digits.md>)                                        | py                           | Jul 07, 2024    |
