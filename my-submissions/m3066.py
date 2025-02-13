@@ -12,3 +12,4 @@ class Solution:
             ops += 1
 
         return ops
+
