@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (130 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (131 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -94,6 +94,7 @@
 | 1740 | [Find Distance in a Binary Tree](<https://leetcode.com/problems/find-distance-in-a-binary-tree>)                                                                                   | Medium  | Weekly Premium | [solution](<../_1740. Find Distance in a Binary Tree.md>)                                          | py          | Jul 15, 2024    |
 | 1743 | [Restore the Array From Adjacent Pairs](<https://leetcode.com/problems/restore-the-array-from-adjacent-pairs>)                                                                     | Medium  |                | [solution](<../_1743. Restore the Array From Adjacent Pairs.md>)                                   | py          | Jun 27, 2024    |
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                                   | Easy    |                | [solution](<../_1748. Sum of Unique Elements.md>)                                                  | c           | Jun 06, 2024    |
+| 1756 | [Design Most Recently Used Queue](<https://leetcode.com/problems/design-most-recently-used-queue>)                                                                                 | Medium  | Weekly Premium | [solution](<../_1756. Design Most Recently Used Queue.md>)                                         | py          | Feb 15, 2025    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                                                                   | Medium  | Weekly Premium | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                                         | py          | Jun 27, 2024    |
 | 1836 | [Remove Duplicates From an Unsorted Linked List](<https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list>)                                                   | Medium  | Weekly Premium | [solution](<../_1836. Remove Duplicates From an Unsorted Linked List.md>)                          | java, py    | Jul 08, 2024    |
 | 1852 | [Distinct Numbers in Each Subarray](<https://leetcode.com/problems/distinct-numbers-in-each-subarray>)                                                                             | Medium  | Weekly Premium | [solution](<../_1852. Distinct Numbers in Each Subarray.md>)                                       | java, py    | Jun 27, 2024    |
