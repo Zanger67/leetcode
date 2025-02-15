@@ -1,4 +1,4 @@
-# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (21 completed)
+# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (22 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -26,4 +26,5 @@
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                                                   | Hard    |                | [solution](<../_1255. Maximum Score Words Formed by Letters.md>)                          | py          | Jun 15, 2024    |
 | 1980 | [Find Unique Binary String](<https://leetcode.com/problems/find-unique-binary-string>)                                                                           | Medium  |                | [solution](<../_1980. Find Unique Binary String.md>)                                      | c, py       | Jun 27, 2024    |
 | 2664 | [The Knight’s Tour](<https://leetcode.com/problems/the-knights-tour>)                                                                                            | Medium  | Weekly Premium | [solution](<../_2664. The Knight’s Tour.md>)                                              | py          | Oct 26, 2024    |
+| 2698 | [Find the Punishment Number of an Integer](<https://leetcode.com/problems/find-the-punishment-number-of-an-integer>)                                             | Medium  | Daily          | [solution](<../_2698. Find the Punishment Number of an Integer.md>)                       | py          | Feb 15, 2025    |
 | 3211 | Weekly Contest 405 - q2 - [Generate Binary Strings Without Adjacent Zeros](<https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros>)       | Medium  | Contest        | [solution](<../_3211. Generate Binary Strings Without Adjacent Zeros.md>)                 | js, py      | Jul 07, 2024    |

@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (69 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (70 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -63,6 +63,7 @@
 | 2396 | [Strictly Palindromic Number](<https://leetcode.com/problems/strictly-palindromic-number>)                                                                         | Medium  |                | [solution](<../_2396. Strictly Palindromic Number.md>)                                     | c, cpp, java, js, kt, py, rb, rs            | Jun 09, 2024    |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](<https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three>)             | Easy    |                | [solution](<../_2455. Average Value of Even Numbers That Are Divisible by Three.md>)       | java                                        | Jul 04, 2024    |
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                                                                 | Easy    | Daily          | [solution](<../_2582. Pass the Pillow.md>)                                                 | c, cpp, cs, java, js, py                    | Jul 06, 2024    |
+| 2698 | [Find the Punishment Number of an Integer](<https://leetcode.com/problems/find-the-punishment-number-of-an-integer>)                                               | Medium  | Daily          | [solution](<../_2698. Find the Punishment Number of an Integer.md>)                        | py                                          | Feb 15, 2025    |
 | 2807 | [Insert Greatest Common Divisors in Linked List](<https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list>)                                   | Medium  | Daily          | [solution](<../_2807. Insert Greatest Common Divisors in Linked List.md>)                  | py                                          | Jun 13, 2024    |
 | 2816 | [Double a Number Represented as a Linked List](<https://leetcode.com/problems/double-a-number-represented-as-a-linked-list>)                                       | Medium  |                | [solution](<../_2816. Double a Number Represented as a Linked List.md>)                    | c                                           | Jul 04, 2024    |
 | 2894 | [Divisible and Non-divisible Sums Difference](<https://leetcode.com/problems/divisible-and-non-divisible-sums-difference>)                                         | Easy    |                | [solution](<../_2894. Divisible and Non-divisible Sums Difference.md>)                     | py                                          | May 22, 2024    |
