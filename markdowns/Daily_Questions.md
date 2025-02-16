@@ -4,7 +4,7 @@
 
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
-     June 2024
+### June 2024
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 |:----|:----|:----|:----|:----|:----|:----|
 | Mo  | Tu  | We  | Th  | Fr  | Sa  | Su  |
@@ -15,7 +15,7 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 
 
-     July 2024
+### July 2024
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 |:----|:----|:----|:----|:----|:----|:----|
 | Mo  | Tu  | We  | Th  | Fr  | Sa  | Su  |
@@ -26,7 +26,7 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 29  | 30  | 31  |     |     |     |     |
 
 
-    August 2024
+### August 2024
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 |:----|:----|:----|:----|:----|:----|:----|
 | Mo  | Tu  | We  | Th  | Fr  | Sa  | Su  |
@@ -37,7 +37,7 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
 
 
-   September 2024
+### September 2024
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 |:----|:----|:----|:----|:----|:----|:----|
 | Mo  | Tu  | We  | Th  | Fr  | Sa  | Su  |
@@ -49,7 +49,7 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 30  |     |     |     |     |     |     |
 
 
-    October 2024
+### October 2024
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 |:----|:----|:----|:----|:----|:----|:----|
 | Mo  | Tu  | We  | Th  | Fr  | Sa  | Su  |
@@ -60,7 +60,7 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 28  | 29  | 30  | 31  |     |     |     |
 
 
-   November 2024
+### November 2024
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 |:----|:----|:----|:----|:----|:----|:----|
 | Mo  | Tu  | We  | Th  | Fr  | Sa  | Su  |
@@ -71,7 +71,7 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 25  | 26  | 27  | 28  | 29  | 30  |     |
 
 
-   December 2024
+### December 2024
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 |:----|:----|:----|:----|:----|:----|:----|
 | Mo  | Tu  | We  | Th  | Fr  | Sa  | Su  |
@@ -83,7 +83,7 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 30  | 31  |     |     |     |     |     |
 
 
-    January 2025
+### January 2025
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 |:----|:----|:----|:----|:----|:----|:----|
 | Mo  | Tu  | We  | Th  | Fr  | Sa  | Su  |
@@ -94,7 +94,7 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 27  | 28  | 29  | 30  | 31  |     |     |
 
 
-   February 2025
+### February 2025
 | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
 |:----|:----|:----|:----|:----|:----|:----|
 | Mo  | Tu  | We  | Th  | Fr  | Sa  | Su  |
