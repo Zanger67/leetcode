@@ -1,4 +1,4 @@
-# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (22 completed)
+# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (23 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -24,6 +24,7 @@
 | 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                               | Medium  |                | [solution](<../_1087. Brace Expansion.md>)                                                | py          | Jun 15, 2024    |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>) | Medium  |                | [solution](<../_1239. Maximum Length of a Concatenated String with Unique Characters.md>) | py          | Jun 29, 2024    |
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                                                   | Hard    |                | [solution](<../_1255. Maximum Score Words Formed by Letters.md>)                          | py          | Jun 15, 2024    |
+| 1718 | [Construct the Lexicographically Largest Valid Sequence](<https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence>)                 | Medium  | Daily          | [solution](<../_1718. Construct the Lexicographically Largest Valid Sequence.md>)         | py          | Feb 16, 2025    |
 | 1980 | [Find Unique Binary String](<https://leetcode.com/problems/find-unique-binary-string>)                                                                           | Medium  |                | [solution](<../_1980. Find Unique Binary String.md>)                                      | c, py       | Jun 27, 2024    |
 | 2664 | [The Knight’s Tour](<https://leetcode.com/problems/the-knights-tour>)                                                                                            | Medium  | Weekly Premium | [solution](<../_2664. The Knight’s Tour.md>)                                              | py          | Oct 26, 2024    |
 | 2698 | [Find the Punishment Number of an Integer](<https://leetcode.com/problems/find-the-punishment-number-of-an-integer>)                                             | Medium  | Daily          | [solution](<../_2698. Find the Punishment Number of an Integer.md>)                       | py          | Feb 15, 2025    |
