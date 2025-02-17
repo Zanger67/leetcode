@@ -1,4 +1,4 @@
-# Medium Questions (379)
+# Medium Questions (380)
 
 *[Back to top](<../README.md>)*
 
@@ -385,3 +385,4 @@
 | 3240 | Biweekly Contest 136 - q3 - [Minimum Number of Flips to Make Binary Grid Palindromic II](<https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii>)       | Medium  | Contest                   | [solution](<_3240. Minimum Number of Flips to Make Binary Grid Palindromic II.md>)                  | py                                          | Aug 03, 2024    |
 | 3249 | [Count the Number of Good Nodes](<https://leetcode.com/problems/count-the-number-of-good-nodes>)                                                                                           | Medium  |                           | [solution](<_3249. Count the Number of Good Nodes.md>)                                              | py                                          | Aug 12, 2024    |
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                                   | Medium  |                           | [solution](<_3443. Maximum Manhattan Distance After K Changes.md>)                                  | py                                          | Feb 04, 2025    |
+| 3460 | Question 3460                                                                                                                                                                              | Medium  |                           | [solution](<_3460. Question 3460.md>)                                                               | py                                          | Feb 17, 2025    |
