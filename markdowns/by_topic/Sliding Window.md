@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (15 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (16 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -17,6 +17,7 @@
 | 1052 | [Grumpy Bookstore Owner](<https://leetcode.com/problems/grumpy-bookstore-owner>)                                                                                                         | Medium  |                | [solution](<../_1052. Grumpy Bookstore Owner.md>)                                                     | py          | Jun 24, 2024    |
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                                         | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                             | py          | Jun 22, 2024    |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](<https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit>) | Medium  | Daily          | [solution](<../_1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md>) | java        | Jun 24, 2024    |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](<https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element>)                                                  | Medium  |                | [solution](<../_1493. Longest Subarray of 1's After Deleting One Element.md>)                         | py          | Feb 17, 2025    |
 | 1852 | [Distinct Numbers in Each Subarray](<https://leetcode.com/problems/distinct-numbers-in-each-subarray>)                                                                                   | Medium  | Weekly Premium | [solution](<../_1852. Distinct Numbers in Each Subarray.md>)                                          | java, py    | Jun 27, 2024    |
 | 2134 | [Minimum Swaps to Group All 1's Together II](<https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii>)                                                                  | Medium  | Daily          | [solution](<../_2134. Minimum Swaps to Group All 1's Together II.md>)                                 | py          | Aug 02, 2024    |
 | 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)                                                             | Medium  | Weekly Premium | [solution](<../_2743. Count Substrings Without Repeating Character.md>)                               | java, py    | Jun 22, 2024    |
