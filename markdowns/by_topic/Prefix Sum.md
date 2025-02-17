@@ -1,4 +1,4 @@
-# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (17 completed)
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (18 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  930 | [Binary Subarrays With Sum](<https://leetcode.com/problems/binary-subarrays-with-sum>)                                                                             | Medium  |                | [solution](<../_930. Binary Subarrays With Sum.md>)                                        | py          | Jun 22, 2024    |
 |  974 | [Subarray Sums Divisible by K](<https://leetcode.com/problems/subarray-sums-divisible-by-k>)                                                                       | Medium  | Daily          | [solution](<../_974. Subarray Sums Divisible by K.md>)                                     | java, py    | Jun 09, 2024    |
 |  995 | [Minimum Number of K Consecutive Bit Flips](<https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips>)                                             | Hard    | Daily          | [solution](<../_995. Minimum Number of K Consecutive Bit Flips.md>)                        | c, py       | Jun 24, 2024    |
+| 1004 | [Max Consecutive Ones III](<https://leetcode.com/problems/max-consecutive-ones-iii>)                                                                               | Medium  |                | [solution](<../_1004. Max Consecutive Ones III.md>)                                        | py          | Feb 17, 2025    |
 | 1140 | [Stone Game II](<https://leetcode.com/problems/stone-game-ii>)                                                                                                     | Medium  | Daily          | [solution](<../_1140. Stone Game II.md>)                                                   | py          | Aug 20, 2024    |
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                   | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                  | py          | Jun 22, 2024    |
 | 1422 | [Maximum Score After Splitting a String](<https://leetcode.com/problems/maximum-score-after-splitting-a-string>)                                                   | Easy    | Daily          | [solution](<../_1422. Maximum Score After Splitting a String.md>)                          | c, py       | Jan 01, 2025    |

@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (16 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (17 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -14,6 +14,7 @@
 |  713 | [Subarray Product Less Than K](<https://leetcode.com/problems/subarray-product-less-than-k>)                                                                                             | Medium  |                | [solution](<../_713. Subarray Product Less Than K.md>)                                                | py          | Jul 01, 2024    |
 |  930 | [Binary Subarrays With Sum](<https://leetcode.com/problems/binary-subarrays-with-sum>)                                                                                                   | Medium  |                | [solution](<../_930. Binary Subarrays With Sum.md>)                                                   | py          | Jun 22, 2024    |
 |  995 | [Minimum Number of K Consecutive Bit Flips](<https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips>)                                                                   | Hard    | Daily          | [solution](<../_995. Minimum Number of K Consecutive Bit Flips.md>)                                   | c, py       | Jun 24, 2024    |
+| 1004 | [Max Consecutive Ones III](<https://leetcode.com/problems/max-consecutive-ones-iii>)                                                                                                     | Medium  |                | [solution](<../_1004. Max Consecutive Ones III.md>)                                                   | py          | Feb 17, 2025    |
 | 1052 | [Grumpy Bookstore Owner](<https://leetcode.com/problems/grumpy-bookstore-owner>)                                                                                                         | Medium  |                | [solution](<../_1052. Grumpy Bookstore Owner.md>)                                                     | py          | Jun 24, 2024    |
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                                         | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                             | py          | Jun 22, 2024    |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](<https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit>) | Medium  | Daily          | [solution](<../_1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md>) | java        | Jun 24, 2024    |
