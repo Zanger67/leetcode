@@ -1,4 +1,4 @@
-# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (23 completed)
+# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (24 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  320 | [Generalized Abbreviation](<https://leetcode.com/problems/generalized-abbreviation>)                                                                             | Medium  | Weekly Premium | [solution](<../_320. Generalized Abbreviation.md>)                                        | py          | Aug 22, 2024    |
 |  351 | [Android Unlock Patterns](<https://leetcode.com/problems/android-unlock-patterns>)                                                                               | Medium  | Weekly Premium | [solution](<../_351. Android Unlock Patterns.md>)                                         | py          | Aug 13, 2024    |
 |  784 | [Letter Case Permutation](<https://leetcode.com/problems/letter-case-permutation>)                                                                               | Medium  |                | [solution](<../_784. Letter Case Permutation.md>)                                         | py          | Jun 15, 2024    |
+| 1079 | [Letter Tile Possibilities](<https://leetcode.com/problems/letter-tile-possibilities>)                                                                           | Medium  | Daily          | [solution](<../_1079. Letter Tile Possibilities.md>)                                      | py          | Feb 17, 2025    |
 | 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                               | Medium  |                | [solution](<../_1087. Brace Expansion.md>)                                                | py          | Jun 15, 2024    |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>) | Medium  |                | [solution](<../_1239. Maximum Length of a Concatenated String with Unique Characters.md>) | py          | Jun 29, 2024    |
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                                                   | Hard    |                | [solution](<../_1255. Maximum Score Words Formed by Letters.md>)                          | py          | Jun 15, 2024    |

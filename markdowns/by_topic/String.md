@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (133 completed)
+# [String](<https://leetcode.com/tag/String/>) (134 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -67,6 +67,7 @@
 | 1028 | [Recover a Tree From Preorder Traversal](<https://leetcode.com/problems/recover-a-tree-from-preorder-traversal>)                                                                   | Hard    |                | [solution](<../_1028. Recover a Tree From Preorder Traversal.md>)                                  | py          | Jul 01, 2024    |
 | 1062 | [Longest Repeating Substring](<https://leetcode.com/problems/longest-repeating-substring>)                                                                                         | Medium  | Weekly Premium | [solution](<../_1062. Longest Repeating Substring.md>)                                             | py          | Aug 01, 2024    |
 | 1071 | [Greatest Common Divisor of Strings](<https://leetcode.com/problems/greatest-common-divisor-of-strings>)                                                                           | Easy    |                | [solution](<../_1071. Greatest Common Divisor of Strings.md>)                                      | py          | Sep 25, 2024    |
+| 1079 | [Letter Tile Possibilities](<https://leetcode.com/problems/letter-tile-possibilities>)                                                                                             | Medium  | Daily          | [solution](<../_1079. Letter Tile Possibilities.md>)                                               | py          | Feb 17, 2025    |
 | 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                                                 | Medium  |                | [solution](<../_1087. Brace Expansion.md>)                                                         | py          | Jun 15, 2024    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                                         | Easy    |                | [solution](<../_1160. Find Words That Can Be Formed by Characters.md>)                             | py          | Sep 24, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                                                                           | Medium  |                | [solution](<../_1166. Design File System.md>)                                                      | py          | Jun 28, 2024    |
