@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (46 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (47 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -39,6 +39,7 @@
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](<https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters>)                                   | Medium  |                | [solution](<../_2086. Minimum Number of Food Buckets to Feed the Hamsters.md>)                  | java                         | Jul 01, 2024    |
 | 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                                 | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                                         | py                           | Jul 05, 2024    |
 | 2285 | [Maximum Total Importance of Roads](<https://leetcode.com/problems/maximum-total-importance-of-roads>)                                                                       | Medium  | Daily          | [solution](<../_2285. Maximum Total Importance of Roads.md>)                                    | c, cpp, java, py             | Jun 28, 2024    |
+| 2375 | [Construct Smallest Number From DI String](<https://leetcode.com/problems/construct-smallest-number-from-di-string>)                                                         | Medium  | Daily          | [solution](<../_2375. Construct Smallest Number From DI String.md>)                             | py                           | Feb 18, 2025    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                                 | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                                 | py                           | Jun 01, 2024    |
 | 2405 | [Optimal Partition of String](<https://leetcode.com/problems/optimal-partition-of-string>)                                                                                   | Medium  |                | [solution](<../_2405. Optimal Partition of String.md>)                                          | py                           | Jun 23, 2024    |
 | 2486 | [Append Characters to String to Make Subsequence](<https://leetcode.com/problems/append-characters-to-string-to-make-subsequence>)                                           | Medium  | Daily          | [solution](<../_2486. Append Characters to String to Make Subsequence.md>)                      | c, java, py                  | Jun 03, 2024    |

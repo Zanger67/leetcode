@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (54 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (55 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -54,6 +54,7 @@
 | 1910 | [Remove All Occurrences of a Substring](<https://leetcode.com/problems/remove-all-occurrences-of-a-substring>)                                                 | Medium  | Daily          | [solution](<../_1910. Remove All Occurrences of a Substring.md>)                  | py           | Feb 11, 2025    |
 | 2130 | [Maximum Twin Sum of a Linked List](<https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list>)                                                         | Medium  |                | [solution](<../_2130. Maximum Twin Sum of a Linked List.md>)                      | py           | Jun 21, 2024    |
 | 2211 | [Count Collisions on a Road](<https://leetcode.com/problems/count-collisions-on-a-road>)                                                                       | Medium  |                | [solution](<../_2211. Count Collisions on a Road.md>)                             | py           | Jul 14, 2024    |
+| 2375 | [Construct Smallest Number From DI String](<https://leetcode.com/problems/construct-smallest-number-from-di-string>)                                           | Medium  | Daily          | [solution](<../_2375. Construct Smallest Number From DI String.md>)               | py           | Feb 18, 2025    |
 | 2390 | [Removing Stars From a String](<https://leetcode.com/problems/removing-stars-from-a-string>)                                                                   | Medium  |                | [solution](<../_2390. Removing Stars From a String.md>)                           | java, py     | Jun 02, 2024    |
 | 2487 | [Remove Nodes From Linked List](<https://leetcode.com/problems/remove-nodes-from-linked-list>)                                                                 | Medium  |                | [solution](<../_2487. Remove Nodes From Linked List.md>)                          | py           | Jun 12, 2024    |
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                                           | Hard    | Daily          | [solution](<../_2751. Robot Collisions.md>)                                       | py           | Jul 13, 2024    |

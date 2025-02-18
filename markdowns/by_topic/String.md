@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (134 completed)
+# [String](<https://leetcode.com/tag/String/>) (135 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -111,6 +111,7 @@
 | 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](<https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another>)                           | Medium  | Daily          | [solution](<../_2096. Step-By-Step Directions From a Binary Tree Node to Another.md>)              | py          | Jul 16, 2024    |
 | 2211 | [Count Collisions on a Road](<https://leetcode.com/problems/count-collisions-on-a-road>)                                                                                           | Medium  |                | [solution](<../_2211. Count Collisions on a Road.md>)                                              | py          | Jul 14, 2024    |
 | 2268 | [Minimum Number of Keypresses](<https://leetcode.com/problems/minimum-number-of-keypresses>)                                                                                       | Medium  |                | [solution](<../_2268. Minimum Number of Keypresses.md>)                                            | py          | Jul 05, 2024    |
+| 2375 | [Construct Smallest Number From DI String](<https://leetcode.com/problems/construct-smallest-number-from-di-string>)                                                               | Medium  | Daily          | [solution](<../_2375. Construct Smallest Number From DI String.md>)                                | py          | Feb 18, 2025    |
 | 2390 | [Removing Stars From a String](<https://leetcode.com/problems/removing-stars-from-a-string>)                                                                                       | Medium  |                | [solution](<../_2390. Removing Stars From a String.md>)                                            | java, py    | Jun 02, 2024    |
 | 2405 | [Optimal Partition of String](<https://leetcode.com/problems/optimal-partition-of-string>)                                                                                         | Medium  |                | [solution](<../_2405. Optimal Partition of String.md>)                                             | py          | Jun 23, 2024    |
 | 2416 | [Sum of Prefix Scores of Strings](<https://leetcode.com/problems/sum-of-prefix-scores-of-strings>)                                                                                 | Hard    | Daily          | [solution](<../_2416. Sum of Prefix Scores of Strings.md>)                                         | py          | Sep 25, 2024    |
