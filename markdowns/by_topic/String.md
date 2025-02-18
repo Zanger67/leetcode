@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (135 completed)
+# [String](<https://leetcode.com/tag/String/>) (136 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -62,6 +62,7 @@
 |  856 | [Score of Parentheses](<https://leetcode.com/problems/score-of-parentheses>)                                                                                                       | Medium  |                | [solution](<../_856. Score of Parentheses.md>)                                                     | py          | Jun 19, 2024    |
 |  890 | [Find and Replace Pattern](<https://leetcode.com/problems/find-and-replace-pattern>)                                                                                               | Medium  |                | [solution](<../_890. Find and Replace Pattern.md>)                                                 | py          | Jul 03, 2024    |
 |  921 | [Minimum Add to Make Parentheses Valid](<https://leetcode.com/problems/minimum-add-to-make-parentheses-valid>)                                                                     | Medium  | Daily          | [solution](<../_921. Minimum Add to Make Parentheses Valid.md>)                                    | java, py    | Jun 12, 2024    |
+|  942 | [DI String Match](<https://leetcode.com/problems/di-string-match>)                                                                                                                 | Easy    |                | [solution](<../_942. DI String Match.md>)                                                          | py          | Feb 18, 2025    |
 |  981 | [Time Based Key-Value Store](<https://leetcode.com/problems/time-based-key-value-store>)                                                                                           | Medium  | N150           | [solution](<../_981. Time Based Key-Value Store.md>)                                               | py          | Oct 24, 2024    |
 | 1002 | [Find Common Characters](<https://leetcode.com/problems/find-common-characters>)                                                                                                   | Easy    |                | [solution](<../_1002. Find Common Characters.md>)                                                  | py          | Jun 08, 2024    |
 | 1028 | [Recover a Tree From Preorder Traversal](<https://leetcode.com/problems/recover-a-tree-from-preorder-traversal>)                                                                   | Hard    |                | [solution](<../_1028. Recover a Tree From Preorder Traversal.md>)                                  | py          | Jul 01, 2024    |

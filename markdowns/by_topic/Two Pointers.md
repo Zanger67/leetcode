@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (55 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (56 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -38,6 +38,7 @@
 |  653 | [Two Sum IV - Input is a BST](<https://leetcode.com/problems/two-sum-iv-input-is-a-bst>)                                                                                             | Easy    |                | [solution](<../_653. Two Sum IV - Input is a BST.md>)                                   | py                               | Jul 31, 2024    |
 |  719 | [Find K-th Smallest Pair Distance](<https://leetcode.com/problems/find-k-th-smallest-pair-distance>)                                                                                 | Hard    | Daily          | [solution](<../_719. Find K-th Smallest Pair Distance.md>)                              | py                               | Aug 14, 2024    |
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                                                             | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                                    | py                               | Jun 18, 2024    |
+|  942 | [DI String Match](<https://leetcode.com/problems/di-string-match>)                                                                                                                   | Easy    |                | [solution](<../_942. DI String Match.md>)                                               | py                               | Feb 18, 2025    |
 |  977 | [Squares of a Sorted Array](<https://leetcode.com/problems/squares-of-a-sorted-array>)                                                                                               | Easy    |                | [solution](<../_977. Squares of a Sorted Array.md>)                                     | py                               | Jun 21, 2024    |
 | 1229 | [Meeting Scheduler](<https://leetcode.com/problems/meeting-scheduler>)                                                                                                               | Medium  | Weekly Premium | [solution](<../_1229. Meeting Scheduler.md>)                                            | py                               | Sep 10, 2024    |
 | 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>)                                                                     | Medium  |                | [solution](<../_1265. Print Immutable Linked List in Reverse.md>)                       | c, py                            | Jun 06, 2024    |
