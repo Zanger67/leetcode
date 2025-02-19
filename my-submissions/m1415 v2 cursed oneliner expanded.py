@@ -5,9 +5,9 @@ class Solution:
                 lambda rem, n, output: 
                     ''.join(output) if not n else 
                     _pm_dfs(
-                        rem - (pot_per_path if (temp := int(rem > (pot_per_path := 2 ** (n - 1)))) else 0), 
+                        rem - (pot_per_path if (indx := int(rem > (pot_per_path := 2 ** (n - 1)))) else 0), 
                         n - 1, 
-                        output + ['abc'.replace(output[-1], '')[temp]]
+                        output + ['abc'.replace(output[-1], '')[indx]]
                     )
             )
         )(
