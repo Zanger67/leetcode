@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (136 completed)
+# [String](<https://leetcode.com/tag/String/>) (137 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -82,6 +82,7 @@
 | 1400 | [Construct K Palindrome Strings](<https://leetcode.com/problems/construct-k-palindrome-strings>)                                                                                   | Medium  | Daily          | [solution](<../_1400. Construct K Palindrome Strings.md>)                                          | py          | Jan 11, 2025    |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one>)           | Medium  |                | [solution](<../_1404. Number of Steps to Reduce a Number in Binary Representation to One.md>)      | py          | Jun 08, 2024    |
 | 1408 | [String Matching in an Array](<https://leetcode.com/problems/string-matching-in-an-array>)                                                                                         | Easy    | Daily          | [solution](<../_1408. String Matching in an Array.md>)                                             | py          | Jan 07, 2025    |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](<https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n>)               | Medium  | Daily          | [solution](<../_1415. The k-th Lexicographical String of All Happy Strings of Length n.md>)        | py          | Feb 19, 2025    |
 | 1422 | [Maximum Score After Splitting a String](<https://leetcode.com/problems/maximum-score-after-splitting-a-string>)                                                                   | Easy    | Daily          | [solution](<../_1422. Maximum Score After Splitting a String.md>)                                  | c, py       | Jan 01, 2025    |
 | 1427 | [Perform String Shifts](<https://leetcode.com/problems/perform-string-shifts>)                                                                                                     | Easy    | Weekly Premium | [solution](<../_1427. Perform String Shifts.md>)                                                   | py          | Jan 07, 2025    |
 | 1436 | [Destination City](<https://leetcode.com/problems/destination-city>)                                                                                                               | Easy    |                | [solution](<../_1436. Destination City.md>)                                                        | java        | Jun 01, 2024    |
