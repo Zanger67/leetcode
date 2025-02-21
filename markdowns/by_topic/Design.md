@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (36 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (37 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -32,6 +32,7 @@
 |  919 | [Complete Binary Tree Inserter](<https://leetcode.com/problems/complete-binary-tree-inserter>)                                     | Medium  |                | [solution](<../_919. Complete Binary Tree Inserter.md>)                     | py          | Jul 05, 2024    |
 |  981 | [Time Based Key-Value Store](<https://leetcode.com/problems/time-based-key-value-store>)                                           | Medium  | N150           | [solution](<../_981. Time Based Key-Value Store.md>)                        | py          | Oct 24, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                           | Medium  |                | [solution](<../_1166. Design File System.md>)                               | py          | Jun 28, 2024    |
+| 1261 | [Find Elements in a Contaminated Binary Tree](<https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree>)         | Medium  |                | [solution](<../_1261. Find Elements in a Contaminated Binary Tree.md>)      | py          | Feb 21, 2025    |
 | 1381 | [Design a Stack With Increment Operation](<https://leetcode.com/problems/design-a-stack-with-increment-operation>)                 | Medium  | Daily          | [solution](<../_1381. Design a Stack With Increment Operation.md>)          | py          | Jul 06, 2024    |
 | 1429 | [First Unique Number](<https://leetcode.com/problems/first-unique-number>)                                                         | Medium  |                | [solution](<../_1429. First Unique Number.md>)                              | py          | Oct 26, 2024    |
 | 1472 | [Design Browser History](<https://leetcode.com/problems/design-browser-history>)                                                   | Medium  |                | [solution](<../_1472. Design Browser History.md>)                           | py          | Jul 06, 2024    |

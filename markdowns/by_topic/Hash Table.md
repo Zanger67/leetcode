@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (132 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (133 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -71,6 +71,7 @@
 | 1207 | [Unique Number of Occurrences](<https://leetcode.com/problems/unique-number-of-occurrences>)                                                                                       | Easy    |                | [solution](<../_1207. Unique Number of Occurrences.md>)                                            | py          | Sep 25, 2024    |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](<https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference>)                                           | Medium  |                | [solution](<../_1218. Longest Arithmetic Subsequence of Given Difference.md>)                      | py          | May 31, 2024    |
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                                   | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                          | py          | Jun 22, 2024    |
+| 1261 | [Find Elements in a Contaminated Binary Tree](<https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree>)                                                         | Medium  |                | [solution](<../_1261. Find Elements in a Contaminated Binary Tree.md>)                             | py          | Feb 21, 2025    |
 | 1282 | [Group the People Given the Group Size They Belong To](<https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to>)                                       | Medium  |                | [solution](<../_1282. Group the People Given the Group Size They Belong To.md>)                    | py          | Jun 28, 2024    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>)                 | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>)         | py          | Jun 09, 2024    |
 | 1400 | [Construct K Palindrome Strings](<https://leetcode.com/problems/construct-k-palindrome-strings>)                                                                                   | Medium  | Daily          | [solution](<../_1400. Construct K Palindrome Strings.md>)                                          | py          | Jan 11, 2025    |

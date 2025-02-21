@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (69 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (70 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -46,6 +46,7 @@
 | 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                                 | Medium  |                           | [solution](<../_1087. Brace Expansion.md>)                                                 | py          | Jun 15, 2024    |
 | 1161 | [Maximum Level Sum of a Binary Tree](<https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree>)                                                           | Medium  |                           | [solution](<../_1161. Maximum Level Sum of a Binary Tree.md>)                              | py          | Jul 17, 2024    |
 | 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                               | Medium  |                           | [solution](<../_1254. Number of Closed Islands.md>)                                        | py          | Jun 26, 2024    |
+| 1261 | [Find Elements in a Contaminated Binary Tree](<https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree>)                                         | Medium  |                           | [solution](<../_1261. Find Elements in a Contaminated Binary Tree.md>)                     | py          | Feb 21, 2025    |
 | 1267 | [Count Servers that Communicate](<https://leetcode.com/problems/count-servers-that-communicate>)                                                                   | Medium  | Daily                     | [solution](<../_1267. Count Servers that Communicate.md>)                                  | py          | Jan 23, 2025    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>) | Hard    |                           | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>) | py          | Jun 09, 2024    |
 | 1302 | [Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)                                                                                           | Medium  |                           | [solution](<../_1302. Deepest Leaves Sum.md>)                                              | c, js, py   | Jun 07, 2024    |
