@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (17 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (18 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -10,6 +10,7 @@
 |  239 | [Sliding Window Maximum](<https://leetcode.com/problems/sliding-window-maximum>)                                                                                                         | Hard    | N150           | [solution](<../_239. Sliding Window Maximum.md>)                                                      | py          | Jun 04, 2024    |
 |  424 | [Longest Repeating Character Replacement](<https://leetcode.com/problems/longest-repeating-character-replacement>)                                                                       | Medium  | B75, N150      | [solution](<../_424. Longest Repeating Character Replacement.md>)                                     | py          | Jul 06, 2024    |
 |  480 | [Sliding Window Median](<https://leetcode.com/problems/sliding-window-median>)                                                                                                           | Hard    |                | [solution](<../_480. Sliding Window Median.md>)                                                       | py          | Sep 25, 2024    |
+|  487 | [Max Consecutive Ones II](<https://leetcode.com/problems/max-consecutive-ones-ii>)                                                                                                       | Medium  | Weekly Premium | [solution](<../_487. Max Consecutive Ones II.md>)                                                     | py          | Feb 22, 2025    |
 |  567 | [Permutation in String](<https://leetcode.com/problems/permutation-in-string>)                                                                                                           | Medium  | Daily, N150    | [solution](<../_567. Permutation in String.md>)                                                       | py          | Jul 06, 2024    |
 |  713 | [Subarray Product Less Than K](<https://leetcode.com/problems/subarray-product-less-than-k>)                                                                                             | Medium  |                | [solution](<../_713. Subarray Product Less Than K.md>)                                                | py          | Jul 01, 2024    |
 |  930 | [Binary Subarrays With Sum](<https://leetcode.com/problems/binary-subarrays-with-sum>)                                                                                                   | Medium  |                | [solution](<../_930. Binary Subarrays With Sum.md>)                                                   | py          | Jun 22, 2024    |

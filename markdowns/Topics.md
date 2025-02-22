@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (292 completed)
+- [Array](<by_topic/Array.md>) (293 completed)
 - [String](<by_topic/String.md>) (137 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (133 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (102 completed)
@@ -16,7 +16,7 @@
 - [Two Pointers](<by_topic/Two Pointers.md>) (56 completed)
 - [Stack](<by_topic/Stack.md>) (55 completed)
 - [Matrix](<by_topic/Matrix.md>) (52 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (48 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (49 completed)
 - [Greedy](<by_topic/Greedy.md>) (48 completed)
 - [Linked List](<by_topic/Linked List.md>) (45 completed)
 - [Simulation](<by_topic/Simulation.md>) (40 completed)
@@ -29,8 +29,8 @@
 - [Trie](<by_topic/Trie.md>) (19 completed)
 - [Database](<by_topic/Database.md>) (18 completed)
 - [Prefix Sum](<by_topic/Prefix Sum.md>) (18 completed)
+- [Sliding Window](<by_topic/Sliding Window.md>) (18 completed)
 - [Graph](<by_topic/Graph.md>) (17 completed)
-- [Sliding Window](<by_topic/Sliding Window.md>) (17 completed)
 - [Recursion](<by_topic/Recursion.md>) (16 completed)
 - [Binary Search Tree](<by_topic/Binary Search Tree.md>) (16 completed)
 - [Union Find](<by_topic/Union Find.md>) (16 completed)
