@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (293 completed)
+- [Array](<by_topic/Array.md>) (294 completed)
 - [String](<by_topic/String.md>) (137 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (133 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (102 completed)
@@ -16,7 +16,7 @@
 - [Two Pointers](<by_topic/Two Pointers.md>) (56 completed)
 - [Stack](<by_topic/Stack.md>) (55 completed)
 - [Matrix](<by_topic/Matrix.md>) (52 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (49 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (50 completed)
 - [Greedy](<by_topic/Greedy.md>) (48 completed)
 - [Linked List](<by_topic/Linked List.md>) (45 completed)
 - [Simulation](<by_topic/Simulation.md>) (40 completed)
