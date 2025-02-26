@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (70 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (71 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -47,6 +47,7 @@
 | 1427 | [Perform String Shifts](<https://leetcode.com/problems/perform-string-shifts>)                                                                                     | Easy    | Weekly Premium | [solution](<../_1427. Perform String Shifts.md>)                                           | py                                          | Jan 07, 2025    |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](<https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor>)                       | Medium  |                | [solution](<../_1442. Count Triplets That Can Form Two Arrays of Equal XOR.md>)            | py                                          | Jun 08, 2024    |
 | 1518 | [Water Bottles](<https://leetcode.com/problems/water-bottles>)                                                                                                     | Easy    | Daily          | [solution](<../_1518. Water Bottles.md>)                                                   | c, cpp, cs, java, js, py, ts                | Jul 07, 2024    |
+| 1524 | [Number of Sub-arrays With Odd Sum](<https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum>)                                                             | Medium  | Daily          | [solution](<../_1524. Number of Sub-arrays With Odd Sum.md>)                               | py                                          | Feb 26, 2025    |
 | 1551 | [Minimum Operations to Make Array Equal](<https://leetcode.com/problems/minimum-operations-to-make-array-equal>)                                                   | Medium  |                | [solution](<../_1551. Minimum Operations to Make Array Equal.md>)                          | c, java, js, kt, py, rb, rs                 | Jun 13, 2024    |
 | 1561 | [Maximum Number of Coins You Can Get](<https://leetcode.com/problems/maximum-number-of-coins-you-can-get>)                                                         | Medium  |                | [solution](<../_1561. Maximum Number of Coins You Can Get.md>)                             | py                                          | Jun 23, 2024    |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](<https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists>)                                 | Medium  | Weekly Premium | [solution](<../_1634. Add Two Polynomials Represented as Linked Lists.md>)                 | py                                          | Sep 06, 2024    |
