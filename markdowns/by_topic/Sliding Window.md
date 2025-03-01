@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (18 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (19 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -17,6 +17,7 @@
 |  995 | [Minimum Number of K Consecutive Bit Flips](<https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips>)                                                                   | Hard    | Daily          | [solution](<../_995. Minimum Number of K Consecutive Bit Flips.md>)                                   | c, py       | Jun 24, 2024    |
 | 1004 | [Max Consecutive Ones III](<https://leetcode.com/problems/max-consecutive-ones-iii>)                                                                                                     | Medium  |                | [solution](<../_1004. Max Consecutive Ones III.md>)                                                   | py          | Feb 17, 2025    |
 | 1052 | [Grumpy Bookstore Owner](<https://leetcode.com/problems/grumpy-bookstore-owner>)                                                                                                         | Medium  |                | [solution](<../_1052. Grumpy Bookstore Owner.md>)                                                     | py          | Jun 24, 2024    |
+| 1151 | [Minimum Swaps to Group All 1's Together](<https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together>)                                                                        | Medium  | Weekly Premium | [solution](<../_1151. Minimum Swaps to Group All 1's Together.md>)                                    | py          | Mar 01, 2025    |
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                                         | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                             | py          | Jun 22, 2024    |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](<https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit>) | Medium  | Daily          | [solution](<../_1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md>) | java        | Jun 24, 2024    |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](<https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element>)                                                  | Medium  |                | [solution](<../_1493. Longest Subarray of 1's After Deleting One Element.md>)                         | py          | Feb 17, 2025    |
