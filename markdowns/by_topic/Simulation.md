@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (40 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (41 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -33,6 +33,7 @@
 | 2352 | [Equal Row and Column Pairs](<https://leetcode.com/problems/equal-row-and-column-pairs>)                                                                     | Medium  |                | [solution](<../_2352. Equal Row and Column Pairs.md>)                          | py                           | Jun 27, 2024    |
 | 2365 | [Task Scheduler II](<https://leetcode.com/problems/task-scheduler-ii>)                                                                                       | Medium  |                | [solution](<../_2365. Task Scheduler II.md>)                                   | py                           | Jun 29, 2024    |
 | 2390 | [Removing Stars From a String](<https://leetcode.com/problems/removing-stars-from-a-string>)                                                                 | Medium  |                | [solution](<../_2390. Removing Stars From a String.md>)                        | java, py                     | Jun 02, 2024    |
+| 2460 | [Apply Operations to an Array](<https://leetcode.com/problems/apply-operations-to-an-array>)                                                                 | Easy    | Daily          | [solution](<../_2460. Apply Operations to an Array.md>)                        | py                           | Mar 01, 2025    |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](<https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column>)                   | Medium  |                | [solution](<../_2482. Difference Between Ones and Zeros in Row and Column.md>) | py                           | Jun 07, 2024    |
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                                                           | Easy    | Daily          | [solution](<../_2582. Pass the Pillow.md>)                                     | c, cpp, cs, java, js, py     | Jul 06, 2024    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                           | Medium  |                | [solution](<../_2679. Sum in a Matrix.md>)                                     | java                         | May 22, 2024    |

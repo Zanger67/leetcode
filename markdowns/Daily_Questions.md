@@ -4,19 +4,21 @@
 
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
-### February 2025
-| Su                                                                       | Mo                                                                           | Tu                                                         | We                                                                                 | Th                                                                | Fr                                                                  | Sa                                                         |
-|-------------------------------------------------------------------------:|-----------------------------------------------------------------------------:|-----------------------------------------------------------:|-----------------------------------------------------------------------------------:|------------------------------------------------------------------:|--------------------------------------------------------------------:|-----------------------------------------------------------:|
-|                                                                          |                                                                              |                                                            |                                                                                    |                                                                   |                                                                     | [1](<_3151. Special Array I.md>)                           |
-| [2](<_1752. Check if Array Is Sorted and Rotated.md>)                    | [3](<_3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md>) | [4](<_1800. Maximum Ascending Subarray Sum.md>)            | 5                                                                                  | 6                                                                 | [7](<_3160. Find the Number of Distinct Colors Among the Balls.md>) | [8](<_2349. Design a Number Container System.md>)          |
-| 9                                                                        | [10](<_3174. Clear Digits.md>)                                               | [11](<_1910. Remove All Occurrences of a Substring.md>)    | [12](<_2342. Max Sum of a Pair With Equal Sum of Digits.md>)                       | [13](<_3066. Minimum Operations to Exceed Threshold Value II.md>) | 14                                                                  | [15](<_2698. Find the Punishment Number of an Integer.md>) |
-| [16](<_1718. Construct the Lexicographically Largest Valid Sequence.md>) | [17](<_1079. Letter Tile Possibilities.md>)                                  | [18](<_2375. Construct Smallest Number From DI String.md>) | [19](<_1415. The k-th Lexicographical String of All Happy Strings of Length n.md>) | [20](<_1980. Find Unique Binary String.md>)                       | [21](<_1261. Find Elements in a Contaminated Binary Tree.md>)       | [22](<_1028. Recover a Tree From Preorder Traversal.md>)   |
-| 23                                                                       | 24                                                                           | [25](<_1524. Number of Sub-arrays With Odd Sum.md>)        | [26](<_1749. Maximum Absolute Sum of Any Subarray.md>)                             | 27                                                                | [28](<_1092. Shortest Common Supersequence .md>)                    |                                                            |
+### March 2025
+| Su   | Mo   | Tu   | We   | Th   | Fr   | Sa                                            |
+|-----:|-----:|-----:|-----:|-----:|-----:|----------------------------------------------:|
+|      |      |      |      |      |      | [1](<_2460. Apply Operations to an Array.md>) |
+| 2    | 3    | 4    | 5    | 6    | 7    | 8                                             |
+| 9    | 10   | 11   | 12   | 13   | 14   | 15                                            |
+| 16   | 17   | 18   | 19   | 20   | 21   | 22                                            |
+| 23   | 24   | 25   | 26   | 27   | 28   | 29                                            |
+| 30   | 31   |      |      |      |      |                                               |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 2460 | [Apply Operations to an Array](<https://leetcode.com/problems/apply-operations-to-an-array>)                                                                                               | Easy    | Daily          | [solution](<_2460. Apply Operations to an Array.md>)                                                | py                           | Mar 01, 2025    |
 | 1092 | [Shortest Common Supersequence ](<https://leetcode.com/problems/shortest-common-supersequence>)                                                                                            | Hard    | Daily          | [solution](<_1092. Shortest Common Supersequence .md>)                                              | py                           | Feb 28, 2025    |
 | 1749 | [Maximum Absolute Sum of Any Subarray](<https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray>)                                                                               | Medium  | Daily          | [solution](<_1749. Maximum Absolute Sum of Any Subarray.md>)                                        | py                           | Feb 26, 2025    |
 | 1524 | [Number of Sub-arrays With Odd Sum](<https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum>)                                                                                     | Medium  | Daily          | [solution](<_1524. Number of Sub-arrays With Odd Sum.md>)                                           | py                           | Feb 25, 2025    |
@@ -244,4 +246,15 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 9                                                                        | [10](<_3174. Clear Digits.md>)                                               | [11](<_1910. Remove All Occurrences of a Substring.md>)    | [12](<_2342. Max Sum of a Pair With Equal Sum of Digits.md>)                       | [13](<_3066. Minimum Operations to Exceed Threshold Value II.md>) | 14                                                                  | [15](<_2698. Find the Punishment Number of an Integer.md>) |
 | [16](<_1718. Construct the Lexicographically Largest Valid Sequence.md>) | [17](<_1079. Letter Tile Possibilities.md>)                                  | [18](<_2375. Construct Smallest Number From DI String.md>) | [19](<_1415. The k-th Lexicographical String of All Happy Strings of Length n.md>) | [20](<_1980. Find Unique Binary String.md>)                       | [21](<_1261. Find Elements in a Contaminated Binary Tree.md>)       | [22](<_1028. Recover a Tree From Preorder Traversal.md>)   |
 | 23                                                                       | 24                                                                           | [25](<_1524. Number of Sub-arrays With Odd Sum.md>)        | [26](<_1749. Maximum Absolute Sum of Any Subarray.md>)                             | 27                                                                | [28](<_1092. Shortest Common Supersequence .md>)                    |                                                            |
+
+
+### March 2025
+| Su   | Mo   | Tu   | We   | Th   | Fr   | Sa                                            |
+|-----:|-----:|-----:|-----:|-----:|-----:|----------------------------------------------:|
+|      |      |      |      |      |      | [1](<_2460. Apply Operations to an Array.md>) |
+| 2    | 3    | 4    | 5    | 6    | 7    | 8                                             |
+| 9    | 10   | 11   | 12   | 13   | 14   | 15                                            |
+| 16   | 17   | 18   | 19   | 20   | 21   | 22                                            |
+| 23   | 24   | 25   | 26   | 27   | 28   | 29                                            |
+| 30   | 31   |      |      |      |      |                                               |
 
