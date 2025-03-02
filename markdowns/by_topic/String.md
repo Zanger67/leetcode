@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (138 completed)
+# [String](<https://leetcode.com/tag/String/>) (139 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -144,3 +144,4 @@
 | 3228 | Weekly Contest 407 - q3 - [Maximum Number of Operations to Move Ones to the End](<https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end>)             | Medium  | Contest        | [solution](<../_3228. Maximum Number of Operations to Move Ones to the End.md>)                    | py          | Jul 21, 2024    |
 | 3248 | [Snake in Matrix](<https://leetcode.com/problems/snake-in-matrix>)                                                                                                                 | Easy    |                | [solution](<../_3248. Snake in Matrix.md>)                                                         | py          | Aug 12, 2024    |
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                           | Medium  |                | [solution](<../_3443. Maximum Manhattan Distance After K Changes.md>)                              | py          | Feb 04, 2025    |
+| 3460 | [Longest Common Prefix After at Most One Removal](<https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal>)                                                 | Medium  |                | [solution](<../_3460. Longest Common Prefix After at Most One Removal.md>)                         | py          | Feb 17, 2025    |

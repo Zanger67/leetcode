@@ -5,19 +5,20 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### March 2025
-| Su   | Mo   | Tu   | We   | Th   | Fr   | Sa                                            |
-|-----:|-----:|-----:|-----:|-----:|-----:|----------------------------------------------:|
-|      |      |      |      |      |      | [1](<_2460. Apply Operations to an Array.md>) |
-| 2    | 3    | 4    | 5    | 6    | 7    | 8                                             |
-| 9    | 10   | 11   | 12   | 13   | 14   | 15                                            |
-| 16   | 17   | 18   | 19   | 20   | 21   | 22                                            |
-| 23   | 24   | 25   | 26   | 27   | 28   | 29                                            |
-| 30   | 31   |      |      |      |      |                                               |
+| Su                                                     | Mo   | Tu   | We   | Th   | Fr   | Sa                                            |
+|-------------------------------------------------------:|-----:|-----:|-----:|-----:|-----:|----------------------------------------------:|
+|                                                        |      |      |      |      |      | [1](<_2460. Apply Operations to an Array.md>) |
+| [2](<_2570. Merge Two 2D Arrays by Summing Values.md>) | 3    | 4    | 5    | 6    | 7    | 8                                             |
+| 9                                                      | 10   | 11   | 12   | 13   | 14   | 15                                            |
+| 16                                                     | 17   | 18   | 19   | 20   | 21   | 22                                            |
+| 23                                                     | 24   | 25   | 26   | 27   | 28   | 29                                            |
+| 30                                                     | 31   |      |      |      |      |                                               |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 2570 | [Merge Two 2D Arrays by Summing Values](<https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values>)                                                                             | Easy    | Daily          | [solution](<_2570. Merge Two 2D Arrays by Summing Values.md>)                                       | c, py                        | Mar 02, 2025    |
 | 2460 | [Apply Operations to an Array](<https://leetcode.com/problems/apply-operations-to-an-array>)                                                                                               | Easy    | Daily          | [solution](<_2460. Apply Operations to an Array.md>)                                                | py                           | Mar 01, 2025    |
 | 1092 | [Shortest Common Supersequence ](<https://leetcode.com/problems/shortest-common-supersequence>)                                                                                            | Hard    | Daily          | [solution](<_1092. Shortest Common Supersequence .md>)                                              | py                           | Feb 28, 2025    |
 | 1749 | [Maximum Absolute Sum of Any Subarray](<https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray>)                                                                               | Medium  | Daily          | [solution](<_1749. Maximum Absolute Sum of Any Subarray.md>)                                        | py                           | Feb 26, 2025    |
@@ -249,12 +250,12 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### March 2025
-| Su   | Mo   | Tu   | We   | Th   | Fr   | Sa                                            |
-|-----:|-----:|-----:|-----:|-----:|-----:|----------------------------------------------:|
-|      |      |      |      |      |      | [1](<_2460. Apply Operations to an Array.md>) |
-| 2    | 3    | 4    | 5    | 6    | 7    | 8                                             |
-| 9    | 10   | 11   | 12   | 13   | 14   | 15                                            |
-| 16   | 17   | 18   | 19   | 20   | 21   | 22                                            |
-| 23   | 24   | 25   | 26   | 27   | 28   | 29                                            |
-| 30   | 31   |      |      |      |      |                                               |
+| Su                                                     | Mo   | Tu   | We   | Th   | Fr   | Sa                                            |
+|-------------------------------------------------------:|-----:|-----:|-----:|-----:|-----:|----------------------------------------------:|
+|                                                        |      |      |      |      |      | [1](<_2460. Apply Operations to an Array.md>) |
+| [2](<_2570. Merge Two 2D Arrays by Summing Values.md>) | 3    | 4    | 5    | 6    | 7    | 8                                             |
+| 9                                                      | 10   | 11   | 12   | 13   | 14   | 15                                            |
+| 16                                                     | 17   | 18   | 19   | 20   | 21   | 22                                            |
+| 23                                                     | 24   | 25   | 26   | 27   | 28   | 29                                            |
+| 30                                                     | 31   |      |      |      |      |                                               |
 
