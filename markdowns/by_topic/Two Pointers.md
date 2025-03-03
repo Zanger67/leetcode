@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (58 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (59 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -55,6 +55,7 @@
 | 2095 | [Delete the Middle Node of a Linked List](<https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list>)                                                                   | Medium  |                | [solution](<../_2095. Delete the Middle Node of a Linked List.md>)                      | c, java                          | Jun 07, 2024    |
 | 2130 | [Maximum Twin Sum of a Linked List](<https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list>)                                                                               | Medium  |                | [solution](<../_2130. Maximum Twin Sum of a Linked List.md>)                            | py                               | Jun 21, 2024    |
 | 2149 | [Rearrange Array Elements by Sign](<https://leetcode.com/problems/rearrange-array-elements-by-sign>)                                                                                 | Medium  |                | [solution](<../_2149. Rearrange Array Elements by Sign.md>)                             | c, py                            | Jun 10, 2024    |
+| 2161 | [Partition Array According to Given Pivot](<https://leetcode.com/problems/partition-array-according-to-given-pivot>)                                                                 | Medium  | Daily          | [solution](<../_2161. Partition Array According to Given Pivot.md>)                     | py                               | Mar 03, 2025    |
 | 2396 | [Strictly Palindromic Number](<https://leetcode.com/problems/strictly-palindromic-number>)                                                                                           | Medium  |                | [solution](<../_2396. Strictly Palindromic Number.md>)                                  | c, cpp, java, js, kt, py, rb, rs | Jun 09, 2024    |
 | 2460 | [Apply Operations to an Array](<https://leetcode.com/problems/apply-operations-to-an-array>)                                                                                         | Easy    | Daily          | [solution](<../_2460. Apply Operations to an Array.md>)                                 | py                               | Mar 01, 2025    |
 | 2486 | [Append Characters to String to Make Subsequence](<https://leetcode.com/problems/append-characters-to-string-to-make-subsequence>)                                                   | Medium  | Daily          | [solution](<../_2486. Append Characters to String to Make Subsequence.md>)              | c, java, py                      | Jun 03, 2024    |
