@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (71 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (72 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -53,6 +53,7 @@
 | 1634 | [Add Two Polynomials Represented as Linked Lists](<https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists>)                                 | Medium  | Weekly Premium | [solution](<../_1634. Add Two Polynomials Represented as Linked Lists.md>)                 | py                                          | Sep 06, 2024    |
 | 1641 | [Count Sorted Vowel Strings](<https://leetcode.com/problems/count-sorted-vowel-strings>)                                                                           | Medium  |                | [solution](<../_1641. Count Sorted Vowel Strings.md>)                                      | c, cpp, java                                | Jun 24, 2024    |
 | 1759 | [Count Number of Homogenous Substrings](<https://leetcode.com/problems/count-number-of-homogenous-substrings>)                                                     | Medium  |                | [solution](<../_1759. Count Number of Homogenous Substrings.md>)                           | c, java                                     | Jun 10, 2024    |
+| 1780 | [Check if Number is a Sum of Powers of Three](<https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three>)                                         | Medium  | Daily          | [solution](<../_1780. Check if Number is a Sum of Powers of Three.md>)                     | py                                          | Mar 04, 2025    |
 | 1822 | [Sign of the Product of an Array](<https://leetcode.com/problems/sign-of-the-product-of-an-array>)                                                                 | Easy    |                | [solution](<../_1822. Sign of the Product of an Array.md>)                                 | c                                           | Jun 06, 2024    |
 | 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)                                                       | Medium  | Daily          | [solution](<../_1823. Find the Winner of the Circular Game.md>)                            | c, cpp, java, js, py                        | Jul 08, 2024    |
 | 1884 | [Egg Drop With 2 Eggs and N Floors](<https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors>)                                                             | Medium  |                | [solution](<../_1884. Egg Drop With 2 Eggs and N Floors.md>)                               | c, java, js                                 | Jul 11, 2024    |

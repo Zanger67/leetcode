@@ -11,7 +11,7 @@
 - [Tree](<by_topic/Tree.md>) (91 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (82 completed)
 - [Sorting](<by_topic/Sorting.md>) (74 completed)
-- [Math](<by_topic/Math.md>) (71 completed)
+- [Math](<by_topic/Math.md>) (72 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (70 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (59 completed)
 - [Stack](<by_topic/Stack.md>) (55 completed)
