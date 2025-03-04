@@ -1,4 +1,4 @@
-# [Recursion](<https://leetcode.com/tag/Recursion/>) (16 completed)
+# [Recursion](<https://leetcode.com/tag/Recursion/>) (19 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -14,7 +14,10 @@
 |  143 | [Reorder List](<https://leetcode.com/problems/reorder-list>)                                                     | Medium  | B75, N150      | [solution](<../_143. Reorder List.md>)                            | java, py             | Jun 11, 2024    |
 |  206 | [Reverse Linked List](<https://leetcode.com/problems/reverse-linked-list>)                                       | Easy    | B75, N150      | [solution](<../_206. Reverse Linked List.md>)                     | java                 | Jun 27, 2024    |
 |  224 | [Basic Calculator](<https://leetcode.com/problems/basic-calculator>)                                             | Hard    |                | [solution](<../_224. Basic Calculator.md>)                        | py                   | Jun 10, 2024    |
+|  231 | [Power of Two](<https://leetcode.com/problems/power-of-two>)                                                     | Easy    |                | [solution](<../_231. Power of Two.md>)                            | py                   | Mar 04, 2025    |
 |  273 | [Integer to English Words](<https://leetcode.com/problems/integer-to-english-words>)                             | Hard    | Daily          | [solution](<../_273. Integer to English Words.md>)                | py                   | Jun 11, 2024    |
+|  326 | [Power of Three](<https://leetcode.com/problems/power-of-three>)                                                 | Easy    |                | [solution](<../_326. Power of Three.md>)                          | py                   | Mar 04, 2025    |
+|  342 | [Power of Four](<https://leetcode.com/problems/power-of-four>)                                                   | Easy    |                | [solution](<../_342. Power of Four.md>)                           | py                   | Mar 04, 2025    |
 |  394 | [Decode String](<https://leetcode.com/problems/decode-string>)                                                   | Medium  |                | [solution](<../_394. Decode String.md>)                           | py                   | Jun 15, 2024    |
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                             | Easy    |                | [solution](<../_509. Fibonacci Number.md>)                        | c                    | Jun 17, 2024    |
 |  776 | [Split BST](<https://leetcode.com/problems/split-bst>)                                                           | Medium  | Weekly Premium | [solution](<../_776. Split BST.md>)                               | py                   | Jun 29, 2024    |
