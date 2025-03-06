@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (76 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (77 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -74,6 +74,7 @@
 | 2816 | [Double a Number Represented as a Linked List](<https://leetcode.com/problems/double-a-number-represented-as-a-linked-list>)                                       | Medium  |                | [solution](<../_2816. Double a Number Represented as a Linked List.md>)                    | c                                           | Jul 04, 2024    |
 | 2894 | [Divisible and Non-divisible Sums Difference](<https://leetcode.com/problems/divisible-and-non-divisible-sums-difference>)                                         | Easy    |                | [solution](<../_2894. Divisible and Non-divisible Sums Difference.md>)                     | py                                          | May 22, 2024    |
 | 2954 | [Count the Number of Infection Sequences](<https://leetcode.com/problems/count-the-number-of-infection-sequences>)                                                 | Hard    |                | [solution](<../_2954. Count the Number of Infection Sequences.md>)                         | py                                          | Jun 26, 2024    |
+| 2965 | [Find Missing and Repeated Values](<https://leetcode.com/problems/find-missing-and-repeated-values>)                                                               | Easy    | Daily          | [solution](<../_2965. Find Missing and Repeated Values.md>)                                | py                                          | Mar 06, 2025    |
 | 2979 | [Most Expensive Item That Can Not Be Bought](<https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought>)                                           | Medium  |                | [solution](<../_2979. Most Expensive Item That Can Not Be Bought.md>)                      | c, cpp, go, java, js, kt, py, rs, swift, ts | Jul 29, 2024    |
 | 3178 | Weekly Contest 401 - q1 - [Find the Child Who Has the Ball After K Seconds](<https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds>)       | Easy    | Contest        | [solution](<../_3178. Find the Child Who Has the Ball After K Seconds.md>)                 | py                                          | Jul 07, 2024    |
 | 3179 | Weekly Contest 401 - q2 - [Find the N-th Value After K Seconds](<https://leetcode.com/problems/find-the-n-th-value-after-k-seconds>)                               | Medium  | Contest        | [solution](<../_3179. Find the N-th Value After K Seconds.md>)                             | py                                          | Jul 07, 2024    |
