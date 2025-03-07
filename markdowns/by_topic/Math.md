@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (77 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (78 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -67,6 +67,7 @@
 | 2393 | [Count Strictly Increasing Subarrays](<https://leetcode.com/problems/count-strictly-increasing-subarrays>)                                                         | Medium  |                | [solution](<../_2393. Count Strictly Increasing Subarrays.md>)                             | py                                          | Jul 29, 2024    |
 | 2396 | [Strictly Palindromic Number](<https://leetcode.com/problems/strictly-palindromic-number>)                                                                         | Medium  |                | [solution](<../_2396. Strictly Palindromic Number.md>)                                     | c, cpp, java, js, kt, py, rb, rs            | Jun 09, 2024    |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](<https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three>)             | Easy    |                | [solution](<../_2455. Average Value of Even Numbers That Are Divisible by Three.md>)       | java                                        | Jul 04, 2024    |
+| 2523 | [Closest Prime Numbers in Range](<https://leetcode.com/problems/closest-prime-numbers-in-range>)                                                                   | Medium  | Daily          | [solution](<../_2523. Closest Prime Numbers in Range.md>)                                  | py                                          | Mar 07, 2025    |
 | 2579 | [Count Total Number of Colored Cells](<https://leetcode.com/problems/count-total-number-of-colored-cells>)                                                         | Medium  | Daily          | [solution](<../_2579. Count Total Number of Colored Cells.md>)                             | py                                          | Mar 05, 2025    |
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                                                                 | Easy    | Daily          | [solution](<../_2582. Pass the Pillow.md>)                                                 | c, cpp, cs, java, js, py                    | Jul 06, 2024    |
 | 2698 | [Find the Punishment Number of an Integer](<https://leetcode.com/problems/find-the-punishment-number-of-an-integer>)                                               | Medium  | Daily          | [solution](<../_2698. Find the Punishment Number of an Integer.md>)                        | py                                          | Feb 15, 2025    |
