@@ -1,4 +1,4 @@
-# Easy Questions (176)
+# Easy Questions (177)
 
 *[Back to top](<../README.md>)*
 
@@ -137,6 +137,7 @@
 | 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                 | Easy    | Daily          | [solution](<_2053. Kth Distinct String in an Array.md>)                                 | py                           | Aug 05, 2024    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                     | Easy    |                | [solution](<_2206. Divide Array Into Equal Pairs.md>)                                   | c, py                        | Jun 08, 2024    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                 | Easy    |                | [solution](<_2248. Intersection of Multiple Arrays.md>)                                 | py                           | May 31, 2024    |
+| 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](<https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks>)                           | Easy    | Daily          | [solution](<_2379. Minimum Recolors to Get K Consecutive Black Blocks.md>)              | py                           | Mar 08, 2025    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                       | Easy    |                | [solution](<_2389. Longest Subsequence With Limited Sum.md>)                            | py                           | Jun 01, 2024    |
 | 2395 | [Find Subarrays With Equal Sum](<https://leetcode.com/problems/find-subarrays-with-equal-sum>)                                                                     | Easy    |                | [solution](<_2395. Find Subarrays With Equal Sum.md>)                                   | py                           | May 31, 2024    |
 | 2418 | [Sort the People](<https://leetcode.com/problems/sort-the-people>)                                                                                                 | Easy    | Daily          | [solution](<_2418. Sort the People.md>)                                                 | py                           | Jul 22, 2024    |
