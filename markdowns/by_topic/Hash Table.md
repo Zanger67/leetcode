@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (135 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (136 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -62,6 +62,7 @@
 |  987 | [Vertical Order Traversal of a Binary Tree](<https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>)                                                             | Hard    |                | [solution](<../_987. Vertical Order Traversal of a Binary Tree.md>)                                | py          | Jun 12, 2024    |
 | 1002 | [Find Common Characters](<https://leetcode.com/problems/find-common-characters>)                                                                                                   | Easy    |                | [solution](<../_1002. Find Common Characters.md>)                                                  | py          | Jun 08, 2024    |
 | 1079 | [Letter Tile Possibilities](<https://leetcode.com/problems/letter-tile-possibilities>)                                                                                             | Medium  | Daily          | [solution](<../_1079. Letter Tile Possibilities.md>)                                               | py          | Feb 17, 2025    |
+| 1100 | [Find K-Length Substrings With No Repeated Characters](<https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters>)                                       | Medium  | Weekly Premium | [solution](<../_1100. Find K-Length Substrings With No Repeated Characters.md>)                    | py          | Mar 10, 2025    |
 | 1110 | [Delete Nodes And Return Forest](<https://leetcode.com/problems/delete-nodes-and-return-forest>)                                                                                   | Medium  | Daily          | [solution](<../_1110. Delete Nodes And Return Forest.md>)                                          | py          | Jul 17, 2024    |
 | 1122 | [Relative Sort Array](<https://leetcode.com/problems/relative-sort-array>)                                                                                                         | Easy    | Daily          | [solution](<../_1122. Relative Sort Array.md>)                                                     | java, py    | Jun 11, 2024    |
 | 1133 | [Largest Unique Number](<https://leetcode.com/problems/largest-unique-number>)                                                                                                     | Easy    | Weekly Premium | [solution](<../_1133. Largest Unique Number.md>)                                                   | py          | Oct 01, 2024    |

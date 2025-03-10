@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (141 completed)
+# [String](<https://leetcode.com/tag/String/>) (142 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -71,6 +71,7 @@
 | 1079 | [Letter Tile Possibilities](<https://leetcode.com/problems/letter-tile-possibilities>)                                                                                             | Medium  | Daily          | [solution](<../_1079. Letter Tile Possibilities.md>)                                               | py          | Feb 17, 2025    |
 | 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                                                 | Medium  |                | [solution](<../_1087. Brace Expansion.md>)                                                         | py          | Jun 15, 2024    |
 | 1092 | [Shortest Common Supersequence ](<https://leetcode.com/problems/shortest-common-supersequence>)                                                                                    | Hard    | Daily          | [solution](<../_1092. Shortest Common Supersequence .md>)                                          | py          | Feb 28, 2025    |
+| 1100 | [Find K-Length Substrings With No Repeated Characters](<https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters>)                                       | Medium  | Weekly Premium | [solution](<../_1100. Find K-Length Substrings With No Repeated Characters.md>)                    | py          | Mar 10, 2025    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                                         | Easy    |                | [solution](<../_1160. Find Words That Can Be Formed by Characters.md>)                             | py          | Sep 24, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                                                                           | Medium  |                | [solution](<../_1166. Design File System.md>)                                                      | py          | Jun 28, 2024    |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](<https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses>)                                         | Medium  | Daily          | [solution](<../_1190. Reverse Substrings Between Each Pair of Parentheses.md>)                     | py          | Jul 11, 2024    |
