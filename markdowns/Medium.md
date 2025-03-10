@@ -1,4 +1,4 @@
-# Medium Questions (393)
+# Medium Questions (394)
 
 *[Back to top](<../README.md>)*
 
@@ -397,5 +397,6 @@
 | 3239 | Biweekly Contest 136 - q2 - [Minimum Number of Flips to Make Binary Grid Palindromic I](<https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i>)         | Medium  | Contest                   | [solution](<_3239. Minimum Number of Flips to Make Binary Grid Palindromic I.md>)                   | py                                          | Aug 03, 2024    |
 | 3240 | Biweekly Contest 136 - q3 - [Minimum Number of Flips to Make Binary Grid Palindromic II](<https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii>)       | Medium  | Contest                   | [solution](<_3240. Minimum Number of Flips to Make Binary Grid Palindromic II.md>)                  | py                                          | Aug 03, 2024    |
 | 3249 | [Count the Number of Good Nodes](<https://leetcode.com/problems/count-the-number-of-good-nodes>)                                                                                           | Medium  |                           | [solution](<_3249. Count the Number of Good Nodes.md>)                                              | py                                          | Aug 12, 2024    |
+| 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](<https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii>)                           | Medium  | Daily                     | [solution](<_3306. Count of Substrings Containing Every Vowel and K Consonants II.md>)              | py                                          | Mar 10, 2025    |
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                                   | Medium  |                           | [solution](<_3443. Maximum Manhattan Distance After K Changes.md>)                                  | py                                          | Feb 04, 2025    |
 | 3460 | [Longest Common Prefix After at Most One Removal](<https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal>)                                                         | Medium  |                           | [solution](<_3460. Longest Common Prefix After at Most One Removal.md>)                             | py                                          | Feb 17, 2025    |

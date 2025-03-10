@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (20 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (21 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -26,3 +26,4 @@
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](<https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks>)                                                 | Easy    | Daily          | [solution](<../_2379. Minimum Recolors to Get K Consecutive Black Blocks.md>)                         | py          | Mar 08, 2025    |
 | 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)                                                             | Medium  | Weekly Premium | [solution](<../_2743. Count Substrings Without Repeating Character.md>)                               | java, py    | Jun 22, 2024    |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i>)                       | Medium  |                | [solution](<../_3191. Minimum Operations to Make Binary Array Elements Equal to One I.md>)            | java        | Jun 22, 2024    |
+| 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](<https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii>)                         | Medium  | Daily          | [solution](<../_3306. Count of Substrings Containing Every Vowel and K Consonants II.md>)             | py          | Mar 10, 2025    |
