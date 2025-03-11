@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (78 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (79 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -60,6 +60,7 @@
 | 1822 | [Sign of the Product of an Array](<https://leetcode.com/problems/sign-of-the-product-of-an-array>)                                                                 | Easy    |                | [solution](<../_1822. Sign of the Product of an Array.md>)                                 | c                                           | Jun 06, 2024    |
 | 1823 | [Find the Winner of the Circular Game](<https://leetcode.com/problems/find-the-winner-of-the-circular-game>)                                                       | Medium  | Daily          | [solution](<../_1823. Find the Winner of the Circular Game.md>)                            | c, cpp, java, js, py                        | Jul 08, 2024    |
 | 1884 | [Egg Drop With 2 Eggs and N Floors](<https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors>)                                                             | Medium  |                | [solution](<../_1884. Egg Drop With 2 Eggs and N Floors.md>)                               | c, java, js                                 | Jul 11, 2024    |
+| 2063 | [Vowels of All Substrings](<https://leetcode.com/problems/vowels-of-all-substrings>)                                                                               | Medium  |                | [solution](<../_2063. Vowels of All Substrings.md>)                                        | py                                          | Mar 11, 2025    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)              | c, py                                       | Jun 10, 2024    |
 | 2165 | [Smallest Value of the Rearranged Number](<https://leetcode.com/problems/smallest-value-of-the-rearranged-number>)                                                 | Medium  |                | [solution](<../_2165. Smallest Value of the Rearranged Number.md>)                         | py                                          | Jul 01, 2024    |
 | 2221 | [Find Triangular Sum of an Array](<https://leetcode.com/problems/find-triangular-sum-of-an-array>)                                                                 | Medium  |                | [solution](<../_2221. Find Triangular Sum of an Array.md>)                                 | c, java                                     | Jun 27, 2024    |
