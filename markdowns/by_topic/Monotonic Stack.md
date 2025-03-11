@@ -1,4 +1,4 @@
-# [Monotonic Stack](<https://leetcode.com/tag/Monotonic-Stack/>) (11 completed)
+# [Monotonic Stack](<https://leetcode.com/tag/Monotonic-Stack/>) (12 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -6,6 +6,7 @@
 
 |    # | Title                                                                                                                                                          | Level   | Cats    | Solution                                                                        | Languages    | Date Complete   |
 |-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:--------|:--------------------------------------------------------------------------------|:-------------|:----------------|
+|   42 | [Trapping Rain Water](<https://leetcode.com/problems/trapping-rain-water>)                                                                                     | Hard    | N150    | [solution](<../_42. Trapping Rain Water.md>)                                    | py           | Mar 11, 2025    |
 |   84 | [Largest Rectangle in Histogram](<https://leetcode.com/problems/largest-rectangle-in-histogram>)                                                               | Hard    | N150    | [solution](<../_84. Largest Rectangle in Histogram.md>)                         | py           | Jun 11, 2024    |
 |  503 | [Next Greater Element II](<https://leetcode.com/problems/next-greater-element-ii>)                                                                             | Medium  |         | [solution](<../_503. Next Greater Element II.md>)                               | py           | Jul 05, 2024    |
 |  654 | [Maximum Binary Tree](<https://leetcode.com/problems/maximum-binary-tree>)                                                                                     | Medium  |         | [solution](<../_654. Maximum Binary Tree.md>)                                   | py           | Jun 12, 2024    |

@@ -1,4 +1,4 @@
-# Hard Questions (39)
+# Hard Questions (40)
 
 *[Back to top](<../README.md>)*
 
@@ -8,6 +8,7 @@
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:----------------------------------------------------------------------------------------|:------------|:----------------|
 |   23 | [Merge k Sorted Lists](<https://leetcode.com/problems/merge-k-sorted-lists>)                                                                                       | Hard    | B75, N150 | [solution](<_23. Merge k Sorted Lists.md>)                                              | py          | Jun 17, 2024    |
 |   25 | [Reverse Nodes in k-Group](<https://leetcode.com/problems/reverse-nodes-in-k-group>)                                                                               | Hard    | N150      | [solution](<_25. Reverse Nodes in k-Group.md>)                                          | c           | Jun 07, 2024    |
+|   42 | [Trapping Rain Water](<https://leetcode.com/problems/trapping-rain-water>)                                                                                         | Hard    | N150      | [solution](<_42. Trapping Rain Water.md>)                                               | py          | Mar 11, 2025    |
 |   84 | [Largest Rectangle in Histogram](<https://leetcode.com/problems/largest-rectangle-in-histogram>)                                                                   | Hard    | N150      | [solution](<_84. Largest Rectangle in Histogram.md>)                                    | py          | Jun 11, 2024    |
 |  124 | [Binary Tree Maximum Path Sum](<https://leetcode.com/problems/binary-tree-maximum-path-sum>)                                                                       | Hard    | B75, N150 | [solution](<_124. Binary Tree Maximum Path Sum.md>)                                     | py          | Jul 04, 2024    |
 |  212 | [Word Search II](<https://leetcode.com/problems/word-search-ii>)                                                                                                   | Hard    | B75, N150 | [solution](<_212. Word Search II.md>)                                                   | py          | Jun 27, 2024    |

@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (300 completed)
+- [Array](<by_topic/Array.md>) (301 completed)
 - [String](<by_topic/String.md>) (144 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (137 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (103 completed)
@@ -13,9 +13,9 @@
 - [Math](<by_topic/Math.md>) (79 completed)
 - [Sorting](<by_topic/Sorting.md>) (74 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (71 completed)
-- [Two Pointers](<by_topic/Two Pointers.md>) (59 completed)
-- [Stack](<by_topic/Stack.md>) (55 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (54 completed)
+- [Two Pointers](<by_topic/Two Pointers.md>) (60 completed)
+- [Stack](<by_topic/Stack.md>) (56 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (55 completed)
 - [Matrix](<by_topic/Matrix.md>) (53 completed)
 - [Greedy](<by_topic/Greedy.md>) (48 completed)
 - [Linked List](<by_topic/Linked List.md>) (45 completed)
@@ -35,7 +35,7 @@
 - [Binary Search Tree](<by_topic/Binary Search Tree.md>) (16 completed)
 - [Union Find](<by_topic/Union Find.md>) (16 completed)
 - [Queue](<by_topic/Queue.md>) (14 completed)
-- [Monotonic Stack](<by_topic/Monotonic Stack.md>) (11 completed)
+- [Monotonic Stack](<by_topic/Monotonic Stack.md>) (12 completed)
 - [Divide and Conquer](<by_topic/Divide and Conquer.md>) (8 completed)
 - [String Matching](<by_topic/String Matching.md>) (8 completed)
 - [Shortest Path](<by_topic/Shortest Path.md>) (7 completed)
