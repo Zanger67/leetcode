@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (136 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (137 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -75,6 +75,7 @@
 | 1261 | [Find Elements in a Contaminated Binary Tree](<https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree>)                                                         | Medium  | Daily          | [solution](<../_1261. Find Elements in a Contaminated Binary Tree.md>)                             | py          | Feb 21, 2025    |
 | 1282 | [Group the People Given the Group Size They Belong To](<https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to>)                                       | Medium  |                | [solution](<../_1282. Group the People Given the Group Size They Belong To.md>)                    | py          | Jun 28, 2024    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>)                 | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>)         | py          | Jun 09, 2024    |
+| 1358 | [Number of Substrings Containing All Three Characters](<https://leetcode.com/problems/number-of-substrings-containing-all-three-characters>)                                       | Medium  |                | [solution](<../_1358. Number of Substrings Containing All Three Characters.md>)                    | py          | Mar 11, 2025    |
 | 1400 | [Construct K Palindrome Strings](<https://leetcode.com/problems/construct-k-palindrome-strings>)                                                                                   | Medium  | Daily          | [solution](<../_1400. Construct K Palindrome Strings.md>)                                          | py          | Jan 11, 2025    |
 | 1426 | [Counting Elements](<https://leetcode.com/problems/counting-elements>)                                                                                                             | Easy    |                | [solution](<../_1426. Counting Elements.md>)                                                       | c           | Jun 04, 2024    |
 | 1429 | [First Unique Number](<https://leetcode.com/problems/first-unique-number>)                                                                                                         | Medium  |                | [solution](<../_1429. First Unique Number.md>)                                                     | py          | Oct 26, 2024    |
