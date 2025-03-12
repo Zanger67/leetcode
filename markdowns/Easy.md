@@ -1,4 +1,4 @@
-# Easy Questions (177)
+# Easy Questions (178)
 
 *[Back to top](<../README.md>)*
 
@@ -145,6 +145,7 @@
 | 2451 | [Odd String Difference](<https://leetcode.com/problems/odd-string-difference>)                                                                                     | Easy    |                | [solution](<_2451. Odd String Difference.md>)                                           | py                           | Sep 25, 2024    |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](<https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three>)             | Easy    |                | [solution](<_2455. Average Value of Even Numbers That Are Divisible by Three.md>)       | java                         | Jul 04, 2024    |
 | 2460 | [Apply Operations to an Array](<https://leetcode.com/problems/apply-operations-to-an-array>)                                                                       | Easy    | Daily          | [solution](<_2460. Apply Operations to an Array.md>)                                    | py                           | Mar 01, 2025    |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](<https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer>)                   | Easy    | Daily          | [solution](<_2529. Maximum Count of Positive Integer and Negative Integer.md>)          | py                           | Mar 12, 2025    |
 | 2570 | [Merge Two 2D Arrays by Summing Values](<https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values>)                                                     | Easy    | Daily          | [solution](<_2570. Merge Two 2D Arrays by Summing Values.md>)                           | c, py                        | Jun 10, 2024    |
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                                                                 | Easy    | Daily          | [solution](<_2582. Pass the Pillow.md>)                                                 | c, cpp, cs, java, js, py     | Jul 06, 2024    |
 | 2619 | [Array Prototype Last](<https://leetcode.com/problems/array-prototype-last>)                                                                                       | Easy    |                | [solution](<_2619. Array Prototype Last.md>)                                            | js                           | Jul 10, 2024    |
