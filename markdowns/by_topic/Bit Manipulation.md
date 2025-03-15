@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (35 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (36 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -12,6 +12,7 @@
 |  191 | [Number of 1 Bits](<https://leetcode.com/problems/number-of-1-bits>)                                                                                                     | Easy    | B75, N150      | [solution](<../_191. Number of 1 Bits.md>)                                                    | py               | Jul 03, 2024    |
 |  231 | [Power of Two](<https://leetcode.com/problems/power-of-two>)                                                                                                             | Easy    |                | [solution](<../_231. Power of Two.md>)                                                        | py               | Mar 04, 2025    |
 |  260 | [Single Number III](<https://leetcode.com/problems/single-number-iii>)                                                                                                   | Medium  |                | [solution](<../_260. Single Number III.md>)                                                   | py               | Jun 08, 2024    |
+|  266 | [Palindrome Permutation](<https://leetcode.com/problems/palindrome-permutation>)                                                                                         | Easy    | Weekly Premium | [solution](<../_266. Palindrome Permutation.md>)                                              | py               | Mar 15, 2025    |
 |  287 | [Find the Duplicate Number](<https://leetcode.com/problems/find-the-duplicate-number>)                                                                                   | Medium  | N150           | [solution](<../_287. Find the Duplicate Number.md>)                                           | c                | Jun 26, 2024    |
 |  320 | [Generalized Abbreviation](<https://leetcode.com/problems/generalized-abbreviation>)                                                                                     | Medium  | Weekly Premium | [solution](<../_320. Generalized Abbreviation.md>)                                            | py               | Aug 22, 2024    |
 |  342 | [Power of Four](<https://leetcode.com/problems/power-of-four>)                                                                                                           | Easy    |                | [solution](<../_342. Power of Four.md>)                                                       | py               | Mar 04, 2025    |

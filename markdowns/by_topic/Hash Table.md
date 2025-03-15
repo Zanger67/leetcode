@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (137 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (138 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  208 | [Implement Trie (Prefix Tree)](<https://leetcode.com/problems/implement-trie-prefix-tree>)                                                                                         | Medium  | B75, N150      | [solution](<../_208. Implement Trie (Prefix Tree).md>)                                             | py          | Jun 27, 2024    |
 |  217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                                                                           | Easy    | B75, N150      | [solution](<../_217. Contains Duplicate.md>)                                                       | py          | Jun 12, 2024    |
 |  242 | [Valid Anagram](<https://leetcode.com/problems/valid-anagram>)                                                                                                                     | Easy    | B75, N150      | [solution](<../_242. Valid Anagram.md>)                                                            | c, py       | Jun 13, 2024    |
+|  266 | [Palindrome Permutation](<https://leetcode.com/problems/palindrome-permutation>)                                                                                                   | Easy    | Weekly Premium | [solution](<../_266. Palindrome Permutation.md>)                                                   | py          | Mar 15, 2025    |
 |  314 | [Binary Tree Vertical Order Traversal](<https://leetcode.com/problems/binary-tree-vertical-order-traversal>)                                                                       | Medium  |                | [solution](<../_314. Binary Tree Vertical Order Traversal.md>)                                     | py          | Jun 12, 2024    |
 |  347 | [Top K Frequent Elements](<https://leetcode.com/problems/top-k-frequent-elements>)                                                                                                 | Medium  | B75, N150      | [solution](<../_347. Top K Frequent Elements.md>)                                                  | py          | Jun 13, 2024    |
 |  348 | [Design Tic-Tac-Toe](<https://leetcode.com/problems/design-tic-tac-toe>)                                                                                                           | Medium  |                | [solution](<../_348. Design Tic-Tac-Toe.md>)                                                       | py          | Jul 05, 2024    |

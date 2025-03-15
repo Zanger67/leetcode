@@ -1,4 +1,4 @@
-# Easy Questions (178)
+# Easy Questions (179)
 
 *[Back to top](<../README.md>)*
 
@@ -44,6 +44,7 @@
 |  226 | [Invert Binary Tree](<https://leetcode.com/problems/invert-binary-tree>)                                                                                           | Easy    | B75, N150      | [solution](<_226. Invert Binary Tree.md>)                                               | py                           | Jul 03, 2024    |
 |  231 | [Power of Two](<https://leetcode.com/problems/power-of-two>)                                                                                                       | Easy    |                | [solution](<_231. Power of Two.md>)                                                     | py                           | Mar 04, 2025    |
 |  242 | [Valid Anagram](<https://leetcode.com/problems/valid-anagram>)                                                                                                     | Easy    | B75, N150      | [solution](<_242. Valid Anagram.md>)                                                    | c, py                        | Jun 13, 2024    |
+|  266 | [Palindrome Permutation](<https://leetcode.com/problems/palindrome-permutation>)                                                                                   | Easy    | Weekly Premium | [solution](<_266. Palindrome Permutation.md>)                                           | py                           | Mar 15, 2025    |
 |  292 | [Nim Game](<https://leetcode.com/problems/nim-game>)                                                                                                               | Easy    |                | [solution](<_292. Nim Game.md>)                                                         | py                           | May 23, 2024    |
 |  326 | [Power of Three](<https://leetcode.com/problems/power-of-three>)                                                                                                   | Easy    |                | [solution](<_326. Power of Three.md>)                                                   | py                           | Mar 04, 2025    |
 |  342 | [Power of Four](<https://leetcode.com/problems/power-of-four>)                                                                                                     | Easy    |                | [solution](<_342. Power of Four.md>)                                                    | py                           | Mar 04, 2025    |
