@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (31 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (32 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -36,4 +36,5 @@
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                     | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                   | py          | Jun 01, 2024    |
 | 2501 | [Longest Square Streak in an Array](<https://leetcode.com/problems/longest-square-streak-in-an-array>)                                           | Medium  | Daily          | [solution](<../_2501. Longest Square Streak in an Array.md>)                      | py          | Oct 28, 2024    |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](<https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer>) | Easy    | Daily          | [solution](<../_2529. Maximum Count of Positive Integer and Negative Integer.md>) | py          | Mar 12, 2025    |
+| 2594 | [Minimum Time to Repair Cars](<https://leetcode.com/problems/minimum-time-to-repair-cars>)                                                       | Medium  | Daily          | [solution](<../_2594. Minimum Time to Repair Cars.md>)                            | py          | Mar 16, 2025    |
 | 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>)     | Medium  | Contest        | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)                | py          | Jul 07, 2024    |
