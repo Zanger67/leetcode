@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (145 completed)
+# [String](<https://leetcode.com/tag/String/>) (146 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -67,6 +67,7 @@
 |  981 | [Time Based Key-Value Store](<https://leetcode.com/problems/time-based-key-value-store>)                                                                                           | Medium  | N150           | [solution](<../_981. Time Based Key-Value Store.md>)                                               | py          | Oct 24, 2024    |
 | 1002 | [Find Common Characters](<https://leetcode.com/problems/find-common-characters>)                                                                                                   | Easy    |                | [solution](<../_1002. Find Common Characters.md>)                                                  | py          | Jun 08, 2024    |
 | 1028 | [Recover a Tree From Preorder Traversal](<https://leetcode.com/problems/recover-a-tree-from-preorder-traversal>)                                                                   | Hard    | Daily          | [solution](<../_1028. Recover a Tree From Preorder Traversal.md>)                                  | py          | Jul 01, 2024    |
+| 1055 | [Shortest Way to Form String](<https://leetcode.com/problems/shortest-way-to-form-string>)                                                                                         | Medium  | Weekly Premium | [solution](<../_1055. Shortest Way to Form String.md>)                                             | py          | Mar 30, 2025    |
 | 1062 | [Longest Repeating Substring](<https://leetcode.com/problems/longest-repeating-substring>)                                                                                         | Medium  | Weekly Premium | [solution](<../_1062. Longest Repeating Substring.md>)                                             | py          | Aug 01, 2024    |
 | 1071 | [Greatest Common Divisor of Strings](<https://leetcode.com/problems/greatest-common-divisor-of-strings>)                                                                           | Easy    |                | [solution](<../_1071. Greatest Common Divisor of Strings.md>)                                      | py          | Sep 25, 2024    |
 | 1079 | [Letter Tile Possibilities](<https://leetcode.com/problems/letter-tile-possibilities>)                                                                                             | Medium  | Daily          | [solution](<../_1079. Letter Tile Possibilities.md>)                                               | py          | Feb 17, 2025    |
