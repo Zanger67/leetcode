@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (303 completed)
+- [Array](<by_topic/Array.md>) (304 completed)
 - [String](<by_topic/String.md>) (146 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (138 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (103 completed)

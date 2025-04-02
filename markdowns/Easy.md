@@ -1,4 +1,4 @@
-# Easy Questions (179)
+# Easy Questions (180)
 
 *[Back to top](<../README.md>)*
 
@@ -164,6 +164,7 @@
 | 2704 | [To Be Or Not To Be](<https://leetcode.com/problems/to-be-or-not-to-be>)                                                                                           | Easy    |                | [solution](<_2704. To Be Or Not To Be.md>)                                              | js                           | Jul 09, 2024    |
 | 2723 | [Add Two Promises](<https://leetcode.com/problems/add-two-promises>)                                                                                               | Easy    |                | [solution](<_2723. Add Two Promises.md>)                                                | js                           | Jul 09, 2024    |
 | 2796 | [Repeat String](<https://leetcode.com/problems/repeat-string>)                                                                                                     | Easy    |                | [solution](<_2796. Repeat String.md>)                                                   | js                           | Jul 09, 2024    |
+| 2873 | [Maximum Value of an Ordered Triplet I](<https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i>)                                                     | Easy    | Daily          | [solution](<_2873. Maximum Value of an Ordered Triplet I.md>)                           | py                           | Apr 02, 2025    |
 | 2886 | [Change Data Type](<https://leetcode.com/problems/change-data-type>)                                                                                               | Easy    |                | [solution](<_2886. Change Data Type.md>)                                                | py                           | May 30, 2024    |
 | 2894 | [Divisible and Non-divisible Sums Difference](<https://leetcode.com/problems/divisible-and-non-divisible-sums-difference>)                                         | Easy    |                | [solution](<_2894. Divisible and Non-divisible Sums Difference.md>)                     | py                           | May 22, 2024    |
 | 2942 | [Find Words Containing Character](<https://leetcode.com/problems/find-words-containing-character>)                                                                 | Easy    |                | [solution](<_2942. Find Words Containing Character.md>)                                 | c                            | Jun 06, 2024    |
