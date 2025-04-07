@@ -5,18 +5,19 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### April 2025
-| Su   | Mo   |   Tu | We                                                     |   Th |   Fr |   Sa |
-|-----:|-----:|-----:|-------------------------------------------------------:|-----:|-----:|-----:|
-|      |      |    1 | [2](<_2873. Maximum Value of an Ordered Triplet I.md>) |    3 |    4 |    5 |
-| 6    | 7    |    8 | 9                                                      |   10 |   11 |   12 |
-| 13   | 14   |   15 | 16                                                     |   17 |   18 |   19 |
-| 20   | 21   |   22 | 23                                                     |   24 |   25 |   26 |
-| 27   | 28   |   29 | 30                                                     |      |      |      |
+| Su   | Mo                                         |   Tu | We                                                     |   Th |   Fr |   Sa |
+|-----:|-------------------------------------------:|-----:|-------------------------------------------------------:|-----:|-----:|-----:|
+|      |                                            |    1 | [2](<_2873. Maximum Value of an Ordered Triplet I.md>) |    3 |    4 |    5 |
+| 6    | [7](<_416. Partition Equal Subset Sum.md>) |    8 | 9                                                      |   10 |   11 |   12 |
+| 13   | 14                                         |   15 | 16                                                     |   17 |   18 |   19 |
+| 20   | 21                                         |   22 | 23                                                     |   24 |   25 |   26 |
+| 27   | 28                                         |   29 | 30                                                     |      |      |      |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+|  416 | [Partition Equal Subset Sum](<https://leetcode.com/problems/partition-equal-subset-sum>)                                                                                                   | Medium  | Daily, N150    | [solution](<_416. Partition Equal Subset Sum.md>)                                                   | py                           | Apr 07, 2025    |
 | 2873 | [Maximum Value of an Ordered Triplet I](<https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i>)                                                                             | Easy    | Daily          | [solution](<_2873. Maximum Value of an Ordered Triplet I.md>)                                       | py                           | Apr 02, 2025    |
 | 3169 | Weekly Contest 400 - q2 - [Count Days Without Meetings](<https://leetcode.com/problems/count-days-without-meetings>)                                                                       | Medium  | Contest, Daily | [solution](<_3169. Count Days Without Meetings.md>)                                                 | py                           | Mar 24, 2025    |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i>)                         | Medium  | Daily          | [solution](<_3191. Minimum Operations to Make Binary Array Elements Equal to One I.md>)             | java                         | Mar 19, 2025    |
@@ -274,11 +275,11 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### April 2025
-| Su   | Mo   |   Tu | We                                                     |   Th |   Fr |   Sa |
-|-----:|-----:|-----:|-------------------------------------------------------:|-----:|-----:|-----:|
-|      |      |    1 | [2](<_2873. Maximum Value of an Ordered Triplet I.md>) |    3 |    4 |    5 |
-| 6    | 7    |    8 | 9                                                      |   10 |   11 |   12 |
-| 13   | 14   |   15 | 16                                                     |   17 |   18 |   19 |
-| 20   | 21   |   22 | 23                                                     |   24 |   25 |   26 |
-| 27   | 28   |   29 | 30                                                     |      |      |      |
+| Su   | Mo                                         |   Tu | We                                                     |   Th |   Fr |   Sa |
+|-----:|-------------------------------------------:|-----:|-------------------------------------------------------:|-----:|-----:|-----:|
+|      |                                            |    1 | [2](<_2873. Maximum Value of an Ordered Triplet I.md>) |    3 |    4 |    5 |
+| 6    | [7](<_416. Partition Equal Subset Sum.md>) |    8 | 9                                                      |   10 |   11 |   12 |
+| 13   | 14                                         |   15 | 16                                                     |   17 |   18 |   19 |
+| 20   | 21                                         |   22 | 23                                                     |   24 |   25 |   26 |
+| 27   | 28                                         |   29 | 30                                                     |      |      |      |
 
