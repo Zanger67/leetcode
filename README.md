@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (620 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (621 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -660,6 +660,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3248 | [Snake in Matrix](<https://leetcode.com/problems/snake-in-matrix>)                                                                                                                         | Easy    |                           | [solution](<markdowns/_3248. Snake in Matrix.md>)                                                             | py                                          |
 | 3249 | [Count the Number of Good Nodes](<https://leetcode.com/problems/count-the-number-of-good-nodes>)                                                                                           | Medium  |                           | [solution](<markdowns/_3249. Count the Number of Good Nodes.md>)                                              | py                                          |
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](<https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii>)                           | Medium  | Daily                     | [solution](<markdowns/_3306. Count of Substrings Containing Every Vowel and K Consonants II.md>)              | py                                          |
+| 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](<https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct>)                         | Easy    | Daily                     | [solution](<markdowns/_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>)             | py                                          |
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                                   | Medium  |                           | [solution](<markdowns/_3443. Maximum Manhattan Distance After K Changes.md>)                                  | py                                          |
 | 3460 | [Longest Common Prefix After at Most One Removal](<https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal>)                                                         | Medium  |                           | [solution](<markdowns/_3460. Longest Common Prefix After at Most One Removal.md>)                             | py                                          |
 

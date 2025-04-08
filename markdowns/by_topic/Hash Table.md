@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (138 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (139 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -143,4 +143,5 @@
 | 3238 | Biweekly Contest 136 - q1 - [Find the Number of Winning Players](<https://leetcode.com/problems/find-the-number-of-winning-players>)                                               | Easy    | Contest        | [solution](<../_3238. Find the Number of Winning Players.md>)                                      | py          | Aug 03, 2024    |
 | 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                                                                         | Easy    |                | [solution](<../_3242. Design Neighbor Sum Service.md>)                                             | py          | Aug 04, 2024    |
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](<https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii>)                   | Medium  | Daily          | [solution](<../_3306. Count of Substrings Containing Every Vowel and K Consonants II.md>)          | py          | Mar 10, 2025    |
+| 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](<https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct>)                 | Easy    | Daily          | [solution](<../_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>)         | py          | Apr 08, 2025    |
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                           | Medium  |                | [solution](<../_3443. Maximum Manhattan Distance After K Changes.md>)                              | py          | Feb 04, 2025    |

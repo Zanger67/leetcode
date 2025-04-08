@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (305 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (306 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -311,3 +311,4 @@
 | 3240 | Biweekly Contest 136 - q3 - [Minimum Number of Flips to Make Binary Grid Palindromic II](<https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii>)     | Medium  | Contest        | [solution](<../_3240. Minimum Number of Flips to Make Binary Grid Palindromic II.md>)                 | py                           | Aug 03, 2024    |
 | 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                                                                               | Easy    |                | [solution](<../_3242. Design Neighbor Sum Service.md>)                                                | py                           | Aug 04, 2024    |
 | 3248 | [Snake in Matrix](<https://leetcode.com/problems/snake-in-matrix>)                                                                                                                       | Easy    |                | [solution](<../_3248. Snake in Matrix.md>)                                                            | py                           | Aug 12, 2024    |
+| 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](<https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct>)                       | Easy    | Daily          | [solution](<../_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>)            | py                           | Apr 08, 2025    |
