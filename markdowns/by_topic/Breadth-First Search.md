@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (71 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (72 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -20,6 +20,7 @@
 |  286 | [Walls and Gates](<https://leetcode.com/problems/walls-and-gates>)                                                                                                 | Medium  | N150                      | [solution](<../_286. Walls and Gates.md>)                                                  | py          | Jun 15, 2024    |
 |  314 | [Binary Tree Vertical Order Traversal](<https://leetcode.com/problems/binary-tree-vertical-order-traversal>)                                                       | Medium  |                           | [solution](<../_314. Binary Tree Vertical Order Traversal.md>)                             | py          | Jun 12, 2024    |
 |  322 | [Coin Change](<https://leetcode.com/problems/coin-change>)                                                                                                         | Medium  | B75, N150                 | [solution](<../_322. Coin Change.md>)                                                      | py          | Sep 24, 2024    |
+|  323 | [Number of Connected Components in an Undirected Graph](<https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph>)                     | Medium  | B75, N150, Weekly Premium | [solution](<../_323. Number of Connected Components in an Undirected Graph.md>)            | py          | Apr 08, 2025    |
 |  339 | [Nested List Weight Sum](<https://leetcode.com/problems/nested-list-weight-sum>)                                                                                   | Medium  |                           | [solution](<../_339. Nested List Weight Sum.md>)                                           | c, py       | Jul 02, 2024    |
 |  364 | [Nested List Weight Sum II](<https://leetcode.com/problems/nested-list-weight-sum-ii>)                                                                             | Medium  |                           | [solution](<../_364. Nested List Weight Sum II.md>)                                        | java, py    | Jul 02, 2024    |
 |  429 | [N-ary Tree Level Order Traversal](<https://leetcode.com/problems/n-ary-tree-level-order-traversal>)                                                               | Medium  |                           | [solution](<../_429. N-ary Tree Level Order Traversal.md>)                                 | py          | Jul 04, 2024    |

@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (103 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (104 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -29,6 +29,7 @@
 |  261 | [Graph Valid Tree](<https://leetcode.com/problems/graph-valid-tree>)                                                                                     | Medium  | B75, N150, Weekly Premium | [solution](<../_261. Graph Valid Tree.md>)                                            | py          | Jan 29, 2025    |
 |  272 | [Closest Binary Search Tree Value II](<https://leetcode.com/problems/closest-binary-search-tree-value-ii>)                                               | Hard    |                           | [solution](<../_272. Closest Binary Search Tree Value II.md>)                         | py          | Jul 01, 2024    |
 |  314 | [Binary Tree Vertical Order Traversal](<https://leetcode.com/problems/binary-tree-vertical-order-traversal>)                                             | Medium  |                           | [solution](<../_314. Binary Tree Vertical Order Traversal.md>)                        | py          | Jun 12, 2024    |
+|  323 | [Number of Connected Components in an Undirected Graph](<https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph>)           | Medium  | B75, N150, Weekly Premium | [solution](<../_323. Number of Connected Components in an Undirected Graph.md>)       | py          | Apr 08, 2025    |
 |  339 | [Nested List Weight Sum](<https://leetcode.com/problems/nested-list-weight-sum>)                                                                         | Medium  |                           | [solution](<../_339. Nested List Weight Sum.md>)                                      | c, py       | Jul 02, 2024    |
 |  341 | [Flatten Nested List Iterator](<https://leetcode.com/problems/flatten-nested-list-iterator>)                                                             | Medium  |                           | [solution](<../_341. Flatten Nested List Iterator.md>)                                | java        | Jul 02, 2024    |
 |  364 | [Nested List Weight Sum II](<https://leetcode.com/problems/nested-list-weight-sum-ii>)                                                                   | Medium  |                           | [solution](<../_364. Nested List Weight Sum II.md>)                                   | java, py    | Jul 02, 2024    |

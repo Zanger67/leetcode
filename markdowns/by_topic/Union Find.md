@@ -1,4 +1,4 @@
-# [Union Find](<https://leetcode.com/tag/Union-Find/>) (16 completed)
+# [Union Find](<https://leetcode.com/tag/Union-Find/>) (17 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -9,6 +9,7 @@
 |  128 | [Longest Consecutive Sequence](<https://leetcode.com/problems/longest-consecutive-sequence>)                                                             | Medium  | B75, N150                 | [solution](<../_128. Longest Consecutive Sequence.md>)                                | java, py    | Jun 13, 2024    |
 |  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                                                   | Medium  | B75, N150                 | [solution](<../_200. Number of Islands.md>)                                           | py          | Jun 17, 2024    |
 |  261 | [Graph Valid Tree](<https://leetcode.com/problems/graph-valid-tree>)                                                                                     | Medium  | B75, N150, Weekly Premium | [solution](<../_261. Graph Valid Tree.md>)                                            | py          | Jan 29, 2025    |
+|  323 | [Number of Connected Components in an Undirected Graph](<https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph>)           | Medium  | B75, N150, Weekly Premium | [solution](<../_323. Number of Connected Components in an Undirected Graph.md>)       | py          | Apr 08, 2025    |
 |  684 | [Redundant Connection](<https://leetcode.com/problems/redundant-connection>)                                                                             | Medium  | Daily, N150               | [solution](<../_684. Redundant Connection.md>)                                        | py          | Jan 29, 2025    |
 |  695 | [Max Area of Island](<https://leetcode.com/problems/max-area-of-island>)                                                                                 | Medium  | N150                      | [solution](<../_695. Max Area of Island.md>)                                          | c           | Jun 24, 2024    |
 |  827 | [Making A Large Island](<https://leetcode.com/problems/making-a-large-island>)                                                                           | Hard    | Daily                     | [solution](<../_827. Making A Large Island.md>)                                       | py          | Jan 31, 2025    |
