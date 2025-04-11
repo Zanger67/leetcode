@@ -5,18 +5,19 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### April 2025
-| Su   | Mo                                         | Tu                                                                               | We                                                     |   Th |   Fr |   Sa |
-|-----:|-------------------------------------------:|---------------------------------------------------------------------------------:|-------------------------------------------------------:|-----:|-----:|-----:|
-|      |                                            | 1                                                                                | [2](<_2873. Maximum Value of an Ordered Triplet I.md>) |    3 |    4 |    5 |
-| 6    | [7](<_416. Partition Equal Subset Sum.md>) | [8](<_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>) | 9                                                      |   10 |   11 |   12 |
-| 13   | 14                                         | 15                                                                               | 16                                                     |   17 |   18 |   19 |
-| 20   | 21                                         | 22                                                                               | 23                                                     |   24 |   25 |   26 |
-| 27   | 28                                         | 29                                                                               | 30                                                     |      |      |      |
+| Su   | Mo                                         | Tu                                                                               | We                                                     |   Th | Fr                                           |   Sa |
+|-----:|-------------------------------------------:|---------------------------------------------------------------------------------:|-------------------------------------------------------:|-----:|---------------------------------------------:|-----:|
+|      |                                            | 1                                                                                | [2](<_2873. Maximum Value of an Ordered Triplet I.md>) |    3 | 4                                            |    5 |
+| 6    | [7](<_416. Partition Equal Subset Sum.md>) | [8](<_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>) | 9                                                      |   10 | [11](<_2843.   Count Symmetric Integers.md>) |   12 |
+| 13   | 14                                         | 15                                                                               | 16                                                     |   17 | 18                                           |   19 |
+| 20   | 21                                         | 22                                                                               | 23                                                     |   24 | 25                                           |   26 |
+| 27   | 28                                         | 29                                                                               | 30                                                     |      |                                              |      |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 2843 | [  Count Symmetric Integers](<https://leetcode.com/problems/count-symmetric-integers>)                                                                                                     | Easy    | Daily          | [solution](<_2843.   Count Symmetric Integers.md>)                                                  | py                           | Apr 11, 2025    |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](<https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct>)                         | Easy    | Daily          | [solution](<_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>)             | py                           | Apr 08, 2025    |
 |  416 | [Partition Equal Subset Sum](<https://leetcode.com/problems/partition-equal-subset-sum>)                                                                                                   | Medium  | Daily, N150    | [solution](<_416. Partition Equal Subset Sum.md>)                                                   | py                           | Apr 07, 2025    |
 | 2873 | [Maximum Value of an Ordered Triplet I](<https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i>)                                                                             | Easy    | Daily          | [solution](<_2873. Maximum Value of an Ordered Triplet I.md>)                                       | py                           | Apr 02, 2025    |
@@ -276,11 +277,11 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### April 2025
-| Su   | Mo                                         | Tu                                                                               | We                                                     |   Th |   Fr |   Sa |
-|-----:|-------------------------------------------:|---------------------------------------------------------------------------------:|-------------------------------------------------------:|-----:|-----:|-----:|
-|      |                                            | 1                                                                                | [2](<_2873. Maximum Value of an Ordered Triplet I.md>) |    3 |    4 |    5 |
-| 6    | [7](<_416. Partition Equal Subset Sum.md>) | [8](<_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>) | 9                                                      |   10 |   11 |   12 |
-| 13   | 14                                         | 15                                                                               | 16                                                     |   17 |   18 |   19 |
-| 20   | 21                                         | 22                                                                               | 23                                                     |   24 |   25 |   26 |
-| 27   | 28                                         | 29                                                                               | 30                                                     |      |      |      |
+| Su   | Mo                                         | Tu                                                                               | We                                                     |   Th | Fr                                           |   Sa |
+|-----:|-------------------------------------------:|---------------------------------------------------------------------------------:|-------------------------------------------------------:|-----:|---------------------------------------------:|-----:|
+|      |                                            | 1                                                                                | [2](<_2873. Maximum Value of an Ordered Triplet I.md>) |    3 | 4                                            |    5 |
+| 6    | [7](<_416. Partition Equal Subset Sum.md>) | [8](<_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>) | 9                                                      |   10 | [11](<_2843.   Count Symmetric Integers.md>) |   12 |
+| 13   | 14                                         | 15                                                                               | 16                                                     |   17 | 18                                           |   19 |
+| 20   | 21                                         | 22                                                                               | 23                                                     |   24 | 25                                           |   26 |
+| 27   | 28                                         | 29                                                                               | 30                                                     |      |                                              |      |
 

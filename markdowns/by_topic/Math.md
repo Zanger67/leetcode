@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (79 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (80 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -74,6 +74,7 @@
 | 2698 | [Find the Punishment Number of an Integer](<https://leetcode.com/problems/find-the-punishment-number-of-an-integer>)                                               | Medium  | Daily          | [solution](<../_2698. Find the Punishment Number of an Integer.md>)                        | py                                          | Feb 15, 2025    |
 | 2807 | [Insert Greatest Common Divisors in Linked List](<https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list>)                                   | Medium  | Daily          | [solution](<../_2807. Insert Greatest Common Divisors in Linked List.md>)                  | py                                          | Jun 13, 2024    |
 | 2816 | [Double a Number Represented as a Linked List](<https://leetcode.com/problems/double-a-number-represented-as-a-linked-list>)                                       | Medium  |                | [solution](<../_2816. Double a Number Represented as a Linked List.md>)                    | c                                           | Jul 04, 2024    |
+| 2843 | [  Count Symmetric Integers](<https://leetcode.com/problems/count-symmetric-integers>)                                                                             | Easy    | Daily          | [solution](<../_2843.   Count Symmetric Integers.md>)                                      | py                                          | Apr 11, 2025    |
 | 2894 | [Divisible and Non-divisible Sums Difference](<https://leetcode.com/problems/divisible-and-non-divisible-sums-difference>)                                         | Easy    |                | [solution](<../_2894. Divisible and Non-divisible Sums Difference.md>)                     | py                                          | May 22, 2024    |
 | 2954 | [Count the Number of Infection Sequences](<https://leetcode.com/problems/count-the-number-of-infection-sequences>)                                                 | Hard    |                | [solution](<../_2954. Count the Number of Infection Sequences.md>)                         | py                                          | Jun 26, 2024    |
 | 2965 | [Find Missing and Repeated Values](<https://leetcode.com/problems/find-missing-and-repeated-values>)                                                               | Easy    | Daily          | [solution](<../_2965. Find Missing and Repeated Values.md>)                                | py                                          | Mar 06, 2025    |

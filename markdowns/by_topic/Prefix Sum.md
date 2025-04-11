@@ -1,4 +1,4 @@
-# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (21 completed)
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (20 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,7 +22,6 @@
 | 1524 | [Number of Sub-arrays With Odd Sum](<https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum>)                                                             | Medium  | Daily          | [solution](<../_1524. Number of Sub-arrays With Odd Sum.md>)                               | py          | Feb 26, 2025    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)              | c, py       | Jun 10, 2024    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                       | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                            | py          | Jun 01, 2024    |
-| 2483 | [Minimum Penalty for a Shop](<https://leetcode.com/problems/minimum-penalty-for-a-shop>)                                                                           | Medium  |                | [solution](<../_2483. Minimum Penalty for a Shop.md>)                                      | py          | Apr 11, 2025    |
 | 2955 | [Number of Same-End Substrings](<https://leetcode.com/problems/number-of-same-end-substrings>)                                                                     | Medium  | Weekly Premium | [solution](<../_2955. Number of Same-End Substrings.md>)                                   | py          | Nov 04, 2024    |
 | 3179 | Weekly Contest 401 - q2 - [Find the N-th Value After K Seconds](<https://leetcode.com/problems/find-the-n-th-value-after-k-seconds>)                               | Medium  | Contest        | [solution](<../_3179. Find the N-th Value After K Seconds.md>)                             | py          | Jul 07, 2024    |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i>) | Medium  | Daily          | [solution](<../_3191. Minimum Operations to Make Binary Array Elements Equal to One I.md>) | java        | Jun 22, 2024    |

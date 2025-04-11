@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (147 completed)
+# [String](<https://leetcode.com/tag/String/>) (146 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -127,7 +127,6 @@
 | 2418 | [Sort the People](<https://leetcode.com/problems/sort-the-people>)                                                                                                                 | Easy    | Daily          | [solution](<../_2418. Sort the People.md>)                                                         | py          | Jul 22, 2024    |
 | 2423 | [Remove Letter To Equalize Frequency](<https://leetcode.com/problems/remove-letter-to-equalize-frequency>)                                                                         | Easy    |                | [solution](<../_2423. Remove Letter To Equalize Frequency.md>)                                     | py          | Jun 17, 2024    |
 | 2451 | [Odd String Difference](<https://leetcode.com/problems/odd-string-difference>)                                                                                                     | Easy    |                | [solution](<../_2451. Odd String Difference.md>)                                                   | py          | Sep 25, 2024    |
-| 2483 | [Minimum Penalty for a Shop](<https://leetcode.com/problems/minimum-penalty-for-a-shop>)                                                                                           | Medium  |                | [solution](<../_2483. Minimum Penalty for a Shop.md>)                                              | py          | Apr 11, 2025    |
 | 2486 | [Append Characters to String to Make Subsequence](<https://leetcode.com/problems/append-characters-to-string-to-make-subsequence>)                                                 | Medium  | Daily          | [solution](<../_2486. Append Characters to String to Make Subsequence.md>)                         | c, java, py | Jun 03, 2024    |
 | 2678 | [Number of Senior Citizens](<https://leetcode.com/problems/number-of-senior-citizens>)                                                                                             | Easy    | Daily          | [solution](<../_2678. Number of Senior Citizens.md>)                                               | c, java, py | May 22, 2024    |
 | 2734 | [Lexicographically Smallest String After Substring Operation](<https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation>)                         | Medium  |                | [solution](<../_2734. Lexicographically Smallest String After Substring Operation.md>)             | py          | Jun 29, 2024    |
