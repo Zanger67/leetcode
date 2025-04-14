@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (306 completed)
+- [Array](<by_topic/Array.md>) (307 completed)
 - [String](<by_topic/String.md>) (146 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (139 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (104 completed)
@@ -57,13 +57,13 @@
 - [Suffix Array](<by_topic/Suffix Array.md>) (3 completed)
 - [Doubly-Linked List](<by_topic/Doubly-Linked List.md>) (3 completed)
 - [Iterator](<by_topic/Iterator.md>) (3 completed)
+- [Enumeration](<by_topic/Enumeration.md>) (2 completed)
 - [Interactive](<by_topic/Interactive.md>) (2 completed)
 - [Bitmask](<by_topic/Bitmask.md>) (2 completed)
 - [Merge Sort](<by_topic/Merge Sort.md>) (2 completed)
 - [Binary Indexed Tree](<by_topic/Binary Indexed Tree.md>) (2 completed)
 - [Segment Tree](<by_topic/Segment Tree.md>) (2 completed)
 - [Quickselect](<by_topic/Quickselect.md>) (2 completed)
-- [Enumeration](<by_topic/Enumeration.md>) (1 completed)
 - [Strongly Connected Component](<by_topic/Strongly Connected Component.md>) (1 completed)
 - [Probability and Statistics](<by_topic/Probability and Statistics.md>) (1 completed)
 - [Reservoir Sampling](<by_topic/Reservoir Sampling.md>) (1 completed)

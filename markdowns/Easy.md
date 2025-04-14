@@ -1,4 +1,4 @@
-# Easy Questions (182)
+# Easy Questions (183)
 
 *[Back to top](<../README.md>)*
 
@@ -116,6 +116,7 @@
 | 1475 | [Final Prices With a Special Discount in a Shop](<https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop>)                                   | Easy    | Daily          | [solution](<_1475. Final Prices With a Special Discount in a Shop.md>)                  | py                           | Dec 18, 2024    |
 | 1502 | [Can Make Arithmetic Progression From Sequence](<https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence>)                                     | Easy    |                | [solution](<_1502. Can Make Arithmetic Progression From Sequence.md>)                   | c, py                        | Jun 04, 2024    |
 | 1518 | [Water Bottles](<https://leetcode.com/problems/water-bottles>)                                                                                                     | Easy    | Daily          | [solution](<_1518. Water Bottles.md>)                                                   | c, cpp, cs, java, js, py, ts | Jul 07, 2024    |
+| 1534 | [Count Good Triplets](<https://leetcode.com/problems/count-good-triplets>)                                                                                         | Easy    | Daily          | [solution](<_1534. Count Good Triplets.md>)                                             | c, py                        | Apr 14, 2025    |
 | 1550 | [Three Consecutive Odds](<https://leetcode.com/problems/three-consecutive-odds>)                                                                                   | Easy    | Daily          | [solution](<_1550. Three Consecutive Odds.md>)                                          | c, py                        | Jul 01, 2024    |
 | 1598 | [Crawler Log Folder](<https://leetcode.com/problems/crawler-log-folder>)                                                                                           | Easy    | Daily          | [solution](<_1598. Crawler Log Folder.md>)                                              | c, js                        | Jul 10, 2024    |
 | 1636 | [Sort Array by Increasing Frequency](<https://leetcode.com/problems/sort-array-by-increasing-frequency>)                                                           | Easy    | Daily          | [solution](<_1636. Sort Array by Increasing Frequency.md>)                              | py                           | Jul 23, 2024    |
