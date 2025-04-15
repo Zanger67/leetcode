@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (139 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (140 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -23,6 +23,7 @@
 |  242 | [Valid Anagram](<https://leetcode.com/problems/valid-anagram>)                                                                                                                     | Easy    | B75, N150      | [solution](<../_242. Valid Anagram.md>)                                                            | c, py       | Jun 13, 2024    |
 |  266 | [Palindrome Permutation](<https://leetcode.com/problems/palindrome-permutation>)                                                                                                   | Easy    | Weekly Premium | [solution](<../_266. Palindrome Permutation.md>)                                                   | py          | Mar 15, 2025    |
 |  314 | [Binary Tree Vertical Order Traversal](<https://leetcode.com/problems/binary-tree-vertical-order-traversal>)                                                                       | Medium  |                | [solution](<../_314. Binary Tree Vertical Order Traversal.md>)                                     | py          | Jun 12, 2024    |
+|  325 | [Maximum Size Subarray Sum Equals k](<https://leetcode.com/problems/maximum-size-subarray-sum-equals-k>)                                                                           | Medium  | Weekly Premium | [solution](<../_325. Maximum Size Subarray Sum Equals k.md>)                                       | py          | Apr 15, 2025    |
 |  347 | [Top K Frequent Elements](<https://leetcode.com/problems/top-k-frequent-elements>)                                                                                                 | Medium  | B75, N150      | [solution](<../_347. Top K Frequent Elements.md>)                                                  | py          | Jun 13, 2024    |
 |  348 | [Design Tic-Tac-Toe](<https://leetcode.com/problems/design-tic-tac-toe>)                                                                                                           | Medium  |                | [solution](<../_348. Design Tic-Tac-Toe.md>)                                                       | py          | Jul 05, 2024    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                                     | Easy    | Daily          | [solution](<../_350. Intersection of Two Arrays II.md>)                                            | java, py    | Jul 02, 2024    |

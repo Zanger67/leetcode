@@ -1,4 +1,4 @@
-# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (20 completed)
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (21 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -7,6 +7,7 @@
 |    # | Title                                                                                                                                                              | Level   | Cats           | Solution                                                                                   | Languages   | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:-------------------------------------------------------------------------------------------|:------------|:----------------|
 |  238 | [Product of Array Except Self](<https://leetcode.com/problems/product-of-array-except-self>)                                                                       | Medium  | B75, N150      | [solution](<../_238. Product of Array Except Self.md>)                                     | py          | Jun 13, 2024    |
+|  325 | [Maximum Size Subarray Sum Equals k](<https://leetcode.com/problems/maximum-size-subarray-sum-equals-k>)                                                           | Medium  | Weekly Premium | [solution](<../_325. Maximum Size Subarray Sum Equals k.md>)                               | py          | Apr 15, 2025    |
 |  523 | [Continuous Subarray Sum](<https://leetcode.com/problems/continuous-subarray-sum>)                                                                                 | Medium  | Daily          | [solution](<../_523. Continuous Subarray Sum.md>)                                          | py          | Jun 08, 2024    |
 |  713 | [Subarray Product Less Than K](<https://leetcode.com/problems/subarray-product-less-than-k>)                                                                       | Medium  |                | [solution](<../_713. Subarray Product Less Than K.md>)                                     | py          | Jul 01, 2024    |
 |  848 | [Shifting Letters](<https://leetcode.com/problems/shifting-letters>)                                                                                               | Medium  |                | [solution](<../_848. Shifting Letters.md>)                                                 | py          | Jun 29, 2024    |
