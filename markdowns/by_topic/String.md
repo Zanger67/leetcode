@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (146 completed)
+# [String](<https://leetcode.com/tag/String/>) (147 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -15,6 +15,7 @@
 |   20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)                                                                                                             | Easy    | B75, N150      | [solution](<../_20. Valid Parentheses.md>)                                                         | java        | May 22, 2024    |
 |   22 | [Generate Parentheses](<https://leetcode.com/problems/generate-parentheses>)                                                                                                       | Medium  | N150           | [solution](<../_22. Generate Parentheses.md>)                                                      | py          | Jun 13, 2024    |
 |   28 | [Find the Index of the First Occurrence in a String](<https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string>)                                           | Easy    |                | [solution](<../_28. Find the Index of the First Occurrence in a String.md>)                        | py          | May 22, 2024    |
+|   38 | [Count and Say](<https://leetcode.com/problems/count-and-say>)                                                                                                                     | Medium  | Daily          | [solution](<../_38. Count and Say.md>)                                                             | py          | Apr 18, 2025    |
 |   49 | [Group Anagrams](<https://leetcode.com/problems/group-anagrams>)                                                                                                                   | Medium  | B75, N150      | [solution](<../_49. Group Anagrams.md>)                                                            | py          | Jun 13, 2024    |
 |   71 | [Simplify Path](<https://leetcode.com/problems/simplify-path>)                                                                                                                     | Medium  |                | [solution](<../_71. Simplify Path.md>)                                                             | py          | Jun 11, 2024    |
 |   79 | [Word Search](<https://leetcode.com/problems/word-search>)                                                                                                                         | Medium  | B75, N150      | [solution](<../_79. Word Search.md>)                                                               | py          | Jun 27, 2024    |
