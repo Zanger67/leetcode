@@ -1,4 +1,4 @@
-# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (21 completed)
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (22 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,6 +22,7 @@
 | 1508 | [Range Sum of Sorted Subarray Sums](<https://leetcode.com/problems/range-sum-of-sorted-subarray-sums>)                                                             | Medium  | Daily          | [solution](<../_1508. Range Sum of Sorted Subarray Sums.md>)                               | py          | Aug 04, 2024    |
 | 1524 | [Number of Sub-arrays With Odd Sum](<https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum>)                                                             | Medium  | Daily          | [solution](<../_1524. Number of Sub-arrays With Odd Sum.md>)                               | py          | Feb 26, 2025    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)              | c, py       | Jun 10, 2024    |
+| 2145 | [Count the Hidden Sequences](<https://leetcode.com/problems/count-the-hidden-sequences>)                                                                           | Medium  | Daily          | [solution](<../_2145. Count the Hidden Sequences.md>)                                      | py          | Apr 21, 2025    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                       | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                            | py          | Jun 01, 2024    |
 | 2955 | [Number of Same-End Substrings](<https://leetcode.com/problems/number-of-same-end-substrings>)                                                                     | Medium  | Weekly Premium | [solution](<../_2955. Number of Same-End Substrings.md>)                                   | py          | Nov 04, 2024    |
 | 3179 | Weekly Contest 401 - q2 - [Find the N-th Value After K Seconds](<https://leetcode.com/problems/find-the-n-th-value-after-k-seconds>)                               | Medium  | Contest        | [solution](<../_3179. Find the N-th Value After K Seconds.md>)                             | py          | Jul 07, 2024    |
