@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (49 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (50 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -12,6 +12,7 @@
 |  605 | [Can Place Flowers](<https://leetcode.com/problems/can-place-flowers>)                                                                                                       | Easy    |                | [solution](<../_605. Can Place Flowers.md>)                                                     | c, cpp, java, js, py, rs, ts | Jul 23, 2024    |
 |  611 | [Valid Triangle Number](<https://leetcode.com/problems/valid-triangle-number>)                                                                                               | Medium  |                | [solution](<../_611. Valid Triangle Number.md>)                                                 | py                           | May 22, 2024    |
 |  624 | [Maximum Distance in Arrays](<https://leetcode.com/problems/maximum-distance-in-arrays>)                                                                                     | Medium  | Daily          | [solution](<../_624. Maximum Distance in Arrays.md>)                                            | py                           | Aug 16, 2024    |
+|  781 | [Rabbits in Forest](<https://leetcode.com/problems/rabbits-in-forest>)                                                                                                       | Medium  | Daily          | [solution](<../_781. Rabbits in Forest.md>)                                                     | py                           | Apr 21, 2025    |
 |  807 | [Max Increase to Keep City Skyline](<https://leetcode.com/problems/max-increase-to-keep-city-skyline>)                                                                       | Medium  |                | [solution](<../_807. Max Increase to Keep City Skyline.md>)                                     | java                         | Jun 22, 2024    |
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                                                     | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                                            | py                           | Jun 18, 2024    |
 |  846 | [Hand of Straights](<https://leetcode.com/problems/hand-of-straights>)                                                                                                       | Medium  | Daily, N150    | [solution](<../_846. Hand of Straights.md>)                                                     | py                           | Jun 06, 2024    |

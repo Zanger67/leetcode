@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (140 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (141 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -49,6 +49,7 @@
 |  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                                                 | Hard    | Daily          | [solution](<../_726. Number of Atoms.md>)                                                          | py          | Jul 14, 2024    |
 |  758 | [Bold Words in String](<https://leetcode.com/problems/bold-words-in-string>)                                                                                                       | Medium  |                | [solution](<../_758. Bold Words in String.md>)                                                     | py          | Jun 28, 2024    |
 |  771 | [Jewels and Stones](<https://leetcode.com/problems/jewels-and-stones>)                                                                                                             | Easy    |                | [solution](<../_771. Jewels and Stones.md>)                                                        | java, py    | Jun 02, 2024    |
+|  781 | [Rabbits in Forest](<https://leetcode.com/problems/rabbits-in-forest>)                                                                                                             | Medium  | Daily          | [solution](<../_781. Rabbits in Forest.md>)                                                        | py          | Apr 21, 2025    |
 |  791 | [Custom Sort String](<https://leetcode.com/problems/custom-sort-string>)                                                                                                           | Medium  |                | [solution](<../_791. Custom Sort String.md>)                                                       | java        | Jun 24, 2024    |
 |  817 | [Linked List Components](<https://leetcode.com/problems/linked-list-components>)                                                                                                   | Medium  |                | [solution](<../_817. Linked List Components.md>)                                                   | java        | Jul 04, 2024    |
 |  819 | [Most Common Word](<https://leetcode.com/problems/most-common-word>)                                                                                                               | Easy    |                | [solution](<../_819. Most Common Word.md>)                                                         | py          | Sep 24, 2024    |
