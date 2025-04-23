@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (82 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (83 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -48,6 +48,7 @@
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                   | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                  | py                                          | Jun 22, 2024    |
 | 1252 | [Cells with Odd Values in a Matrix](<https://leetcode.com/problems/cells-with-odd-values-in-a-matrix>)                                                             | Easy    |                | [solution](<../_1252. Cells with Odd Values in a Matrix.md>)                               | c                                           | Jun 04, 2024    |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](<https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers>)                           | Easy    |                | [solution](<../_1317. Convert Integer to the Sum of Two No-Zero Integers.md>)              | c                                           | Jun 04, 2024    |
+| 1399 | [Count Largest Group](<https://leetcode.com/problems/count-largest-group>)                                                                                         | Easy    | Daily          | [solution](<../_1399. Count Largest Group.md>)                                             | py                                          | Apr 23, 2025    |
 | 1427 | [Perform String Shifts](<https://leetcode.com/problems/perform-string-shifts>)                                                                                     | Easy    | Weekly Premium | [solution](<../_1427. Perform String Shifts.md>)                                           | py                                          | Jan 07, 2025    |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](<https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor>)                       | Medium  |                | [solution](<../_1442. Count Triplets That Can Form Two Arrays of Equal XOR.md>)            | py                                          | Jun 08, 2024    |
 | 1518 | [Water Bottles](<https://leetcode.com/problems/water-bottles>)                                                                                                     | Easy    | Daily          | [solution](<../_1518. Water Bottles.md>)                                                   | c, cpp, cs, java, js, py, ts                | Jul 07, 2024    |

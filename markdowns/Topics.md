@@ -6,11 +6,11 @@
 
 - [Array](<by_topic/Array.md>) (310 completed)
 - [String](<by_topic/String.md>) (147 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (141 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (142 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (104 completed)
 - [Tree](<by_topic/Tree.md>) (91 completed)
+- [Math](<by_topic/Math.md>) (83 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (82 completed)
-- [Math](<by_topic/Math.md>) (82 completed)
 - [Sorting](<by_topic/Sorting.md>) (74 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (72 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (61 completed)
