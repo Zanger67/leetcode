@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (104 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (105 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -28,6 +28,7 @@
 |  236 | [Lowest Common Ancestor of a Binary Tree](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree>)                                       | Medium  | B75                       | [solution](<../_236. Lowest Common Ancestor of a Binary Tree.md>)                     | py          | Jul 15, 2024    |
 |  261 | [Graph Valid Tree](<https://leetcode.com/problems/graph-valid-tree>)                                                                                     | Medium  | B75, N150, Weekly Premium | [solution](<../_261. Graph Valid Tree.md>)                                            | py          | Jan 29, 2025    |
 |  272 | [Closest Binary Search Tree Value II](<https://leetcode.com/problems/closest-binary-search-tree-value-ii>)                                               | Hard    |                           | [solution](<../_272. Closest Binary Search Tree Value II.md>)                         | py          | Jul 01, 2024    |
+|  302 | [Smallest Rectangle Enclosing Black Pixels](<https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels>)                                   | Hard    | Weekly Premium            | [solution](<../_302. Smallest Rectangle Enclosing Black Pixels.md>)                   | py          | Apr 23, 2025    |
 |  314 | [Binary Tree Vertical Order Traversal](<https://leetcode.com/problems/binary-tree-vertical-order-traversal>)                                             | Medium  |                           | [solution](<../_314. Binary Tree Vertical Order Traversal.md>)                        | py          | Jun 12, 2024    |
 |  323 | [Number of Connected Components in an Undirected Graph](<https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph>)           | Medium  | B75, N150, Weekly Premium | [solution](<../_323. Number of Connected Components in an Undirected Graph.md>)       | py          | Apr 08, 2025    |
 |  339 | [Nested List Weight Sum](<https://leetcode.com/problems/nested-list-weight-sum>)                                                                         | Medium  |                           | [solution](<../_339. Nested List Weight Sum.md>)                                      | c, py       | Jul 02, 2024    |

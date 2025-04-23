@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (33 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (34 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -12,6 +12,7 @@
 |   81 | [Search in Rotated Sorted Array II](<https://leetcode.com/problems/search-in-rotated-sorted-array-ii>)                                           | Medium  |                | [solution](<../_81. Search in Rotated Sorted Array II.md>)                        | py          | Dec 17, 2024    |
 |  167 | [Two Sum II - Input Array Is Sorted](<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted>)                                           | Medium  | N150           | [solution](<../_167. Two Sum II - Input Array Is Sorted.md>)                      | py          | Jun 14, 2024    |
 |  287 | [Find the Duplicate Number](<https://leetcode.com/problems/find-the-duplicate-number>)                                                           | Medium  | N150           | [solution](<../_287. Find the Duplicate Number.md>)                               | c           | Jun 26, 2024    |
+|  302 | [Smallest Rectangle Enclosing Black Pixels](<https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels>)                           | Hard    | Weekly Premium | [solution](<../_302. Smallest Rectangle Enclosing Black Pixels.md>)               | py          | Apr 23, 2025    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                   | Easy    | Daily          | [solution](<../_350. Intersection of Two Arrays II.md>)                           | java, py    | Jul 02, 2024    |
 |  362 | [Design Hit Counter](<https://leetcode.com/problems/design-hit-counter>)                                                                         | Medium  |                | [solution](<../_362. Design Hit Counter.md>)                                      | py          | Oct 24, 2024    |
 |  374 | [Guess Number Higher or Lower](<https://leetcode.com/problems/guess-number-higher-or-lower>)                                                     | Easy    |                | [solution](<../_374. Guess Number Higher or Lower.md>)                            | java, py    | Jun 02, 2024    |

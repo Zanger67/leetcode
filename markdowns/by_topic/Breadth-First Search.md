@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (72 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (73 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -18,6 +18,7 @@
 |  226 | [Invert Binary Tree](<https://leetcode.com/problems/invert-binary-tree>)                                                                                           | Easy    | B75, N150                 | [solution](<../_226. Invert Binary Tree.md>)                                               | py          | Jul 03, 2024    |
 |  261 | [Graph Valid Tree](<https://leetcode.com/problems/graph-valid-tree>)                                                                                               | Medium  | B75, N150, Weekly Premium | [solution](<../_261. Graph Valid Tree.md>)                                                 | py          | Jan 29, 2025    |
 |  286 | [Walls and Gates](<https://leetcode.com/problems/walls-and-gates>)                                                                                                 | Medium  | N150                      | [solution](<../_286. Walls and Gates.md>)                                                  | py          | Jun 15, 2024    |
+|  302 | [Smallest Rectangle Enclosing Black Pixels](<https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels>)                                             | Hard    | Weekly Premium            | [solution](<../_302. Smallest Rectangle Enclosing Black Pixels.md>)                        | py          | Apr 23, 2025    |
 |  314 | [Binary Tree Vertical Order Traversal](<https://leetcode.com/problems/binary-tree-vertical-order-traversal>)                                                       | Medium  |                           | [solution](<../_314. Binary Tree Vertical Order Traversal.md>)                             | py          | Jun 12, 2024    |
 |  322 | [Coin Change](<https://leetcode.com/problems/coin-change>)                                                                                                         | Medium  | B75, N150                 | [solution](<../_322. Coin Change.md>)                                                      | py          | Sep 24, 2024    |
 |  323 | [Number of Connected Components in an Undirected Graph](<https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph>)                     | Medium  | B75, N150, Weekly Premium | [solution](<../_323. Number of Connected Components in an Undirected Graph.md>)            | py          | Apr 08, 2025    |

@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (53 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (54 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -14,6 +14,7 @@
 |  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                                                                               | Medium  | B75, N150      | [solution](<../_200. Number of Islands.md>)                                                | py          | Jun 17, 2024    |
 |  212 | [Word Search II](<https://leetcode.com/problems/word-search-ii>)                                                                                                                     | Hard    | B75, N150      | [solution](<../_212. Word Search II.md>)                                                   | py          | Jun 27, 2024    |
 |  286 | [Walls and Gates](<https://leetcode.com/problems/walls-and-gates>)                                                                                                                   | Medium  | N150           | [solution](<../_286. Walls and Gates.md>)                                                  | py          | Jun 15, 2024    |
+|  302 | [Smallest Rectangle Enclosing Black Pixels](<https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels>)                                                               | Hard    | Weekly Premium | [solution](<../_302. Smallest Rectangle Enclosing Black Pixels.md>)                        | py          | Apr 23, 2025    |
 |  348 | [Design Tic-Tac-Toe](<https://leetcode.com/problems/design-tic-tac-toe>)                                                                                                             | Medium  |                | [solution](<../_348. Design Tic-Tac-Toe.md>)                                               | py          | Jul 05, 2024    |
 |  419 | [Battleships in a Board](<https://leetcode.com/problems/battleships-in-a-board>)                                                                                                     | Medium  |                | [solution](<../_419. Battleships in a Board.md>)                                           | c, py       | Jun 24, 2024    |
 |  542 | [01 Matrix](<https://leetcode.com/problems/01-matrix>)                                                                                                                               | Medium  |                | [solution](<../_542. 01 Matrix.md>)                                                        | py          | Jun 26, 2024    |
