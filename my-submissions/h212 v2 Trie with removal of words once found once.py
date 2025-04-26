@@ -20,7 +20,6 @@ class Solution:
                     self.visited.remove((r, c))
 
 
-
         # Parsing through each possible origin index
         self.trie = self.constructTrie(words)
         output  = set()
