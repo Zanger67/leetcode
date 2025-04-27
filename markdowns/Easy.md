@@ -1,4 +1,4 @@
-# Easy Questions (184)
+# Easy Questions (185)
 
 *[Back to top](<../README.md>)*
 
@@ -189,4 +189,5 @@
 | 3238 | Biweekly Contest 136 - q1 - [Find the Number of Winning Players](<https://leetcode.com/problems/find-the-number-of-winning-players>)                               | Easy    | Contest        | [solution](<_3238. Find the Number of Winning Players.md>)                              | py                           | Aug 03, 2024    |
 | 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                                                         | Easy    |                | [solution](<_3242. Design Neighbor Sum Service.md>)                                     | py                           | Aug 04, 2024    |
 | 3248 | [Snake in Matrix](<https://leetcode.com/problems/snake-in-matrix>)                                                                                                 | Easy    |                | [solution](<_3248. Snake in Matrix.md>)                                                 | py                           | Aug 12, 2024    |
+| 3392 | [Count Subarrays of Length Three With a Condition](<https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition>)                               | Easy    | Daily          | [solution](<_3392. Count Subarrays of Length Three With a Condition.md>)                | py                           | Apr 27, 2025    |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](<https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct>) | Easy    | Daily          | [solution](<_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>) | py                           | Apr 08, 2025    |
