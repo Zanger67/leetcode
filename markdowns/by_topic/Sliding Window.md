@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (23 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (24 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -25,6 +25,7 @@
 | 1493 | [Longest Subarray of 1's After Deleting One Element](<https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element>)                                                  | Medium  |                | [solution](<../_1493. Longest Subarray of 1's After Deleting One Element.md>)                         | py          | Feb 17, 2025    |
 | 1852 | [Distinct Numbers in Each Subarray](<https://leetcode.com/problems/distinct-numbers-in-each-subarray>)                                                                                   | Medium  | Weekly Premium | [solution](<../_1852. Distinct Numbers in Each Subarray.md>)                                          | java, py    | Jun 27, 2024    |
 | 2134 | [Minimum Swaps to Group All 1's Together II](<https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii>)                                                                  | Medium  | Daily          | [solution](<../_2134. Minimum Swaps to Group All 1's Together II.md>)                                 | py          | Aug 02, 2024    |
+| 2302 | [Count Subarrays With Score Less Than K](<https://leetcode.com/problems/count-subarrays-with-score-less-than-k>)                                                                         | Hard    | Daily          | [solution](<../_2302. Count Subarrays With Score Less Than K.md>)                                     | py          | Apr 28, 2025    |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](<https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks>)                                                 | Easy    | Daily          | [solution](<../_2379. Minimum Recolors to Get K Consecutive Black Blocks.md>)                         | py          | Mar 08, 2025    |
 | 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)                                                             | Medium  | Weekly Premium | [solution](<../_2743. Count Substrings Without Repeating Character.md>)                               | java, py    | Jun 22, 2024    |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](<https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i>)                       | Medium  | Daily          | [solution](<../_3191. Minimum Operations to Make Binary Array Elements Equal to One I.md>)            | java        | Jun 22, 2024    |
