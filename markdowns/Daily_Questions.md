@@ -4,19 +4,35 @@
 
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
-### April 2025
-| Su                                                                 | Mo                                                       | Tu                                                                               | We                                                        |   Th | Fr                                           |   Sa |
-|-------------------------------------------------------------------:|---------------------------------------------------------:|---------------------------------------------------------------------------------:|----------------------------------------------------------:|-----:|---------------------------------------------:|-----:|
-|                                                                    |                                                          | 1                                                                                | [2](<_2873. Maximum Value of an Ordered Triplet I.md>)    |    3 | 4                                            |    5 |
-| 6                                                                  | [7](<_416. Partition Equal Subset Sum.md>)               | [8](<_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>) | 9                                                         |   10 | [11](<_2843.   Count Symmetric Integers.md>) |   12 |
-| [13](<_1922. Count Good Numbers.md>)                               | [14](<_1534. Count Good Triplets.md>)                    | 15                                                                               | 16                                                        |   17 | [18](<_38. Count and Say.md>)                |   19 |
-| [20](<_781. Rabbits in Forest.md>)                                 | [21](<_2145. Count the Hidden Sequences.md>)             | 22                                                                               | [23](<_1399. Count Largest Group.md>)                     |   24 | 25                                           |   26 |
-| [27](<_3392. Count Subarrays of Length Three With a Condition.md>) | [28](<_2302. Count Subarrays With Score Less Than K.md>) | 29                                                                               | [30](<_1295. Find Numbers with Even Number of Digits.md>) |      |                                              |      |
+### August 2025
+| Su   | Mo   | Tu                                                | We                              | Th   | Fr                                | Sa                           |
+|-----:|-----:|--------------------------------------------------:|--------------------------------:|-----:|----------------------------------:|-----------------------------:|
+|      |      |                                                   |                                 |      | [1](<_118. Pascal's Triangle.md>) | 2                            |
+| 3    | 4    | 5                                                 | 6                               | 7    | 8                                 | [9](<_231. Power of Two.md>) |
+| 10   | 11   | 12                                                | [13](<_326. Power of Three.md>) | 14   | [15](<_342. Power of Four.md>)    | 16                           |
+| 17   | 18   | [19](<_2348. Number of Zero-Filled Subarrays.md>) | 20                              | 21   | 22                                | 23                           |
+| 24   | 25   | 26                                                | 27                              | 28   | 29                                | 30                           |
+| 31   |      |                                                   |                                 |      |                                   |                              |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 2348 | [Number of Zero-Filled Subarrays](<https://leetcode.com/problems/number-of-zero-filled-subarrays>)                                                                                         | Medium  | Daily          | [solution](<_2348. Number of Zero-Filled Subarrays.md>)                                             | py                           | Aug 19, 2025    |
+|  342 | [Power of Four](<https://leetcode.com/problems/power-of-four>)                                                                                                                             | Easy    | Daily          | [solution](<_342. Power of Four.md>)                                                                | py                           | Aug 15, 2025    |
+|  326 | [Power of Three](<https://leetcode.com/problems/power-of-three>)                                                                                                                           | Easy    | Daily          | [solution](<_326. Power of Three.md>)                                                               | py                           | Aug 13, 2025    |
+|  231 | [Power of Two](<https://leetcode.com/problems/power-of-two>)                                                                                                                               | Easy    | Daily          | [solution](<_231. Power of Two.md>)                                                                 | py                           | Aug 09, 2025    |
+|  118 | [Pascal's Triangle](<https://leetcode.com/problems/pascals-triangle>)                                                                                                                      | Easy    | Daily          | [solution](<_118. Pascal's Triangle.md>)                                                            | py                           | Aug 01, 2025    |
+| 1717 | [Maximum Score From Removing Substrings](<https://leetcode.com/problems/maximum-score-from-removing-substrings>)                                                                           | Medium  | Daily          | [solution](<_1717. Maximum Score From Removing Substrings.md>)                                      | py                           | Jul 23, 2025    |
+| 1957 | [Delete Characters to Make Fancy String](<https://leetcode.com/problems/delete-characters-to-make-fancy-string>)                                                                           | Easy    | Daily          | [solution](<_1957. Delete Characters to Make Fancy String.md>)                                      | py                           | Jul 21, 2025    |
+| 1233 | [Remove Sub-Folders from the Filesystem](<https://leetcode.com/problems/remove-sub-folders-from-the-filesystem>)                                                                           | Medium  | Daily          | [solution](<_1233. Remove Sub-Folders from the Filesystem.md>)                                      | py                           | Jul 19, 2025    |
+| 3136 | [Valid Word](<https://leetcode.com/problems/valid-word>)                                                                                                                                   | Easy    | Daily          | [solution](<_3136. Valid Word.md>)                                                                  | c, py                        | Jul 15, 2025    |
+| 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                                   | Medium  | Daily          | [solution](<_3443. Maximum Manhattan Distance After K Changes.md>)                                  | py                           | Jun 20, 2025    |
+|  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                                                   | Medium  | Daily          | [solution](<_909. Snakes and Ladders.md>)                                                           | py                           | May 31, 2025    |
+| 2894 | [Divisible and Non-divisible Sums Difference](<https://leetcode.com/problems/divisible-and-non-divisible-sums-difference>)                                                                 | Easy    | Daily          | [solution](<_2894. Divisible and Non-divisible Sums Difference.md>)                                 | py                           | May 27, 2025    |
+| 2942 | [Find Words Containing Character](<https://leetcode.com/problems/find-words-containing-character>)                                                                                         | Easy    | Daily          | [solution](<_2942. Find Words Containing Character.md>)                                             | c                            | May 24, 2025    |
+|   75 | [Sort Colors](<https://leetcode.com/problems/sort-colors>)                                                                                                                                 | Medium  | Daily          | [solution](<_75. Sort Colors.md>)                                                                   | c, py                        | May 17, 2025    |
+| 1550 | [Three Consecutive Odds](<https://leetcode.com/problems/three-consecutive-odds>)                                                                                                           | Easy    | Daily          | [solution](<_1550. Three Consecutive Odds.md>)                                                      | c, py                        | May 11, 2025    |
 | 1295 | [Find Numbers with Even Number of Digits](<https://leetcode.com/problems/find-numbers-with-even-number-of-digits>)                                                                         | Easy    | Daily          | [solution](<_1295. Find Numbers with Even Number of Digits.md>)                                     | go, py                       | Apr 30, 2025    |
 | 2302 | [Count Subarrays With Score Less Than K](<https://leetcode.com/problems/count-subarrays-with-score-less-than-k>)                                                                           | Hard    | Daily          | [solution](<_2302. Count Subarrays With Score Less Than K.md>)                                      | py                           | Apr 28, 2025    |
 | 3392 | [Count Subarrays of Length Three With a Condition](<https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition>)                                                       | Easy    | Daily          | [solution](<_3392. Count Subarrays of Length Three With a Condition.md>)                            | py                           | Apr 27, 2025    |
@@ -293,4 +309,45 @@ Dates are for the date I completed the question so due to the my time zone and h
 | [13](<_1922. Count Good Numbers.md>)                               | [14](<_1534. Count Good Triplets.md>)                    | 15                                                                               | 16                                                        |   17 | [18](<_38. Count and Say.md>)                |   19 |
 | [20](<_781. Rabbits in Forest.md>)                                 | [21](<_2145. Count the Hidden Sequences.md>)             | 22                                                                               | [23](<_1399. Count Largest Group.md>)                     |   24 | 25                                           |   26 |
 | [27](<_3392. Count Subarrays of Length Three With a Condition.md>) | [28](<_2302. Count Subarrays With Score Less Than K.md>) | 29                                                                               | [30](<_1295. Find Numbers with Even Number of Digits.md>) |      |                                              |      |
+
+
+### May 2025
+| Su                                       | Mo   | Tu                                                            | We   |   Th |   Fr | Sa                                                |
+|-----------------------------------------:|-----:|--------------------------------------------------------------:|-----:|-----:|-----:|--------------------------------------------------:|
+|                                          |      |                                                               |      |    1 |    2 | 3                                                 |
+| 4                                        | 5    | 6                                                             | 7    |    8 |    9 | 10                                                |
+| [11](<_1550. Three Consecutive Odds.md>) | 12   | 13                                                            | 14   |   15 |   16 | [17](<_75. Sort Colors.md>)                       |
+| 18                                       | 19   | 20                                                            | 21   |   22 |   23 | [24](<_2942. Find Words Containing Character.md>) |
+| 25                                       | 26   | [27](<_2894. Divisible and Non-divisible Sums Difference.md>) | 28   |   29 |   30 | [31](<_909. Snakes and Ladders.md>)               |
+
+
+### June 2025
+|   Su |   Mo |   Tu |   We |   Th | Fr                                                           |   Sa |
+|-----:|-----:|-----:|-----:|-----:|-------------------------------------------------------------:|-----:|
+|    1 |    2 |    3 |    4 |    5 | 6                                                            |    7 |
+|    8 |    9 |   10 |   11 |   12 | 13                                                           |   14 |
+|   15 |   16 |   17 |   18 |   19 | [20](<_3443. Maximum Manhattan Distance After K Changes.md>) |   21 |
+|   22 |   23 |   24 |   25 |   26 | 27                                                           |   28 |
+|   29 |   30 |      |      |      |                                                              |      |
+
+
+### July 2025
+| Su   | Mo                                                       | Tu                           | We                                                       |   Th |   Fr | Sa                                                       |
+|-----:|---------------------------------------------------------:|-----------------------------:|---------------------------------------------------------:|-----:|-----:|---------------------------------------------------------:|
+|      |                                                          | 1                            | 2                                                        |    3 |    4 | 5                                                        |
+| 6    | 7                                                        | 8                            | 9                                                        |   10 |   11 | 12                                                       |
+| 13   | 14                                                       | [15](<_3136. Valid Word.md>) | 16                                                       |   17 |   18 | [19](<_1233. Remove Sub-Folders from the Filesystem.md>) |
+| 20   | [21](<_1957. Delete Characters to Make Fancy String.md>) | 22                           | [23](<_1717. Maximum Score From Removing Substrings.md>) |   24 |   25 | 26                                                       |
+| 27   | 28                                                       | 29                           | 30                                                       |   31 |      |                                                          |
+
+
+### August 2025
+| Su   | Mo   | Tu                                                | We                              | Th   | Fr                                | Sa                           |
+|-----:|-----:|--------------------------------------------------:|--------------------------------:|-----:|----------------------------------:|-----------------------------:|
+|      |      |                                                   |                                 |      | [1](<_118. Pascal's Triangle.md>) | 2                            |
+| 3    | 4    | 5                                                 | 6                               | 7    | 8                                 | [9](<_231. Power of Two.md>) |
+| 10   | 11   | 12                                                | [13](<_326. Power of Three.md>) | 14   | [15](<_342. Power of Four.md>)    | 16                           |
+| 17   | 18   | [19](<_2348. Number of Zero-Filled Subarrays.md>) | 20                              | 21   | 22                                | 23                           |
+| 24   | 25   | 26                                                | 27                              | 28   | 29                                | 30                           |
+| 31   |      |                                                   |                                 |      |                                   |                              |
 
