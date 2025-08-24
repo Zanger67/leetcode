@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (148 completed)
+# [String](<https://leetcode.com/tag/String/>) (149 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -77,6 +77,7 @@
 | 1100 | [Find K-Length Substrings With No Repeated Characters](<https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters>)                                       | Medium  | Weekly Premium | [solution](<../_1100. Find K-Length Substrings With No Repeated Characters.md>)                    | py          | Mar 10, 2025    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                                         | Easy    |                | [solution](<../_1160. Find Words That Can Be Formed by Characters.md>)                             | py          | Sep 24, 2024    |
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                                                                           | Medium  | Weekly Premium | [solution](<../_1166. Design File System.md>)                                                      | py          | Jun 28, 2024    |
+| 1181 | [Before and After Puzzle](<https://leetcode.com/problems/before-and-after-puzzle>)                                                                                                 | Medium  | Weekly Premium | [solution](<../_1181. Before and After Puzzle.md>)                                                 | py          | Aug 24, 2025    |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](<https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses>)                                         | Medium  | Daily          | [solution](<../_1190. Reverse Substrings Between Each Pair of Parentheses.md>)                     | py          | Jul 11, 2024    |
 | 1209 | [Remove All Adjacent Duplicates in String II](<https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii>)                                                         | Medium  |                | [solution](<../_1209. Remove All Adjacent Duplicates in String II.md>)                             | py          | Jun 19, 2024    |
 | 1233 | [Remove Sub-Folders from the Filesystem](<https://leetcode.com/problems/remove-sub-folders-from-the-filesystem>)                                                                   | Medium  | Daily          | [solution](<../_1233. Remove Sub-Folders from the Filesystem.md>)                                  | py          | Jun 28, 2024    |
