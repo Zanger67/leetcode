@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (43 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (44 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -10,6 +10,7 @@
 |  348 | [Design Tic-Tac-Toe](<https://leetcode.com/problems/design-tic-tac-toe>)                                                                                                 | Medium  |                | [solution](<../_348. Design Tic-Tac-Toe.md>)                                                  | py                           | Jul 05, 2024    |
 |  353 | [Design Snake Game](<https://leetcode.com/problems/design-snake-game>)                                                                                                   | Medium  | Weekly Premium | [solution](<../_353. Design Snake Game.md>)                                                   | py                           | Jun 28, 2024    |
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                                                   | Easy    |                | [solution](<../_412. Fizz Buzz.md>)                                                           | java, py                     | Jun 02, 2024    |
+|  498 | [Diagonal Traverse](<https://leetcode.com/problems/diagonal-traverse>)                                                                                                   | Medium  | Daily          | [solution](<../_498. Diagonal Traverse.md>)                                                   | py                           | Aug 25, 2025    |
 |  735 | [Asteroid Collision](<https://leetcode.com/problems/asteroid-collision>)                                                                                                 | Medium  |                | [solution](<../_735. Asteroid Collision.md>)                                                  | py                           | Jul 14, 2024    |
 |  867 | [Transpose Matrix](<https://leetcode.com/problems/transpose-matrix>)                                                                                                     | Easy    |                | [solution](<../_867. Transpose Matrix.md>)                                                    | py                           | Jun 15, 2024    |
 |  885 | [Spiral Matrix III](<https://leetcode.com/problems/spiral-matrix-iii>)                                                                                                   | Medium  | Daily          | [solution](<../_885. Spiral Matrix III.md>)                                                   | py                           | Aug 08, 2024    |
