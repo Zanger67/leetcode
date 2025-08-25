@@ -16,18 +16,16 @@ class Solution:
             if dirr == 1 :
                 if j + 1 < len(mat[0]) :
                     j += 1
-                    dirr *= -1
                 else :
                     i += 1
-                    dirr *= -1
+                dirr *= -1
                 continue
 
             # Moving down to the left
             if i + 1 < len(mat) :
                 i += 1
-                dirr *= -1
             else :
                 j += 1
-                dirr *= -1
+            dirr *= -1
 
         return output
