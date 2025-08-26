@@ -1,4 +1,4 @@
-# Easy Questions (186)
+# Easy Questions (187)
 
 *[Back to top](<../README.md>)*
 
@@ -173,6 +173,7 @@
 | 2894 | [Divisible and Non-divisible Sums Difference](<https://leetcode.com/problems/divisible-and-non-divisible-sums-difference>)                                         | Easy    | Daily          | [solution](<_2894. Divisible and Non-divisible Sums Difference.md>)                     | py                           | May 22, 2024    |
 | 2942 | [Find Words Containing Character](<https://leetcode.com/problems/find-words-containing-character>)                                                                 | Easy    | Daily          | [solution](<_2942. Find Words Containing Character.md>)                                 | c                            | Jun 06, 2024    |
 | 2965 | [Find Missing and Repeated Values](<https://leetcode.com/problems/find-missing-and-repeated-values>)                                                               | Easy    | Daily          | [solution](<_2965. Find Missing and Repeated Values.md>)                                | py                           | Mar 06, 2025    |
+| 3000 | [Maximum Area of Longest Diagonal Rectangle](<https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle>)                                           | Easy    | Daily          | [solution](<_3000. Maximum Area of Longest Diagonal Rectangle.md>)                      | py                           | Aug 26, 2025    |
 | 3074 | [Apple Redistribution into Boxes](<https://leetcode.com/problems/apple-redistribution-into-boxes>)                                                                 | Easy    |                | [solution](<_3074. Apple Redistribution into Boxes.md>)                                 | py                           | May 23, 2024    |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](<https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray>)         | Easy    | Daily          | [solution](<_3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md>)     | py                           | Feb 03, 2025    |
 | 3110 | [Score of a String](<https://leetcode.com/problems/score-of-a-string>)                                                                                             | Easy    | Daily          | [solution](<_3110. Score of a String.md>)                                               | java, py                     | Jun 01, 2024    |
