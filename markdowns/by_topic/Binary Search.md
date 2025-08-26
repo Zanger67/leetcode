@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (36 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (37 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -23,6 +23,7 @@
 |  719 | [Find K-th Smallest Pair Distance](<https://leetcode.com/problems/find-k-th-smallest-pair-distance>)                                             | Hard    | Daily          | [solution](<../_719. Find K-th Smallest Pair Distance.md>)                        | py          | Aug 14, 2024    |
 |  729 | [My Calendar I](<https://leetcode.com/problems/my-calendar-i>)                                                                                   | Medium  | Daily          | [solution](<../_729. My Calendar I.md>)                                           | py          | Sep 26, 2024    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                             | Easy    |                | [solution](<../_744. Find Smallest Letter Greater Than Target.md>)                | java, py    | Jun 01, 2024    |
+|  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                               | Medium  |                | [solution](<../_792. Number of Matching Subsequences.md>)                         | py          | Aug 26, 2025    |
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                         | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                              | py          | Jun 18, 2024    |
 |  981 | [Time Based Key-Value Store](<https://leetcode.com/problems/time-based-key-value-store>)                                                         | Medium  | N150           | [solution](<../_981. Time Based Key-Value Store.md>)                              | py          | Oct 24, 2024    |
 | 1004 | [Max Consecutive Ones III](<https://leetcode.com/problems/max-consecutive-ones-iii>)                                                             | Medium  |                | [solution](<../_1004. Max Consecutive Ones III.md>)                               | py          | Feb 17, 2025    |

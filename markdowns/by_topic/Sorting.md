@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (75 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (76 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -25,6 +25,7 @@
 |  720 | [Longest Word in Dictionary](<https://leetcode.com/problems/longest-word-in-dictionary>)                                                                                     | Medium  |                | [solution](<../_720. Longest Word in Dictionary.md>)                                            | py               | Jun 27, 2024    |
 |  726 | [Number of Atoms](<https://leetcode.com/problems/number-of-atoms>)                                                                                                           | Hard    | Daily          | [solution](<../_726. Number of Atoms.md>)                                                       | py               | Jul 14, 2024    |
 |  791 | [Custom Sort String](<https://leetcode.com/problems/custom-sort-string>)                                                                                                     | Medium  |                | [solution](<../_791. Custom Sort String.md>)                                                    | java             | Jun 24, 2024    |
+|  792 | [Number of Matching Subsequences](<https://leetcode.com/problems/number-of-matching-subsequences>)                                                                           | Medium  |                | [solution](<../_792. Number of Matching Subsequences.md>)                                       | py               | Aug 26, 2025    |
 |  826 | [Most Profit Assigning Work](<https://leetcode.com/problems/most-profit-assigning-work>)                                                                                     | Medium  | Daily          | [solution](<../_826. Most Profit Assigning Work.md>)                                            | py               | Jun 18, 2024    |
 |  846 | [Hand of Straights](<https://leetcode.com/problems/hand-of-straights>)                                                                                                       | Medium  | Daily, N150    | [solution](<../_846. Hand of Straights.md>)                                                     | py               | Jun 06, 2024    |
 |  853 | [Car Fleet](<https://leetcode.com/problems/car-fleet>)                                                                                                                       | Medium  | N150           | [solution](<../_853. Car Fleet.md>)                                                             | py               | Jun 14, 2024    |
