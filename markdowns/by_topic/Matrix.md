@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (55 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (56 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -32,6 +32,7 @@
 |  994 | [Rotting Oranges](<https://leetcode.com/problems/rotting-oranges>)                                                                                                                   | Medium  | N150           | [solution](<../_994. Rotting Oranges.md>)                                                  | py          | Jun 15, 2024    |
 | 1020 | [Number of Enclaves](<https://leetcode.com/problems/number-of-enclaves>)                                                                                                             | Medium  |                | [solution](<../_1020. Number of Enclaves.md>)                                              | py          | Jun 26, 2024    |
 | 1030 | [Matrix Cells in Distance Order](<https://leetcode.com/problems/matrix-cells-in-distance-order>)                                                                                     | Easy    |                | [solution](<../_1030. Matrix Cells in Distance Order.md>)                                  | py          | Jun 04, 2024    |
+| 1198 | [Find Smallest Common Element in All Rows](<https://leetcode.com/problems/find-smallest-common-element-in-all-rows>)                                                                 | Medium  |                | [solution](<../_1198. Find Smallest Common Element in All Rows.md>)                        | py          | Aug 26, 2025    |
 | 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                                                 | Medium  |                | [solution](<../_1254. Number of Closed Islands.md>)                                        | py          | Jun 26, 2024    |
 | 1267 | [Count Servers that Communicate](<https://leetcode.com/problems/count-servers-that-communicate>)                                                                                     | Medium  | Daily          | [solution](<../_1267. Count Servers that Communicate.md>)                                  | py          | Jan 23, 2025    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>)                   | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>) | py          | Jun 09, 2024    |

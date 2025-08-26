@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (143 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (144 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -73,6 +73,7 @@
 | 1166 | [Design File System](<https://leetcode.com/problems/design-file-system>)                                                                                                           | Medium  | Weekly Premium | [solution](<../_1166. Design File System.md>)                                                      | py          | Jun 28, 2024    |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](<https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list>)                                           | Medium  |                | [solution](<../_1171. Remove Zero Sum Consecutive Nodes from Linked List.md>)                      | py          | Jun 15, 2024    |
 | 1181 | [Before and After Puzzle](<https://leetcode.com/problems/before-and-after-puzzle>)                                                                                                 | Medium  | Weekly Premium | [solution](<../_1181. Before and After Puzzle.md>)                                                 | py          | Aug 24, 2025    |
+| 1198 | [Find Smallest Common Element in All Rows](<https://leetcode.com/problems/find-smallest-common-element-in-all-rows>)                                                               | Medium  |                | [solution](<../_1198. Find Smallest Common Element in All Rows.md>)                                | py          | Aug 26, 2025    |
 | 1207 | [Unique Number of Occurrences](<https://leetcode.com/problems/unique-number-of-occurrences>)                                                                                       | Easy    |                | [solution](<../_1207. Unique Number of Occurrences.md>)                                            | py          | Sep 25, 2024    |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](<https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference>)                                           | Medium  |                | [solution](<../_1218. Longest Arithmetic Subsequence of Given Difference.md>)                      | py          | May 31, 2024    |
 | 1248 | [Count Number of Nice Subarrays](<https://leetcode.com/problems/count-number-of-nice-subarrays>)                                                                                   | Medium  | Daily          | [solution](<../_1248. Count Number of Nice Subarrays.md>)                                          | py          | Jun 22, 2024    |

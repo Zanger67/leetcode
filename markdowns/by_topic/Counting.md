@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (33 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (34 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  945 | [Minimum Increment to Make Array Unique](<https://leetcode.com/problems/minimum-increment-to-make-array-unique>)                                                       | Medium  | Daily          | [solution](<../_945. Minimum Increment to Make Array Unique.md>)                  | py          | Jun 14, 2024    |
 | 1079 | [Letter Tile Possibilities](<https://leetcode.com/problems/letter-tile-possibilities>)                                                                                 | Medium  | Daily          | [solution](<../_1079. Letter Tile Possibilities.md>)                              | py          | Feb 17, 2025    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                             | Easy    |                | [solution](<../_1160. Find Words That Can Be Formed by Characters.md>)            | py          | Sep 24, 2024    |
+| 1198 | [Find Smallest Common Element in All Rows](<https://leetcode.com/problems/find-smallest-common-element-in-all-rows>)                                                   | Medium  |                | [solution](<../_1198. Find Smallest Common Element in All Rows.md>)               | py          | Aug 26, 2025    |
 | 1267 | [Count Servers that Communicate](<https://leetcode.com/problems/count-servers-that-communicate>)                                                                       | Medium  | Daily          | [solution](<../_1267. Count Servers that Communicate.md>)                         | py          | Jan 23, 2025    |
 | 1400 | [Construct K Palindrome Strings](<https://leetcode.com/problems/construct-k-palindrome-strings>)                                                                       | Medium  | Daily          | [solution](<../_1400. Construct K Palindrome Strings.md>)                         | py          | Jan 11, 2025    |
 | 1481 | [Least Number of Unique Integers after K Removals](<https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals>)                                   | Medium  |                | [solution](<../_1481. Least Number of Unique Integers after K Removals.md>)       | py          | Jun 15, 2024    |
