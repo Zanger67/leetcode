@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (50 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (51 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -6,6 +6,7 @@
 
 |    # | Title                                                                                                                                                                        | Level   | Cats           | Solution                                                                                        | Languages                    | Date Complete   |
 |-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+|  122 | [Best Time to Buy and Sell Stock II](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii>)                                                                     | Medium  |                | [solution](<../_122. Best Time to Buy and Sell Stock II.md>)                                    | py                           | Aug 27, 2025    |
 |  330 | [Patching Array](<https://leetcode.com/problems/patching-array>)                                                                                                             | Hard    | Daily          | [solution](<../_330. Patching Array.md>)                                                        | py                           | Jun 16, 2024    |
 |  409 | [Longest Palindrome](<https://leetcode.com/problems/longest-palindrome>)                                                                                                     | Easy    | Daily          | [solution](<../_409. Longest Palindrome.md>)                                                    | c, py                        | Jun 04, 2024    |
 |  502 | [IPO](<https://leetcode.com/problems/ipo>)                                                                                                                                   | Hard    | Daily          | [solution](<../_502. IPO.md>)                                                                   | py                           | Jun 15, 2024    |
