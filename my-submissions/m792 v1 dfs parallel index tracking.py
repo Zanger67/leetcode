@@ -30,9 +30,8 @@ class Solution:
                 continue
             if nxt_c == "." :
                 continue
-
             char_ord = ord(nxt_c) - ord('a')
-            previous_rec = c_indxes[char_ord]
+            prev_reset = c_indxes[char_ord]
 
             if c_indxes[char_ord] >= len(s_indxes[nxt_c]) :
                 continue
@@ -43,16 +42,16 @@ class Solution:
                     break
 
             if c_indxes[char_ord] >= len(s_indxes[nxt_c]) :
-                c_indxes[char_ord] = previous_rec
+                c_indxes[char_ord] = prev_reset
                 continue
 
             c_indxes[char_ord] += 1
             output += self._dfs_trie(
-                nxt_trie,
-                s_indxes,
-                c_indxes,
+                nxt_trie, 
+                s_indxes, 
+                c_indxes, 
                 s_indxes[nxt_c][c_indxes[char_ord] - 1] + 1
             )
-            c_indxes[char_ord] = previous_rec
+            c_indxes[char_ord] = prev_reset
 
         return output
