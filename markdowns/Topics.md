@@ -9,7 +9,7 @@
 - [Hash Table](<by_topic/Hash Table.md>) (145 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (105 completed)
 - [Tree](<by_topic/Tree.md>) (91 completed)
-- [Math](<by_topic/Math.md>) (85 completed)
+- [Math](<by_topic/Math.md>) (86 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (82 completed)
 - [Sorting](<by_topic/Sorting.md>) (76 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (73 completed)
