@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (37 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (38 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -29,6 +29,7 @@
 | 1004 | [Max Consecutive Ones III](<https://leetcode.com/problems/max-consecutive-ones-iii>)                                                             | Medium  |                | [solution](<../_1004. Max Consecutive Ones III.md>)                               | py          | Feb 17, 2025    |
 | 1055 | [Shortest Way to Form String](<https://leetcode.com/problems/shortest-way-to-form-string>)                                                       | Medium  | Weekly Premium | [solution](<../_1055. Shortest Way to Form String.md>)                            | py          | Mar 30, 2025    |
 | 1062 | [Longest Repeating Substring](<https://leetcode.com/problems/longest-repeating-substring>)                                                       | Medium  | Weekly Premium | [solution](<../_1062. Longest Repeating Substring.md>)                            | py          | Aug 01, 2024    |
+| 1182 | [Shortest Distance to Target Color](<https://leetcode.com/problems/shortest-distance-to-target-color>)                                           | Medium  | Weekly Premium | [solution](<../_1182. Shortest Distance to Target Color.md>)                      | py          | Aug 29, 2025    |
 | 1198 | [Find Smallest Common Element in All Rows](<https://leetcode.com/problems/find-smallest-common-element-in-all-rows>)                             | Medium  |                | [solution](<../_1198. Find Smallest Common Element in All Rows.md>)               | py          | Aug 26, 2025    |
 | 1268 | [Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)                                                           | Medium  |                | [solution](<../_1268. Search Suggestions System.md>)                              | py          | Jun 29, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                           | Easy    |                | [solution](<../_1351. Count Negative Numbers in a Sorted Matrix.md>)              | java, py    | Jun 01, 2024    |
