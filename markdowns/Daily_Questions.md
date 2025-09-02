@@ -4,20 +4,22 @@
 
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
-### August 2025
-| Su                                                                   | Mo                                 | Tu                                                           | We                              | Th   | Fr                                                          | Sa                           |
-|---------------------------------------------------------------------:|-----------------------------------:|-------------------------------------------------------------:|--------------------------------:|-----:|------------------------------------------------------------:|-----------------------------:|
-|                                                                      |                                    |                                                              |                                 |      | [1](<_118. Pascal's Triangle.md>)                           | 2                            |
-| 3                                                                    | 4                                  | 5                                                            | 6                               | 7    | 8                                                           | [9](<_231. Power of Two.md>) |
-| 10                                                                   | 11                                 | 12                                                           | [13](<_326. Power of Three.md>) | 14   | [15](<_342. Power of Four.md>)                              | 16                           |
-| 17                                                                   | 18                                 | [19](<_2348. Number of Zero-Filled Subarrays.md>)            | 20                              | 21   | [22](<_3195. Find the Minimum Area to Cover All Ones I.md>) | 23                           |
-| [24](<_1493. Longest Subarray of 1's After Deleting One Element.md>) | [25](<_498. Diagonal Traverse.md>) | [26](<_3000. Maximum Area of Longest Diagonal Rectangle.md>) | 27                              | 28   | [29](<_3021. Alice and Bob Playing Flower Game.md>)         | 30                           |
-| 31                                                                   |                                    |                                                              |                                 |      |                                                             |                              |
+### September 2025
+| Su   |   Mo | Tu                                                         |   We |   Th |   Fr |   Sa |
+|-----:|-----:|-----------------------------------------------------------:|-----:|-----:|-----:|-----:|
+|      |    1 | [2](<_3025. Find the Number of Ways to Place People I.md>) |    3 |    4 |    5 |    6 |
+| 7    |    8 | 9                                                          |   10 |   11 |   12 |   13 |
+| 14   |   15 | 16                                                         |   17 |   18 |   19 |   20 |
+| 21   |   22 | 23                                                         |   24 |   25 |   26 |   27 |
+| 28   |   29 | 30                                                         |      |      |      |      |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 3025 | [Find the Number of Ways to Place People I](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i>)                                                                     | Medium  | Daily          | [solution](<_3025. Find the Number of Ways to Place People I.md>)                                   | py                           | Sep 02, 2025    |
+|   37 | [Sudoku Solver](<https://leetcode.com/problems/sudoku-solver>)                                                                                                                             | Hard    | Daily          | [solution](<_37. Sudoku Solver.md>)                                                                 | py                           | Aug 31, 2025    |
+|   36 | [Valid Sudoku](<https://leetcode.com/problems/valid-sudoku>)                                                                                                                               | Medium  | Daily, N150    | [solution](<_36. Valid Sudoku.md>)                                                                  | py                           | Aug 30, 2025    |
 | 3021 | [Alice and Bob Playing Flower Game](<https://leetcode.com/problems/alice-and-bob-playing-flower-game>)                                                                                     | Medium  | Daily          | [solution](<_3021. Alice and Bob Playing Flower Game.md>)                                           | go, py                       | Aug 29, 2025    |
 | 3000 | [Maximum Area of Longest Diagonal Rectangle](<https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle>)                                                                   | Easy    | Daily          | [solution](<_3000. Maximum Area of Longest Diagonal Rectangle.md>)                                  | py                           | Aug 26, 2025    |
 |  498 | [Diagonal Traverse](<https://leetcode.com/problems/diagonal-traverse>)                                                                                                                     | Medium  | Daily          | [solution](<_498. Diagonal Traverse.md>)                                                            | go, py                       | Aug 25, 2025    |
@@ -353,6 +355,16 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 3                                                                    | 4                                  | 5                                                            | 6                               | 7    | 8                                                           | [9](<_231. Power of Two.md>) |
 | 10                                                                   | 11                                 | 12                                                           | [13](<_326. Power of Three.md>) | 14   | [15](<_342. Power of Four.md>)                              | 16                           |
 | 17                                                                   | 18                                 | [19](<_2348. Number of Zero-Filled Subarrays.md>)            | 20                              | 21   | [22](<_3195. Find the Minimum Area to Cover All Ones I.md>) | 23                           |
-| [24](<_1493. Longest Subarray of 1's After Deleting One Element.md>) | [25](<_498. Diagonal Traverse.md>) | [26](<_3000. Maximum Area of Longest Diagonal Rectangle.md>) | 27                              | 28   | [29](<_3021. Alice and Bob Playing Flower Game.md>)         | 30                           |
-| 31                                                                   |                                    |                                                              |                                 |      |                                                             |                              |
+| [24](<_1493. Longest Subarray of 1's After Deleting One Element.md>) | [25](<_498. Diagonal Traverse.md>) | [26](<_3000. Maximum Area of Longest Diagonal Rectangle.md>) | 27                              | 28   | [29](<_3021. Alice and Bob Playing Flower Game.md>)         | [30](<_36. Valid Sudoku.md>) |
+| [31](<_37. Sudoku Solver.md>)                                        |                                    |                                                              |                                 |      |                                                             |                              |
+
+
+### September 2025
+| Su   |   Mo | Tu                                                         |   We |   Th |   Fr |   Sa |
+|-----:|-----:|-----------------------------------------------------------:|-----:|-----:|-----:|-----:|
+|      |    1 | [2](<_3025. Find the Number of Ways to Place People I.md>) |    3 |    4 |    5 |    6 |
+| 7    |    8 | 9                                                          |   10 |   11 |   12 |   13 |
+| 14   |   15 | 16                                                         |   17 |   18 |   19 |   20 |
+| 21   |   22 | 23                                                         |   24 |   25 |   26 |   27 |
+| 28   |   29 | 30                                                         |      |      |      |      |
 

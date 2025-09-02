@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (86 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (87 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -85,6 +85,7 @@
 | 2965 | [Find Missing and Repeated Values](<https://leetcode.com/problems/find-missing-and-repeated-values>)                                                               | Easy    | Daily          | [solution](<../_2965. Find Missing and Repeated Values.md>)                                | py                                          | Mar 06, 2025    |
 | 2979 | [Most Expensive Item That Can Not Be Bought](<https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought>)                                           | Medium  |                | [solution](<../_2979. Most Expensive Item That Can Not Be Bought.md>)                      | c, cpp, go, java, js, kt, py, rs, swift, ts | Jul 29, 2024    |
 | 3021 | [Alice and Bob Playing Flower Game](<https://leetcode.com/problems/alice-and-bob-playing-flower-game>)                                                             | Medium  | Daily          | [solution](<../_3021. Alice and Bob Playing Flower Game.md>)                               | go, py                                      | Aug 29, 2025    |
+| 3025 | [Find the Number of Ways to Place People I](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i>)                                             | Medium  | Daily          | [solution](<../_3025. Find the Number of Ways to Place People I.md>)                       | py                                          | Sep 02, 2025    |
 | 3178 | Weekly Contest 401 - q1 - [Find the Child Who Has the Ball After K Seconds](<https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds>)       | Easy    | Contest        | [solution](<../_3178. Find the Child Who Has the Ball After K Seconds.md>)                 | py                                          | Jul 07, 2024    |
 | 3179 | Weekly Contest 401 - q2 - [Find the N-th Value After K Seconds](<https://leetcode.com/problems/find-the-n-th-value-after-k-seconds>)                               | Medium  | Contest        | [solution](<../_3179. Find the N-th Value After K Seconds.md>)                             | py                                          | Jul 07, 2024    |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](<https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three>) | Easy    |                | [solution](<../_3190. Find Minimum Operations to Make All Elements Divisible by Three.md>) | java                                        | Jun 22, 2024    |

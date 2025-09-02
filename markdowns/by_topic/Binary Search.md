@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (38 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (39 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -36,6 +36,7 @@
 | 1482 | [Minimum Number of Days to Make m Bouquets](<https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets>)                           | Medium  | Daily          | [solution](<../_1482. Minimum Number of Days to Make m Bouquets.md>)              | py          | Jun 19, 2024    |
 | 1508 | [Range Sum of Sorted Subarray Sums](<https://leetcode.com/problems/range-sum-of-sorted-subarray-sums>)                                           | Medium  | Daily          | [solution](<../_1508. Range Sum of Sorted Subarray Sums.md>)                      | py          | Aug 04, 2024    |
 | 1552 | [Magnetic Force Between Two Balls](<https://leetcode.com/problems/magnetic-force-between-two-balls>)                                             | Medium  | Daily          | [solution](<../_1552. Magnetic Force Between Two Balls.md>)                       | py          | Jun 20, 2024    |
+| 1782 | [Count Pairs Of Nodes](<https://leetcode.com/problems/count-pairs-of-nodes>)                                                                     | Hard    |                | [solution](<../_1782. Count Pairs Of Nodes.md>)                                   | py          | Sep 01, 2025    |
 | 1885 | [Count Pairs in Two Arrays](<https://leetcode.com/problems/count-pairs-in-two-arrays>)                                                           | Medium  |                | [solution](<../_1885. Count Pairs in Two Arrays.md>)                              | py          | Jun 08, 2024    |
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                           | Hard    |                | [solution](<../_2258. Escape the Spreading Fire.md>)                              | py          | Jun 15, 2024    |
 | 2302 | [Count Subarrays With Score Less Than K](<https://leetcode.com/problems/count-subarrays-with-score-less-than-k>)                                 | Hard    | Daily          | [solution](<../_2302. Count Subarrays With Score Less Than K.md>)                 | py          | Apr 28, 2025    |
