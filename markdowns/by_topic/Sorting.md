@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (79 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (78 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -55,7 +55,6 @@
 | 1580 | [Put Boxes Into the Warehouse II](<https://leetcode.com/problems/put-boxes-into-the-warehouse-ii>)                                                                           | Medium  | Weekly Premium | [solution](<../_1580. Put Boxes Into the Warehouse II.md>)                                      | py               | Jun 15, 2024    |
 | 1636 | [Sort Array by Increasing Frequency](<https://leetcode.com/problems/sort-array-by-increasing-frequency>)                                                                     | Easy    | Daily          | [solution](<../_1636. Sort Array by Increasing Frequency.md>)                                   | py               | Jul 23, 2024    |
 | 1657 | [Determine if Two Strings Are Close](<https://leetcode.com/problems/determine-if-two-strings-are-close>)                                                                     | Medium  |                | [solution](<../_1657. Determine if Two Strings Are Close.md>)                                   | py               | Jul 13, 2024    |
-| 1782 | [Count Pairs Of Nodes](<https://leetcode.com/problems/count-pairs-of-nodes>)                                                                                                 | Hard    |                | [solution](<../_1782. Count Pairs Of Nodes.md>)                                                 | py               | Sep 01, 2025    |
 | 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                                                                             | Medium  |                | [solution](<../_1833. Maximum Ice Cream Bars.md>)                                               | c, java, py      | Jun 23, 2024    |
 | 1874 | [Minimize Product Sum of Two Arrays](<https://leetcode.com/problems/minimize-product-sum-of-two-arrays>)                                                                     | Medium  |                | [solution](<../_1874. Minimize Product Sum of Two Arrays.md>)                                   | c, java          | Jun 22, 2024    |
 | 1877 | [Minimize Maximum Pair Sum in Array](<https://leetcode.com/problems/minimize-maximum-pair-sum-in-array>)                                                                     | Medium  |                | [solution](<../_1877. Minimize Maximum Pair Sum in Array.md>)                                   | py               | Jun 23, 2024    |

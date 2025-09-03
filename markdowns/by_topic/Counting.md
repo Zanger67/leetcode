@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (35 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (34 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,7 +21,6 @@
 | 1657 | [Determine if Two Strings Are Close](<https://leetcode.com/problems/determine-if-two-strings-are-close>)                                                               | Medium  |                | [solution](<../_1657. Determine if Two Strings Are Close.md>)                     | py          | Jul 13, 2024    |
 | 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                       | Easy    | Daily          | [solution](<../_1684. Count the Number of Consistent Strings.md>)                 | c, py       | Jun 06, 2024    |
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                       | Easy    |                | [solution](<../_1748. Sum of Unique Elements.md>)                                 | c           | Jun 06, 2024    |
-| 1782 | [Count Pairs Of Nodes](<https://leetcode.com/problems/count-pairs-of-nodes>)                                                                                           | Hard    |                | [solution](<../_1782. Count Pairs Of Nodes.md>)                                   | py          | Sep 01, 2025    |
 | 1940 | [Longest Common Subsequence Between Sorted Arrays](<https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays>)                                   | Medium  | Weekly Premium | [solution](<../_1940. Longest Common Subsequence Between Sorted Arrays.md>)       | java, py    | Jun 01, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                                                       | Medium  | N150           | [solution](<../_2013. Detect Squares.md>)                                         | py          | Jun 28, 2024    |
 | 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                     | Easy    | Daily          | [solution](<../_2053. Kth Distinct String in an Array.md>)                        | py          | Aug 05, 2024    |

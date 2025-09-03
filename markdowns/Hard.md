@@ -1,4 +1,4 @@
-# Hard Questions (45)
+# Hard Questions (44)
 
 *[Back to top](<../README.md>)*
 
@@ -37,7 +37,6 @@
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](<https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid>)                   | Hard    | Daily          | [solution](<_1368. Minimum Cost to Make at Least One Valid Path in a Grid.md>)          | py          | Jan 18, 2025    |
 | 1568 | [Minimum Number of Days to Disconnect Island](<https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island>)                                         | Hard    | Daily          | [solution](<_1568. Minimum Number of Days to Disconnect Island.md>)                     | py          | Aug 11, 2024    |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](<https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable>)           | Hard    | Daily          | [solution](<_1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md>)      | py          | Jun 30, 2024    |
-| 1782 | [Count Pairs Of Nodes](<https://leetcode.com/problems/count-pairs-of-nodes>)                                                                                       | Hard    |                | [solution](<_1782. Count Pairs Of Nodes.md>)                                            | py          | Sep 01, 2025    |
 | 2045 | [Second Minimum Time to Reach Destination](<https://leetcode.com/problems/second-minimum-time-to-reach-destination>)                                               | Hard    | Daily          | [solution](<_2045. Second Minimum Time to Reach Destination.md>)                        | py          | Jul 28, 2024    |
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                                             | Hard    |                | [solution](<_2258. Escape the Spreading Fire.md>)                                       | py          | Jun 15, 2024    |
 | 2302 | [Count Subarrays With Score Less Than K](<https://leetcode.com/problems/count-subarrays-with-score-less-than-k>)                                                   | Hard    | Daily          | [solution](<_2302. Count Subarrays With Score Less Than K.md>)                          | py          | Apr 28, 2025    |

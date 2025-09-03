@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (62 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (61 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -51,7 +51,6 @@
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii>)                                                           | Medium  |                | [solution](<../_1650. Lowest Common Ancestor of a Binary Tree III.md>)                  | py                               | Jun 10, 2024    |
 | 1721 | [Swapping Nodes in a Linked List](<https://leetcode.com/problems/swapping-nodes-in-a-linked-list>)                                                                                   | Medium  |                | [solution](<../_1721. Swapping Nodes in a Linked List.md>)                              | c                                | Jun 07, 2024    |
 | 1768 | [Merge Strings Alternately](<https://leetcode.com/problems/merge-strings-alternately>)                                                                                               | Easy    |                | [solution](<../_1768. Merge Strings Alternately.md>)                                    | java                             | Jul 01, 2024    |
-| 1782 | [Count Pairs Of Nodes](<https://leetcode.com/problems/count-pairs-of-nodes>)                                                                                                         | Hard    |                | [solution](<../_1782. Count Pairs Of Nodes.md>)                                         | py                               | Sep 01, 2025    |
 | 1877 | [Minimize Maximum Pair Sum in Array](<https://leetcode.com/problems/minimize-maximum-pair-sum-in-array>)                                                                             | Medium  |                | [solution](<../_1877. Minimize Maximum Pair Sum in Array.md>)                           | py                               | Jun 23, 2024    |
 | 1885 | [Count Pairs in Two Arrays](<https://leetcode.com/problems/count-pairs-in-two-arrays>)                                                                                               | Medium  |                | [solution](<../_1885. Count Pairs in Two Arrays.md>)                                    | py                               | Jun 08, 2024    |
 | 2046 | [Sort Linked List Already Sorted Using Absolute Values](<https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values>)                                       | Medium  |                | [solution](<../_2046. Sort Linked List Already Sorted Using Absolute Values.md>)        | py                               | Jul 04, 2024    |
