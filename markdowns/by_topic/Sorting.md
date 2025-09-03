@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (78 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (79 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -78,6 +78,7 @@
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                                                         | Hard    | Daily          | [solution](<../_2751. Robot Collisions.md>)                                                     | py               | Jul 13, 2024    |
 | 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                         | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                             | py               | Aug 06, 2024    |
 | 3025 | [Find the Number of Ways to Place People I](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i>)                                                       | Medium  | Daily          | [solution](<../_3025. Find the Number of Ways to Place People I.md>)                            | py               | Sep 02, 2025    |
+| 3027 | [Find the Number of Ways to Place People II](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii>)                                                     | Hard    | Daily          | [solution](<../_3027. Find the Number of Ways to Place People II.md>)                           | py               | Sep 03, 2025    |
 | 3074 | [Apple Redistribution into Boxes](<https://leetcode.com/problems/apple-redistribution-into-boxes>)                                                                           | Easy    |                | [solution](<../_3074. Apple Redistribution into Boxes.md>)                                      | py               | May 23, 2024    |
 | 3111 | [Minimum Rectangles to Cover Points](<https://leetcode.com/problems/minimum-rectangles-to-cover-points>)                                                                     | Medium  |                | [solution](<../_3111. Minimum Rectangles to Cover Points.md>)                                   | java, py         | Jul 21, 2024    |
 | 3169 | Weekly Contest 400 - q2 - [Count Days Without Meetings](<https://leetcode.com/problems/count-days-without-meetings>)                                                         | Medium  | Contest, Daily | [solution](<../_3169. Count Days Without Meetings.md>)                                          | py               | Jul 07, 2024    |

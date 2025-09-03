@@ -1,4 +1,4 @@
-# Hard Questions (44)
+# Hard Questions (45)
 
 *[Back to top](<../README.md>)*
 
@@ -47,6 +47,7 @@
 | 2493 | [Divide Nodes Into the Maximum Number of Groups](<https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups>)                                   | Hard    | Daily          | [solution](<_2493. Divide Nodes Into the Maximum Number of Groups.md>)                  | py          | Jan 30, 2025    |
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                                               | Hard    | Daily          | [solution](<_2751. Robot Collisions.md>)                                                | py          | Jul 13, 2024    |
 | 2954 | [Count the Number of Infection Sequences](<https://leetcode.com/problems/count-the-number-of-infection-sequences>)                                                 | Hard    |                | [solution](<_2954. Count the Number of Infection Sequences.md>)                         | py          | Jun 26, 2024    |
+| 3027 | [Find the Number of Ways to Place People II](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii>)                                           | Hard    | Daily          | [solution](<_3027. Find the Number of Ways to Place People II.md>)                      | py          | Sep 03, 2025    |
 | 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                                                               | Hard    |                | [solution](<_3045. Count Prefix and Suffix Pairs II.md>)                                | py          | Jun 29, 2024    |
 | 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                 | Hard    | Contest        | [solution](<_3213. Construct String with Minimum Cost.md>)                              | py          | Jul 07, 2024    |
 | 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>)     | Hard    | Contest        | [solution](<_3229. Minimum Operations to Make Array Equal to Target.md>)                | py          | Jul 21, 2024    |

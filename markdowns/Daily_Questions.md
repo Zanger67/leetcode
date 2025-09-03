@@ -5,18 +5,19 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### September 2025
-| Su   |   Mo | Tu                                                         |   We |   Th |   Fr |   Sa |
-|-----:|-----:|-----------------------------------------------------------:|-----:|-----:|-----:|-----:|
-|      |    1 | [2](<_3025. Find the Number of Ways to Place People I.md>) |    3 |    4 |    5 |    6 |
-| 7    |    8 | 9                                                          |   10 |   11 |   12 |   13 |
-| 14   |   15 | 16                                                         |   17 |   18 |   19 |   20 |
-| 21   |   22 | 23                                                         |   24 |   25 |   26 |   27 |
-| 28   |   29 | 30                                                         |      |      |      |      |
+| Su   |   Mo | Tu                                                         | We                                                          |   Th |   Fr |   Sa |
+|-----:|-----:|-----------------------------------------------------------:|------------------------------------------------------------:|-----:|-----:|-----:|
+|      |    1 | [2](<_3025. Find the Number of Ways to Place People I.md>) | [3](<_3027. Find the Number of Ways to Place People II.md>) |    4 |    5 |    6 |
+| 7    |    8 | 9                                                          | 10                                                          |   11 |   12 |   13 |
+| 14   |   15 | 16                                                         | 17                                                          |   18 |   19 |   20 |
+| 21   |   22 | 23                                                         | 24                                                          |   25 |   26 |   27 |
+| 28   |   29 | 30                                                         |                                                             |      |      |      |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 3027 | [Find the Number of Ways to Place People II](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii>)                                                                   | Hard    | Daily          | [solution](<_3027. Find the Number of Ways to Place People II.md>)                                  | py                           | Sep 03, 2025    |
 | 3025 | [Find the Number of Ways to Place People I](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i>)                                                                     | Medium  | Daily          | [solution](<_3025. Find the Number of Ways to Place People I.md>)                                   | py                           | Sep 02, 2025    |
 |   37 | [Sudoku Solver](<https://leetcode.com/problems/sudoku-solver>)                                                                                                                             | Hard    | Daily          | [solution](<_37. Sudoku Solver.md>)                                                                 | py                           | Aug 31, 2025    |
 |   36 | [Valid Sudoku](<https://leetcode.com/problems/valid-sudoku>)                                                                                                                               | Medium  | Daily, N150    | [solution](<_36. Valid Sudoku.md>)                                                                  | py                           | Aug 30, 2025    |
@@ -360,11 +361,11 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### September 2025
-| Su   |   Mo | Tu                                                         |   We |   Th |   Fr |   Sa |
-|-----:|-----:|-----------------------------------------------------------:|-----:|-----:|-----:|-----:|
-|      |    1 | [2](<_3025. Find the Number of Ways to Place People I.md>) |    3 |    4 |    5 |    6 |
-| 7    |    8 | 9                                                          |   10 |   11 |   12 |   13 |
-| 14   |   15 | 16                                                         |   17 |   18 |   19 |   20 |
-| 21   |   22 | 23                                                         |   24 |   25 |   26 |   27 |
-| 28   |   29 | 30                                                         |      |      |      |      |
+| Su   |   Mo | Tu                                                         | We                                                          |   Th |   Fr |   Sa |
+|-----:|-----:|-----------------------------------------------------------:|------------------------------------------------------------:|-----:|-----:|-----:|
+|      |    1 | [2](<_3025. Find the Number of Ways to Place People I.md>) | [3](<_3027. Find the Number of Ways to Place People II.md>) |    4 |    5 |    6 |
+| 7    |    8 | 9                                                          | 10                                                          |   11 |   12 |   13 |
+| 14   |   15 | 16                                                         | 17                                                          |   18 |   19 |   20 |
+| 21   |   22 | 23                                                         | 24                                                          |   25 |   26 |   27 |
+| 28   |   29 | 30                                                         |                                                             |      |      |      |
 
