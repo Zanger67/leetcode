@@ -1,4 +1,4 @@
-# Easy Questions (187)
+# Easy Questions (188)
 
 *[Back to top](<../README.md>)*
 
@@ -193,3 +193,4 @@
 | 3248 | [Snake in Matrix](<https://leetcode.com/problems/snake-in-matrix>)                                                                                                 | Easy    |                | [solution](<_3248. Snake in Matrix.md>)                                                 | py                           | Aug 12, 2024    |
 | 3392 | [Count Subarrays of Length Three With a Condition](<https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition>)                               | Easy    | Daily          | [solution](<_3392. Count Subarrays of Length Three With a Condition.md>)                | py                           | Apr 27, 2025    |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](<https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct>) | Easy    | Daily          | [solution](<_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>) | py                           | Apr 08, 2025    |
+| 3516 | [Find Closest Person](<https://leetcode.com/problems/find-closest-person>)                                                                                         | Easy    | Daily          | [solution](<_3516. Find Closest Person.md>)                                             | go, py                       | Sep 04, 2025    |

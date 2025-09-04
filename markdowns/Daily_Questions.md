@@ -5,18 +5,19 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### September 2025
-| Su   | Mo                                          | Tu                                                         | We                                                          |   Th |   Fr |   Sa |
-|-----:|--------------------------------------------:|-----------------------------------------------------------:|------------------------------------------------------------:|-----:|-----:|-----:|
-|      | [1](<_1792. Maximum Average Pass Ratio.md>) | [2](<_3025. Find the Number of Ways to Place People I.md>) | [3](<_3027. Find the Number of Ways to Place People II.md>) |    4 |    5 |    6 |
-| 7    | 8                                           | 9                                                          | 10                                                          |   11 |   12 |   13 |
-| 14   | 15                                          | 16                                                         | 17                                                          |   18 |   19 |   20 |
-| 21   | 22                                          | 23                                                         | 24                                                          |   25 |   26 |   27 |
-| 28   | 29                                          | 30                                                         |                                                             |      |      |      |
+| Su   | Mo                                          | Tu                                                         | We                                                          | Th                                   |   Fr |   Sa |
+|-----:|--------------------------------------------:|-----------------------------------------------------------:|------------------------------------------------------------:|-------------------------------------:|-----:|-----:|
+|      | [1](<_1792. Maximum Average Pass Ratio.md>) | [2](<_3025. Find the Number of Ways to Place People I.md>) | [3](<_3027. Find the Number of Ways to Place People II.md>) | [4](<_3516. Find Closest Person.md>) |    5 |    6 |
+| 7    | 8                                           | 9                                                          | 10                                                          | 11                                   |   12 |   13 |
+| 14   | 15                                          | 16                                                         | 17                                                          | 18                                   |   19 |   20 |
+| 21   | 22                                          | 23                                                         | 24                                                          | 25                                   |   26 |   27 |
+| 28   | 29                                          | 30                                                         |                                                             |                                      |      |      |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 3516 | [Find Closest Person](<https://leetcode.com/problems/find-closest-person>)                                                                                                                 | Easy    | Daily          | [solution](<_3516. Find Closest Person.md>)                                                         | go, py                       | Sep 04, 2025    |
 | 3027 | [Find the Number of Ways to Place People II](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii>)                                                                   | Hard    | Daily          | [solution](<_3027. Find the Number of Ways to Place People II.md>)                                  | py                           | Sep 03, 2025    |
 | 3025 | [Find the Number of Ways to Place People I](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i>)                                                                     | Medium  | Daily          | [solution](<_3025. Find the Number of Ways to Place People I.md>)                                   | py                           | Sep 02, 2025    |
 | 1792 | [Maximum Average Pass Ratio](<https://leetcode.com/problems/maximum-average-pass-ratio>)                                                                                                   | Medium  | Daily          | [solution](<_1792. Maximum Average Pass Ratio.md>)                                                  | py                           | Sep 01, 2025    |
@@ -362,11 +363,11 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### September 2025
-| Su   | Mo                                          | Tu                                                         | We                                                          |   Th |   Fr |   Sa |
-|-----:|--------------------------------------------:|-----------------------------------------------------------:|------------------------------------------------------------:|-----:|-----:|-----:|
-|      | [1](<_1792. Maximum Average Pass Ratio.md>) | [2](<_3025. Find the Number of Ways to Place People I.md>) | [3](<_3027. Find the Number of Ways to Place People II.md>) |    4 |    5 |    6 |
-| 7    | 8                                           | 9                                                          | 10                                                          |   11 |   12 |   13 |
-| 14   | 15                                          | 16                                                         | 17                                                          |   18 |   19 |   20 |
-| 21   | 22                                          | 23                                                         | 24                                                          |   25 |   26 |   27 |
-| 28   | 29                                          | 30                                                         |                                                             |      |      |      |
+| Su   | Mo                                          | Tu                                                         | We                                                          | Th                                   |   Fr |   Sa |
+|-----:|--------------------------------------------:|-----------------------------------------------------------:|------------------------------------------------------------:|-------------------------------------:|-----:|-----:|
+|      | [1](<_1792. Maximum Average Pass Ratio.md>) | [2](<_3025. Find the Number of Ways to Place People I.md>) | [3](<_3027. Find the Number of Ways to Place People II.md>) | [4](<_3516. Find Closest Person.md>) |    5 |    6 |
+| 7    | 8                                           | 9                                                          | 10                                                          | 11                                   |   12 |   13 |
+| 14   | 15                                          | 16                                                         | 17                                                          | 18                                   |   19 |   20 |
+| 21   | 22                                          | 23                                                         | 24                                                          | 25                                   |   26 |   27 |
+| 28   | 29                                          | 30                                                         |                                                             |                                      |      |      |
 
