@@ -1,4 +1,4 @@
-# Easy Questions (188)
+# Easy Questions (189)
 
 *[Back to top](<../README.md>)*
 
@@ -102,6 +102,7 @@
 | 1232 | [Check If It Is a Straight Line](<https://leetcode.com/problems/check-if-it-is-a-straight-line>)                                                                   | Easy    |                | [solution](<_1232. Check If It Is a Straight Line.md>)                                  | py                           | Sep 25, 2024    |
 | 1252 | [Cells with Odd Values in a Matrix](<https://leetcode.com/problems/cells-with-odd-values-in-a-matrix>)                                                             | Easy    |                | [solution](<_1252. Cells with Odd Values in a Matrix.md>)                               | c                            | Jun 04, 2024    |
 | 1295 | [Find Numbers with Even Number of Digits](<https://leetcode.com/problems/find-numbers-with-even-number-of-digits>)                                                 | Easy    | Daily          | [solution](<_1295. Find Numbers with Even Number of Digits.md>)                         | go, py                       | Apr 30, 2025    |
+| 1304 | [Find N Unique Integers Sum up to Zero](<https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero>)                                                     | Easy    | Daily          | [solution](<_1304. Find N Unique Integers Sum up to Zero.md>)                           | py                           | Sep 07, 2025    |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](<https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers>)                           | Easy    |                | [solution](<_1317. Convert Integer to the Sum of Two No-Zero Integers.md>)              | c                            | Jun 04, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                                             | Easy    |                | [solution](<_1351. Count Negative Numbers in a Sorted Matrix.md>)                       | java, py                     | Jun 01, 2024    |
 | 1380 | [Lucky Numbers in a Matrix](<https://leetcode.com/problems/lucky-numbers-in-a-matrix>)                                                                             | Easy    | Daily          | [solution](<_1380. Lucky Numbers in a Matrix.md>)                                       | js, py                       | Jul 19, 2024    |
