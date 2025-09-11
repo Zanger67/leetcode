@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (150 completed)
+# [String](<https://leetcode.com/tag/String/>) (151 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -135,6 +135,7 @@
 | 2678 | [Number of Senior Citizens](<https://leetcode.com/problems/number-of-senior-citizens>)                                                                                             | Easy    | Daily          | [solution](<../_2678. Number of Senior Citizens.md>)                                               | c, java, py | May 22, 2024    |
 | 2734 | [Lexicographically Smallest String After Substring Operation](<https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation>)                         | Medium  |                | [solution](<../_2734. Lexicographically Smallest String After Substring Operation.md>)             | py          | Jun 29, 2024    |
 | 2743 | [Count Substrings Without Repeating Character](<https://leetcode.com/problems/count-substrings-without-repeating-character>)                                                       | Medium  | Weekly Premium | [solution](<../_2743. Count Substrings Without Repeating Character.md>)                            | java, py    | Jun 22, 2024    |
+| 2785 | [Sort Vowels in a String](<https://leetcode.com/problems/sort-vowels-in-a-string>)                                                                                                 | Medium  | Daily          | [solution](<../_2785. Sort Vowels in a String.md>)                                                 | py          | Sep 11, 2025    |
 | 2942 | [Find Words Containing Character](<https://leetcode.com/problems/find-words-containing-character>)                                                                                 | Easy    | Daily          | [solution](<../_2942. Find Words Containing Character.md>)                                         | c           | Jun 06, 2024    |
 | 2955 | [Number of Same-End Substrings](<https://leetcode.com/problems/number-of-same-end-substrings>)                                                                                     | Medium  | Weekly Premium | [solution](<../_2955. Number of Same-End Substrings.md>)                                           | py          | Nov 04, 2024    |
 | 2976 | [Minimum Cost to Convert String I](<https://leetcode.com/problems/minimum-cost-to-convert-string-i>)                                                                               | Medium  | Daily          | [solution](<../_2976. Minimum Cost to Convert String I.md>)                                        | py          | Jul 27, 2024    |

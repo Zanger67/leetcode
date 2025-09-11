@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (78 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (79 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -75,6 +75,7 @@
 | 2583 | [Kth Largest Sum in a Binary Tree](<https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree>)                                                                         | Medium  | Daily          | [solution](<../_2583. Kth Largest Sum in a Binary Tree.md>)                                     | py               | Oct 22, 2024    |
 | 2679 | [Sum in a Matrix](<https://leetcode.com/problems/sum-in-a-matrix>)                                                                                                           | Medium  |                | [solution](<../_2679. Sum in a Matrix.md>)                                                      | java             | May 22, 2024    |
 | 2751 | [Robot Collisions](<https://leetcode.com/problems/robot-collisions>)                                                                                                         | Hard    | Daily          | [solution](<../_2751. Robot Collisions.md>)                                                     | py               | Jul 13, 2024    |
+| 2785 | [Sort Vowels in a String](<https://leetcode.com/problems/sort-vowels-in-a-string>)                                                                                           | Medium  | Daily          | [solution](<../_2785. Sort Vowels in a String.md>)                                              | py               | Sep 11, 2025    |
 | 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                         | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                             | py               | Aug 06, 2024    |
 | 3025 | [Find the Number of Ways to Place People I](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i>)                                                       | Medium  | Daily          | [solution](<../_3025. Find the Number of Ways to Place People I.md>)                            | py               | Sep 02, 2025    |
 | 3027 | [Find the Number of Ways to Place People II](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii>)                                                     | Hard    | Daily          | [solution](<../_3027. Find the Number of Ways to Place People II.md>)                           | py               | Sep 03, 2025    |
