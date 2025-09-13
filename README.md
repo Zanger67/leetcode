@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (650 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (651 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -692,5 +692,6 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                                   | Medium  | Daily                     | [solution](<markdowns/_3443. Maximum Manhattan Distance After K Changes.md>)                                  | py                                          |
 | 3460 | [Longest Common Prefix After at Most One Removal](<https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal>)                                                         | Medium  |                           | [solution](<markdowns/_3460. Longest Common Prefix After at Most One Removal.md>)                             | py                                          |
 | 3516 | [Find Closest Person](<https://leetcode.com/problems/find-closest-person>)                                                                                                                 | Easy    | Daily                     | [solution](<markdowns/_3516. Find Closest Person.md>)                                                         | go, py                                      |
+| 3541 | [Find Most Frequent Vowel and Consonant](<https://leetcode.com/problems/find-most-frequent-vowel-and-consonant>)                                                                           | Easy    | Daily                     | [solution](<markdowns/_3541. Find Most Frequent Vowel and Consonant.md>)                                      | py                                          |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>

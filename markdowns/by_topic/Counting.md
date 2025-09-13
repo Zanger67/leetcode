@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (34 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (35 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -40,3 +40,4 @@
 | 3228 | Weekly Contest 407 - q3 - [Maximum Number of Operations to Move Ones to the End](<https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end>) | Medium  | Contest        | [solution](<../_3228. Maximum Number of Operations to Move Ones to the End.md>)   | py          | Jul 21, 2024    |
 | 3238 | Biweekly Contest 136 - q1 - [Find the Number of Winning Players](<https://leetcode.com/problems/find-the-number-of-winning-players>)                                   | Easy    | Contest        | [solution](<../_3238. Find the Number of Winning Players.md>)                     | py          | Aug 03, 2024    |
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                               | Medium  | Daily          | [solution](<../_3443. Maximum Manhattan Distance After K Changes.md>)             | py          | Feb 04, 2025    |
+| 3541 | [Find Most Frequent Vowel and Consonant](<https://leetcode.com/problems/find-most-frequent-vowel-and-consonant>)                                                       | Easy    | Daily          | [solution](<../_3541. Find Most Frequent Vowel and Consonant.md>)                 | py          | Sep 13, 2025    |

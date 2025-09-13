@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (151 completed)
+# [String](<https://leetcode.com/tag/String/>) (152 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -157,3 +157,4 @@
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](<https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii>)                   | Medium  | Daily          | [solution](<../_3306. Count of Substrings Containing Every Vowel and K Consonants II.md>)          | py          | Mar 10, 2025    |
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                           | Medium  | Daily          | [solution](<../_3443. Maximum Manhattan Distance After K Changes.md>)                              | py          | Feb 04, 2025    |
 | 3460 | [Longest Common Prefix After at Most One Removal](<https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal>)                                                 | Medium  |                | [solution](<../_3460. Longest Common Prefix After at Most One Removal.md>)                         | py          | Feb 17, 2025    |
+| 3541 | [Find Most Frequent Vowel and Consonant](<https://leetcode.com/problems/find-most-frequent-vowel-and-consonant>)                                                                   | Easy    | Daily          | [solution](<../_3541. Find Most Frequent Vowel and Consonant.md>)                                  | py          | Sep 13, 2025    |

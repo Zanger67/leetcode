@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (146 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (147 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -152,3 +152,4 @@
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](<https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii>)                   | Medium  | Daily          | [solution](<../_3306. Count of Substrings Containing Every Vowel and K Consonants II.md>)          | py          | Mar 10, 2025    |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](<https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct>)                 | Easy    | Daily          | [solution](<../_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>)         | py          | Apr 08, 2025    |
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                           | Medium  | Daily          | [solution](<../_3443. Maximum Manhattan Distance After K Changes.md>)                              | py          | Feb 04, 2025    |
+| 3541 | [Find Most Frequent Vowel and Consonant](<https://leetcode.com/problems/find-most-frequent-vowel-and-consonant>)                                                                   | Easy    | Daily          | [solution](<../_3541. Find Most Frequent Vowel and Consonant.md>)                                  | py          | Sep 13, 2025    |
