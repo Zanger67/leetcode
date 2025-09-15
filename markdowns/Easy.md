@@ -1,4 +1,4 @@
-# Easy Questions (191)
+# Easy Questions (192)
 
 *[Back to top](<../README.md>)*
 
@@ -96,6 +96,7 @@
 | 1071 | [Greatest Common Divisor of Strings](<https://leetcode.com/problems/greatest-common-divisor-of-strings>)                                                           | Easy    |                | [solution](<_1071. Greatest Common Divisor of Strings.md>)                              | py                           | Sep 25, 2024    |
 | 1122 | [Relative Sort Array](<https://leetcode.com/problems/relative-sort-array>)                                                                                         | Easy    | Daily          | [solution](<_1122. Relative Sort Array.md>)                                             | java, py                     | Jun 11, 2024    |
 | 1133 | [Largest Unique Number](<https://leetcode.com/problems/largest-unique-number>)                                                                                     | Easy    | Weekly Premium | [solution](<_1133. Largest Unique Number.md>)                                           | py                           | Oct 01, 2024    |
+| 1150 | [Check If a Number Is Majority Element in a Sorted Array](<https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array>)                 | Easy    | Weekly Premium | [solution](<_1150. Check If a Number Is Majority Element in a Sorted Array.md>)         | py                           | Sep 15, 2025    |
 | 1160 | [Find Words That Can Be Formed by Characters](<https://leetcode.com/problems/find-words-that-can-be-formed-by-characters>)                                         | Easy    |                | [solution](<_1160. Find Words That Can Be Formed by Characters.md>)                     | py                           | Sep 24, 2024    |
 | 1184 | [Distance Between Bus Stops](<https://leetcode.com/problems/distance-between-bus-stops>)                                                                           | Easy    |                | [solution](<_1184. Distance Between Bus Stops.md>)                                      | py                           | May 31, 2024    |
 | 1207 | [Unique Number of Occurrences](<https://leetcode.com/problems/unique-number-of-occurrences>)                                                                       | Easy    |                | [solution](<_1207. Unique Number of Occurrences.md>)                                    | py                           | Sep 25, 2024    |
