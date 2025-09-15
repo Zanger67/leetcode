@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (147 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (148 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -110,6 +110,7 @@
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                                                                   | Medium  | Weekly Premium | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                                         | py          | Jun 27, 2024    |
 | 1836 | [Remove Duplicates From an Unsorted Linked List](<https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list>)                                                   | Medium  | Weekly Premium | [solution](<../_1836. Remove Duplicates From an Unsorted Linked List.md>)                          | java, py    | Jul 08, 2024    |
 | 1852 | [Distinct Numbers in Each Subarray](<https://leetcode.com/problems/distinct-numbers-in-each-subarray>)                                                                             | Medium  | Weekly Premium | [solution](<../_1852. Distinct Numbers in Each Subarray.md>)                                       | java, py    | Jun 27, 2024    |
+| 1935 | [Maximum Number of Words You Can Type](<https://leetcode.com/problems/maximum-number-of-words-you-can-type>)                                                                       | Easy    | Daily          | [solution](<../_1935. Maximum Number of Words You Can Type.md>)                                    | py          | Sep 15, 2025    |
 | 1940 | [Longest Common Subsequence Between Sorted Arrays](<https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays>)                                               | Medium  | Weekly Premium | [solution](<../_1940. Longest Common Subsequence Between Sorted Arrays.md>)                        | java, py    | Jun 01, 2024    |
 | 1980 | [Find Unique Binary String](<https://leetcode.com/problems/find-unique-binary-string>)                                                                                             | Medium  | Daily          | [solution](<../_1980. Find Unique Binary String.md>)                                               | c, py       | Jun 27, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                                                                   | Medium  | N150           | [solution](<../_2013. Detect Squares.md>)                                                          | py          | Jun 28, 2024    |

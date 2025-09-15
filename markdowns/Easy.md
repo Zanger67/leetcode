@@ -1,4 +1,4 @@
-# Easy Questions (190)
+# Easy Questions (191)
 
 *[Back to top](<../README.md>)*
 
@@ -135,6 +135,7 @@
 | 1844 | [Replace All Digits with Characters](<https://leetcode.com/problems/replace-all-digits-with-characters>)                                                           | Easy    |                | [solution](<_1844. Replace All Digits with Characters.md>)                              | py                           | Jun 29, 2024    |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](<https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing>)               | Easy    |                | [solution](<_1909. Remove One Element to Make the Array Strictly Increasing.md>)        | c                            | Jun 17, 2024    |
 | 1929 | [Concatenation of Array](<https://leetcode.com/problems/concatenation-of-array>)                                                                                   | Easy    |                | [solution](<_1929. Concatenation of Array.md>)                                          | c, java, py                  | Jun 03, 2024    |
+| 1935 | [Maximum Number of Words You Can Type](<https://leetcode.com/problems/maximum-number-of-words-you-can-type>)                                                       | Easy    | Daily          | [solution](<_1935. Maximum Number of Words You Can Type.md>)                            | py                           | Sep 15, 2025    |
 | 1945 | [Sum of Digits of String After Convert](<https://leetcode.com/problems/sum-of-digits-of-string-after-convert>)                                                     | Easy    | Daily          | [solution](<_1945. Sum of Digits of String After Convert.md>)                           | py                           | Sep 03, 2024    |
 | 1957 | [Delete Characters to Make Fancy String](<https://leetcode.com/problems/delete-characters-to-make-fancy-string>)                                                   | Easy    | Daily          | [solution](<_1957. Delete Characters to Make Fancy String.md>)                          | py                           | Nov 04, 2024    |
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>)                         | Easy    |                | [solution](<_2011. Final Value of Variable After Performing Operations.md>)             | c                            | Jun 03, 2024    |
