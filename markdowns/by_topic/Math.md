@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (90 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (91 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -36,6 +36,7 @@
 |  650 | [2 Keys Keyboard](<https://leetcode.com/problems/2-keys-keyboard>)                                                                                                 | Medium  | Daily          | [solution](<../_650. 2 Keys Keyboard.md>)                                                  | py                                          | Aug 19, 2024    |
 |  651 | [4 Keys Keyboard](<https://leetcode.com/problems/4-keys-keyboard>)                                                                                                 | Medium  |                | [solution](<../_651. 4 Keys Keyboard.md>)                                                  | py                                          | May 29, 2024    |
 |  781 | [Rabbits in Forest](<https://leetcode.com/problems/rabbits-in-forest>)                                                                                             | Medium  | Daily          | [solution](<../_781. Rabbits in Forest.md>)                                                | py                                          | Apr 21, 2025    |
+|  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                     | Easy    | Daily          | [solution](<../_812. Largest Triangle Area.md>)                                            | py                                          | Sep 27, 2025    |
 |  840 | [Magic Squares In Grid](<https://leetcode.com/problems/magic-squares-in-grid>)                                                                                     | Medium  | Daily          | [solution](<../_840. Magic Squares In Grid.md>)                                            | py                                          | Aug 09, 2024    |
 |  877 | [Stone Game](<https://leetcode.com/problems/stone-game>)                                                                                                           | Medium  |                | [solution](<../_877. Stone Game.md>)                                                       | c, cpp, go, java, js, py                    | Jul 11, 2024    |
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                                                           | Medium  | N150           | [solution](<../_973. K Closest Points to Origin.md>)                                       | py                                          | Jun 29, 2024    |
