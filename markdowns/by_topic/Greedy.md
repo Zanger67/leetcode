@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (52 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (53 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,6 +22,7 @@
 |  921 | [Minimum Add to Make Parentheses Valid](<https://leetcode.com/problems/minimum-add-to-make-parentheses-valid>)                                                               | Medium  | Daily          | [solution](<../_921. Minimum Add to Make Parentheses Valid.md>)                                 | java, py                     | Jun 12, 2024    |
 |  942 | [DI String Match](<https://leetcode.com/problems/di-string-match>)                                                                                                           | Easy    |                | [solution](<../_942. DI String Match.md>)                                                       | py                           | Feb 18, 2025    |
 |  945 | [Minimum Increment to Make Array Unique](<https://leetcode.com/problems/minimum-increment-to-make-array-unique>)                                                             | Medium  | Daily          | [solution](<../_945. Minimum Increment to Make Array Unique.md>)                                | py                           | Jun 14, 2024    |
+|  976 | [Largest Perimeter Triangle](<https://leetcode.com/problems/largest-perimeter-triangle>)                                                                                     | Easy    | Daily          | [solution](<../_976. Largest Perimeter Triangle.md>)                                            | py                           | Sep 28, 2025    |
 | 1055 | [Shortest Way to Form String](<https://leetcode.com/problems/shortest-way-to-form-string>)                                                                                   | Medium  | Weekly Premium | [solution](<../_1055. Shortest Way to Form String.md>)                                          | py                           | Mar 30, 2025    |
 | 1282 | [Group the People Given the Group Size They Belong To](<https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to>)                                 | Medium  |                | [solution](<../_1282. Group the People Given the Group Size They Belong To.md>)                 | py                           | Jun 28, 2024    |
 | 1382 | [Balance a Binary Search Tree](<https://leetcode.com/problems/balance-a-binary-search-tree>)                                                                                 | Medium  |                | [solution](<../_1382. Balance a Binary Search Tree.md>)                                         | py                           | Jun 29, 2024    |

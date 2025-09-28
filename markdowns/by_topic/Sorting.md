@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (79 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (80 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -33,6 +33,7 @@
 |  945 | [Minimum Increment to Make Array Unique](<https://leetcode.com/problems/minimum-increment-to-make-array-unique>)                                                             | Medium  | Daily          | [solution](<../_945. Minimum Increment to Make Array Unique.md>)                                | py               | Jun 14, 2024    |
 |  950 | [Reveal Cards In Increasing Order](<https://leetcode.com/problems/reveal-cards-in-increasing-order>)                                                                         | Medium  |                | [solution](<../_950. Reveal Cards In Increasing Order.md>)                                      | py               | Jun 12, 2024    |
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                                                                     | Medium  | N150           | [solution](<../_973. K Closest Points to Origin.md>)                                            | py               | Jun 29, 2024    |
+|  976 | [Largest Perimeter Triangle](<https://leetcode.com/problems/largest-perimeter-triangle>)                                                                                     | Easy    | Daily          | [solution](<../_976. Largest Perimeter Triangle.md>)                                            | py               | Sep 28, 2025    |
 |  977 | [Squares of a Sorted Array](<https://leetcode.com/problems/squares-of-a-sorted-array>)                                                                                       | Easy    |                | [solution](<../_977. Squares of a Sorted Array.md>)                                             | py               | Jun 21, 2024    |
 |  987 | [Vertical Order Traversal of a Binary Tree](<https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree>)                                                       | Hard    |                | [solution](<../_987. Vertical Order Traversal of a Binary Tree.md>)                             | py               | Jun 12, 2024    |
 | 1030 | [Matrix Cells in Distance Order](<https://leetcode.com/problems/matrix-cells-in-distance-order>)                                                                             | Easy    |                | [solution](<../_1030. Matrix Cells in Distance Order.md>)                                       | py               | Jun 04, 2024    |

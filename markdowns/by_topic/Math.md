@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (91 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (92 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -40,6 +40,7 @@
 |  840 | [Magic Squares In Grid](<https://leetcode.com/problems/magic-squares-in-grid>)                                                                                     | Medium  | Daily          | [solution](<../_840. Magic Squares In Grid.md>)                                            | py                                          | Aug 09, 2024    |
 |  877 | [Stone Game](<https://leetcode.com/problems/stone-game>)                                                                                                           | Medium  |                | [solution](<../_877. Stone Game.md>)                                                       | c, cpp, go, java, js, py                    | Jul 11, 2024    |
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                                                           | Medium  | N150           | [solution](<../_973. K Closest Points to Origin.md>)                                       | py                                          | Jun 29, 2024    |
+|  976 | [Largest Perimeter Triangle](<https://leetcode.com/problems/largest-perimeter-triangle>)                                                                           | Easy    | Daily          | [solution](<../_976. Largest Perimeter Triangle.md>)                                       | py                                          | Sep 28, 2025    |
 | 1006 | [Clumsy Factorial](<https://leetcode.com/problems/clumsy-factorial>)                                                                                               | Medium  |                | [solution](<../_1006. Clumsy Factorial.md>)                                                | c, py                                       | Jun 12, 2024    |
 | 1030 | [Matrix Cells in Distance Order](<https://leetcode.com/problems/matrix-cells-in-distance-order>)                                                                   | Easy    |                | [solution](<../_1030. Matrix Cells in Distance Order.md>)                                  | py                                          | Jun 04, 2024    |
 | 1071 | [Greatest Common Divisor of Strings](<https://leetcode.com/problems/greatest-common-divisor-of-strings>)                                                           | Easy    |                | [solution](<../_1071. Greatest Common Divisor of Strings.md>)                              | py                                          | Sep 25, 2024    |
