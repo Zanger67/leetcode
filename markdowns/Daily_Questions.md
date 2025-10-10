@@ -4,19 +4,21 @@
 
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
-### September 2025
-| Su                                                     | Mo                                                                  | Tu                                                         | We                                                          | Th                                        | Fr                                        | Sa                                                       |
-|-------------------------------------------------------:|--------------------------------------------------------------------:|-----------------------------------------------------------:|------------------------------------------------------------:|------------------------------------------:|------------------------------------------:|---------------------------------------------------------:|
-|                                                        | [1](<_1792. Maximum Average Pass Ratio.md>)                         | [2](<_3025. Find the Number of Ways to Place People I.md>) | [3](<_3027. Find the Number of Ways to Place People II.md>) | [4](<_3516. Find Closest Person.md>)      | 5                                         | 6                                                        |
-| [7](<_1304. Find N Unique Integers Sum up to Zero.md>) | [8](<_1317. Convert Integer to the Sum of Two No-Zero Integers.md>) | 9                                                          | 10                                                          | [11](<_2785. Sort Vowels in a String.md>) | [12](<_3227. Vowels Game in a String.md>) | [13](<_3541. Find Most Frequent Vowel and Consonant.md>) |
-| 14                                                     | [15](<_1935. Maximum Number of Words You Can Type.md>)              | 16                                                         | 17                                                          | 18                                        | 19                                        | 20                                                       |
-| 21                                                     | 22                                                                  | [23](<_165. Compare Version Numbers.md>)                   | [24](<_166. Fraction to Recurring Decimal.md>)              | [25](<_120. Triangle.md>)                 | [26](<_611. Valid Triangle Number.md>)    | [27](<_812. Largest Triangle Area.md>)                   |
-| [28](<_976. Largest Perimeter Triangle.md>)            | 29                                                                  | [30](<_2221. Find Triangular Sum of an Array.md>)          |                                                             |                                           |                                           |                                                          |
+### October 2025
+| Su   | Mo   | Tu   | We                             |   Th | Fr                                                              |   Sa |
+|-----:|-----:|-----:|-------------------------------:|-----:|----------------------------------------------------------------:|-----:|
+|      |      |      | [1](<_1518. Water Bottles.md>) |    2 | 3                                                               |    4 |
+| 5    | 6    | 7    | 8                              |    9 | [10](<_3147. Taking Maximum Energy From the Mystic Dungeon.md>) |   11 |
+| 12   | 13   | 14   | 15                             |   16 | 17                                                              |   18 |
+| 19   | 20   | 21   | 22                             |   23 | 24                                                              |   25 |
+| 26   | 27   | 28   | 29                             |   30 | 31                                                              |      |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 3147 | [Taking Maximum Energy From the Mystic Dungeon](<https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon>)                                                             | Medium  | Daily          | [solution](<_3147. Taking Maximum Energy From the Mystic Dungeon.md>)                               | py                           | Oct 10, 2025    |
+| 1518 | [Water Bottles](<https://leetcode.com/problems/water-bottles>)                                                                                                                             | Easy    | Daily          | [solution](<_1518. Water Bottles.md>)                                                               | c, cpp, cs, java, js, py, ts | Oct 01, 2025    |
 | 2221 | [Find Triangular Sum of an Array](<https://leetcode.com/problems/find-triangular-sum-of-an-array>)                                                                                         | Medium  | Daily          | [solution](<_2221. Find Triangular Sum of an Array.md>)                                             | c, java, py                  | Sep 30, 2025    |
 |  976 | [Largest Perimeter Triangle](<https://leetcode.com/problems/largest-perimeter-triangle>)                                                                                                   | Easy    | Daily          | [solution](<_976. Largest Perimeter Triangle.md>)                                                   | py                           | Sep 28, 2025    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                                             | Easy    | Daily          | [solution](<_812. Largest Triangle Area.md>)                                                        | py                           | Sep 27, 2025    |
@@ -383,4 +385,14 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 14                                                     | [15](<_1935. Maximum Number of Words You Can Type.md>)              | 16                                                         | 17                                                          | 18                                        | 19                                        | 20                                                       |
 | 21                                                     | 22                                                                  | [23](<_165. Compare Version Numbers.md>)                   | [24](<_166. Fraction to Recurring Decimal.md>)              | [25](<_120. Triangle.md>)                 | [26](<_611. Valid Triangle Number.md>)    | [27](<_812. Largest Triangle Area.md>)                   |
 | [28](<_976. Largest Perimeter Triangle.md>)            | 29                                                                  | [30](<_2221. Find Triangular Sum of an Array.md>)          |                                                             |                                           |                                           |                                                          |
+
+
+### October 2025
+| Su   | Mo   | Tu   | We                             |   Th | Fr                                                              |   Sa |
+|-----:|-----:|-----:|-------------------------------:|-----:|----------------------------------------------------------------:|-----:|
+|      |      |      | [1](<_1518. Water Bottles.md>) |    2 | 3                                                               |    4 |
+| 5    | 6    | 7    | 8                              |    9 | [10](<_3147. Taking Maximum Energy From the Mystic Dungeon.md>) |   11 |
+| 12   | 13   | 14   | 15                             |   16 | 17                                                              |   18 |
+| 19   | 20   | 21   | 22                             |   23 | 24                                                              |   25 |
+| 26   | 27   | 28   | 29                             |   30 | 31                                                              |      |
 
