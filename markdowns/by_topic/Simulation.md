@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (44 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (45 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  498 | [Diagonal Traverse](<https://leetcode.com/problems/diagonal-traverse>)                                                                                                   | Medium  | Daily          | [solution](<../_498. Diagonal Traverse.md>)                                                   | go, py                       | Aug 25, 2025    |
 |  735 | [Asteroid Collision](<https://leetcode.com/problems/asteroid-collision>)                                                                                                 | Medium  |                | [solution](<../_735. Asteroid Collision.md>)                                                  | py                           | Jul 14, 2024    |
 |  867 | [Transpose Matrix](<https://leetcode.com/problems/transpose-matrix>)                                                                                                     | Easy    |                | [solution](<../_867. Transpose Matrix.md>)                                                    | py                           | Jun 15, 2024    |
+|  874 | [Walking Robot Simulation](<https://leetcode.com/problems/walking-robot-simulation>)                                                                                     | Medium  |                | [solution](<../_874. Walking Robot Simulation.md>)                                            | py                           | Oct 10, 2025    |
 |  885 | [Spiral Matrix III](<https://leetcode.com/problems/spiral-matrix-iii>)                                                                                                   | Medium  | Daily          | [solution](<../_885. Spiral Matrix III.md>)                                                   | py                           | Aug 08, 2024    |
 |  946 | [Validate Stack Sequences](<https://leetcode.com/problems/validate-stack-sequences>)                                                                                     | Medium  |                | [solution](<../_946. Validate Stack Sequences.md>)                                            | c, py                        | Jun 12, 2024    |
 |  950 | [Reveal Cards In Increasing Order](<https://leetcode.com/problems/reveal-cards-in-increasing-order>)                                                                     | Medium  |                | [solution](<../_950. Reveal Cards In Increasing Order.md>)                                    | py                           | Jun 12, 2024    |

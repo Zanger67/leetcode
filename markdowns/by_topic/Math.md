@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (92 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (93 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -71,6 +71,7 @@
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)              | c, py                                       | Jun 10, 2024    |
 | 2165 | [Smallest Value of the Rearranged Number](<https://leetcode.com/problems/smallest-value-of-the-rearranged-number>)                                                 | Medium  |                | [solution](<../_2165. Smallest Value of the Rearranged Number.md>)                         | py                                          | Jul 01, 2024    |
 | 2221 | [Find Triangular Sum of an Array](<https://leetcode.com/problems/find-triangular-sum-of-an-array>)                                                                 | Medium  | Daily          | [solution](<../_2221. Find Triangular Sum of an Array.md>)                                 | c, java, py                                 | Jun 27, 2024    |
+| 2235 | [Add Two Integers](<https://leetcode.com/problems/add-two-integers>)                                                                                               | Easy    |                | [solution](<../_2235. Add Two Integers.md>)                                                | py                                          | Oct 10, 2025    |
 | 2317 | [Maximum XOR After Operations ](<https://leetcode.com/problems/maximum-xor-after-operations>)                                                                      | Medium  |                | [solution](<../_2317. Maximum XOR After Operations .md>)                                   | c, cpp, java, py                            | Jun 24, 2024    |
 | 2348 | [Number of Zero-Filled Subarrays](<https://leetcode.com/problems/number-of-zero-filled-subarrays>)                                                                 | Medium  | Daily          | [solution](<../_2348. Number of Zero-Filled Subarrays.md>)                                 | py                                          | Aug 19, 2025    |
 | 2393 | [Count Strictly Increasing Subarrays](<https://leetcode.com/problems/count-strictly-increasing-subarrays>)                                                         | Medium  |                | [solution](<../_2393. Count Strictly Increasing Subarrays.md>)                             | py                                          | Jul 29, 2024    |

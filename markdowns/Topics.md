@@ -4,11 +4,11 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (334 completed)
+- [Array](<by_topic/Array.md>) (335 completed)
 - [String](<by_topic/String.md>) (153 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (148 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (149 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (105 completed)
-- [Math](<by_topic/Math.md>) (92 completed)
+- [Math](<by_topic/Math.md>) (93 completed)
 - [Tree](<by_topic/Tree.md>) (91 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (82 completed)
 - [Sorting](<by_topic/Sorting.md>) (80 completed)
@@ -18,8 +18,8 @@
 - [Matrix](<by_topic/Matrix.md>) (57 completed)
 - [Stack](<by_topic/Stack.md>) (56 completed)
 - [Greedy](<by_topic/Greedy.md>) (53 completed)
+- [Simulation](<by_topic/Simulation.md>) (45 completed)
 - [Linked List](<by_topic/Linked List.md>) (45 completed)
-- [Simulation](<by_topic/Simulation.md>) (44 completed)
 - [Binary Search](<by_topic/Binary Search.md>) (39 completed)
 - [Design](<by_topic/Design.md>) (37 completed)
 - [Bit Manipulation](<by_topic/Bit Manipulation.md>) (36 completed)

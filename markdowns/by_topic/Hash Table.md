@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (148 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (149 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -58,6 +58,7 @@
 |  840 | [Magic Squares In Grid](<https://leetcode.com/problems/magic-squares-in-grid>)                                                                                                     | Medium  | Daily          | [solution](<../_840. Magic Squares In Grid.md>)                                                    | py          | Aug 09, 2024    |
 |  846 | [Hand of Straights](<https://leetcode.com/problems/hand-of-straights>)                                                                                                             | Medium  | Daily, N150    | [solution](<../_846. Hand of Straights.md>)                                                        | py          | Jun 06, 2024    |
 |  863 | [All Nodes Distance K in Binary Tree](<https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree>)                                                                         | Medium  |                | [solution](<../_863. All Nodes Distance K in Binary Tree.md>)                                      | py          | Jun 26, 2024    |
+|  874 | [Walking Robot Simulation](<https://leetcode.com/problems/walking-robot-simulation>)                                                                                               | Medium  |                | [solution](<../_874. Walking Robot Simulation.md>)                                                 | py          | Oct 10, 2025    |
 |  890 | [Find and Replace Pattern](<https://leetcode.com/problems/find-and-replace-pattern>)                                                                                               | Medium  |                | [solution](<../_890. Find and Replace Pattern.md>)                                                 | py          | Jul 03, 2024    |
 |  895 | [Maximum Frequency Stack](<https://leetcode.com/problems/maximum-frequency-stack>)                                                                                                 | Hard    |                | [solution](<../_895. Maximum Frequency Stack.md>)                                                  | java, py    | Jul 11, 2024    |
 |  930 | [Binary Subarrays With Sum](<https://leetcode.com/problems/binary-subarrays-with-sum>)                                                                                             | Medium  |                | [solution](<../_930. Binary Subarrays With Sum.md>)                                                | py          | Jun 22, 2024    |

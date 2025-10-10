@@ -1,4 +1,4 @@
-# Easy Questions (194)
+# Easy Questions (195)
 
 *[Back to top](<../README.md>)*
 
@@ -145,6 +145,7 @@
 | 2037 | [Minimum Number of Moves to Seat Everyone](<https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone>)                                               | Easy    | Daily          | [solution](<_2037. Minimum Number of Moves to Seat Everyone.md>)                        | c, py                        | Jun 03, 2024    |
 | 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                 | Easy    | Daily          | [solution](<_2053. Kth Distinct String in an Array.md>)                                 | py                           | Aug 05, 2024    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                     | Easy    | Daily          | [solution](<_2206. Divide Array Into Equal Pairs.md>)                                   | c, py                        | Jun 08, 2024    |
+| 2235 | [Add Two Integers](<https://leetcode.com/problems/add-two-integers>)                                                                                               | Easy    |                | [solution](<_2235. Add Two Integers.md>)                                                | py                           | Oct 10, 2025    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                                 | Easy    |                | [solution](<_2248. Intersection of Multiple Arrays.md>)                                 | py                           | May 31, 2024    |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](<https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks>)                           | Easy    | Daily          | [solution](<_2379. Minimum Recolors to Get K Consecutive Black Blocks.md>)              | py                           | Mar 08, 2025    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                       | Easy    |                | [solution](<_2389. Longest Subsequence With Limited Sum.md>)                            | py                           | Jun 01, 2024    |
