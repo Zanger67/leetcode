@@ -5,18 +5,20 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### October 2025
-| Su   | Mo   | Tu   | We                             |   Th | Fr                                                              |   Sa |
-|-----:|-----:|-----:|-------------------------------:|-----:|----------------------------------------------------------------:|-----:|
-|      |      |      | [1](<_1518. Water Bottles.md>) |    2 | 3                                                               |    4 |
-| 5    | 6    | 7    | 8                              |    9 | [10](<_3147. Taking Maximum Energy From the Mystic Dungeon.md>) |   11 |
-| 12   | 13   | 14   | 15                             |   16 | 17                                                              |   18 |
-| 19   | 20   | 21   | 22                             |   23 | 24                                                              |   25 |
-| 26   | 27   | 28   | 29                             |   30 | 31                                                              |      |
+| Su   | Mo   | Tu                                                          | We                             |   Th | Fr                                                              | Sa                                                        |
+|-----:|-----:|------------------------------------------------------------:|-------------------------------:|-----:|----------------------------------------------------------------:|----------------------------------------------------------:|
+|      |      |                                                             | [1](<_1518. Water Bottles.md>) |    2 | 3                                                               | 4                                                         |
+| 5    | 6    | 7                                                           | 8                              |    9 | [10](<_3147. Taking Maximum Energy From the Mystic Dungeon.md>) | [11](<_3186. Maximum Total Damage With Spell Casting.md>) |
+| 12   | 13   | [14](<_3349. Adjacent Increasing Subarrays Detection I.md>) | 15                             |   16 | 17                                                              | 18                                                        |
+| 19   | 20   | 21                                                          | 22                             |   23 | 24                                                              | 25                                                        |
+| 26   | 27   | 28                                                          | 29                             |   30 | 31                                                              |                                                           |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 3349 | [Adjacent Increasing Subarrays Detection I](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i>)                                                                     | Easy    | Daily          | [solution](<_3349. Adjacent Increasing Subarrays Detection I.md>)                                   | py                           | Oct 14, 2025    |
+| 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>)                                               | Medium  | Contest, Daily | [solution](<_3186. Maximum Total Damage With Spell Casting.md>)                                     | py                           | Oct 11, 2025    |
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](<https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon>)                                                             | Medium  | Daily          | [solution](<_3147. Taking Maximum Energy From the Mystic Dungeon.md>)                               | py                           | Oct 10, 2025    |
 | 1518 | [Water Bottles](<https://leetcode.com/problems/water-bottles>)                                                                                                                             | Easy    | Daily          | [solution](<_1518. Water Bottles.md>)                                                               | c, cpp, cs, java, js, py, ts | Oct 01, 2025    |
 | 2221 | [Find Triangular Sum of an Array](<https://leetcode.com/problems/find-triangular-sum-of-an-array>)                                                                                         | Medium  | Daily          | [solution](<_2221. Find Triangular Sum of an Array.md>)                                             | c, java, py                  | Sep 30, 2025    |
@@ -388,11 +390,11 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### October 2025
-| Su   | Mo   | Tu   | We                             |   Th | Fr                                                              |   Sa |
-|-----:|-----:|-----:|-------------------------------:|-----:|----------------------------------------------------------------:|-----:|
-|      |      |      | [1](<_1518. Water Bottles.md>) |    2 | 3                                                               |    4 |
-| 5    | 6    | 7    | 8                              |    9 | [10](<_3147. Taking Maximum Energy From the Mystic Dungeon.md>) |   11 |
-| 12   | 13   | 14   | 15                             |   16 | 17                                                              |   18 |
-| 19   | 20   | 21   | 22                             |   23 | 24                                                              |   25 |
-| 26   | 27   | 28   | 29                             |   30 | 31                                                              |      |
+| Su   | Mo   | Tu                                                          | We                             |   Th | Fr                                                              | Sa                                                        |
+|-----:|-----:|------------------------------------------------------------:|-------------------------------:|-----:|----------------------------------------------------------------:|----------------------------------------------------------:|
+|      |      |                                                             | [1](<_1518. Water Bottles.md>) |    2 | 3                                                               | 4                                                         |
+| 5    | 6    | 7                                                           | 8                              |    9 | [10](<_3147. Taking Maximum Energy From the Mystic Dungeon.md>) | [11](<_3186. Maximum Total Damage With Spell Casting.md>) |
+| 12   | 13   | [14](<_3349. Adjacent Increasing Subarrays Detection I.md>) | 15                             |   16 | 17                                                              | 18                                                        |
+| 19   | 20   | 21                                                          | 22                             |   23 | 24                                                              | 25                                                        |
+| 26   | 27   | 28                                                          | 29                             |   30 | 31                                                              |                                                           |
 

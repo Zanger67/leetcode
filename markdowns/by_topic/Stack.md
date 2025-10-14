@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (56 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (57 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -39,6 +39,7 @@
 | 1006 | [Clumsy Factorial](<https://leetcode.com/problems/clumsy-factorial>)                                                                                           | Medium  |                | [solution](<../_1006. Clumsy Factorial.md>)                                       | c, py        | Jun 12, 2024    |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](<https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal>)                   | Medium  |                | [solution](<../_1008. Construct Binary Search Tree from Preorder Traversal.md>)   | c, cpp, java | Jun 27, 2024    |
 | 1019 | [Next Greater Node In Linked List](<https://leetcode.com/problems/next-greater-node-in-linked-list>)                                                           | Medium  |                | [solution](<../_1019. Next Greater Node In Linked List.md>)                       | py           | Jun 22, 2024    |
+| 1087 | [Brace Expansion](<https://leetcode.com/problems/brace-expansion>)                                                                                             | Medium  |                | [solution](<../_1087. Brace Expansion.md>)                                        | py           | Jun 15, 2024    |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](<https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses>)                     | Medium  | Daily          | [solution](<../_1190. Reverse Substrings Between Each Pair of Parentheses.md>)    | py           | Jul 11, 2024    |
 | 1209 | [Remove All Adjacent Duplicates in String II](<https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii>)                                     | Medium  |                | [solution](<../_1209. Remove All Adjacent Duplicates in String II.md>)            | py           | Jun 19, 2024    |
 | 1249 | [Minimum Remove to Make Valid Parentheses](<https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses>)                                           | Medium  |                | [solution](<../_1249. Minimum Remove to Make Valid Parentheses.md>)               | py           | Jun 10, 2024    |
