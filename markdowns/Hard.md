@@ -1,4 +1,4 @@
-# Hard Questions (44)
+# Hard Questions (45)
 
 *[Back to top](<../README.md>)*
 
@@ -32,6 +32,7 @@
 |  995 | [Minimum Number of K Consecutive Bit Flips](<https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips>)                                             | Hard    | Daily          | [solution](<_995. Minimum Number of K Consecutive Bit Flips.md>)                        | c, py       | Jun 24, 2024    |
 | 1028 | [Recover a Tree From Preorder Traversal](<https://leetcode.com/problems/recover-a-tree-from-preorder-traversal>)                                                   | Hard    | Daily          | [solution](<_1028. Recover a Tree From Preorder Traversal.md>)                          | py          | Jul 01, 2024    |
 | 1092 | [Shortest Common Supersequence ](<https://leetcode.com/problems/shortest-common-supersequence>)                                                                    | Hard    | Daily          | [solution](<_1092. Shortest Common Supersequence .md>)                                  | py          | Feb 28, 2025    |
+| 1203 | [Sort Items by Groups Respecting Dependencies](<https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies>)                                       | Hard    |                | [solution](<_1203. Sort Items by Groups Respecting Dependencies.md>)                    | py          | Oct 14, 2025    |
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                                                     | Hard    |                | [solution](<_1255. Maximum Score Words Formed by Letters.md>)                           | py          | Jun 15, 2024    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>) | Hard    |                | [solution](<_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>) | py          | Jun 09, 2024    |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](<https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid>)                   | Hard    | Daily          | [solution](<_1368. Minimum Cost to Make at Least One Valid Path in a Grid.md>)          | py          | Jan 18, 2025    |

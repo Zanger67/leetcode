@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (105 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (106 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -73,6 +73,7 @@
 | 1038 | [Binary Search Tree to Greater Sum Tree](<https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree>)                                         | Medium  | Daily                     | [solution](<../_1038. Binary Search Tree to Greater Sum Tree.md>)                     | c           | Jun 26, 2024    |
 | 1110 | [Delete Nodes And Return Forest](<https://leetcode.com/problems/delete-nodes-and-return-forest>)                                                         | Medium  | Daily                     | [solution](<../_1110. Delete Nodes And Return Forest.md>)                             | py          | Jul 17, 2024    |
 | 1161 | [Maximum Level Sum of a Binary Tree](<https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree>)                                                 | Medium  |                           | [solution](<../_1161. Maximum Level Sum of a Binary Tree.md>)                         | py          | Jul 17, 2024    |
+| 1203 | [Sort Items by Groups Respecting Dependencies](<https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies>)                             | Hard    |                           | [solution](<../_1203. Sort Items by Groups Respecting Dependencies.md>)               | py          | Oct 14, 2025    |
 | 1233 | [Remove Sub-Folders from the Filesystem](<https://leetcode.com/problems/remove-sub-folders-from-the-filesystem>)                                         | Medium  | Daily                     | [solution](<../_1233. Remove Sub-Folders from the Filesystem.md>)                     | py          | Jun 28, 2024    |
 | 1254 | [Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)                                                                     | Medium  |                           | [solution](<../_1254. Number of Closed Islands.md>)                                   | py          | Jun 26, 2024    |
 | 1261 | [Find Elements in a Contaminated Binary Tree](<https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree>)                               | Medium  | Daily                     | [solution](<../_1261. Find Elements in a Contaminated Binary Tree.md>)                | py          | Feb 21, 2025    |

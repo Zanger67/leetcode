@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (155 completed)
+# [String](<https://leetcode.com/tag/String/>) (156 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -142,6 +142,7 @@
 | 2942 | [Find Words Containing Character](<https://leetcode.com/problems/find-words-containing-character>)                                                                                 | Easy    | Daily          | [solution](<../_2942. Find Words Containing Character.md>)                                         | c           | Jun 06, 2024    |
 | 2955 | [Number of Same-End Substrings](<https://leetcode.com/problems/number-of-same-end-substrings>)                                                                                     | Medium  | Weekly Premium | [solution](<../_2955. Number of Same-End Substrings.md>)                                           | py          | Nov 04, 2024    |
 | 2976 | [Minimum Cost to Convert String I](<https://leetcode.com/problems/minimum-cost-to-convert-string-i>)                                                                               | Medium  | Daily          | [solution](<../_2976. Minimum Cost to Convert String I.md>)                                        | py          | Jul 27, 2024    |
+| 3006 | [Find Beautiful Indices in the Given Array I](<https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i>)                                                         | Medium  |                | [solution](<../_3006. Find Beautiful Indices in the Given Array I.md>)                             | py          | Oct 14, 2025    |
 | 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                               | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                                | py          | Aug 06, 2024    |
 | 3043 | [Find the Length of the Longest Common Prefix](<https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix>)                                                       | Medium  | Daily          | [solution](<../_3043. Find the Length of the Longest Common Prefix.md>)                            | py          | Jun 28, 2024    |
 | 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                                                                               | Hard    |                | [solution](<../_3045. Count Prefix and Suffix Pairs II.md>)                                        | py          | Jun 29, 2024    |

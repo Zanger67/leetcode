@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (61 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (62 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -62,6 +62,7 @@
 | 2460 | [Apply Operations to an Array](<https://leetcode.com/problems/apply-operations-to-an-array>)                                                                                         | Easy    | Daily          | [solution](<../_2460. Apply Operations to an Array.md>)                                 | py                               | Mar 01, 2025    |
 | 2486 | [Append Characters to String to Make Subsequence](<https://leetcode.com/problems/append-characters-to-string-to-make-subsequence>)                                                   | Medium  | Daily          | [solution](<../_2486. Append Characters to String to Make Subsequence.md>)              | c, java, py                      | Jun 03, 2024    |
 | 2570 | [Merge Two 2D Arrays by Summing Values](<https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values>)                                                                       | Easy    | Daily          | [solution](<../_2570. Merge Two 2D Arrays by Summing Values.md>)                        | c, py                            | Jun 10, 2024    |
+| 3006 | [Find Beautiful Indices in the Given Array I](<https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i>)                                                           | Medium  |                | [solution](<../_3006. Find Beautiful Indices in the Given Array I.md>)                  | py                               | Oct 14, 2025    |
 | 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>)                                         | Medium  | Contest, Daily | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)                      | py                               | Jul 07, 2024    |
 | 3194 | Weekly Contest 403 - q1 - [Minimum Average of Smallest and Largest Elements](<https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements>)                       | Easy    | Contest        | [solution](<../_3194. Minimum Average of Smallest and Largest Elements.md>)             | py                               | Jul 07, 2024    |
 | 3239 | Biweekly Contest 136 - q2 - [Minimum Number of Flips to Make Binary Grid Palindromic I](<https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i>)   | Medium  | Contest        | [solution](<../_3239. Minimum Number of Flips to Make Binary Grid Palindromic I.md>)    | py                               | Aug 03, 2024    |
