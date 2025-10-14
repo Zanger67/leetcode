@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (93 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (94 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -31,6 +31,7 @@
 |  382 | [Linked List Random Node](<https://leetcode.com/problems/linked-list-random-node>)                                                                                 | Medium  |                | [solution](<../_382. Linked List Random Node.md>)                                          | c, java, py                                 | Jun 22, 2024    |
 |  384 | [Shuffle an Array](<https://leetcode.com/problems/shuffle-an-array>)                                                                                               | Medium  |                | [solution](<../_384. Shuffle an Array.md>)                                                 | py                                          | Jun 29, 2024    |
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                                             | Easy    |                | [solution](<../_412. Fizz Buzz.md>)                                                        | java, py                                    | Jun 02, 2024    |
+|  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                                                         | Easy    |                | [solution](<../_415. Add Strings.md>)                                                      | py                                          | Oct 14, 2025    |
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                                                                               | Easy    |                | [solution](<../_509. Fibonacci Number.md>)                                                 | c                                           | Jun 17, 2024    |
 |  523 | [Continuous Subarray Sum](<https://leetcode.com/problems/continuous-subarray-sum>)                                                                                 | Medium  | Daily          | [solution](<../_523. Continuous Subarray Sum.md>)                                          | py                                          | Jun 08, 2024    |
 |  650 | [2 Keys Keyboard](<https://leetcode.com/problems/2-keys-keyboard>)                                                                                                 | Medium  | Daily          | [solution](<../_650. 2 Keys Keyboard.md>)                                                  | py                                          | Aug 19, 2024    |

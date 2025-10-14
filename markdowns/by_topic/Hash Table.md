@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (150 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (151 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -118,6 +118,7 @@
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                                                                   | Medium  | N150           | [solution](<../_2013. Detect Squares.md>)                                                          | py          | Jun 28, 2024    |
 | 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                                 | Easy    | Daily          | [solution](<../_2053. Kth Distinct String in an Array.md>)                                         | py          | Aug 05, 2024    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)                      | c, py       | Jun 10, 2024    |
+| 2085 | [Count Common Words With One Occurrence](<https://leetcode.com/problems/count-common-words-with-one-occurrence>)                                                                   | Easy    |                | [solution](<../_2085. Count Common Words With One Occurrence.md>)                                  | py          | Oct 14, 2025    |
 | 2196 | [Create Binary Tree From Descriptions](<https://leetcode.com/problems/create-binary-tree-from-descriptions>)                                                                       | Medium  | Daily          | [solution](<../_2196. Create Binary Tree From Descriptions.md>)                                    | py          | Jul 15, 2024    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                                     | Easy    | Daily          | [solution](<../_2206. Divide Array Into Equal Pairs.md>)                                           | c, py       | Jun 08, 2024    |
 | 2225 | [Find Players With Zero or One Losses](<https://leetcode.com/problems/find-players-with-zero-or-one-losses>)                                                                       | Medium  |                | [solution](<../_2225. Find Players With Zero or One Losses.md>)                                    | java        | Jun 24, 2024    |
