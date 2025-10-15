@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (40 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (41 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -46,3 +46,4 @@
 | 2594 | [Minimum Time to Repair Cars](<https://leetcode.com/problems/minimum-time-to-repair-cars>)                                                         | Medium  | Daily          | [solution](<../_2594. Minimum Time to Repair Cars.md>)                             | py          | Mar 16, 2025    |
 | 3006 | [Find Beautiful Indices in the Given Array I](<https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i>)                         | Medium  |                | [solution](<../_3006. Find Beautiful Indices in the Given Array I.md>)             | py          | Oct 14, 2025    |
 | 3186 | Weekly Contest 402 - q3 - [Maximum Total Damage With Spell Casting](<https://leetcode.com/problems/maximum-total-damage-with-spell-casting>)       | Medium  | Contest, Daily | [solution](<../_3186. Maximum Total Damage With Spell Casting.md>)                 | py          | Jul 07, 2024    |
+| 3350 | [Adjacent Increasing Subarrays Detection II](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii>)                           | Medium  | Daily          | [solution](<../_3350. Adjacent Increasing Subarrays Detection II.md>)              | py          | Oct 15, 2025    |

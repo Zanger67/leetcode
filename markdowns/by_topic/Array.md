@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (337 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (338 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -341,5 +341,6 @@
 | 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                                                                               | Easy    |                | [solution](<../_3242. Design Neighbor Sum Service.md>)                                                | py                           | Aug 04, 2024    |
 | 3248 | [Snake in Matrix](<https://leetcode.com/problems/snake-in-matrix>)                                                                                                                       | Easy    |                | [solution](<../_3248. Snake in Matrix.md>)                                                            | py                           | Aug 12, 2024    |
 | 3349 | [Adjacent Increasing Subarrays Detection I](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i>)                                                                   | Easy    | Daily          | [solution](<../_3349. Adjacent Increasing Subarrays Detection I.md>)                                  | py                           | Oct 14, 2025    |
+| 3350 | [Adjacent Increasing Subarrays Detection II](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii>)                                                                 | Medium  | Daily          | [solution](<../_3350. Adjacent Increasing Subarrays Detection II.md>)                                 | py                           | Oct 15, 2025    |
 | 3392 | [Count Subarrays of Length Three With a Condition](<https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition>)                                                     | Easy    | Daily          | [solution](<../_3392. Count Subarrays of Length Three With a Condition.md>)                           | py                           | Apr 27, 2025    |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](<https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct>)                       | Easy    | Daily          | [solution](<../_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>)            | py                           | Apr 08, 2025    |
