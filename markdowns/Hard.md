@@ -1,4 +1,4 @@
-# Hard Questions (45)
+# Hard Questions (46)
 
 *[Back to top](<../README.md>)*
 
@@ -51,3 +51,4 @@
 | 3045 | [Count Prefix and Suffix Pairs II](<https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii>)                                                               | Hard    |                | [solution](<_3045. Count Prefix and Suffix Pairs II.md>)                                | py          | Jun 29, 2024    |
 | 3213 | Weekly Contest 405 - q4 - [Construct String with Minimum Cost](<https://leetcode.com/problems/construct-string-with-minimum-cost>)                                 | Hard    | Contest        | [solution](<_3213. Construct String with Minimum Cost.md>)                              | py          | Jul 07, 2024    |
 | 3229 | Weekly Contest 407 - q4 - [Minimum Operations to Make Array Equal to Target](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target>)     | Hard    | Contest        | [solution](<_3229. Minimum Operations to Make Array Equal to Target.md>)                | py          | Jul 21, 2024    |
+| 3463 | [Check If Digits Are Equal in String After Operations II](<https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii>)                 | Hard    |                | [solution](<_3463. Check If Digits Are Equal in String After Operations II.md>)         | py          | Oct 24, 2025    |

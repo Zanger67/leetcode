@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (157 completed)
+# [String](<https://leetcode.com/tag/String/>) (158 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -162,4 +162,5 @@
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                                           | Medium  | Daily          | [solution](<../_3443. Maximum Manhattan Distance After K Changes.md>)                              | py          | Feb 04, 2025    |
 | 3460 | [Longest Common Prefix After at Most One Removal](<https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal>)                                                 | Medium  |                | [solution](<../_3460. Longest Common Prefix After at Most One Removal.md>)                         | py          | Feb 17, 2025    |
 | 3461 | [Check If Digits Are Equal in String After Operations I](<https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i>)                                   | Easy    | Daily          | [solution](<../_3461. Check If Digits Are Equal in String After Operations I.md>)                  | py          | Oct 23, 2025    |
+| 3463 | [Check If Digits Are Equal in String After Operations II](<https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii>)                                 | Hard    |                | [solution](<../_3463. Check If Digits Are Equal in String After Operations II.md>)                 | py          | Oct 24, 2025    |
 | 3541 | [Find Most Frequent Vowel and Consonant](<https://leetcode.com/problems/find-most-frequent-vowel-and-consonant>)                                                                   | Easy    | Daily          | [solution](<../_3541. Find Most Frequent Vowel and Consonant.md>)                                  | py          | Sep 13, 2025    |
