@@ -1,4 +1,4 @@
-# Easy Questions (199)
+# Easy Questions (200)
 
 *[Back to top](<../README.md>)*
 
@@ -129,6 +129,7 @@
 | 1636 | [Sort Array by Increasing Frequency](<https://leetcode.com/problems/sort-array-by-increasing-frequency>)                                                           | Easy    | Daily          | [solution](<_1636. Sort Array by Increasing Frequency.md>)                              | py                           | Jul 23, 2024    |
 | 1684 | [Count the Number of Consistent Strings](<https://leetcode.com/problems/count-the-number-of-consistent-strings>)                                                   | Easy    | Daily          | [solution](<_1684. Count the Number of Consistent Strings.md>)                          | c, py                        | Jun 06, 2024    |
 | 1700 | [Number of Students Unable to Eat Lunch](<https://leetcode.com/problems/number-of-students-unable-to-eat-lunch>)                                                   | Easy    |                | [solution](<_1700. Number of Students Unable to Eat Lunch.md>)                          | py                           | Jun 02, 2024    |
+| 1716 | [Calculate Money in Leetcode Bank](<https://leetcode.com/problems/calculate-money-in-leetcode-bank>)                                                               | Easy    | Daily          | [solution](<_1716. Calculate Money in Leetcode Bank.md>)                                | py                           | Oct 25, 2025    |
 | 1736 | [Latest Time by Replacing Hidden Digits](<https://leetcode.com/problems/latest-time-by-replacing-hidden-digits>)                                                   | Easy    |                | [solution](<_1736. Latest Time by Replacing Hidden Digits.md>)                          | c                            | Jun 03, 2024    |
 | 1748 | [Sum of Unique Elements](<https://leetcode.com/problems/sum-of-unique-elements>)                                                                                   | Easy    |                | [solution](<_1748. Sum of Unique Elements.md>)                                          | c                            | Jun 06, 2024    |
 | 1752 | [Check if Array Is Sorted and Rotated](<https://leetcode.com/problems/check-if-array-is-sorted-and-rotated>)                                                       | Easy    | Daily          | [solution](<_1752. Check if Array Is Sorted and Rotated.md>)                            | py                           | Feb 02, 2025    |

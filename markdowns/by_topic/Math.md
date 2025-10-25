@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (97 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (98 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -62,6 +62,7 @@
 | 1561 | [Maximum Number of Coins You Can Get](<https://leetcode.com/problems/maximum-number-of-coins-you-can-get>)                                                         | Medium  |                | [solution](<../_1561. Maximum Number of Coins You Can Get.md>)                             | py                                          | Jun 23, 2024    |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](<https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists>)                                 | Medium  | Weekly Premium | [solution](<../_1634. Add Two Polynomials Represented as Linked Lists.md>)                 | py                                          | Sep 06, 2024    |
 | 1641 | [Count Sorted Vowel Strings](<https://leetcode.com/problems/count-sorted-vowel-strings>)                                                                           | Medium  |                | [solution](<../_1641. Count Sorted Vowel Strings.md>)                                      | c, cpp, java                                | Jun 24, 2024    |
+| 1716 | [Calculate Money in Leetcode Bank](<https://leetcode.com/problems/calculate-money-in-leetcode-bank>)                                                               | Easy    | Daily          | [solution](<../_1716. Calculate Money in Leetcode Bank.md>)                                | py                                          | Oct 25, 2025    |
 | 1759 | [Count Number of Homogenous Substrings](<https://leetcode.com/problems/count-number-of-homogenous-substrings>)                                                     | Medium  |                | [solution](<../_1759. Count Number of Homogenous Substrings.md>)                           | c, java                                     | Jun 10, 2024    |
 | 1780 | [Check if Number is a Sum of Powers of Three](<https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three>)                                         | Medium  | Daily          | [solution](<../_1780. Check if Number is a Sum of Powers of Three.md>)                     | py                                          | Mar 04, 2025    |
 | 1822 | [Sign of the Product of an Array](<https://leetcode.com/problems/sign-of-the-product-of-an-array>)                                                                 | Easy    |                | [solution](<../_1822. Sign of the Product of an Array.md>)                                 | c                                           | Jun 06, 2024    |

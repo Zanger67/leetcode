@@ -8,7 +8,7 @@
 - [String](<by_topic/String.md>) (158 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (152 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (106 completed)
-- [Math](<by_topic/Math.md>) (97 completed)
+- [Math](<by_topic/Math.md>) (98 completed)
 - [Tree](<by_topic/Tree.md>) (91 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (82 completed)
 - [Sorting](<by_topic/Sorting.md>) (81 completed)
