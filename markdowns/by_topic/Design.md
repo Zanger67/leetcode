@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (37 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (38 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -40,6 +40,7 @@
 | 1756 | [Design Most Recently Used Queue](<https://leetcode.com/problems/design-most-recently-used-queue>)                                 | Medium  | Weekly Premium | [solution](<../_1756. Design Most Recently Used Queue.md>)                  | py          | Feb 15, 2025    |
 | 1804 | [Implement Trie II (Prefix Tree)](<https://leetcode.com/problems/implement-trie-ii-prefix-tree>)                                   | Medium  | Weekly Premium | [solution](<../_1804. Implement Trie II (Prefix Tree).md>)                  | py          | Jun 27, 2024    |
 | 2013 | [Detect Squares](<https://leetcode.com/problems/detect-squares>)                                                                   | Medium  | N150           | [solution](<../_2013. Detect Squares.md>)                                   | py          | Jun 28, 2024    |
+| 2043 | [Simple Bank System](<https://leetcode.com/problems/simple-bank-system>)                                                           | Medium  | Daily          | [solution](<../_2043. Simple Bank System.md>)                               | py          | Oct 26, 2025    |
 | 2349 | [Design a Number Container System](<https://leetcode.com/problems/design-a-number-container-system>)                               | Medium  | Daily          | [solution](<../_2349. Design a Number Container System.md>)                 | py          | Oct 28, 2024    |
 | 2671 | [Frequency Tracker](<https://leetcode.com/problems/frequency-tracker>)                                                             | Medium  |                | [solution](<../_2671. Frequency Tracker.md>)                                | py          | Jun 28, 2024    |
 | 3242 | [Design Neighbor Sum Service](<https://leetcode.com/problems/design-neighbor-sum-service>)                                         | Easy    |                | [solution](<../_3242. Design Neighbor Sum Service.md>)                      | py          | Aug 04, 2024    |
