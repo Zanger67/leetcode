@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (98 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (99 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -72,6 +72,7 @@
 | 2048 | [Next Greater Numerically Balanced Number](<https://leetcode.com/problems/next-greater-numerically-balanced-number>)                                               | Medium  | Daily          | [solution](<../_2048. Next Greater Numerically Balanced Number.md>)                        | py                                          | Oct 24, 2025    |
 | 2063 | [Vowels of All Substrings](<https://leetcode.com/problems/vowels-of-all-substrings>)                                                                               | Medium  |                | [solution](<../_2063. Vowels of All Substrings.md>)                                        | py                                          | Mar 11, 2025    |
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)              | c, py                                       | Jun 10, 2024    |
+| 2125 | [Number of Laser Beams in a Bank](<https://leetcode.com/problems/number-of-laser-beams-in-a-bank>)                                                                 | Medium  | Daily          | [solution](<../_2125. Number of Laser Beams in a Bank.md>)                                 | py                                          | Oct 27, 2025    |
 | 2165 | [Smallest Value of the Rearranged Number](<https://leetcode.com/problems/smallest-value-of-the-rearranged-number>)                                                 | Medium  |                | [solution](<../_2165. Smallest Value of the Rearranged Number.md>)                         | py                                          | Jul 01, 2024    |
 | 2221 | [Find Triangular Sum of an Array](<https://leetcode.com/problems/find-triangular-sum-of-an-array>)                                                                 | Medium  | Daily          | [solution](<../_2221. Find Triangular Sum of an Array.md>)                                 | c, java, py                                 | Jun 27, 2024    |
 | 2235 | [Add Two Integers](<https://leetcode.com/problems/add-two-integers>)                                                                                               | Easy    |                | [solution](<../_2235. Add Two Integers.md>)                                                | py                                          | Oct 10, 2025    |

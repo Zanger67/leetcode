@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (57 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (58 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -45,6 +45,7 @@
 | 1730 | [Shortest Path to Get Food](<https://leetcode.com/problems/shortest-path-to-get-food>)                                                                                               | Medium  | Weekly Premium | [solution](<../_1730. Shortest Path to Get Food.md>)                                       | py          | Jun 26, 2024    |
 | 1905 | [Count Sub Islands](<https://leetcode.com/problems/count-sub-islands>)                                                                                                               | Medium  | Daily          | [solution](<../_1905. Count Sub Islands.md>)                                               | py          | Jun 24, 2024    |
 | 1992 | [Find All Groups of Farmland](<https://leetcode.com/problems/find-all-groups-of-farmland>)                                                                                           | Medium  |                | [solution](<../_1992. Find All Groups of Farmland.md>)                                     | java, py    | Jun 24, 2024    |
+| 2125 | [Number of Laser Beams in a Bank](<https://leetcode.com/problems/number-of-laser-beams-in-a-bank>)                                                                                   | Medium  | Daily          | [solution](<../_2125. Number of Laser Beams in a Bank.md>)                                 | py          | Oct 27, 2025    |
 | 2258 | [Escape the Spreading Fire](<https://leetcode.com/problems/escape-the-spreading-fire>)                                                                                               | Hard    |                | [solution](<../_2258. Escape the Spreading Fire.md>)                                       | py          | Jun 15, 2024    |
 | 2304 | [Minimum Path Cost in a Grid](<https://leetcode.com/problems/minimum-path-cost-in-a-grid>)                                                                                           | Medium  |                | [solution](<../_2304. Minimum Path Cost in a Grid.md>)                                     | py          | Jul 29, 2024    |
 | 2352 | [Equal Row and Column Pairs](<https://leetcode.com/problems/equal-row-and-column-pairs>)                                                                                             | Medium  |                | [solution](<../_2352. Equal Row and Column Pairs.md>)                                      | py          | Jun 27, 2024    |
