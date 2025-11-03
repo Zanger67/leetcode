@@ -1,4 +1,4 @@
-# [Linked List](<https://leetcode.com/tag/Linked-List/>) (45 completed)
+# [Linked List](<https://leetcode.com/tag/Linked-List/>) (46 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -41,6 +41,7 @@
 | 1634 | [Add Two Polynomials Represented as Linked Lists](<https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists>)                                           | Medium  | Weekly Premium | [solution](<../_1634. Add Two Polynomials Represented as Linked Lists.md>)                      | py               | Sep 06, 2024    |
 | 1669 | [Merge In Between Linked Lists](<https://leetcode.com/problems/merge-in-between-linked-lists>)                                                                               | Medium  |                | [solution](<../_1669. Merge In Between Linked Lists.md>)                                        | c                | Jun 24, 2024    |
 | 1721 | [Swapping Nodes in a Linked List](<https://leetcode.com/problems/swapping-nodes-in-a-linked-list>)                                                                           | Medium  |                | [solution](<../_1721. Swapping Nodes in a Linked List.md>)                                      | c                | Jun 07, 2024    |
+| 1756 | [Design Most Recently Used Queue](<https://leetcode.com/problems/design-most-recently-used-queue>)                                                                           | Medium  | Weekly Premium | [solution](<../_1756. Design Most Recently Used Queue.md>)                                      | py               | Feb 15, 2025    |
 | 1836 | [Remove Duplicates From an Unsorted Linked List](<https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list>)                                             | Medium  | Weekly Premium | [solution](<../_1836. Remove Duplicates From an Unsorted Linked List.md>)                       | java, py         | Jul 08, 2024    |
 | 2046 | [Sort Linked List Already Sorted Using Absolute Values](<https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values>)                               | Medium  |                | [solution](<../_2046. Sort Linked List Already Sorted Using Absolute Values.md>)                | py               | Jul 04, 2024    |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](<https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points>) | Medium  | Daily          | [solution](<../_2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.md>) | cpp, java, py    | Jul 05, 2024    |

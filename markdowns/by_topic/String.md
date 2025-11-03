@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (159 completed)
+# [String](<https://leetcode.com/tag/String/>) (160 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -99,6 +99,7 @@
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](<https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence>)                       | Easy    | Daily          | [solution](<../_1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md>)            | py          | Jun 01, 2024    |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](<https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k>)                                     | Medium  |                | [solution](<../_1461. Check If a String Contains All Binary Codes of Size K.md>)                   | py          | Jul 12, 2024    |
 | 1525 | [Number of Good Ways to Split a String](<https://leetcode.com/problems/number-of-good-ways-to-split-a-string>)                                                                     | Medium  |                | [solution](<../_1525. Number of Good Ways to Split a String.md>)                                   | py          | Jun 01, 2024    |
+| 1578 | [Minimum Time to Make Rope Colorful](<https://leetcode.com/problems/minimum-time-to-make-rope-colorful>)                                                                           | Medium  | Daily          | [solution](<../_1578. Minimum Time to Make Rope Colorful.md>)                                      | py          | Nov 03, 2025    |
 | 1598 | [Crawler Log Folder](<https://leetcode.com/problems/crawler-log-folder>)                                                                                                           | Easy    | Daily          | [solution](<../_1598. Crawler Log Folder.md>)                                                      | c, js       | Jul 10, 2024    |
 | 1653 | [Minimum Deletions to Make String Balanced](<https://leetcode.com/problems/minimum-deletions-to-make-string-balanced>)                                                             | Medium  | Daily          | [solution](<../_1653. Minimum Deletions to Make String Balanced.md>)                               | py          | Jul 30, 2024    |
 | 1657 | [Determine if Two Strings Are Close](<https://leetcode.com/problems/determine-if-two-strings-are-close>)                                                                           | Medium  |                | [solution](<../_1657. Determine if Two Strings Are Close.md>)                                      | py          | Jul 13, 2024    |

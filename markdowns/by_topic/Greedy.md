@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (53 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (54 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -31,6 +31,7 @@
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](<https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves>) | Medium  | Daily          | [solution](<../_1509. Minimum Difference Between Largest and Smallest Value in Three Moves.md>) | c, cpp, java, py             | Jul 03, 2024    |
 | 1561 | [Maximum Number of Coins You Can Get](<https://leetcode.com/problems/maximum-number-of-coins-you-can-get>)                                                                   | Medium  |                | [solution](<../_1561. Maximum Number of Coins You Can Get.md>)                                  | py                           | Jun 23, 2024    |
 | 1564 | [Put Boxes Into the Warehouse I](<https://leetcode.com/problems/put-boxes-into-the-warehouse-i>)                                                                             | Medium  |                | [solution](<../_1564. Put Boxes Into the Warehouse I.md>)                                       | py                           | Jun 15, 2024    |
+| 1578 | [Minimum Time to Make Rope Colorful](<https://leetcode.com/problems/minimum-time-to-make-rope-colorful>)                                                                     | Medium  | Daily          | [solution](<../_1578. Minimum Time to Make Rope Colorful.md>)                                   | py                           | Nov 03, 2025    |
 | 1580 | [Put Boxes Into the Warehouse II](<https://leetcode.com/problems/put-boxes-into-the-warehouse-ii>)                                                                           | Medium  | Weekly Premium | [solution](<../_1580. Put Boxes Into the Warehouse II.md>)                                      | py                           | Jun 15, 2024    |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](<https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums>)                                                   | Medium  | Daily          | [solution](<../_1605. Find Valid Matrix Given Row and Column Sums.md>)                          | py                           | Jul 20, 2024    |
 | 1642 | [Furthest Building You Can Reach](<https://leetcode.com/problems/furthest-building-you-can-reach>)                                                                           | Medium  |                | [solution](<../_1642. Furthest Building You Can Reach.md>)                                      | py                           | Feb 10, 2025    |

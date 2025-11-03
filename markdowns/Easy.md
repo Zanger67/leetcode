@@ -1,4 +1,4 @@
-# Easy Questions (200)
+# Easy Questions (201)
 
 *[Back to top](<../README.md>)*
 
@@ -59,6 +59,7 @@
 |  414 | [Third Maximum Number](<https://leetcode.com/problems/third-maximum-number>)                                                                                       | Easy    |                | [solution](<_414. Third Maximum Number.md>)                                             | py                           | May 23, 2024    |
 |  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                                                         | Easy    |                | [solution](<_415. Add Strings.md>)                                                      | py                           | Oct 14, 2025    |
 |  476 | [Number Complement](<https://leetcode.com/problems/number-complement>)                                                                                             | Easy    | Daily          | [solution](<_476. Number Complement.md>)                                                | py                           | Aug 22, 2024    |
+|  495 | [Teemo Attacking](<https://leetcode.com/problems/teemo-attacking>)                                                                                                 | Easy    |                | [solution](<_495. Teemo Attacking.md>)                                                  | py                           | Nov 03, 2025    |
 |  509 | [Fibonacci Number](<https://leetcode.com/problems/fibonacci-number>)                                                                                               | Easy    |                | [solution](<_509. Fibonacci Number.md>)                                                 | c                            | Jun 17, 2024    |
 |  543 | [Diameter of Binary Tree](<https://leetcode.com/problems/diameter-of-binary-tree>)                                                                                 | Easy    | N150           | [solution](<_543. Diameter of Binary Tree.md>)                                          | c, java, py                  | Jun 03, 2024    |
 |  559 | [Maximum Depth of N-ary Tree](<https://leetcode.com/problems/maximum-depth-of-n-ary-tree>)                                                                         | Easy    |                | [solution](<_559. Maximum Depth of N-ary Tree.md>)                                      | py                           | Sep 24, 2024    |
