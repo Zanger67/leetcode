@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (152 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (153 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -138,6 +138,7 @@
 | 2451 | [Odd String Difference](<https://leetcode.com/problems/odd-string-difference>)                                                                                                     | Easy    |                | [solution](<../_2451. Odd String Difference.md>)                                                   | py          | Sep 25, 2024    |
 | 2501 | [Longest Square Streak in an Array](<https://leetcode.com/problems/longest-square-streak-in-an-array>)                                                                             | Medium  | Daily          | [solution](<../_2501. Longest Square Streak in an Array.md>)                                       | py          | Oct 28, 2024    |
 | 2570 | [Merge Two 2D Arrays by Summing Values](<https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values>)                                                                     | Easy    | Daily          | [solution](<../_2570. Merge Two 2D Arrays by Summing Values.md>)                                   | c, py       | Jun 10, 2024    |
+| 2598 | [Smallest Missing Non-negative Integer After Operations](<https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations>)                                   | Medium  |                | [solution](<../_2598. Smallest Missing Non-negative Integer After Operations.md>)                  | py          | Nov 05, 2025    |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](<https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions>)                                               | Medium  |                | [solution](<../_2610. Convert an Array Into a 2D Array With Conditions.md>)                        | py          | Jun 07, 2024    |
 | 2661 | [First Completely Painted Row or Column](<https://leetcode.com/problems/first-completely-painted-row-or-column>)                                                                   | Medium  | Daily          | [solution](<../_2661. First Completely Painted Row or Column.md>)                                  | py          | Jan 20, 2025    |
 | 2671 | [Frequency Tracker](<https://leetcode.com/problems/frequency-tracker>)                                                                                                             | Medium  |                | [solution](<../_2671. Frequency Tracker.md>)                                                       | py          | Jun 28, 2024    |

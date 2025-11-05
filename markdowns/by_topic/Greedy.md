@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (54 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (55 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -50,6 +50,7 @@
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                                 | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                                 | py                           | Jun 01, 2024    |
 | 2405 | [Optimal Partition of String](<https://leetcode.com/problems/optimal-partition-of-string>)                                                                                   | Medium  |                | [solution](<../_2405. Optimal Partition of String.md>)                                          | py                           | Jun 23, 2024    |
 | 2486 | [Append Characters to String to Make Subsequence](<https://leetcode.com/problems/append-characters-to-string-to-make-subsequence>)                                           | Medium  | Daily          | [solution](<../_2486. Append Characters to String to Make Subsequence.md>)                      | c, java, py                  | Jun 03, 2024    |
+| 2598 | [Smallest Missing Non-negative Integer After Operations](<https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations>)                             | Medium  |                | [solution](<../_2598. Smallest Missing Non-negative Integer After Operations.md>)               | py                           | Nov 05, 2025    |
 | 2599 | [Make the Prefix Sum Non-negative](<https://leetcode.com/problems/make-the-prefix-sum-non-negative>)                                                                         | Medium  | Weekly Premium | [solution](<../_2599. Make the Prefix Sum Non-negative.md>)                                     | py                           | Feb 10, 2025    |
 | 2734 | [Lexicographically Smallest String After Substring Operation](<https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation>)                   | Medium  |                | [solution](<../_2734. Lexicographically Smallest String After Substring Operation.md>)          | py                           | Jun 29, 2024    |
 | 3016 | [Minimum Number of Pushes to Type Word II](<https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii>)                                                         | Medium  | Daily          | [solution](<../_3016. Minimum Number of Pushes to Type Word II.md>)                             | py                           | Aug 06, 2024    |

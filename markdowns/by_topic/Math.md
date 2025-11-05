@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (99 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (100 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -84,6 +84,7 @@
 | 2523 | [Closest Prime Numbers in Range](<https://leetcode.com/problems/closest-prime-numbers-in-range>)                                                                   | Medium  | Daily          | [solution](<../_2523. Closest Prime Numbers in Range.md>)                                  | py                                          | Mar 07, 2025    |
 | 2579 | [Count Total Number of Colored Cells](<https://leetcode.com/problems/count-total-number-of-colored-cells>)                                                         | Medium  | Daily          | [solution](<../_2579. Count Total Number of Colored Cells.md>)                             | py                                          | Mar 05, 2025    |
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                                                                 | Easy    | Daily          | [solution](<../_2582. Pass the Pillow.md>)                                                 | c, cpp, cs, java, js, py                    | Jul 06, 2024    |
+| 2598 | [Smallest Missing Non-negative Integer After Operations](<https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations>)                   | Medium  |                | [solution](<../_2598. Smallest Missing Non-negative Integer After Operations.md>)          | py                                          | Nov 05, 2025    |
 | 2698 | [Find the Punishment Number of an Integer](<https://leetcode.com/problems/find-the-punishment-number-of-an-integer>)                                               | Medium  | Daily          | [solution](<../_2698. Find the Punishment Number of an Integer.md>)                        | py                                          | Feb 15, 2025    |
 | 2807 | [Insert Greatest Common Divisors in Linked List](<https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list>)                                   | Medium  | Daily          | [solution](<../_2807. Insert Greatest Common Divisors in Linked List.md>)                  | py                                          | Jun 13, 2024    |
 | 2816 | [Double a Number Represented as a Linked List](<https://leetcode.com/problems/double-a-number-represented-as-a-linked-list>)                                       | Medium  |                | [solution](<../_2816. Double a Number Represented as a Linked List.md>)                    | c                                           | Jul 04, 2024    |
