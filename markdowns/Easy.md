@@ -1,4 +1,4 @@
-# Easy Questions (202)
+# Easy Questions (203)
 
 *[Back to top](<../README.md>)*
 
@@ -109,6 +109,7 @@
 | 1295 | [Find Numbers with Even Number of Digits](<https://leetcode.com/problems/find-numbers-with-even-number-of-digits>)                                                 | Easy    | Daily          | [solution](<_1295. Find Numbers with Even Number of Digits.md>)                         | go, py                       | Apr 30, 2025    |
 | 1304 | [Find N Unique Integers Sum up to Zero](<https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero>)                                                     | Easy    | Daily          | [solution](<_1304. Find N Unique Integers Sum up to Zero.md>)                           | py                           | Sep 07, 2025    |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](<https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers>)                           | Easy    | Daily          | [solution](<_1317. Convert Integer to the Sum of Two No-Zero Integers.md>)              | c                            | Jun 04, 2024    |
+| 1342 | [Number of Steps to Reduce a Number to Zero](<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero>)                                           | Easy    |                | [solution](<_1342. Number of Steps to Reduce a Number to Zero.md>)                      | py                           | Nov 09, 2025    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                                             | Easy    |                | [solution](<_1351. Count Negative Numbers in a Sorted Matrix.md>)                       | java, py                     | Jun 01, 2024    |
 | 1380 | [Lucky Numbers in a Matrix](<https://leetcode.com/problems/lucky-numbers-in-a-matrix>)                                                                             | Easy    | Daily          | [solution](<_1380. Lucky Numbers in a Matrix.md>)                                       | js, py                       | Jul 19, 2024    |
 | 1399 | [Count Largest Group](<https://leetcode.com/problems/count-largest-group>)                                                                                         | Easy    | Daily          | [solution](<_1399. Count Largest Group.md>)                                             | py                           | Apr 23, 2025    |

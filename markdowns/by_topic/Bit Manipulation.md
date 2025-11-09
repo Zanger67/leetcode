@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (36 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (37 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -26,6 +26,7 @@
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>)         | Medium  |                | [solution](<../_1239. Maximum Length of a Concatenated String with Unique Characters.md>)     | py               | Jun 29, 2024    |
 | 1255 | [Maximum Score Words Formed by Letters](<https://leetcode.com/problems/maximum-score-words-formed-by-letters>)                                                           | Hard    |                | [solution](<../_1255. Maximum Score Words Formed by Letters.md>)                              | py               | Jun 15, 2024    |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](<https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix>)       | Hard    |                | [solution](<../_1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix.md>)    | py               | Jun 09, 2024    |
+| 1342 | [Number of Steps to Reduce a Number to Zero](<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero>)                                                 | Easy    |                | [solution](<../_1342. Number of Steps to Reduce a Number to Zero.md>)                         | py               | Nov 09, 2025    |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one>) | Medium  |                | [solution](<../_1404. Number of Steps to Reduce a Number in Binary Representation to One.md>) | py               | Jun 08, 2024    |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](<https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor>)                             | Medium  |                | [solution](<../_1442. Count Triplets That Can Form Two Arrays of Equal XOR.md>)               | py               | Jun 08, 2024    |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](<https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree>)                                                   | Medium  |                | [solution](<../_1457. Pseudo-Palindromic Paths in a Binary Tree.md>)                          | py               | Jul 05, 2024    |
