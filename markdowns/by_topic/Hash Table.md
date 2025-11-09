@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (153 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (154 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -34,6 +34,7 @@
 |  409 | [Longest Palindrome](<https://leetcode.com/problems/longest-palindrome>)                                                                                                           | Easy    | Daily          | [solution](<../_409. Longest Palindrome.md>)                                                       | c, py       | Jun 04, 2024    |
 |  424 | [Longest Repeating Character Replacement](<https://leetcode.com/problems/longest-repeating-character-replacement>)                                                                 | Medium  | B75, N150      | [solution](<../_424. Longest Repeating Character Replacement.md>)                                  | py          | Jul 06, 2024    |
 |  451 | [Sort Characters By Frequency](<https://leetcode.com/problems/sort-characters-by-frequency>)                                                                                       | Medium  |                | [solution](<../_451. Sort Characters By Frequency.md>)                                             | py          | Jun 18, 2024    |
+|  460 | [LFU Cache](<https://leetcode.com/problems/lfu-cache>)                                                                                                                             | Hard    |                | [solution](<../_460. LFU Cache.md>)                                                                | py          | Nov 09, 2025    |
 |  480 | [Sliding Window Median](<https://leetcode.com/problems/sliding-window-median>)                                                                                                     | Hard    |                | [solution](<../_480. Sliding Window Median.md>)                                                    | py          | Sep 25, 2024    |
 |  523 | [Continuous Subarray Sum](<https://leetcode.com/problems/continuous-subarray-sum>)                                                                                                 | Medium  | Daily          | [solution](<../_523. Continuous Subarray Sum.md>)                                                  | py          | Jun 08, 2024    |
 |  535 | [Encode and Decode TinyURL](<https://leetcode.com/problems/encode-and-decode-tinyurl>)                                                                                             | Medium  |                | [solution](<../_535. Encode and Decode TinyURL.md>)                                                | py          | Jun 07, 2024    |

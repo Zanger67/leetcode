@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (38 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (39 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  381 | [Insert Delete GetRandom O(1) - Duplicates allowed](<https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed>) | Hard    |                | [solution](<../_381. Insert Delete GetRandom O(1) - Duplicates allowed.md>) | java        | Jul 06, 2024    |
 |  384 | [Shuffle an Array](<https://leetcode.com/problems/shuffle-an-array>)                                                               | Medium  |                | [solution](<../_384. Shuffle an Array.md>)                                  | py          | Jun 29, 2024    |
 |  431 | [Encode N-ary Tree to Binary Tree](<https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree>)                               | Hard    |                | [solution](<../_431. Encode N-ary Tree to Binary Tree.md>)                  | java, py    | Jun 28, 2024    |
+|  460 | [LFU Cache](<https://leetcode.com/problems/lfu-cache>)                                                                             | Hard    |                | [solution](<../_460. LFU Cache.md>)                                         | py          | Nov 09, 2025    |
 |  535 | [Encode and Decode TinyURL](<https://leetcode.com/problems/encode-and-decode-tinyurl>)                                             | Medium  |                | [solution](<../_535. Encode and Decode TinyURL.md>)                         | py          | Jun 07, 2024    |
 |  622 | [Design Circular Queue](<https://leetcode.com/problems/design-circular-queue>)                                                     | Medium  |                | [solution](<../_622. Design Circular Queue.md>)                             | py          | Jul 06, 2024    |
 |  641 | [Design Circular Deque](<https://leetcode.com/problems/design-circular-deque>)                                                     | Medium  |                | [solution](<../_641. Design Circular Deque.md>)                             | py          | Sep 30, 2024    |
