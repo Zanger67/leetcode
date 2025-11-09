@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (100 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (101 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -74,6 +74,7 @@
 | 2083 | [Substrings That Begin and End With the Same Letter](<https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter>)                           | Medium  | Weekly Premium | [solution](<../_2083. Substrings That Begin and End With the Same Letter.md>)              | c, py                                       | Jun 10, 2024    |
 | 2125 | [Number of Laser Beams in a Bank](<https://leetcode.com/problems/number-of-laser-beams-in-a-bank>)                                                                 | Medium  | Daily          | [solution](<../_2125. Number of Laser Beams in a Bank.md>)                                 | py                                          | Oct 27, 2025    |
 | 2165 | [Smallest Value of the Rearranged Number](<https://leetcode.com/problems/smallest-value-of-the-rearranged-number>)                                                 | Medium  |                | [solution](<../_2165. Smallest Value of the Rearranged Number.md>)                         | py                                          | Jul 01, 2024    |
+| 2169 | [Count Operations to Obtain Zero](<https://leetcode.com/problems/count-operations-to-obtain-zero>)                                                                 | Easy    | Daily          | [solution](<../_2169. Count Operations to Obtain Zero.md>)                                 | py                                          | Nov 09, 2025    |
 | 2221 | [Find Triangular Sum of an Array](<https://leetcode.com/problems/find-triangular-sum-of-an-array>)                                                                 | Medium  | Daily          | [solution](<../_2221. Find Triangular Sum of an Array.md>)                                 | c, java, py                                 | Jun 27, 2024    |
 | 2235 | [Add Two Integers](<https://leetcode.com/problems/add-two-integers>)                                                                                               | Easy    |                | [solution](<../_2235. Add Two Integers.md>)                                                | py                                          | Oct 10, 2025    |
 | 2317 | [Maximum XOR After Operations ](<https://leetcode.com/problems/maximum-xor-after-operations>)                                                                      | Medium  |                | [solution](<../_2317. Maximum XOR After Operations .md>)                                   | c, cpp, java, py                            | Jun 24, 2024    |

@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (51 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (52 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -36,6 +36,7 @@
 | 2043 | [Simple Bank System](<https://leetcode.com/problems/simple-bank-system>)                                                                                                 | Medium  | Daily          | [solution](<../_2043. Simple Bank System.md>)                                                 | py                           | Oct 26, 2025    |
 | 2149 | [Rearrange Array Elements by Sign](<https://leetcode.com/problems/rearrange-array-elements-by-sign>)                                                                     | Medium  |                | [solution](<../_2149. Rearrange Array Elements by Sign.md>)                                   | c, py                        | Jun 10, 2024    |
 | 2161 | [Partition Array According to Given Pivot](<https://leetcode.com/problems/partition-array-according-to-given-pivot>)                                                     | Medium  | Daily          | [solution](<../_2161. Partition Array According to Given Pivot.md>)                           | py                           | Mar 03, 2025    |
+| 2169 | [Count Operations to Obtain Zero](<https://leetcode.com/problems/count-operations-to-obtain-zero>)                                                                       | Easy    | Daily          | [solution](<../_2169. Count Operations to Obtain Zero.md>)                                    | py                           | Nov 09, 2025    |
 | 2181 | [Merge Nodes in Between Zeros](<https://leetcode.com/problems/merge-nodes-in-between-zeros>)                                                                             | Medium  | Daily          | [solution](<../_2181. Merge Nodes in Between Zeros.md>)                                       | c, cpp, java, py             | Jul 04, 2024    |
 | 2211 | [Count Collisions on a Road](<https://leetcode.com/problems/count-collisions-on-a-road>)                                                                                 | Medium  |                | [solution](<../_2211. Count Collisions on a Road.md>)                                         | py                           | Jul 14, 2024    |
 | 2221 | [Find Triangular Sum of an Array](<https://leetcode.com/problems/find-triangular-sum-of-an-array>)                                                                       | Medium  | Daily          | [solution](<../_2221. Find Triangular Sum of an Array.md>)                                    | c, java, py                  | Jun 27, 2024    |

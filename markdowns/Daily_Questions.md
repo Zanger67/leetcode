@@ -5,19 +5,20 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### November 2025
-| Su   | Mo                                                  | Tu   | We   | Th   | Fr   | Sa                                                              |
-|-----:|----------------------------------------------------:|-----:|-----:|-----:|-----:|----------------------------------------------------------------:|
-|      |                                                     |      |      |      |      | [1](<_3217. Delete Nodes From Linked List Present in Array.md>) |
-| 2    | [3](<_1578. Minimum Time to Make Rope Colorful.md>) | 4    | 5    | 6    | 7    | 8                                                               |
-| 9    | 10                                                  | 11   | 12   | 13   | 14   | 15                                                              |
-| 16   | 17                                                  | 18   | 19   | 20   | 21   | 22                                                              |
-| 23   | 24                                                  | 25   | 26   | 27   | 28   | 29                                                              |
-| 30   |                                                     |      |      |      |      |                                                                 |
+| Su                                               | Mo                                                  | Tu   | We   | Th   | Fr   | Sa                                                              |
+|-------------------------------------------------:|----------------------------------------------------:|-----:|-----:|-----:|-----:|----------------------------------------------------------------:|
+|                                                  |                                                     |      |      |      |      | [1](<_3217. Delete Nodes From Linked List Present in Array.md>) |
+| 2                                                | [3](<_1578. Minimum Time to Make Rope Colorful.md>) | 4    | 5    | 6    | 7    | 8                                                               |
+| [9](<_2169. Count Operations to Obtain Zero.md>) | 10                                                  | 11   | 12   | 13   | 14   | 15                                                              |
+| 16                                               | 17                                                  | 18   | 19   | 20   | 21   | 22                                                              |
+| 23                                               | 24                                                  | 25   | 26   | 27   | 28   | 29                                                              |
+| 30                                               |                                                     |      |      |      |      |                                                                 |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 2169 | [Count Operations to Obtain Zero](<https://leetcode.com/problems/count-operations-to-obtain-zero>)                                                                                         | Easy    | Daily          | [solution](<_2169. Count Operations to Obtain Zero.md>)                                             | py                           | Nov 09, 2025    |
 | 1578 | [Minimum Time to Make Rope Colorful](<https://leetcode.com/problems/minimum-time-to-make-rope-colorful>)                                                                                   | Medium  | Daily          | [solution](<_1578. Minimum Time to Make Rope Colorful.md>)                                          | py                           | Nov 03, 2025    |
 | 3217 | [Delete Nodes From Linked List Present in Array](<https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array>)                                                           | Medium  | Daily          | [solution](<_3217. Delete Nodes From Linked List Present in Array.md>)                              | py                           | Nov 01, 2025    |
 | 2125 | [Number of Laser Beams in a Bank](<https://leetcode.com/problems/number-of-laser-beams-in-a-bank>)                                                                                         | Medium  | Daily          | [solution](<_2125. Number of Laser Beams in a Bank.md>)                                             | py                           | Oct 27, 2025    |
@@ -410,12 +411,12 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### November 2025
-| Su   | Mo                                                  | Tu   | We   | Th   | Fr   | Sa                                                              |
-|-----:|----------------------------------------------------:|-----:|-----:|-----:|-----:|----------------------------------------------------------------:|
-|      |                                                     |      |      |      |      | [1](<_3217. Delete Nodes From Linked List Present in Array.md>) |
-| 2    | [3](<_1578. Minimum Time to Make Rope Colorful.md>) | 4    | 5    | 6    | 7    | 8                                                               |
-| 9    | 10                                                  | 11   | 12   | 13   | 14   | 15                                                              |
-| 16   | 17                                                  | 18   | 19   | 20   | 21   | 22                                                              |
-| 23   | 24                                                  | 25   | 26   | 27   | 28   | 29                                                              |
-| 30   |                                                     |      |      |      |      |                                                                 |
+| Su                                               | Mo                                                  | Tu   | We   | Th   | Fr   | Sa                                                              |
+|-------------------------------------------------:|----------------------------------------------------:|-----:|-----:|-----:|-----:|----------------------------------------------------------------:|
+|                                                  |                                                     |      |      |      |      | [1](<_3217. Delete Nodes From Linked List Present in Array.md>) |
+| 2                                                | [3](<_1578. Minimum Time to Make Rope Colorful.md>) | 4    | 5    | 6    | 7    | 8                                                               |
+| [9](<_2169. Count Operations to Obtain Zero.md>) | 10                                                  | 11   | 12   | 13   | 14   | 15                                                              |
+| 16                                               | 17                                                  | 18   | 19   | 20   | 21   | 22                                                              |
+| 23                                               | 24                                                  | 25   | 26   | 27   | 28   | 29                                                              |
+| 30                                               |                                                     |      |      |      |      |                                                                 |
 
