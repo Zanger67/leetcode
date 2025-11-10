@@ -1,4 +1,4 @@
-# [Design](<https://leetcode.com/tag/Design/>) (39 completed)
+# [Design](<https://leetcode.com/tag/Design/>) (40 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -6,6 +6,7 @@
 
 |    # | Title                                                                                                                              | Level   | Cats           | Solution                                                                    | Languages   | Date Complete   |
 |-----:|:-----------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------|:------------|:----------------|
+|  146 | [LRU Cache](<https://leetcode.com/problems/lru-cache>)                                                                             | Medium  | N150           | [solution](<../_146. LRU Cache.md>)                                         | py          | Nov 10, 2025    |
 |  155 | [Min Stack](<https://leetcode.com/problems/min-stack>)                                                                             | Medium  | N150           | [solution](<../_155. Min Stack.md>)                                         | py          | Jun 16, 2024    |
 |  170 | [Two Sum III - Data structure design](<https://leetcode.com/problems/two-sum-iii-data-structure-design>)                           | Easy    | Weekly Premium | [solution](<../_170. Two Sum III - Data structure design.md>)               | py          | Jul 31, 2024    |
 |  173 | [Binary Search Tree Iterator](<https://leetcode.com/problems/binary-search-tree-iterator>)                                         | Medium  |                | [solution](<../_173. Binary Search Tree Iterator.md>)                       | py          | Jun 26, 2024    |

@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (154 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (155 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -17,6 +17,7 @@
 |  138 | [Copy List with Random Pointer](<https://leetcode.com/problems/copy-list-with-random-pointer>)                                                                                     | Medium  | N150           | [solution](<../_138. Copy List with Random Pointer.md>)                                            | py          | Jun 27, 2024    |
 |  141 | [Linked List Cycle](<https://leetcode.com/problems/linked-list-cycle>)                                                                                                             | Easy    | B75, N150      | [solution](<../_141. Linked List Cycle.md>)                                                        | c, py       | Jun 04, 2024    |
 |  142 | [Linked List Cycle II](<https://leetcode.com/problems/linked-list-cycle-ii>)                                                                                                       | Medium  |                | [solution](<../_142. Linked List Cycle II.md>)                                                     | py          | Jun 26, 2024    |
+|  146 | [LRU Cache](<https://leetcode.com/problems/lru-cache>)                                                                                                                             | Medium  | N150           | [solution](<../_146. LRU Cache.md>)                                                                | py          | Nov 10, 2025    |
 |  166 | [Fraction to Recurring Decimal](<https://leetcode.com/problems/fraction-to-recurring-decimal>)                                                                                     | Medium  | Daily          | [solution](<../_166. Fraction to Recurring Decimal.md>)                                            | py          | May 31, 2024    |
 |  170 | [Two Sum III - Data structure design](<https://leetcode.com/problems/two-sum-iii-data-structure-design>)                                                                           | Easy    | Weekly Premium | [solution](<../_170. Two Sum III - Data structure design.md>)                                      | py          | Jul 31, 2024    |
 |  208 | [Implement Trie (Prefix Tree)](<https://leetcode.com/problems/implement-trie-prefix-tree>)                                                                                         | Medium  | B75, N150      | [solution](<../_208. Implement Trie (Prefix Tree).md>)                                             | py          | Jun 27, 2024    |

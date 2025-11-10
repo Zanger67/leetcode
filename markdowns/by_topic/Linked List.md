@@ -1,4 +1,4 @@
-# [Linked List](<https://leetcode.com/tag/Linked-List/>) (47 completed)
+# [Linked List](<https://leetcode.com/tag/Linked-List/>) (48 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -20,6 +20,7 @@
 |  141 | [Linked List Cycle](<https://leetcode.com/problems/linked-list-cycle>)                                                                                                       | Easy    | B75, N150      | [solution](<../_141. Linked List Cycle.md>)                                                     | c, py            | Jun 04, 2024    |
 |  142 | [Linked List Cycle II](<https://leetcode.com/problems/linked-list-cycle-ii>)                                                                                                 | Medium  |                | [solution](<../_142. Linked List Cycle II.md>)                                                  | py               | Jun 26, 2024    |
 |  143 | [Reorder List](<https://leetcode.com/problems/reorder-list>)                                                                                                                 | Medium  | B75, N150      | [solution](<../_143. Reorder List.md>)                                                          | java, py         | Jun 11, 2024    |
+|  146 | [LRU Cache](<https://leetcode.com/problems/lru-cache>)                                                                                                                       | Medium  | N150           | [solution](<../_146. LRU Cache.md>)                                                             | py               | Nov 10, 2025    |
 |  206 | [Reverse Linked List](<https://leetcode.com/problems/reverse-linked-list>)                                                                                                   | Easy    | B75, N150      | [solution](<../_206. Reverse Linked List.md>)                                                   | java             | Jun 27, 2024    |
 |  328 | [Odd Even Linked List](<https://leetcode.com/problems/odd-even-linked-list>)                                                                                                 | Medium  |                | [solution](<../_328. Odd Even Linked List.md>)                                                  | py               | Jun 22, 2024    |
 |  369 | [Plus One Linked List](<https://leetcode.com/problems/plus-one-linked-list>)                                                                                                 | Medium  |                | [solution](<../_369. Plus One Linked List.md>)                                                  | c                | Jul 04, 2024    |
