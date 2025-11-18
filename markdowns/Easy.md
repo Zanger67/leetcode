@@ -1,4 +1,4 @@
-# Easy Questions (203)
+# Easy Questions (204)
 
 *[Back to top](<../README.md>)*
 
@@ -78,6 +78,7 @@
 |  653 | [Two Sum IV - Input is a BST](<https://leetcode.com/problems/two-sum-iv-input-is-a-bst>)                                                                           | Easy    |                | [solution](<_653. Two Sum IV - Input is a BST.md>)                                      | py                           | Jul 31, 2024    |
 |  700 | [Search in a Binary Search Tree](<https://leetcode.com/problems/search-in-a-binary-search-tree>)                                                                   | Easy    |                | [solution](<_700. Search in a Binary Search Tree.md>)                                   | c, java, py                  | Jul 17, 2024    |
 |  703 | [Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)                                                                 | Easy    | Daily, N150    | [solution](<_703. Kth Largest Element in a Stream.md>)                                  | py                           | Jul 05, 2024    |
+|  717 | [1-bit and 2-bit Characters](<https://leetcode.com/problems/1-bit-and-2-bit-characters>)                                                                           | Easy    | Daily          | [solution](<_717. 1-bit and 2-bit Characters.md>)                                       | py                           | Nov 18, 2025    |
 |  744 | [Find Smallest Letter Greater Than Target](<https://leetcode.com/problems/find-smallest-letter-greater-than-target>)                                               | Easy    |                | [solution](<_744. Find Smallest Letter Greater Than Target.md>)                         | java, py                     | Jun 01, 2024    |
 |  746 | [Min Cost Climbing Stairs](<https://leetcode.com/problems/min-cost-climbing-stairs>)                                                                               | Easy    | N150           | [solution](<_746. Min Cost Climbing Stairs.md>)                                         | py                           | Jul 05, 2024    |
 |  771 | [Jewels and Stones](<https://leetcode.com/problems/jewels-and-stones>)                                                                                             | Easy    |                | [solution](<_771. Jewels and Stones.md>)                                                | java, py                     | Jun 02, 2024    |
