@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (81 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (82 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -63,6 +63,7 @@
 | 1885 | [Count Pairs in Two Arrays](<https://leetcode.com/problems/count-pairs-in-two-arrays>)                                                                                       | Medium  |                | [solution](<../_1885. Count Pairs in Two Arrays.md>)                                            | py               | Jun 08, 2024    |
 | 2037 | [Minimum Number of Moves to Seat Everyone](<https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone>)                                                         | Easy    | Daily          | [solution](<../_2037. Minimum Number of Moves to Seat Everyone.md>)                             | c, py            | Jun 03, 2024    |
 | 2046 | [Sort Linked List Already Sorted Using Absolute Values](<https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values>)                               | Medium  |                | [solution](<../_2046. Sort Linked List Already Sorted Using Absolute Values.md>)                | py               | Jul 04, 2024    |
+| 2154 | [Keep Multiplying Found Values by Two](<https://leetcode.com/problems/keep-multiplying-found-values-by-two>)                                                                 | Easy    | Daily          | [solution](<../_2154. Keep Multiplying Found Values by Two.md>)                                 | py               | Nov 19, 2025    |
 | 2165 | [Smallest Value of the Rearranged Number](<https://leetcode.com/problems/smallest-value-of-the-rearranged-number>)                                                           | Medium  |                | [solution](<../_2165. Smallest Value of the Rearranged Number.md>)                              | py               | Jul 01, 2024    |
 | 2191 | [Sort the Jumbled Numbers](<https://leetcode.com/problems/sort-the-jumbled-numbers>)                                                                                         | Medium  | Daily          | [solution](<../_2191. Sort the Jumbled Numbers.md>)                                             | py               | Jul 24, 2024    |
 | 2225 | [Find Players With Zero or One Losses](<https://leetcode.com/problems/find-players-with-zero-or-one-losses>)                                                                 | Medium  |                | [solution](<../_2225. Find Players With Zero or One Losses.md>)                                 | java             | Jun 24, 2024    |

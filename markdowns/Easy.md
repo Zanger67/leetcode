@@ -1,4 +1,4 @@
-# Easy Questions (204)
+# Easy Questions (205)
 
 *[Back to top](<../README.md>)*
 
@@ -150,6 +150,7 @@
 | 2037 | [Minimum Number of Moves to Seat Everyone](<https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone>)                                               | Easy    | Daily          | [solution](<_2037. Minimum Number of Moves to Seat Everyone.md>)                        | c, py                        | Jun 03, 2024    |
 | 2053 | [Kth Distinct String in an Array](<https://leetcode.com/problems/kth-distinct-string-in-an-array>)                                                                 | Easy    | Daily          | [solution](<_2053. Kth Distinct String in an Array.md>)                                 | py                           | Aug 05, 2024    |
 | 2085 | [Count Common Words With One Occurrence](<https://leetcode.com/problems/count-common-words-with-one-occurrence>)                                                   | Easy    |                | [solution](<_2085. Count Common Words With One Occurrence.md>)                          | py                           | Oct 14, 2025    |
+| 2154 | [Keep Multiplying Found Values by Two](<https://leetcode.com/problems/keep-multiplying-found-values-by-two>)                                                       | Easy    | Daily          | [solution](<_2154. Keep Multiplying Found Values by Two.md>)                            | py                           | Nov 19, 2025    |
 | 2169 | [Count Operations to Obtain Zero](<https://leetcode.com/problems/count-operations-to-obtain-zero>)                                                                 | Easy    | Daily          | [solution](<_2169. Count Operations to Obtain Zero.md>)                                 | py                           | Nov 09, 2025    |
 | 2206 | [Divide Array Into Equal Pairs](<https://leetcode.com/problems/divide-array-into-equal-pairs>)                                                                     | Easy    | Daily          | [solution](<_2206. Divide Array Into Equal Pairs.md>)                                   | c, py                        | Jun 08, 2024    |
 | 2235 | [Add Two Integers](<https://leetcode.com/problems/add-two-integers>)                                                                                               | Easy    |                | [solution](<_2235. Add Two Integers.md>)                                                | py                           | Oct 10, 2025    |

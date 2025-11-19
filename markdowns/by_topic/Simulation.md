@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (52 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (53 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -35,6 +35,7 @@
 | 2011 | [Final Value of Variable After Performing Operations](<https://leetcode.com/problems/final-value-of-variable-after-performing-operations>)                               | Easy    | Daily          | [solution](<../_2011. Final Value of Variable After Performing Operations.md>)                | c                            | Jun 03, 2024    |
 | 2043 | [Simple Bank System](<https://leetcode.com/problems/simple-bank-system>)                                                                                                 | Medium  | Daily          | [solution](<../_2043. Simple Bank System.md>)                                                 | py                           | Oct 26, 2025    |
 | 2149 | [Rearrange Array Elements by Sign](<https://leetcode.com/problems/rearrange-array-elements-by-sign>)                                                                     | Medium  |                | [solution](<../_2149. Rearrange Array Elements by Sign.md>)                                   | c, py                        | Jun 10, 2024    |
+| 2154 | [Keep Multiplying Found Values by Two](<https://leetcode.com/problems/keep-multiplying-found-values-by-two>)                                                             | Easy    | Daily          | [solution](<../_2154. Keep Multiplying Found Values by Two.md>)                               | py                           | Nov 19, 2025    |
 | 2161 | [Partition Array According to Given Pivot](<https://leetcode.com/problems/partition-array-according-to-given-pivot>)                                                     | Medium  | Daily          | [solution](<../_2161. Partition Array According to Given Pivot.md>)                           | py                           | Mar 03, 2025    |
 | 2169 | [Count Operations to Obtain Zero](<https://leetcode.com/problems/count-operations-to-obtain-zero>)                                                                       | Easy    | Daily          | [solution](<../_2169. Count Operations to Obtain Zero.md>)                                    | py                           | Nov 09, 2025    |
 | 2181 | [Merge Nodes in Between Zeros](<https://leetcode.com/problems/merge-nodes-in-between-zeros>)                                                                             | Medium  | Daily          | [solution](<../_2181. Merge Nodes in Between Zeros.md>)                                       | c, cpp, java, py             | Jul 04, 2024    |
