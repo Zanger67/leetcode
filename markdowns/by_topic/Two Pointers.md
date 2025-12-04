@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (62 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (63 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -42,6 +42,7 @@
 |  942 | [DI String Match](<https://leetcode.com/problems/di-string-match>)                                                                                                                   | Easy    |                | [solution](<../_942. DI String Match.md>)                                               | py                               | Feb 18, 2025    |
 |  977 | [Squares of a Sorted Array](<https://leetcode.com/problems/squares-of-a-sorted-array>)                                                                                               | Easy    |                | [solution](<../_977. Squares of a Sorted Array.md>)                                     | py                               | Jun 21, 2024    |
 | 1055 | [Shortest Way to Form String](<https://leetcode.com/problems/shortest-way-to-form-string>)                                                                                           | Medium  | Weekly Premium | [solution](<../_1055. Shortest Way to Form String.md>)                                  | py                               | Mar 30, 2025    |
+| 1214 | [Two Sum BSTs](<https://leetcode.com/problems/two-sum-bsts>)                                                                                                                         | Medium  | Weekly Premium | [solution](<../_1214. Two Sum BSTs.md>)                                                 | py                               | Dec 04, 2025    |
 | 1229 | [Meeting Scheduler](<https://leetcode.com/problems/meeting-scheduler>)                                                                                                               | Medium  | Weekly Premium | [solution](<../_1229. Meeting Scheduler.md>)                                            | py                               | Sep 10, 2024    |
 | 1265 | [Print Immutable Linked List in Reverse](<https://leetcode.com/problems/print-immutable-linked-list-in-reverse>)                                                                     | Medium  |                | [solution](<../_1265. Print Immutable Linked List in Reverse.md>)                       | c, py                            | Jun 06, 2024    |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](<https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence>)                         | Easy    | Daily          | [solution](<../_1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md>) | py                               | Jun 01, 2024    |

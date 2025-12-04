@@ -1,4 +1,4 @@
-# [Binary Search Tree](<https://leetcode.com/tag/Binary-Search-Tree/>) (16 completed)
+# [Binary Search Tree](<https://leetcode.com/tag/Binary-Search-Tree/>) (17 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -20,5 +20,6 @@
 |  938 | [Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)                                                                               | Easy    |                | [solution](<../_938. Range Sum of BST.md>)                                        | js, py       | Jul 26, 2024    |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](<https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal>)       | Medium  |                | [solution](<../_1008. Construct Binary Search Tree from Preorder Traversal.md>)   | c, cpp, java | Jun 27, 2024    |
 | 1038 | [Binary Search Tree to Greater Sum Tree](<https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree>)                                   | Medium  | Daily          | [solution](<../_1038. Binary Search Tree to Greater Sum Tree.md>)                 | c            | Jun 26, 2024    |
+| 1214 | [Two Sum BSTs](<https://leetcode.com/problems/two-sum-bsts>)                                                                                       | Medium  | Weekly Premium | [solution](<../_1214. Two Sum BSTs.md>)                                           | py           | Dec 04, 2025    |
 | 1305 | [All Elements in Two Binary Search Trees](<https://leetcode.com/problems/all-elements-in-two-binary-search-trees>)                                 | Medium  |                | [solution](<../_1305. All Elements in Two Binary Search Trees.md>)                | java         | Jun 24, 2024    |
 | 1382 | [Balance a Binary Search Tree](<https://leetcode.com/problems/balance-a-binary-search-tree>)                                                       | Medium  |                | [solution](<../_1382. Balance a Binary Search Tree.md>)                           | py           | Jun 29, 2024    |

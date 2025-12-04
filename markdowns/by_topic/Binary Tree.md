@@ -1,4 +1,4 @@
-# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (82 completed)
+# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (83 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -62,6 +62,7 @@
 | 1038 | [Binary Search Tree to Greater Sum Tree](<https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree>)                                         | Medium  | Daily          | [solution](<../_1038. Binary Search Tree to Greater Sum Tree.md>)                     | c            | Jun 26, 2024    |
 | 1110 | [Delete Nodes And Return Forest](<https://leetcode.com/problems/delete-nodes-and-return-forest>)                                                         | Medium  | Daily          | [solution](<../_1110. Delete Nodes And Return Forest.md>)                             | py           | Jul 17, 2024    |
 | 1161 | [Maximum Level Sum of a Binary Tree](<https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree>)                                                 | Medium  |                | [solution](<../_1161. Maximum Level Sum of a Binary Tree.md>)                         | py           | Jul 17, 2024    |
+| 1214 | [Two Sum BSTs](<https://leetcode.com/problems/two-sum-bsts>)                                                                                             | Medium  | Weekly Premium | [solution](<../_1214. Two Sum BSTs.md>)                                               | py           | Dec 04, 2025    |
 | 1261 | [Find Elements in a Contaminated Binary Tree](<https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree>)                               | Medium  | Daily          | [solution](<../_1261. Find Elements in a Contaminated Binary Tree.md>)                | py           | Feb 21, 2025    |
 | 1302 | [Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)                                                                                 | Medium  |                | [solution](<../_1302. Deepest Leaves Sum.md>)                                         | c, js, py    | Jun 07, 2024    |
 | 1305 | [All Elements in Two Binary Search Trees](<https://leetcode.com/problems/all-elements-in-two-binary-search-trees>)                                       | Medium  |                | [solution](<../_1305. All Elements in Two Binary Search Trees.md>)                    | java         | Jun 24, 2024    |

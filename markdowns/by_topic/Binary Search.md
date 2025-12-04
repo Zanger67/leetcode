@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (41 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (42 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -32,6 +32,7 @@
 | 1150 | [Check If a Number Is Majority Element in a Sorted Array](<https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array>) | Easy    | Weekly Premium | [solution](<../_1150. Check If a Number Is Majority Element in a Sorted Array.md>) | py          | Sep 15, 2025    |
 | 1182 | [Shortest Distance to Target Color](<https://leetcode.com/problems/shortest-distance-to-target-color>)                                             | Medium  | Weekly Premium | [solution](<../_1182. Shortest Distance to Target Color.md>)                       | py          | Aug 29, 2025    |
 | 1198 | [Find Smallest Common Element in All Rows](<https://leetcode.com/problems/find-smallest-common-element-in-all-rows>)                               | Medium  |                | [solution](<../_1198. Find Smallest Common Element in All Rows.md>)                | py          | Aug 26, 2025    |
+| 1214 | [Two Sum BSTs](<https://leetcode.com/problems/two-sum-bsts>)                                                                                       | Medium  | Weekly Premium | [solution](<../_1214. Two Sum BSTs.md>)                                            | py          | Dec 04, 2025    |
 | 1268 | [Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)                                                             | Medium  |                | [solution](<../_1268. Search Suggestions System.md>)                               | py          | Jun 29, 2024    |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)                             | Easy    |                | [solution](<../_1351. Count Negative Numbers in a Sorted Matrix.md>)               | java, py    | Jun 01, 2024    |
 | 1482 | [Minimum Number of Days to Make m Bouquets](<https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets>)                             | Medium  | Daily          | [solution](<../_1482. Minimum Number of Days to Make m Bouquets.md>)               | py          | Jun 19, 2024    |
