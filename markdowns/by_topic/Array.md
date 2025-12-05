@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (347 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (348 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -352,4 +352,5 @@
 | 3350 | [Adjacent Increasing Subarrays Detection II](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii>)                                                                 | Medium  | Daily          | [solution](<../_3350. Adjacent Increasing Subarrays Detection II.md>)                                 | py                           | Oct 15, 2025    |
 | 3392 | [Count Subarrays of Length Three With a Condition](<https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition>)                                                     | Easy    | Daily          | [solution](<../_3392. Count Subarrays of Length Three With a Condition.md>)                           | py                           | Apr 27, 2025    |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](<https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct>)                       | Easy    | Daily          | [solution](<../_3396. Minimum Number of Operations to Make Elements in Array Distinct.md>)            | py                           | Apr 08, 2025    |
+| 3432 | [Count Partitions with Even Sum Difference](<https://leetcode.com/problems/count-partitions-with-even-sum-difference>)                                                                   | Easy    | Daily          | [solution](<../_3432. Count Partitions with Even Sum Difference.md>)                                  | py                           | Dec 05, 2025    |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](<https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k>)                                               | Easy    | Daily          | [solution](<../_3512. Minimum Operations to Make Array Sum Divisible by K.md>)                        | py                           | Nov 29, 2025    |

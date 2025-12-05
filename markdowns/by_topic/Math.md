@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (103 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (104 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -104,6 +104,7 @@
 | 3227 | Weekly Contest 407 - q2 - [Vowels Game in a String](<https://leetcode.com/problems/vowels-game-in-a-string>)                                                       | Medium  | Contest, Daily | [solution](<../_3227. Vowels Game in a String.md>)                                         | py                                          | Jul 21, 2024    |
 | 3232 | Weekly Contest 408 - q1 - [Find if Digit Game Can Be Won](<https://leetcode.com/problems/find-if-digit-game-can-be-won>)                                           | Easy    | Contest        | [solution](<../_3232. Find if Digit Game Can Be Won.md>)                                   | py                                          | Jul 28, 2024    |
 | 3233 | Weekly Contest 408 - q2 - [Find the Count of Numbers Which Are Not Special](<https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special>)       | Medium  | Contest        | [solution](<../_3233. Find the Count of Numbers Which Are Not Special.md>)                 | java, py                                    | Jul 28, 2024    |
+| 3432 | [Count Partitions with Even Sum Difference](<https://leetcode.com/problems/count-partitions-with-even-sum-difference>)                                             | Easy    | Daily          | [solution](<../_3432. Count Partitions with Even Sum Difference.md>)                       | py                                          | Dec 05, 2025    |
 | 3443 | [Maximum Manhattan Distance After K Changes](<https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes>)                                           | Medium  | Daily          | [solution](<../_3443. Maximum Manhattan Distance After K Changes.md>)                      | py                                          | Feb 04, 2025    |
 | 3461 | [Check If Digits Are Equal in String After Operations I](<https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i>)                   | Easy    | Daily          | [solution](<../_3461. Check If Digits Are Equal in String After Operations I.md>)          | py                                          | Oct 23, 2025    |
 | 3463 | [Check If Digits Are Equal in String After Operations II](<https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii>)                 | Hard    |                | [solution](<../_3463. Check If Digits Are Equal in String After Operations II.md>)         | py                                          | Oct 24, 2025    |

@@ -5,18 +5,19 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### December 2025
-| Su   |   Mo |   Tu |   We | Th                                          |   Fr |   Sa |
-|-----:|-----:|-----:|-----:|--------------------------------------------:|-----:|-----:|
-|      |    1 |    2 |    3 | [4](<_2211. Count Collisions on a Road.md>) |    5 |    6 |
-| 7    |    8 |    9 |   10 | 11                                          |   12 |   13 |
-| 14   |   15 |   16 |   17 | 18                                          |   19 |   20 |
-| 21   |   22 |   23 |   24 | 25                                          |   26 |   27 |
-| 28   |   29 |   30 |   31 |                                             |      |      |
+| Su   |   Mo |   Tu |   We | Th                                          | Fr                                                         |   Sa |
+|-----:|-----:|-----:|-----:|--------------------------------------------:|-----------------------------------------------------------:|-----:|
+|      |    1 |    2 |    3 | [4](<_2211. Count Collisions on a Road.md>) | [5](<_3432. Count Partitions with Even Sum Difference.md>) |    6 |
+| 7    |    8 |    9 |   10 | 11                                          | 12                                                         |   13 |
+| 14   |   15 |   16 |   17 | 18                                          | 19                                                         |   20 |
+| 21   |   22 |   23 |   24 | 25                                          | 26                                                         |   27 |
+| 28   |   29 |   30 |   31 |                                             |                                                            |      |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 3432 | [Count Partitions with Even Sum Difference](<https://leetcode.com/problems/count-partitions-with-even-sum-difference>)                                                                     | Easy    | Daily          | [solution](<_3432. Count Partitions with Even Sum Difference.md>)                                   | py                           | Dec 05, 2025    |
 | 2211 | [Count Collisions on a Road](<https://leetcode.com/problems/count-collisions-on-a-road>)                                                                                                   | Medium  | Daily          | [solution](<_2211. Count Collisions on a Road.md>)                                                  | py                           | Dec 04, 2025    |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](<https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k>)                                                 | Easy    | Daily          | [solution](<_3512. Minimum Operations to Make Array Sum Divisible by K.md>)                         | py                           | Nov 29, 2025    |
 | 1018 | [Binary Prefix Divisible By 5](<https://leetcode.com/problems/binary-prefix-divisible-by-5>)                                                                                               | Easy    | Daily          | [solution](<_1018. Binary Prefix Divisible By 5.md>)                                                | py                           | Nov 24, 2025    |
@@ -428,11 +429,11 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### December 2025
-| Su   |   Mo |   Tu |   We | Th                                          |   Fr |   Sa |
-|-----:|-----:|-----:|-----:|--------------------------------------------:|-----:|-----:|
-|      |    1 |    2 |    3 | [4](<_2211. Count Collisions on a Road.md>) |    5 |    6 |
-| 7    |    8 |    9 |   10 | 11                                          |   12 |   13 |
-| 14   |   15 |   16 |   17 | 18                                          |   19 |   20 |
-| 21   |   22 |   23 |   24 | 25                                          |   26 |   27 |
-| 28   |   29 |   30 |   31 |                                             |      |      |
+| Su   |   Mo |   Tu |   We | Th                                          | Fr                                                         |   Sa |
+|-----:|-----:|-----:|-----:|--------------------------------------------:|-----------------------------------------------------------:|-----:|
+|      |    1 |    2 |    3 | [4](<_2211. Count Collisions on a Road.md>) | [5](<_3432. Count Partitions with Even Sum Difference.md>) |    6 |
+| 7    |    8 |    9 |   10 | 11                                          | 12                                                         |   13 |
+| 14   |   15 |   16 |   17 | 18                                          | 19                                                         |   20 |
+| 21   |   22 |   23 |   24 | 25                                          | 26                                                         |   27 |
+| 28   |   29 |   30 |   31 |                                             |                                                            |      |
 
