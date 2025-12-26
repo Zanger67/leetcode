@@ -5,18 +5,20 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### December 2025
-| Su   |   Mo |   Tu |   We | Th                                          | Fr                                                         |   Sa |
-|-----:|-----:|-----:|-----:|--------------------------------------------:|-----------------------------------------------------------:|-----:|
-|      |    1 |    2 |    3 | [4](<_2211. Count Collisions on a Road.md>) | [5](<_3432. Count Partitions with Even Sum Difference.md>) |    6 |
-| 7    |    8 |    9 |   10 | 11                                          | 12                                                         |   13 |
-| 14   |   15 |   16 |   17 | 18                                          | 19                                                         |   20 |
-| 21   |   22 |   23 |   24 | 25                                          | 26                                                         |   27 |
-| 28   |   29 |   30 |   31 |                                             |                                                            |      |
+| Su   |   Mo |   Tu | We                                                | Th                                          | Fr                                                         |   Sa |
+|-----:|-----:|-----:|--------------------------------------------------:|--------------------------------------------:|-----------------------------------------------------------:|-----:|
+|      |    1 |    2 | 3                                                 | [4](<_2211. Count Collisions on a Road.md>) | [5](<_3432. Count Partitions with Even Sum Difference.md>) |    6 |
+| 7    |    8 |    9 | 10                                                | 11                                          | 12                                                         |   13 |
+| 14   |   15 |   16 | 17                                                | 18                                          | 19                                                         |   20 |
+| 21   |   22 |   23 | [24](<_3074. Apple Redistribution into Boxes.md>) | 25                                          | [26](<_2483. Minimum Penalty for a Shop.md>)               |   27 |
+| 28   |   29 |   30 | 31                                                |                                             |                                                            |      |
 
 
 
 |    # | Title                                                                                                                                                                                      | Level   | Cats           | Solution                                                                                            | Languages                    | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------------|:----------------------------------------------------------------------------------------------------|:-----------------------------|:----------------|
+| 2483 | [Minimum Penalty for a Shop](<https://leetcode.com/problems/minimum-penalty-for-a-shop>)                                                                                                   | Medium  | Daily          | [solution](<_2483. Minimum Penalty for a Shop.md>)                                                  | py                           | Dec 26, 2025    |
+| 3074 | [Apple Redistribution into Boxes](<https://leetcode.com/problems/apple-redistribution-into-boxes>)                                                                                         | Easy    | Daily          | [solution](<_3074. Apple Redistribution into Boxes.md>)                                             | py                           | Dec 24, 2025    |
 | 3432 | [Count Partitions with Even Sum Difference](<https://leetcode.com/problems/count-partitions-with-even-sum-difference>)                                                                     | Easy    | Daily          | [solution](<_3432. Count Partitions with Even Sum Difference.md>)                                   | py                           | Dec 05, 2025    |
 | 2211 | [Count Collisions on a Road](<https://leetcode.com/problems/count-collisions-on-a-road>)                                                                                                   | Medium  | Daily          | [solution](<_2211. Count Collisions on a Road.md>)                                                  | py                           | Dec 04, 2025    |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](<https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k>)                                                 | Easy    | Daily          | [solution](<_3512. Minimum Operations to Make Array Sum Divisible by K.md>)                         | py                           | Nov 29, 2025    |
@@ -429,11 +431,11 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### December 2025
-| Su   |   Mo |   Tu |   We | Th                                          | Fr                                                         |   Sa |
-|-----:|-----:|-----:|-----:|--------------------------------------------:|-----------------------------------------------------------:|-----:|
-|      |    1 |    2 |    3 | [4](<_2211. Count Collisions on a Road.md>) | [5](<_3432. Count Partitions with Even Sum Difference.md>) |    6 |
-| 7    |    8 |    9 |   10 | 11                                          | 12                                                         |   13 |
-| 14   |   15 |   16 |   17 | 18                                          | 19                                                         |   20 |
-| 21   |   22 |   23 |   24 | 25                                          | 26                                                         |   27 |
-| 28   |   29 |   30 |   31 |                                             |                                                            |      |
+| Su   |   Mo |   Tu | We                                                | Th                                          | Fr                                                         |   Sa |
+|-----:|-----:|-----:|--------------------------------------------------:|--------------------------------------------:|-----------------------------------------------------------:|-----:|
+|      |    1 |    2 | 3                                                 | [4](<_2211. Count Collisions on a Road.md>) | [5](<_3432. Count Partitions with Even Sum Difference.md>) |    6 |
+| 7    |    8 |    9 | 10                                                | 11                                          | 12                                                         |   13 |
+| 14   |   15 |   16 | 17                                                | 18                                          | 19                                                         |   20 |
+| 21   |   22 |   23 | [24](<_3074. Apple Redistribution into Boxes.md>) | 25                                          | [26](<_2483. Minimum Penalty for a Shop.md>)               |   27 |
+| 28   |   29 |   30 | 31                                                |                                             |                                                            |      |
 

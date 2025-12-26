@@ -1,4 +1,4 @@
-# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (25 completed)
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (26 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -25,6 +25,7 @@
 | 2145 | [Count the Hidden Sequences](<https://leetcode.com/problems/count-the-hidden-sequences>)                                                                           | Medium  | Daily          | [solution](<../_2145. Count the Hidden Sequences.md>)                                      | py          | Apr 21, 2025    |
 | 2302 | [Count Subarrays With Score Less Than K](<https://leetcode.com/problems/count-subarrays-with-score-less-than-k>)                                                   | Hard    | Daily          | [solution](<../_2302. Count Subarrays With Score Less Than K.md>)                          | py          | Apr 28, 2025    |
 | 2389 | [Longest Subsequence With Limited Sum](<https://leetcode.com/problems/longest-subsequence-with-limited-sum>)                                                       | Easy    |                | [solution](<../_2389. Longest Subsequence With Limited Sum.md>)                            | py          | Jun 01, 2024    |
+| 2483 | [Minimum Penalty for a Shop](<https://leetcode.com/problems/minimum-penalty-for-a-shop>)                                                                           | Medium  | Daily          | [solution](<../_2483. Minimum Penalty for a Shop.md>)                                      | py          | Dec 26, 2025    |
 | 2955 | [Number of Same-End Substrings](<https://leetcode.com/problems/number-of-same-end-substrings>)                                                                     | Medium  | Weekly Premium | [solution](<../_2955. Number of Same-End Substrings.md>)                                   | py          | Nov 04, 2024    |
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](<https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon>)                                     | Medium  | Daily          | [solution](<../_3147. Taking Maximum Energy From the Mystic Dungeon.md>)                   | py          | Oct 10, 2025    |
 | 3179 | Weekly Contest 401 - q2 - [Find the N-th Value After K Seconds](<https://leetcode.com/problems/find-the-n-th-value-after-k-seconds>)                               | Medium  | Contest        | [solution](<../_3179. Find the N-th Value After K Seconds.md>)                             | py          | Jul 07, 2024    |
