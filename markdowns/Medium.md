@@ -1,4 +1,4 @@
-# Medium Questions (431)
+# Medium Questions (432)
 
 *[Back to top](<../README.md>)*
 
@@ -115,6 +115,7 @@
 |  503 | Question 503                                                                                                                     | Medium  |                           | [solution](<_503. Question 503.md>)                                 | py                                          | Jul 05, 2024    |
 |  513 | Question 513                                                                                                                     | Medium  |                           | [solution](<_513. Question 513.md>)                                 | java                                        | Jul 03, 2024    |
 |  523 | Question 523                                                                                                                     | Medium  | Daily                     | [solution](<_523. Question 523.md>)                                 | py                                          | Jun 08, 2024    |
+|  528 | Question 528                                                                                                                     | Medium  |                           | [solution](<_528. Question 528.md>)                                 | py                                          | Mar 16, 2026    |
 |  535 | Question 535                                                                                                                     | Medium  |                           | [solution](<_535. Question 535.md>)                                 | py                                          | Jun 07, 2024    |
 |  540 | Question 540                                                                                                                     | Medium  |                           | [solution](<_540. Question 540.md>)                                 | py                                          | Jul 05, 2024    |
 |  542 | Question 542                                                                                                                     | Medium  |                           | [solution](<_542. Question 542.md>)                                 | py                                          | Jun 26, 2024    |

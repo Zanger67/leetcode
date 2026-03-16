@@ -1,4 +1,4 @@
-# Hard Questions (46)
+# Hard Questions (47)
 
 *[Back to top](<../README.md>)*
 
@@ -38,6 +38,7 @@
 | 1368 | Question 1368                                                                                    | Hard    | Daily          | [solution](<_1368. Question 1368.md>)                | py          | Jan 18, 2025    |
 | 1568 | Question 1568                                                                                    | Hard    | Daily          | [solution](<_1568. Question 1568.md>)                | py          | Aug 11, 2024    |
 | 1579 | Question 1579                                                                                    | Hard    | Daily          | [solution](<_1579. Question 1579.md>)                | py          | Jun 30, 2024    |
+| 1944 | Question 1944                                                                                    | Hard    |                | [solution](<_1944. Question 1944.md>)                | py          | Mar 16, 2026    |
 | 2045 | Question 2045                                                                                    | Hard    | Daily          | [solution](<_2045. Question 2045.md>)                | py          | Jul 28, 2024    |
 | 2258 | Question 2258                                                                                    | Hard    |                | [solution](<_2258. Question 2258.md>)                | py          | Jun 15, 2024    |
 | 2302 | Question 2302                                                                                    | Hard    | Daily          | [solution](<_2302. Question 2302.md>)                | py          | Apr 28, 2025    |
