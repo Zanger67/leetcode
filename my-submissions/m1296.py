@@ -1,0 +1,21 @@
+class Solution:
+    def isPossibleDivide(self, nums: List[int], k: int) -> bool:
+        if len(nums) % k != 0 :
+            return False
+        if k == 1 :
+            return True
+
+        cnt = Counter(nums)
+        nums.sort()
+
+        for num in nums :
+            if num not in cnt :
+                continue
+            for j in range(num, num + k) :
+                if j not in cnt :
+                    return False
+                cnt[j] -= 1
+                if cnt[j] == 0 :
+                    cnt.pop(j)
+
+        return True
