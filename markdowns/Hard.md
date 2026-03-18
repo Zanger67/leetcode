@@ -1,4 +1,4 @@
-# Hard Questions (47)
+# Hard Questions (49)
 
 *[Back to top](<../README.md>)*
 
@@ -12,12 +12,14 @@
 |   42 | [Trapping Rain Water](<https://leetcode.com/problems/trapping-rain-water>)                       | Hard    | N150           | [solution](<_42. Trapping Rain Water.md>)            | py          | Mar 11, 2025    |
 |   84 | [Largest Rectangle in Histogram](<https://leetcode.com/problems/largest-rectangle-in-histogram>) | Hard    | N150           | [solution](<_84. Largest Rectangle in Histogram.md>) | py          | Jun 11, 2024    |
 |  124 | Question 124                                                                                     | Hard    | B75, N150      | [solution](<_124. Question 124.md>)                  | py          | Jul 04, 2024    |
+|  149 | Question 149                                                                                     | Hard    |                | [solution](<_149. Question 149.md>)                  | py          | Mar 18, 2026    |
 |  212 | Question 212                                                                                     | Hard    | B75, N150      | [solution](<_212. Question 212.md>)                  | py          | Jun 27, 2024    |
 |  224 | Question 224                                                                                     | Hard    |                | [solution](<_224. Question 224.md>)                  | py          | Jun 10, 2024    |
 |  239 | Question 239                                                                                     | Hard    | N150           | [solution](<_239. Question 239.md>)                  | py          | Jun 04, 2024    |
 |  272 | Question 272                                                                                     | Hard    | Weekly Premium | [solution](<_272. Question 272.md>)                  | py          | Jul 01, 2024    |
 |  273 | Question 273                                                                                     | Hard    | Daily          | [solution](<_273. Question 273.md>)                  | py          | Jun 11, 2024    |
 |  302 | Question 302                                                                                     | Hard    | Weekly Premium | [solution](<_302. Question 302.md>)                  | py          | Apr 23, 2025    |
+|  317 | Question 317                                                                                     | Hard    |                | [solution](<_317. Question 317.md>)                  | py          | Mar 18, 2026    |
 |  330 | Question 330                                                                                     | Hard    | Daily          | [solution](<_330. Question 330.md>)                  | py          | Jun 16, 2024    |
 |  381 | Question 381                                                                                     | Hard    |                | [solution](<_381. Question 381.md>)                  | java        | Jul 06, 2024    |
 |  431 | Question 431                                                                                     | Hard    |                | [solution](<_431. Question 431.md>)                  | java, py    | Jun 28, 2024    |
