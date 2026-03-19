@@ -1,4 +1,4 @@
-# Hard Questions (49)
+# Hard Questions (50)
 
 *[Back to top](<../README.md>)*
 
@@ -30,6 +30,7 @@
 |  719 | Question 719                                                                                     | Hard    | Daily          | [solution](<_719. Question 719.md>)                  | py          | Aug 14, 2024    |
 |  726 | Question 726                                                                                     | Hard    | Daily          | [solution](<_726. Question 726.md>)                  | py          | Jul 14, 2024    |
 |  827 | Question 827                                                                                     | Hard    | Daily          | [solution](<_827. Question 827.md>)                  | py          | Jan 31, 2025    |
+|  871 | Question 871                                                                                     | Hard    |                | [solution](<_871. Question 871.md>)                  | py          | Mar 19, 2026    |
 |  895 | Question 895                                                                                     | Hard    |                | [solution](<_895. Question 895.md>)                  | java, py    | Jul 11, 2024    |
 |  987 | Question 987                                                                                     | Hard    |                | [solution](<_987. Question 987.md>)                  | py          | Jun 12, 2024    |
 |  995 | Question 995                                                                                     | Hard    | Daily          | [solution](<_995. Question 995.md>)                  | c, py       | Jun 24, 2024    |
