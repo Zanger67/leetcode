@@ -1,4 +1,4 @@
-# Medium Questions (435)
+# Medium Questions (436)
 
 *[Back to top](<../README.md>)*
 
@@ -182,6 +182,7 @@
 |  919 | Question 919                                                                                                                     | Medium  |                           | [solution](<_919. Question 919.md>)                                 | py                                          | Jul 05, 2024    |
 |  921 | Question 921                                                                                                                     | Medium  | Daily                     | [solution](<_921. Question 921.md>)                                 | java, py                                    | Jun 12, 2024    |
 |  930 | Question 930                                                                                                                     | Medium  |                           | [solution](<_930. Question 930.md>)                                 | py                                          | Jun 22, 2024    |
+|  939 | Question 939                                                                                                                     | Medium  |                           | [solution](<_939. Question 939.md>)                                 | py                                          | Mar 20, 2026    |
 |  945 | Question 945                                                                                                                     | Medium  | Daily                     | [solution](<_945. Question 945.md>)                                 | py                                          | Jun 14, 2024    |
 |  946 | Question 946                                                                                                                     | Medium  |                           | [solution](<_946. Question 946.md>)                                 | c, py                                       | Jun 12, 2024    |
 |  950 | Question 950                                                                                                                     | Medium  |                           | [solution](<_950. Question 950.md>)                                 | py                                          | Jun 12, 2024    |

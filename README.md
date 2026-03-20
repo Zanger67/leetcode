@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (694 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (695 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -328,6 +328,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 |  921 | Question 921                                                                                                                             | Medium  | Daily                     | [solution](<markdowns/_921. Question 921.md>)                                      | java, py                                    |
 |  930 | Question 930                                                                                                                             | Medium  |                           | [solution](<markdowns/_930. Question 930.md>)                                      | py                                          |
 |  938 | Question 938                                                                                                                             | Easy    |                           | [solution](<markdowns/_938. Question 938.md>)                                      | js, py                                      |
+|  939 | Question 939                                                                                                                             | Medium  |                           | [solution](<markdowns/_939. Question 939.md>)                                      | py                                          |
 |  942 | Question 942                                                                                                                             | Easy    |                           | [solution](<markdowns/_942. Question 942.md>)                                      | py                                          |
 |  945 | Question 945                                                                                                                             | Medium  | Daily                     | [solution](<markdowns/_945. Question 945.md>)                                      | py                                          |
 |  946 | Question 946                                                                                                                             | Medium  |                           | [solution](<markdowns/_946. Question 946.md>)                                      | c, py                                       |
