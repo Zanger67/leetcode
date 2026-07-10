@@ -1,4 +1,4 @@
-# [Randomized](<https://leetcode.com/tag/Randomized/>) (4 completed)
+# [Randomized](<https://leetcode.com/tag/Randomized/>) (5 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -10,3 +10,4 @@
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](<https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed>) | Hard    |        | [solution](<../_381. Insert Delete GetRandom O(1) - Duplicates allowed.md>) | java        | Jul 06, 2024    |
 | 382 | [Linked List Random Node](<https://leetcode.com/problems/linked-list-random-node>)                                                 | Medium  |        | [solution](<../_382. Linked List Random Node.md>)                           | c, java, py | Jun 22, 2024    |
 | 384 | [Shuffle an Array](<https://leetcode.com/problems/shuffle-an-array>)                                                               | Medium  |        | [solution](<../_384. Shuffle an Array.md>)                                  | py          | Jun 29, 2024    |
+| 528 | [Random Pick with Weight](<https://leetcode.com/problems/random-pick-with-weight>)                                                 | Medium  |        | [solution](<../_528. Random Pick with Weight.md>)                           | py          | Mar 16, 2026    |

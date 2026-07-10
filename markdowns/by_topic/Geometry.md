@@ -1,4 +1,4 @@
-# [Geometry](<https://leetcode.com/tag/Geometry/>) (6 completed)
+# [Geometry](<https://leetcode.com/tag/Geometry/>) (8 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -6,9 +6,11 @@
 
 |    # | Title                                                                                                                    | Level   | Cats   | Solution                                                              | Languages   | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------|:--------|:-------|:----------------------------------------------------------------------|:------------|:----------------|
-|  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                           | Easy    | Daily  | [solution](<../_812. Largest Triangle Area.md>)                       | py          | Sep 27, 2025    |
+|  149 | [Max Points on a Line](<https://leetcode.com/problems/max-points-on-a-line>)                                             | Hard    |        | [solution](<../_149. Max Points on a Line.md>)                        | py          | Mar 18, 2026    |
+|  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                           | Easy    |        | [solution](<../_812. Largest Triangle Area.md>)                       | py          | Sep 27, 2025    |
+|  939 | [Minimum Area Rectangle](<https://leetcode.com/problems/minimum-area-rectangle>)                                         | Medium  |        | [solution](<../_939. Minimum Area Rectangle.md>)                      | py          | Mar 20, 2026    |
 |  973 | [K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)                                 | Medium  | N150   | [solution](<../_973. K Closest Points to Origin.md>)                  | py          | Jun 29, 2024    |
 | 1030 | [Matrix Cells in Distance Order](<https://leetcode.com/problems/matrix-cells-in-distance-order>)                         | Easy    |        | [solution](<../_1030. Matrix Cells in Distance Order.md>)             | py          | Jun 04, 2024    |
 | 1232 | [Check If It Is a Straight Line](<https://leetcode.com/problems/check-if-it-is-a-straight-line>)                         | Easy    |        | [solution](<../_1232. Check If It Is a Straight Line.md>)             | py          | Sep 25, 2024    |
-| 3025 | [Find the Number of Ways to Place People I](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i>)   | Medium  | Daily  | [solution](<../_3025. Find the Number of Ways to Place People I.md>)  | py          | Sep 02, 2025    |
-| 3027 | [Find the Number of Ways to Place People II](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii>) | Hard    | Daily  | [solution](<../_3027. Find the Number of Ways to Place People II.md>) | py          | Sep 03, 2025    |
+| 3025 | [Find the Number of Ways to Place People I](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i>)   | Medium  |        | [solution](<../_3025. Find the Number of Ways to Place People I.md>)  | py          | Sep 02, 2025    |
+| 3027 | [Find the Number of Ways to Place People II](<https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii>) | Hard    |        | [solution](<../_3027. Find the Number of Ways to Place People II.md>) | py          | Sep 03, 2025    |
